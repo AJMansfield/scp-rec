@@ -2,9 +2,8 @@
 ---
 
 @import "{{ site.theme }}";
-body {
-    opacity: 0;
-}
+@import url('http://www.scp-wiki.net/component:theme/code/0');
+
 #box {
     margin-bottom: 0px;
     margin-top: 20px;
