@@ -3,6 +3,12 @@
 
 @import "{{ site.theme }}";
 
+body {
+    background-color: #fff;
+    font-size: 0.80em;
+    color: #333;
+    font-family: verdana,arial,helvetica,sans-serif;
+}
 div.container {
     margin-bottom: 0px;
     margin-top: 20px;
@@ -15,5 +21,6 @@ div.container {
     background: #fff9f0;
 }
 div.container p {
-    margin: 10px
+    display: block;
+    margin: 10px;
 }
