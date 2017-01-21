@@ -1,5 +1,7 @@
 <script>
-  function f() {
-  };
-  jQuery('a').onclick = f();
+  for (a in jQuery('a')){
+    a.onclick = function(){
+      window.iFrameResizer.sendMessage(a.href);
+    };
+  }
 </script>
