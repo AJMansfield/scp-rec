@@ -1,8 +1,0 @@
----
-style: default
-permalink: play
-title: play
----
-You may also like:
-[SCP-2405](http://scp-wiki.net/scp-2405)
-[LTE-2712-Bosch](http://scp-wiki.net/lte-2712-bosch)
