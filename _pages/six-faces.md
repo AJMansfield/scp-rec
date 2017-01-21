@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: six-faces
+permalink: Xsix-faces
 title: six-faces
 ---
 You may also like:

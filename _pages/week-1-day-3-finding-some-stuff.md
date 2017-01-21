@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: week-1-day-3-finding-some-stuff
+permalink: Xweek-1-day-3-finding-some-stuff
 title: week-1-day-3-finding-some-stuff
 ---
 You may also like:

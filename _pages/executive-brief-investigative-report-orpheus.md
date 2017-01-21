@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: executive-brief-investigative-report-orpheus
+permalink: Xexecutive-brief-investigative-report-orpheus
 title: executive-brief-investigative-report-orpheus
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: along-came-a-spider
+permalink: Xalong-came-a-spider
 title: along-came-a-spider
 ---
 You may also like:

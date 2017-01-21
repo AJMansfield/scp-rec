@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: prometheus-labs-hub
+permalink: Xprometheus-labs-hub
 title: prometheus-labs-hub
 ---
 You may also like:

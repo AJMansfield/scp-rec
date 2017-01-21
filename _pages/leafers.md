@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: leafers
+permalink: Xleafers
 title: leafers
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: mackenzie-containment
+permalink: Xmackenzie-containment
 title: mackenzie-containment
 ---
 You may also like:

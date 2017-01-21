@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: alert-lockdown-initiated
+permalink: Xalert-lockdown-initiated
 title: alert-lockdown-initiated
 ---
 You may also like:

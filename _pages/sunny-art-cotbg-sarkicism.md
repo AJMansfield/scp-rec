@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: sunny-art-cotbg-sarkicism
+permalink: Xsunny-art-cotbg-sarkicism
 title: sunny-art-cotbg-sarkicism
 ---
 You may also like:

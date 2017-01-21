@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: a-shift-at-the-factory
+permalink: Xa-shift-at-the-factory
 title: a-shift-at-the-factory
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: they-call-him-he-who-cannot-see-his-reflection
+permalink: Xthey-call-him-he-who-cannot-see-his-reflection
 title: they-call-him-he-who-cannot-see-his-reflection
 ---
 You may also like:

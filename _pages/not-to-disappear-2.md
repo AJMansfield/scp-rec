@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: not-to-disappear-2
+permalink: Xnot-to-disappear-2
 title: not-to-disappear-2
 ---
 You may also like:

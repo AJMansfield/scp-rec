@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: concerto-in-d-major
+permalink: Xconcerto-in-d-major
 title: concerto-in-d-major
 ---
 You may also like:

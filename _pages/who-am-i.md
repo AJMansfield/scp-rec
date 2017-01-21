@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: who-am-i
+permalink: Xwho-am-i
 title: who-am-i
 ---
 You may also like:

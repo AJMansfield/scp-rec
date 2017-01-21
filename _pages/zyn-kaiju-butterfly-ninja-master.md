@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: zyn-kaiju-butterfly-ninja-master
+permalink: Xzyn-kaiju-butterfly-ninja-master
 title: zyn-kaiju-butterfly-ninja-master
 ---
 You may also like:

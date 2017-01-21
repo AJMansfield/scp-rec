@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: a-chance-encounter
+permalink: Xa-chance-encounter
 title: a-chance-encounter
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: translated-from-palauan
+permalink: Xtranslated-from-palauan
 title: translated-from-palauan
 ---
 You may also like:

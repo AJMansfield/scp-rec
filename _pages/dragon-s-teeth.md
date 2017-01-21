@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: dragon-s-teeth
+permalink: Xdragon-s-teeth
 title: dragon-s-teeth
 ---
 You may also like:

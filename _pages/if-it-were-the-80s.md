@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: if-it-were-the-80s
+permalink: Xif-it-were-the-80s
 title: if-it-were-the-80s
 ---
 You may also like:

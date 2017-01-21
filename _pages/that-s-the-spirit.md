@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: that-s-the-spirit
+permalink: Xthat-s-the-spirit
 title: that-s-the-spirit
 ---
 You may also like:

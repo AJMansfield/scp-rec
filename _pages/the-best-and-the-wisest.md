@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-best-and-the-wisest
+permalink: Xthe-best-and-the-wisest
 title: the-best-and-the-wisest
 ---
 You may also like:

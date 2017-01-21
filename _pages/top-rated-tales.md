@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: top-rated-tales
+permalink: Xtop-rated-tales
 title: top-rated-tales
 ---
 You may also like:

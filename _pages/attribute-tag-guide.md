@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: attribute-tag-guide
+permalink: Xattribute-tag-guide
 title: attribute-tag-guide
 ---
 You may also like:

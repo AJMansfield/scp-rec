@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: posology
+permalink: Xposology
 title: posology
 ---
 You may also like:

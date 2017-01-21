@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: stare
+permalink: Xstare
 title: stare
 ---
 You may also like:

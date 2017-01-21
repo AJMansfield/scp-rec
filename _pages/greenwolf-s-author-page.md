@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: greenwolf-s-author-page
+permalink: Xgreenwolf-s-author-page
 title: greenwolf-s-author-page
 ---
 You may also like:

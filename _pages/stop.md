@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: stop
+permalink: Xstop
 title: stop
 ---
 You may also like:

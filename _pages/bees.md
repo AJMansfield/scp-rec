@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: bees
+permalink: Xbees
 title: bees
 ---
 You may also like:

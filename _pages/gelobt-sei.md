@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: gelobt-sei
+permalink: Xgelobt-sei
 title: gelobt-sei
 ---
 You may also like:

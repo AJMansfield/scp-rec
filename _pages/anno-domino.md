@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: anno-domino
+permalink: Xanno-domino
 title: anno-domino
 ---
 You may also like:

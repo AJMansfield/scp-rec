@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: bargain-bin-of-direct-to-forum-sequels
+permalink: Xbargain-bin-of-direct-to-forum-sequels
 title: bargain-bin-of-direct-to-forum-sequels
 ---
 You may also like:

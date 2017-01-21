@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: what-nobody-wants
+permalink: Xwhat-nobody-wants
 title: what-nobody-wants
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: grant-request-for-the-construction-of-an-interstellar-scienc
+permalink: Xgrant-request-for-the-construction-of-an-interstellar-scienc
 title: grant-request-for-the-construction-of-an-interstellar-scienc
 ---
 You may also like:

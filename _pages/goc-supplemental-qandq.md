@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: goc-supplemental-qandq
+permalink: Xgoc-supplemental-qandq
 title: goc-supplemental-qandq
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: project-proposal-2004-024
+permalink: Xproject-proposal-2004-024
 title: project-proposal-2004-024
 ---
 You may also like:

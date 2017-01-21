@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: we-re-sorry
+permalink: Xwe-re-sorry
 title: we-re-sorry
 ---
 You may also like:

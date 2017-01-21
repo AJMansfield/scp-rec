@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: blood-sweat-and-beers
+permalink: Xblood-sweat-and-beers
 title: blood-sweat-and-beers
 ---
 You may also like:

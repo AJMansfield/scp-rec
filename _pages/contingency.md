@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: contingency
+permalink: Xcontingency
 title: contingency
 ---
 You may also like:

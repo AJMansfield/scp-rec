@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: her-inveterate-patience-in-action
+permalink: Xher-inveterate-patience-in-action
 title: her-inveterate-patience-in-action
 ---
 You may also like:

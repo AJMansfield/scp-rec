@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: mr-carbon-personnel-file
+permalink: Xmr-carbon-personnel-file
 title: mr-carbon-personnel-file
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: library-lifeline
+permalink: Xlibrary-lifeline
 title: library-lifeline
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: portrait-of-two-choreographers
+permalink: Xportrait-of-two-choreographers
 title: portrait-of-two-choreographers
 ---
 You may also like:

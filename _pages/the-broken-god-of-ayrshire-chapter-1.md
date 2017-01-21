@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-broken-god-of-ayrshire-chapter-1
+permalink: Xthe-broken-god-of-ayrshire-chapter-1
 title: the-broken-god-of-ayrshire-chapter-1
 ---
 You may also like:

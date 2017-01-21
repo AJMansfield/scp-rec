@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: treats
+permalink: Xtreats
 title: treats
 ---
 You may also like:

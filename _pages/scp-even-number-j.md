@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: scp-even-number-j
+permalink: Xscp-even-number-j
 title: scp-even-number-j
 ---
 You may also like:

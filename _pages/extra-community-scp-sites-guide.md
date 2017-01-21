@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: extra-community-scp-sites-guide
+permalink: Xextra-community-scp-sites-guide
 title: extra-community-scp-sites-guide
 ---
 You may also like:

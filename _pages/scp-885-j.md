@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: scp-885-j
+permalink: Xscp-885-j
 title: scp-885-j
 ---
 You may also like:

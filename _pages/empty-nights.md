@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: empty-nights
+permalink: Xempty-nights
 title: empty-nights
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: codename-green-king-hub
+permalink: Xcodename-green-king-hub
 title: codename-green-king-hub
 ---
 You may also like:

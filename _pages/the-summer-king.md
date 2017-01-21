@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-summer-king
+permalink: Xthe-summer-king
 title: the-summer-king
 ---
 You may also like:

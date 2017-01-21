@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: october-15th-2012
+permalink: Xoctober-15th-2012
 title: october-15th-2012
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: it-might-have-been
+permalink: Xit-might-have-been
 title: it-might-have-been
 ---
 You may also like:

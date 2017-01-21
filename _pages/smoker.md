@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: smoker
+permalink: Xsmoker
 title: smoker
 ---
 You may also like:

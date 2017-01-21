@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: exploration-log-1689-i
+permalink: Xexploration-log-1689-i
 title: exploration-log-1689-i
 ---
 You may also like:

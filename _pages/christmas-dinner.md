@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: christmas-dinner
+permalink: Xchristmas-dinner
 title: christmas-dinner
 ---
 You may also like:

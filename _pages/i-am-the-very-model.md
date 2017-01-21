@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: i-am-the-very-model
+permalink: Xi-am-the-very-model
 title: i-am-the-very-model
 ---
 You may also like:

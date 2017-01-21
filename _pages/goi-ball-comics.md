@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: goi-ball-comics
+permalink: Xgoi-ball-comics
 title: goi-ball-comics
 ---
 You may also like:

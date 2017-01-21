@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: we-re-off-to-be-the-lizard
+permalink: Xwe-re-off-to-be-the-lizard
 title: we-re-off-to-be-the-lizard
 ---
 You may also like:

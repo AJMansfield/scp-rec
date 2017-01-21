@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: work-journal-2
+permalink: Xwork-journal-2
 title: work-journal-2
 ---
 You may also like:

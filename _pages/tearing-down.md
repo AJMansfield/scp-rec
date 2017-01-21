@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: tearing-down
+permalink: Xtearing-down
 title: tearing-down
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: scpfmmdbc-hub
+permalink: Xscpfmmdbc-hub
 title: scpfmmdbc-hub
 ---
 You may also like:

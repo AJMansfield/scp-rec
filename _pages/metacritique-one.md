@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: metacritique-one
+permalink: Xmetacritique-one
 title: metacritique-one
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: disinformation-bureau-orientation
+permalink: Xdisinformation-bureau-orientation
 title: disinformation-bureau-orientation
 ---
 You may also like:

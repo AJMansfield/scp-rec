@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: labyrinths-end
+permalink: Xlabyrinths-end
 title: labyrinths-end
 ---
 You may also like:

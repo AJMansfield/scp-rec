@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: nexus-series
+permalink: Xnexus-series
 title: nexus-series
 ---
 You may also like:

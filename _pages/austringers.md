@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: austringers
+permalink: Xaustringers
 title: austringers
 ---
 You may also like:

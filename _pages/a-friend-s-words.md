@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: a-friend-s-words
+permalink: Xa-friend-s-words
 title: a-friend-s-words
 ---
 You may also like:

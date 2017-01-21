@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: containment-breach-the-musical
+permalink: Xcontainment-breach-the-musical
 title: containment-breach-the-musical
 ---
 You may also like:

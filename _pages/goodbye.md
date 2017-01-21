@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: goodbye
+permalink: Xgoodbye
 title: goodbye
 ---
 You may also like:

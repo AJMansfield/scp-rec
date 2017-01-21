@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: dressing-up
+permalink: Xdressing-up
 title: dressing-up
 ---
 You may also like:

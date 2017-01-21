@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: variations-on-a-schema
+permalink: Xvariations-on-a-schema
 title: variations-on-a-schema
 ---
 You may also like:

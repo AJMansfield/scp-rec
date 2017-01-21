@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: miss-lohner-s-sandbox
+permalink: Xmiss-lohner-s-sandbox
 title: miss-lohner-s-sandbox
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: gears-birthday-contest-2009
+permalink: Xgears-birthday-contest-2009
 title: gears-birthday-contest-2009
 ---
 You may also like:

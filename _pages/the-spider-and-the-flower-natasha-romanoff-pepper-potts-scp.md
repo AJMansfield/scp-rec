@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-spider-and-the-flower-natasha-romanoff-pepper-potts-scp
+permalink: Xthe-spider-and-the-flower-natasha-romanoff-pepper-potts-scp
 title: the-spider-and-the-flower-natasha-romanoff-pepper-potts-scp
 ---
 You may also like:

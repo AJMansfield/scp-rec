@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: clef101
+permalink: Xclef101
 title: clef101
 ---
 You may also like:

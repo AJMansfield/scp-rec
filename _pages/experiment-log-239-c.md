@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: experiment-log-239-c
+permalink: Xexperiment-log-239-c
 title: experiment-log-239-c
 ---
 You may also like:

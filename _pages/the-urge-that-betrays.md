@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-urge-that-betrays
+permalink: Xthe-urge-that-betrays
 title: the-urge-that-betrays
 ---
 You may also like:

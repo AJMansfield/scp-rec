@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: white-knight
+permalink: Xwhite-knight
 title: white-knight
 ---
 You may also like:

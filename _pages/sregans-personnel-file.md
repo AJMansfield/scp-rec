@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: sregans-personnel-file
+permalink: Xsregans-personnel-file
 title: sregans-personnel-file
 ---
 You may also like:

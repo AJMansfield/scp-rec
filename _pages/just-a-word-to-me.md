@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: just-a-word-to-me
+permalink: Xjust-a-word-to-me
 title: just-a-word-to-me
 ---
 You may also like:

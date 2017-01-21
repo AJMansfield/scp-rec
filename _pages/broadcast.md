@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: broadcast
+permalink: Xbroadcast
 title: broadcast
 ---
 You may also like:

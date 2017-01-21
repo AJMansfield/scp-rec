@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: in-his-own-image-epilogue
+permalink: Xin-his-own-image-epilogue
 title: in-his-own-image-epilogue
 ---
 You may also like:

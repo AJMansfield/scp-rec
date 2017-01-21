@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: bugs
+permalink: Xbugs
 title: bugs
 ---
 You may also like:

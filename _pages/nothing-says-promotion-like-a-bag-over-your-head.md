@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: nothing-says-promotion-like-a-bag-over-your-head
+permalink: Xnothing-says-promotion-like-a-bag-over-your-head
 title: nothing-says-promotion-like-a-bag-over-your-head
 ---
 You may also like:

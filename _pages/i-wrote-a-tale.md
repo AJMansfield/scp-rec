@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: i-wrote-a-tale
+permalink: Xi-wrote-a-tale
 title: i-wrote-a-tale
 ---
 You may also like:

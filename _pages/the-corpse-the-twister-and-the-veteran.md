@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-corpse-the-twister-and-the-veteran
+permalink: Xthe-corpse-the-twister-and-the-veteran
 title: the-corpse-the-twister-and-the-veteran
 ---
 You may also like:

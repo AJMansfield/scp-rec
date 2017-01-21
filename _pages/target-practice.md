@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: target-practice
+permalink: Xtarget-practice
 title: target-practice
 ---
 You may also like:

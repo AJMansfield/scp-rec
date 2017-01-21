@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: surveyor
+permalink: Xsurveyor
 title: surveyor
 ---
 You may also like:

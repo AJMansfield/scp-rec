@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: ties-that-bind
+permalink: Xties-that-bind
 title: ties-that-bind
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: whole
+permalink: Xwhole
 title: whole
 ---
 You may also like:

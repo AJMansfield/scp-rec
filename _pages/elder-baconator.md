@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: elder-baconator
+permalink: Xelder-baconator
 title: elder-baconator
 ---
 You may also like:

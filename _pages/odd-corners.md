@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: odd-corners
+permalink: Xodd-corners
 title: odd-corners
 ---
 You may also like:

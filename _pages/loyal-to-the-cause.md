@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: loyal-to-the-cause
+permalink: Xloyal-to-the-cause
 title: loyal-to-the-cause
 ---
 You may also like:

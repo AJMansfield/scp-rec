@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: incident-report-scp70119971
+permalink: Xincident-report-scp70119971
 title: incident-report-scp70119971
 ---
 You may also like:

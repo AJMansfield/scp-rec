@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: presence
+permalink: Xpresence
 title: presence
 ---
 You may also like:

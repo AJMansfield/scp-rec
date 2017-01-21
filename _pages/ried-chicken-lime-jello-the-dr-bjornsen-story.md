@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: ried-chicken-lime-jello-the-dr-bjornsen-story
+permalink: Xried-chicken-lime-jello-the-dr-bjornsen-story
 title: ried-chicken-lime-jello-the-dr-bjornsen-story
 ---
 You may also like:

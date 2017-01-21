@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: indwelling-of-bright
+permalink: Xindwelling-of-bright
 title: indwelling-of-bright
 ---
 You may also like:

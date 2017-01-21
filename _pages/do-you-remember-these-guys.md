@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: do-you-remember-these-guys
+permalink: Xdo-you-remember-these-guys
 title: do-you-remember-these-guys
 ---
 You may also like:

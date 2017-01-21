@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: gdp2-attacking-the-darkness
+permalink: Xgdp2-attacking-the-darkness
 title: gdp2-attacking-the-darkness
 ---
 You may also like:

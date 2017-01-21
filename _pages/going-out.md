@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: going-out
+permalink: Xgoing-out
 title: going-out
 ---
 You may also like:

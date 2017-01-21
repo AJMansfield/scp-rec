@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: a-simple-paradigm-shift
+permalink: Xa-simple-paradigm-shift
 title: a-simple-paradigm-shift
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: dr-burns-personnel-file
+permalink: Xdr-burns-personnel-file
 title: dr-burns-personnel-file
 ---
 You may also like:

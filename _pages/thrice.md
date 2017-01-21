@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: thrice
+permalink: Xthrice
 title: thrice
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: surfaces
+permalink: Xsurfaces
 title: surfaces
 ---
 You may also like:

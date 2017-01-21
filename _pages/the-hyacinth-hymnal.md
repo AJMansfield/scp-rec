@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-hyacinth-hymnal
+permalink: Xthe-hyacinth-hymnal
 title: the-hyacinth-hymnal
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: a-photocopier-in-reverse-1
+permalink: Xa-photocopier-in-reverse-1
 title: a-photocopier-in-reverse-1
 ---
 You may also like:

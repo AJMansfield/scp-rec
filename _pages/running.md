@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: running
+permalink: Xrunning
 title: running
 ---
 You may also like:

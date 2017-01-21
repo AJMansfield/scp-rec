@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: a-circus-for-mc-d-ltd
+permalink: Xa-circus-for-mc-d-ltd
 title: a-circus-for-mc-d-ltd
 ---
 You may also like:

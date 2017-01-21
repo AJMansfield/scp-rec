@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: chat-guide
+permalink: Xchat-guide
 title: chat-guide
 ---
 You may also like:

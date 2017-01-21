@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: pilgrimage
+permalink: Xpilgrimage
 title: pilgrimage
 ---
 You may also like:

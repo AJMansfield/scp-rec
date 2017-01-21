@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: n
+permalink: Xn
 title: n
 ---
 You may also like:

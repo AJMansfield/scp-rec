@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: all-work-and-no-play
+permalink: Xall-work-and-no-play
 title: all-work-and-no-play
 ---
 You may also like:

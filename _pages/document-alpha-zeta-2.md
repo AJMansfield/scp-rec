@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: document-alpha-zeta-2
+permalink: Xdocument-alpha-zeta-2
 title: document-alpha-zeta-2
 ---
 You may also like:

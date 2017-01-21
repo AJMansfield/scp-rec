@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: a-double-life
+permalink: Xa-double-life
 title: a-double-life
 ---
 You may also like:

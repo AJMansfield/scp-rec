@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: taking-stock
+permalink: Xtaking-stock
 title: taking-stock
 ---
 You may also like:

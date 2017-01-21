@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: doctor-doctor-doctor
+permalink: Xdoctor-doctor-doctor
 title: doctor-doctor-doctor
 ---
 You may also like:

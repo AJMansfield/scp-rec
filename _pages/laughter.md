@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: laughter
+permalink: Xlaughter
 title: laughter
 ---
 You may also like:

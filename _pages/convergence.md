@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: convergence
+permalink: Xconvergence
 title: convergence
 ---
 You may also like:

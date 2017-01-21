@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-exalted
+permalink: Xthe-exalted
 title: the-exalted
 ---
 You may also like:

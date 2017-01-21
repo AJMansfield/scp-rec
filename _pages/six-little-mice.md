@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: six-little-mice
+permalink: Xsix-little-mice
 title: six-little-mice
 ---
 You may also like:

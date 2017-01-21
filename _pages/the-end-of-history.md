@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-end-of-history
+permalink: Xthe-end-of-history
 title: the-end-of-history
 ---
 You may also like:

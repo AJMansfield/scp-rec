@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: out-of-your-element
+permalink: Xout-of-your-element
 title: out-of-your-element
 ---
 You may also like:

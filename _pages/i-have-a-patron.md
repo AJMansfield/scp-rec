@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: i-have-a-patron
+permalink: Xi-have-a-patron
 title: i-have-a-patron
 ---
 You may also like:

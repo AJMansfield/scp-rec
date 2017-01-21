@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: mcd-hadrians-well
+permalink: Xmcd-hadrians-well
 title: mcd-hadrians-well
 ---
 You may also like:

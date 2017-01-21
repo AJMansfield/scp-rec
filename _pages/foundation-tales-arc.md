@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: foundation-tales-arc
+permalink: Xfoundation-tales-arc
 title: foundation-tales-arc
 ---
 You may also like:

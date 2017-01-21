@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: parenthood
+permalink: Xparenthood
 title: parenthood
 ---
 You may also like:

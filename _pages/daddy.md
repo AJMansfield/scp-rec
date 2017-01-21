@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: daddy
+permalink: Xdaddy
 title: daddy
 ---
 You may also like:

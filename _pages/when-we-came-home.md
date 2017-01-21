@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: when-we-came-home
+permalink: Xwhen-we-came-home
 title: when-we-came-home
 ---
 You may also like:

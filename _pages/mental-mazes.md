@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: mental-mazes
+permalink: Xmental-mazes
 title: mental-mazes
 ---
 You may also like:

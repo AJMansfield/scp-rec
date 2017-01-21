@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: of-teachers-and-taxicabs
+permalink: Xof-teachers-and-taxicabs
 title: of-teachers-and-taxicabs
 ---
 You may also like:

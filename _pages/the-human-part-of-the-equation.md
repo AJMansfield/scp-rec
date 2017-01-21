@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-human-part-of-the-equation
+permalink: Xthe-human-part-of-the-equation
 title: the-human-part-of-the-equation
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: so-you-want-to-write-a-humanoid-scp-object
+permalink: Xso-you-want-to-write-a-humanoid-scp-object
 title: so-you-want-to-write-a-humanoid-scp-object
 ---
 You may also like:

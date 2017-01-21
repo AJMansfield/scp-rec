@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: parting
+permalink: Xparting
 title: parting
 ---
 You may also like:

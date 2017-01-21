@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: last-one-to-die
+permalink: Xlast-one-to-die
 title: last-one-to-die
 ---
 You may also like:

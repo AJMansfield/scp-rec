@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: a-world-we-live-in
+permalink: Xa-world-we-live-in
 title: a-world-we-live-in
 ---
 You may also like:

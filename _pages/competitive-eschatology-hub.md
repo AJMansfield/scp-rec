@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: competitive-eschatology-hub
+permalink: Xcompetitive-eschatology-hub
 title: competitive-eschatology-hub
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: time-crime-in-greater-wisconsin-a-primer
+permalink: Xtime-crime-in-greater-wisconsin-a-primer
 title: time-crime-in-greater-wisconsin-a-primer
 ---
 You may also like:

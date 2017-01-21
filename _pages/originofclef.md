@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: originofclef
+permalink: Xoriginofclef
 title: originofclef
 ---
 You may also like:

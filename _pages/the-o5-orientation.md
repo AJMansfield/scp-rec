@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-o5-orientation
+permalink: Xthe-o5-orientation
 title: the-o5-orientation
 ---
 You may also like:

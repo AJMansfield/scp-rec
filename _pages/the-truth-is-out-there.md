@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-truth-is-out-there
+permalink: Xthe-truth-is-out-there
 title: the-truth-is-out-there
 ---
 You may also like:

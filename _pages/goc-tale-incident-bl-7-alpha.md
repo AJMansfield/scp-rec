@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: goc-tale-incident-bl-7-alpha
+permalink: Xgoc-tale-incident-bl-7-alpha
 title: goc-tale-incident-bl-7-alpha
 ---
 You may also like:

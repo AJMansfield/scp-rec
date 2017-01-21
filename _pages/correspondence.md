@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: correspondence
+permalink: Xcorrespondence
 title: correspondence
 ---
 You may also like:

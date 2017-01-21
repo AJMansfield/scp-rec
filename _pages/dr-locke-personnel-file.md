@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: dr-locke-personnel-file
+permalink: Xdr-locke-personnel-file
 title: dr-locke-personnel-file
 ---
 You may also like:

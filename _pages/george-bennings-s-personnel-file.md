@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: george-bennings-s-personnel-file
+permalink: Xgeorge-bennings-s-personnel-file
 title: george-bennings-s-personnel-file
 ---
 You may also like:

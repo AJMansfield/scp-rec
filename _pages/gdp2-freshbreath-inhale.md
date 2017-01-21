@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: gdp2-freshbreath-inhale
+permalink: Xgdp2-freshbreath-inhale
 title: gdp2-freshbreath-inhale
 ---
 You may also like:

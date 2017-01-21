@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: kulzn-s-personnel-file
+permalink: Xkulzn-s-personnel-file
 title: kulzn-s-personnel-file
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: document-130-1
+permalink: Xdocument-130-1
 title: document-130-1
 ---
 You may also like:

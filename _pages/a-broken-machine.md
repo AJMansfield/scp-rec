@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: a-broken-machine
+permalink: Xa-broken-machine
 title: a-broken-machine
 ---
 You may also like:

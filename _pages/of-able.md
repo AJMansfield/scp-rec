@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: of-able
+permalink: Xof-able
 title: of-able
 ---
 You may also like:

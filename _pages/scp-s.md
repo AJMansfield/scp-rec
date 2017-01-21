@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: scp-s
+permalink: Xscp-s
 title: scp-s
 ---
 You may also like:

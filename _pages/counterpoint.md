@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: counterpoint
+permalink: Xcounterpoint
 title: counterpoint
 ---
 You may also like:

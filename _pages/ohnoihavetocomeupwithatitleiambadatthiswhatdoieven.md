@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: ohnoihavetocomeupwithatitleiambadatthiswhatdoieven
+permalink: Xohnoihavetocomeupwithatitleiambadatthiswhatdoieven
 title: ohnoihavetocomeupwithatitleiambadatthiswhatdoieven
 ---
 You may also like:

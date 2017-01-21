@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: command-performance
+permalink: Xcommand-performance
 title: command-performance
 ---
 You may also like:

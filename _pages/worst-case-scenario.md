@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: worst-case-scenario
+permalink: Xworst-case-scenario
 title: worst-case-scenario
 ---
 You may also like:

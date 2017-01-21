@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: laughing-matter
+permalink: Xlaughing-matter
 title: laughing-matter
 ---
 You may also like:

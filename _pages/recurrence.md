@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: recurrence
+permalink: Xrecurrence
 title: recurrence
 ---
 You may also like:

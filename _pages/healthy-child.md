@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: healthy-child
+permalink: Xhealthy-child
 title: healthy-child
 ---
 You may also like:

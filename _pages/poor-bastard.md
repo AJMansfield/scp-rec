@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: poor-bastard
+permalink: Xpoor-bastard
 title: poor-bastard
 ---
 You may also like:

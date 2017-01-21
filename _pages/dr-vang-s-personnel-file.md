@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: dr-vang-s-personnel-file
+permalink: Xdr-vang-s-personnel-file
 title: dr-vang-s-personnel-file
 ---
 You may also like:

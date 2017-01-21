@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: bigfoot-s-eulogy
+permalink: Xbigfoot-s-eulogy
 title: bigfoot-s-eulogy
 ---
 You may also like:

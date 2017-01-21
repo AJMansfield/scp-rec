@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: insufficient-clearance
+permalink: Xinsufficient-clearance
 title: insufficient-clearance
 ---
 You may also like:

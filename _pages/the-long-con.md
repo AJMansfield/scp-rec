@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-long-con
+permalink: Xthe-long-con
 title: the-long-con
 ---
 You may also like:

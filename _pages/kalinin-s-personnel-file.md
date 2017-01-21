@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: kalinin-s-personnel-file
+permalink: Xkalinin-s-personnel-file
 title: kalinin-s-personnel-file
 ---
 You may also like:

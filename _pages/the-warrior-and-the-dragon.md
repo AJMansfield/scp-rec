@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-warrior-and-the-dragon
+permalink: Xthe-warrior-and-the-dragon
 title: the-warrior-and-the-dragon
 ---
 You may also like:

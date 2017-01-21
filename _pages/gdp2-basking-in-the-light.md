@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: gdp2-basking-in-the-light
+permalink: Xgdp2-basking-in-the-light
 title: gdp2-basking-in-the-light
 ---
 You may also like:

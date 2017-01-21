@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: fortunate-son
+permalink: Xfortunate-son
 title: fortunate-son
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: eta-5-and-the-terrible-horrible-no-good-very-bad-oragamizill
+permalink: Xeta-5-and-the-terrible-horrible-no-good-very-bad-oragamizill
 title: eta-5-and-the-terrible-horrible-no-good-very-bad-oragamizill
 ---
 You may also like:

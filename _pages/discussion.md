@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: discussion
+permalink: Xdiscussion
 title: discussion
 ---
 You may also like:

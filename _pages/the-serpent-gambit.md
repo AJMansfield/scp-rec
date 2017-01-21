@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-serpent-gambit
+permalink: Xthe-serpent-gambit
 title: the-serpent-gambit
 ---
 You may also like:

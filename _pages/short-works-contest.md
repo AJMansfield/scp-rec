@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: short-works-contest
+permalink: Xshort-works-contest
 title: short-works-contest
 ---
 You may also like:

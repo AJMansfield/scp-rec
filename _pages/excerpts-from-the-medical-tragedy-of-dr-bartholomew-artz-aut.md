@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: excerpts-from-the-medical-tragedy-of-dr-bartholomew-artz-aut
+permalink: Xexcerpts-from-the-medical-tragedy-of-dr-bartholomew-artz-aut
 title: excerpts-from-the-medical-tragedy-of-dr-bartholomew-artz-aut
 ---
 You may also like:

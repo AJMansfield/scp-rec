@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: doing-the-safety-dance
+permalink: Xdoing-the-safety-dance
 title: doing-the-safety-dance
 ---
 You may also like:

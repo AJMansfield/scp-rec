@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-cyclical-child
+permalink: Xthe-cyclical-child
 title: the-cyclical-child
 ---
 You may also like:

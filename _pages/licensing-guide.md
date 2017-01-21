@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: licensing-guide
+permalink: Xlicensing-guide
 title: licensing-guide
 ---
 You may also like:

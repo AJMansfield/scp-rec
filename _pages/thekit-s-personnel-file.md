@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: thekit-s-personnel-file
+permalink: Xthekit-s-personnel-file
 title: thekit-s-personnel-file
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: stormfront
+permalink: Xstormfront
 title: stormfront
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: mackenzie-tips
+permalink: Xmackenzie-tips
 title: mackenzie-tips
 ---
 You may also like:

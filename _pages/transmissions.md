@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: transmissions
+permalink: Xtransmissions
 title: transmissions
 ---
 You may also like:

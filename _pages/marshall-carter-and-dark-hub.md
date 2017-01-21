@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: marshall-carter-and-dark-hub
+permalink: Xmarshall-carter-and-dark-hub
 title: marshall-carter-and-dark-hub
 ---
 You may also like:

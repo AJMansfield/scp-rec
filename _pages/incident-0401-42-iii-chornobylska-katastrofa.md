@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: incident-0401-42-iii-chornobylska-katastrofa
+permalink: Xincident-0401-42-iii-chornobylska-katastrofa
 title: incident-0401-42-iii-chornobylska-katastrofa
 ---
 You may also like:

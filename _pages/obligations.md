@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: obligations
+permalink: Xobligations
 title: obligations
 ---
 You may also like:

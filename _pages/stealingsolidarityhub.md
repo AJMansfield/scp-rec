@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: stealingsolidarityhub
+permalink: Xstealingsolidarityhub
 title: stealingsolidarityhub
 ---
 You may also like:

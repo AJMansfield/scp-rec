@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: i-forgot-to-remember-to-forget
+permalink: Xi-forgot-to-remember-to-forget
 title: i-forgot-to-remember-to-forget
 ---
 You may also like:

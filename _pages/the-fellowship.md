@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-fellowship
+permalink: Xthe-fellowship
 title: the-fellowship
 ---
 You may also like:

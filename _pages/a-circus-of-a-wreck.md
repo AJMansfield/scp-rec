@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: a-circus-of-a-wreck
+permalink: Xa-circus-of-a-wreck
 title: a-circus-of-a-wreck
 ---
 You may also like:

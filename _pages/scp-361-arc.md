@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: scp-361-arc
+permalink: Xscp-361-arc
 title: scp-361-arc
 ---
 You may also like:

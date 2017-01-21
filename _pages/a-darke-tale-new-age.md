@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: a-darke-tale-new-age
+permalink: Xa-darke-tale-new-age
 title: a-darke-tale-new-age
 ---
 You may also like:

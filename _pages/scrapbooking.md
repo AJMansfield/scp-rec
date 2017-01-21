@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: scrapbooking
+permalink: Xscrapbooking
 title: scrapbooking
 ---
 You may also like:

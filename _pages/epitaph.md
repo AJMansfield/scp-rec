@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: epitaph
+permalink: Xepitaph
 title: epitaph
 ---
 You may also like:

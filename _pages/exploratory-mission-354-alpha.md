@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: exploratory-mission-354-alpha
+permalink: Xexploratory-mission-354-alpha
 title: exploratory-mission-354-alpha
 ---
 You may also like:

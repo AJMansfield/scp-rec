@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: cat-s-in-the-cradle
+permalink: Xcat-s-in-the-cradle
 title: cat-s-in-the-cradle
 ---
 You may also like:

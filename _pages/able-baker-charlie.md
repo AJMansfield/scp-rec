@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: able-baker-charlie
+permalink: Xable-baker-charlie
 title: able-baker-charlie
 ---
 You may also like:

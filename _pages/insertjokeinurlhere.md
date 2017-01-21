@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: insertjokeinurlhere
+permalink: Xinsertjokeinurlhere
 title: insertjokeinurlhere
 ---
 You may also like:

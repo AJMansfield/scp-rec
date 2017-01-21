@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: askinate-herr-spankoflex
+permalink: Xaskinate-herr-spankoflex
 title: askinate-herr-spankoflex
 ---
 You may also like:

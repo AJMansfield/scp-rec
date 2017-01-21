@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: scp-404-j
+permalink: Xscp-404-j
 title: scp-404-j
 ---
 You may also like:

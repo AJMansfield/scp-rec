@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: reservoir-skips
+permalink: Xreservoir-skips
 title: reservoir-skips
 ---
 You may also like:

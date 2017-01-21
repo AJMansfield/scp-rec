@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: don-t-blink
+permalink: Xdon-t-blink
 title: don-t-blink
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: secure
+permalink: Xsecure
 title: secure
 ---
 You may also like:

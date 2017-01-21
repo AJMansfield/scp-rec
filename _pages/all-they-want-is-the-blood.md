@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: all-they-want-is-the-blood
+permalink: Xall-they-want-is-the-blood
 title: all-they-want-is-the-blood
 ---
 You may also like:

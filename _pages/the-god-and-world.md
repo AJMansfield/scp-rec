@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-god-and-world
+permalink: Xthe-god-and-world
 title: the-god-and-world
 ---
 You may also like:

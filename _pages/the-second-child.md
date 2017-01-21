@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-second-child
+permalink: Xthe-second-child
 title: the-second-child
 ---
 You may also like:

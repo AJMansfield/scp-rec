@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: an-audience
+permalink: Xan-audience
 title: an-audience
 ---
 You may also like:

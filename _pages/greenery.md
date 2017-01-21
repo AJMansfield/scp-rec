@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: greenery
+permalink: Xgreenery
 title: greenery
 ---
 You may also like:

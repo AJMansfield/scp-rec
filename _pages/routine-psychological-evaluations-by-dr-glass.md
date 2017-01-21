@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: routine-psychological-evaluations-by-dr-glass
+permalink: Xroutine-psychological-evaluations-by-dr-glass
 title: routine-psychological-evaluations-by-dr-glass
 ---
 You may also like:

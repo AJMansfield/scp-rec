@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: boss-of-me
+permalink: Xboss-of-me
 title: boss-of-me
 ---
 You may also like:

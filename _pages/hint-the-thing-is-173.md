@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: hint-the-thing-is-173
+permalink: Xhint-the-thing-is-173
 title: hint-the-thing-is-173
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: gdp2-tunneling-between-worlds
+permalink: Xgdp2-tunneling-between-worlds
 title: gdp2-tunneling-between-worlds
 ---
 You may also like:

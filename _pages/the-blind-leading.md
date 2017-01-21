@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-blind-leading
+permalink: Xthe-blind-leading
 title: the-blind-leading
 ---
 You may also like:

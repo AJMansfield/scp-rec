@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-brave-little
+permalink: Xthe-brave-little
 title: the-brave-little
 ---
 You may also like:

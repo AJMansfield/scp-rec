@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: wowwee-go-kill-ursefl
+permalink: Xwowwee-go-kill-ursefl
 title: wowwee-go-kill-ursefl
 ---
 You may also like:

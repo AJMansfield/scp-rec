@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: beneath-the-name
+permalink: Xbeneath-the-name
 title: beneath-the-name
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: retired-extremely-dangerous
+permalink: Xretired-extremely-dangerous
 title: retired-extremely-dangerous
 ---
 You may also like:

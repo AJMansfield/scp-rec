@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: a-lesson-in-power
+permalink: Xa-lesson-in-power
 title: a-lesson-in-power
 ---
 You may also like:

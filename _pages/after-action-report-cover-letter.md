@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: after-action-report-cover-letter
+permalink: Xafter-action-report-cover-letter
 title: after-action-report-cover-letter
 ---
 You may also like:

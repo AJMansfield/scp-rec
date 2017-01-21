@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: scp-784-arc
+permalink: Xscp-784-arc
 title: scp-784-arc
 ---
 You may also like:

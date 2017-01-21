@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: goc-tale-sequence-farpoint
+permalink: Xgoc-tale-sequence-farpoint
 title: goc-tale-sequence-farpoint
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: on-seabirds-and-sleep
+permalink: Xon-seabirds-and-sleep
 title: on-seabirds-and-sleep
 ---
 You may also like:

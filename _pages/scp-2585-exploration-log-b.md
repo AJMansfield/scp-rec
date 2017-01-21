@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: scp-2585-exploration-log-b
+permalink: Xscp-2585-exploration-log-b
 title: scp-2585-exploration-log-b
 ---
 You may also like:

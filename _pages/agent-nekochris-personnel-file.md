@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: agent-nekochris-personnel-file
+permalink: Xagent-nekochris-personnel-file
 title: agent-nekochris-personnel-file
 ---
 You may also like:

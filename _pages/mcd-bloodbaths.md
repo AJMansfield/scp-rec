@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: mcd-bloodbaths
+permalink: Xmcd-bloodbaths
 title: mcd-bloodbaths
 ---
 You may also like:

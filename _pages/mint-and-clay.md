@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: mint-and-clay
+permalink: Xmint-and-clay
 title: mint-and-clay
 ---
 You may also like:

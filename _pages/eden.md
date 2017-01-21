@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: eden
+permalink: Xeden
 title: eden
 ---
 You may also like:

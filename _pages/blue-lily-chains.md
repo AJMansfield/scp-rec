@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: blue-lily-chains
+permalink: Xblue-lily-chains
 title: blue-lily-chains
 ---
 You may also like:

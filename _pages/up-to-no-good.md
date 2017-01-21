@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: up-to-no-good
+permalink: Xup-to-no-good
 title: up-to-no-good
 ---
 You may also like:

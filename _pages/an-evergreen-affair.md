@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: an-evergreen-affair
+permalink: Xan-evergreen-affair
 title: an-evergreen-affair
 ---
 You may also like:

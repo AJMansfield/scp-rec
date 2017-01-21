@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-escape-from-site-132
+permalink: Xthe-escape-from-site-132
 title: the-escape-from-site-132
 ---
 You may also like:

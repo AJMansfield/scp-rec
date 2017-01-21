@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: blast-processing
+permalink: Xblast-processing
 title: blast-processing
 ---
 You may also like:

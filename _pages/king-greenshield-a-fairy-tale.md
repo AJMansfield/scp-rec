@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: king-greenshield-a-fairy-tale
+permalink: Xking-greenshield-a-fairy-tale
 title: king-greenshield-a-fairy-tale
 ---
 You may also like:

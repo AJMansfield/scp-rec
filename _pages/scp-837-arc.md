@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: scp-837-arc
+permalink: Xscp-837-arc
 title: scp-837-arc
 ---
 You may also like:

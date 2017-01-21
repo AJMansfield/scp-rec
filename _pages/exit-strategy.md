@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: exit-strategy
+permalink: Xexit-strategy
 title: exit-strategy
 ---
 You may also like:

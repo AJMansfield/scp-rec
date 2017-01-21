@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: hands
+permalink: Xhands
 title: hands
 ---
 You may also like:

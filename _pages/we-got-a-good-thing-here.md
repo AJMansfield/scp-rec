@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: we-got-a-good-thing-here
+permalink: Xwe-got-a-good-thing-here
 title: we-got-a-good-thing-here
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-only-way-to-travel
+permalink: Xthe-only-way-to-travel
 title: the-only-way-to-travel
 ---
 You may also like:

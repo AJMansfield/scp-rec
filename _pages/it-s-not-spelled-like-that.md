@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: it-s-not-spelled-like-that
+permalink: Xit-s-not-spelled-like-that
 title: it-s-not-spelled-like-that
 ---
 You may also like:

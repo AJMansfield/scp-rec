@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: decibelle
+permalink: Xdecibelle
 title: decibelle
 ---
 You may also like:

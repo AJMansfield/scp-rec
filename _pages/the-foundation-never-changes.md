@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-foundation-never-changes
+permalink: Xthe-foundation-never-changes
 title: the-foundation-never-changes
 ---
 You may also like:

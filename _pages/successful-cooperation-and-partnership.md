@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: successful-cooperation-and-partnership
+permalink: Xsuccessful-cooperation-and-partnership
 title: successful-cooperation-and-partnership
 ---
 You may also like:

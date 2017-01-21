@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: rigged-from-the-start
+permalink: Xrigged-from-the-start
 title: rigged-from-the-start
 ---
 You may also like:

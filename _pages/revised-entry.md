@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: revised-entry
+permalink: Xrevised-entry
 title: revised-entry
 ---
 You may also like:

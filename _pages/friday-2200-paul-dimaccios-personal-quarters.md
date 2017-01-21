@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: friday-2200-paul-dimaccios-personal-quarters
+permalink: Xfriday-2200-paul-dimaccios-personal-quarters
 title: friday-2200-paul-dimaccios-personal-quarters
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: baby-s-first-guide-to-keter-class-anomalies-and-other-questi
+permalink: Xbaby-s-first-guide-to-keter-class-anomalies-and-other-questi
 title: baby-s-first-guide-to-keter-class-anomalies-and-other-questi
 ---
 You may also like:

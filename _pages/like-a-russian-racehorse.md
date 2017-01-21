@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: like-a-russian-racehorse
+permalink: Xlike-a-russian-racehorse
 title: like-a-russian-racehorse
 ---
 You may also like:

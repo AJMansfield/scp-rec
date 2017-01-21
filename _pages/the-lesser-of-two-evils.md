@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-lesser-of-two-evils
+permalink: Xthe-lesser-of-two-evils
 title: the-lesser-of-two-evils
 ---
 You may also like:

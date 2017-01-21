@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: bed-breakfast-plague
+permalink: Xbed-breakfast-plague
 title: bed-breakfast-plague
 ---
 You may also like:

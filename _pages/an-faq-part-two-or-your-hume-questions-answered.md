@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: an-faq-part-two-or-your-hume-questions-answered
+permalink: Xan-faq-part-two-or-your-hume-questions-answered
 title: an-faq-part-two-or-your-hume-questions-answered
 ---
 You may also like:

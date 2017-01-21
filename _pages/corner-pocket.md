@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: corner-pocket
+permalink: Xcorner-pocket
 title: corner-pocket
 ---
 You may also like:

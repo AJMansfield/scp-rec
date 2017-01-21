@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: sacrifice
+permalink: Xsacrifice
 title: sacrifice
 ---
 You may also like:

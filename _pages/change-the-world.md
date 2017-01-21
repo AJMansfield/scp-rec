@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: change-the-world
+permalink: Xchange-the-world
 title: change-the-world
 ---
 You may also like:

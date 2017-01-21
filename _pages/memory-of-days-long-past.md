@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: memory-of-days-long-past
+permalink: Xmemory-of-days-long-past
 title: memory-of-days-long-past
 ---
 You may also like:

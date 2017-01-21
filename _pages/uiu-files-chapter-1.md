@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: uiu-files-chapter-1
+permalink: Xuiu-files-chapter-1
 title: uiu-files-chapter-1
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: places-where-the-birds-don-t-cry
+permalink: Xplaces-where-the-birds-don-t-cry
 title: places-where-the-birds-don-t-cry
 ---
 You may also like:

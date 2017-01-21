@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: when-we-reach-the-crescendo
+permalink: Xwhen-we-reach-the-crescendo
 title: when-we-reach-the-crescendo
 ---
 You may also like:

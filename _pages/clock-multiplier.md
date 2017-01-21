@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: clock-multiplier
+permalink: Xclock-multiplier
 title: clock-multiplier
 ---
 You may also like:

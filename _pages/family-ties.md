@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: family-ties
+permalink: Xfamily-ties
 title: family-ties
 ---
 You may also like:

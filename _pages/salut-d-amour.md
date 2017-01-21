@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: salut-d-amour
+permalink: Xsalut-d-amour
 title: salut-d-amour
 ---
 You may also like:

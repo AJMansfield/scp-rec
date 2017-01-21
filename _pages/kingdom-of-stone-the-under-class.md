@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: kingdom-of-stone-the-under-class
+permalink: Xkingdom-of-stone-the-under-class
 title: kingdom-of-stone-the-under-class
 ---
 You may also like:

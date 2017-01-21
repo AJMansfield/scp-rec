@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: going-out-of-book
+permalink: Xgoing-out-of-book
 title: going-out-of-book
 ---
 You may also like:

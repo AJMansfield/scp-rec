@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: termination-report-269
+permalink: Xtermination-report-269
 title: termination-report-269
 ---
 You may also like:

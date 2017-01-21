@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-faraday-girls
+permalink: Xthe-faraday-girls
 title: the-faraday-girls
 ---
 You may also like:

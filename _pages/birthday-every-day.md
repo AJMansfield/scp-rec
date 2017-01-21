@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: birthday-every-day
+permalink: Xbirthday-every-day
 title: birthday-every-day
 ---
 You may also like:

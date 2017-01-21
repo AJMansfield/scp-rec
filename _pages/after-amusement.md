@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: after-amusement
+permalink: Xafter-amusement
 title: after-amusement
 ---
 You may also like:

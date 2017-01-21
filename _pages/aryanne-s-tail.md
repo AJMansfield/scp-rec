@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: aryanne-s-tail
+permalink: Xaryanne-s-tail
 title: aryanne-s-tail
 ---
 You may also like:

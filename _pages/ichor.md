@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: ichor
+permalink: Xichor
 title: ichor
 ---
 You may also like:

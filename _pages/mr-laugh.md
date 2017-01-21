@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: mr-laugh
+permalink: Xmr-laugh
 title: mr-laugh
 ---
 You may also like:

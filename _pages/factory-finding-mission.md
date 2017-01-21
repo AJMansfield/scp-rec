@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: factory-finding-mission
+permalink: Xfactory-finding-mission
 title: factory-finding-mission
 ---
 You may also like:

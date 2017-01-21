@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: saving-sigurros-potter
+permalink: Xsaving-sigurros-potter
 title: saving-sigurros-potter
 ---
 You may also like:

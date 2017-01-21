@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: dr-rath-s-personnel-file
+permalink: Xdr-rath-s-personnel-file
 title: dr-rath-s-personnel-file
 ---
 You may also like:

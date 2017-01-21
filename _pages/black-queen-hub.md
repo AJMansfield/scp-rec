@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: black-queen-hub
+permalink: Xblack-queen-hub
 title: black-queen-hub
 ---
 You may also like:

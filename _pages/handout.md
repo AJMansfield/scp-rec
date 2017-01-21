@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: handout
+permalink: Xhandout
 title: handout
 ---
 You may also like:

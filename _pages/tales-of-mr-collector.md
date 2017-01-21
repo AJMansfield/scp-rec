@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: tales-of-mr-collector
+permalink: Xtales-of-mr-collector
 title: tales-of-mr-collector
 ---
 You may also like:

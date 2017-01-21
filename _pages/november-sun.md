@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: november-sun
+permalink: Xnovember-sun
 title: november-sun
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: santa-s-new-home
+permalink: Xsanta-s-new-home
 title: santa-s-new-home
 ---
 You may also like:

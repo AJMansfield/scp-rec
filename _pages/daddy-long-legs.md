@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: daddy-long-legs
+permalink: Xdaddy-long-legs
 title: daddy-long-legs
 ---
 You may also like:

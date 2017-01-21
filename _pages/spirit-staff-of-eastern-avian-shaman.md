@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: spirit-staff-of-eastern-avian-shaman
+permalink: Xspirit-staff-of-eastern-avian-shaman
 title: spirit-staff-of-eastern-avian-shaman
 ---
 You may also like:

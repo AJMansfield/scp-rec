@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: sunny-art-joke-scps
+permalink: Xsunny-art-joke-scps
 title: sunny-art-joke-scps
 ---
 You may also like:

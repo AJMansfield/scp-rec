@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: null-space
+permalink: Xnull-space
 title: null-space
 ---
 You may also like:

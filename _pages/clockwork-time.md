@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: clockwork-time
+permalink: Xclockwork-time
 title: clockwork-time
 ---
 You may also like:

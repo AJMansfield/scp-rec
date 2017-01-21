@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-pattern-interlude
+permalink: Xthe-pattern-interlude
 title: the-pattern-interlude
 ---
 You may also like:

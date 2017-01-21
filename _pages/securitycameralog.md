@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: securitycameralog
+permalink: Xsecuritycameralog
 title: securitycameralog
 ---
 You may also like:

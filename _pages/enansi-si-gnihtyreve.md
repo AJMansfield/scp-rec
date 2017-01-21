@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: enansi-si-gnihtyreve
+permalink: Xenansi-si-gnihtyreve
 title: enansi-si-gnihtyreve
 ---
 You may also like:

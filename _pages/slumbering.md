@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: slumbering
+permalink: Xslumbering
 title: slumbering
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: etdp-hub-page
+permalink: Xetdp-hub-page
 title: etdp-hub-page
 ---
 You may also like:

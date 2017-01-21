@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: room-401
+permalink: Xroom-401
 title: room-401
 ---
 You may also like:

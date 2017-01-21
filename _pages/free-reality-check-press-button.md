@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: free-reality-check-press-button
+permalink: Xfree-reality-check-press-button
 title: free-reality-check-press-button
 ---
 You may also like:

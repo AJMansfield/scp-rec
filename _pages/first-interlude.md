@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: first-interlude
+permalink: Xfirst-interlude
 title: first-interlude
 ---
 You may also like:

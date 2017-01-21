@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: no-sooner-spoken-than-broken
+permalink: Xno-sooner-spoken-than-broken
 title: no-sooner-spoken-than-broken
 ---
 You may also like:

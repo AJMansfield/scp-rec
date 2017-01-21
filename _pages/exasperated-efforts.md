@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: exasperated-efforts
+permalink: Xexasperated-efforts
 title: exasperated-efforts
 ---
 You may also like:

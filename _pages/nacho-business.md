@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: nacho-business
+permalink: Xnacho-business
 title: nacho-business
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: where-theres-a-will
+permalink: Xwhere-theres-a-will
 title: where-theres-a-will
 ---
 You may also like:

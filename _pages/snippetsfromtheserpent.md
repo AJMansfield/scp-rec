@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: snippetsfromtheserpent
+permalink: Xsnippetsfromtheserpent
 title: snippetsfromtheserpent
 ---
 You may also like:

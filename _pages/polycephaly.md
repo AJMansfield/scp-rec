@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: polycephaly
+permalink: Xpolycephaly
 title: polycephaly
 ---
 You may also like:

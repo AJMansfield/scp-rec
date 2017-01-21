@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: series-archive
+permalink: Xseries-archive
 title: series-archive
 ---
 You may also like:

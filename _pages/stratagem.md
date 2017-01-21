@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: stratagem
+permalink: Xstratagem
 title: stratagem
 ---
 You may also like:

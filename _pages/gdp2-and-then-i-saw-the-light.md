@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: gdp2-and-then-i-saw-the-light
+permalink: Xgdp2-and-then-i-saw-the-light
 title: gdp2-and-then-i-saw-the-light
 ---
 You may also like:

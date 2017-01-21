@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: dr-light-s-personnel-file
+permalink: Xdr-light-s-personnel-file
 title: dr-light-s-personnel-file
 ---
 You may also like:

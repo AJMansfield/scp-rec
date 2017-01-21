@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: jabonicus-author-page
+permalink: Xjabonicus-author-page
 title: jabonicus-author-page
 ---
 You may also like:

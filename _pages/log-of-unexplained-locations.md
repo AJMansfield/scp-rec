@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: log-of-unexplained-locations
+permalink: Xlog-of-unexplained-locations
 title: log-of-unexplained-locations
 ---
 You may also like:

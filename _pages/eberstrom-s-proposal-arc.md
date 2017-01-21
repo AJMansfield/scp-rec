@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: eberstrom-s-proposal-arc
+permalink: Xeberstrom-s-proposal-arc
 title: eberstrom-s-proposal-arc
 ---
 You may also like:

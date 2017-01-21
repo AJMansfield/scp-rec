@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: shadow-in-the-wake
+permalink: Xshadow-in-the-wake
 title: shadow-in-the-wake
 ---
 You may also like:

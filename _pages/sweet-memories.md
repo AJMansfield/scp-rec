@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: sweet-memories
+permalink: Xsweet-memories
 title: sweet-memories
 ---
 You may also like:

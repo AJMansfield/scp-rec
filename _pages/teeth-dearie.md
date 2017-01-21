@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: teeth-dearie
+permalink: Xteeth-dearie
 title: teeth-dearie
 ---
 You may also like:

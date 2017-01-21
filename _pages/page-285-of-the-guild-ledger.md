@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: page-285-of-the-guild-ledger
+permalink: Xpage-285-of-the-guild-ledger
 title: page-285-of-the-guild-ledger
 ---
 You may also like:

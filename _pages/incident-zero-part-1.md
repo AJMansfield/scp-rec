@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: incident-zero-part-1
+permalink: Xincident-zero-part-1
 title: incident-zero-part-1
 ---
 You may also like:

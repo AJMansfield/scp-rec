@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: lonely
+permalink: Xlonely
 title: lonely
 ---
 You may also like:

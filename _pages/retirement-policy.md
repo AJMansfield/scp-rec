@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: retirement-policy
+permalink: Xretirement-policy
 title: retirement-policy
 ---
 You may also like:

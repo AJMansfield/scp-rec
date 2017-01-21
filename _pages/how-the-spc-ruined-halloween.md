@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: how-the-spc-ruined-halloween
+permalink: Xhow-the-spc-ruined-halloween
 title: how-the-spc-ruined-halloween
 ---
 You may also like:

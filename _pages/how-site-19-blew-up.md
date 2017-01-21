@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: how-site-19-blew-up
+permalink: Xhow-site-19-blew-up
 title: how-site-19-blew-up
 ---
 You may also like:

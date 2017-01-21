@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: randomini
+permalink: Xrandomini
 title: randomini
 ---
 You may also like:

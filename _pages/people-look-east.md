@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: people-look-east
+permalink: Xpeople-look-east
 title: people-look-east
 ---
 You may also like:

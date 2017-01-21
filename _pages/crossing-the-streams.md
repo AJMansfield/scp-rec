@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: crossing-the-streams
+permalink: Xcrossing-the-streams
 title: crossing-the-streams
 ---
 You may also like:

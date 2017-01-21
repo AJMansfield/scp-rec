@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: scripture
+permalink: Xscripture
 title: scripture
 ---
 You may also like:

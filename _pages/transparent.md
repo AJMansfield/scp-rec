@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: transparent
+permalink: Xtransparent
 title: transparent
 ---
 You may also like:

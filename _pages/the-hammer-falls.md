@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-hammer-falls
+permalink: Xthe-hammer-falls
 title: the-hammer-falls
 ---
 You may also like:

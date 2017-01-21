@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: it-s-a-bird-it-s-a-plane-it-s
+permalink: Xit-s-a-bird-it-s-a-plane-it-s
 title: it-s-a-bird-it-s-a-plane-it-s
 ---
 You may also like:

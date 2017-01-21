@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: conviction
+permalink: Xconviction
 title: conviction
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: scp-239-s-spell-book
+permalink: Xscp-239-s-spell-book
 title: scp-239-s-spell-book
 ---
 You may also like:

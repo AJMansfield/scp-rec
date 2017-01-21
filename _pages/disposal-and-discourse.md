@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: disposal-and-discourse
+permalink: Xdisposal-and-discourse
 title: disposal-and-discourse
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: excerpt-of-an-autobiography
+permalink: Xexcerpt-of-an-autobiography
 title: excerpt-of-an-autobiography
 ---
 You may also like:

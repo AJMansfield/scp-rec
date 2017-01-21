@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: awakenings-part-two
+permalink: Xawakenings-part-two
 title: awakenings-part-two
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: fear-alone
+permalink: Xfear-alone
 title: fear-alone
 ---
 You may also like:

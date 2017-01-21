@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: finding-the-machine
+permalink: Xfinding-the-machine
 title: finding-the-machine
 ---
 You may also like:

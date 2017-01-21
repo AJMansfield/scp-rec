@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: implanting-god
+permalink: Ximplanting-god
 title: implanting-god
 ---
 You may also like:

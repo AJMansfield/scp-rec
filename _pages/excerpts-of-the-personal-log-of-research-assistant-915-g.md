@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: excerpts-of-the-personal-log-of-research-assistant-915-g
+permalink: Xexcerpts-of-the-personal-log-of-research-assistant-915-g
 title: excerpts-of-the-personal-log-of-research-assistant-915-g
 ---
 You may also like:

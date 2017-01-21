@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: warning-labels
+permalink: Xwarning-labels
 title: warning-labels
 ---
 You may also like:

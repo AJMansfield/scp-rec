@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: a-most-unfortunate-reunion
+permalink: Xa-most-unfortunate-reunion
 title: a-most-unfortunate-reunion
 ---
 You may also like:

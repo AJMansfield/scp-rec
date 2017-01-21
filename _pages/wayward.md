@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: wayward
+permalink: Xwayward
 title: wayward
 ---
 You may also like:

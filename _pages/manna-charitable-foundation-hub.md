@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: manna-charitable-foundation-hub
+permalink: Xmanna-charitable-foundation-hub
 title: manna-charitable-foundation-hub
 ---
 You may also like:

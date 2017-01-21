@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: diary-of-captain-henry-hughes-mcclvii-captain-of-the-hms-spr
+permalink: Xdiary-of-captain-henry-hughes-mcclvii-captain-of-the-hms-spr
 title: diary-of-captain-henry-hughes-mcclvii-captain-of-the-hms-spr
 ---
 You may also like:

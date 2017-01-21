@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: nor-gloom-of-night-shall-stay
+permalink: Xnor-gloom-of-night-shall-stay
 title: nor-gloom-of-night-shall-stay
 ---
 You may also like:

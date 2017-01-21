@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: warm-memories
+permalink: Xwarm-memories
 title: warm-memories
 ---
 You may also like:

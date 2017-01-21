@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: address-to-the-students-and-faculty
+permalink: Xaddress-to-the-students-and-faculty
 title: address-to-the-students-and-faculty
 ---
 You may also like:

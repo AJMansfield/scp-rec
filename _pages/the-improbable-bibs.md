@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-improbable-bibs
+permalink: Xthe-improbable-bibs
 title: the-improbable-bibs
 ---
 You may also like:

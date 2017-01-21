@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: summer-job
+permalink: Xsummer-job
 title: summer-job
 ---
 You may also like:

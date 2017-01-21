@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: incident-096-1-a
+permalink: Xincident-096-1-a
 title: incident-096-1-a
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: lana-neal-sings-the-blues
+permalink: Xlana-neal-sings-the-blues
 title: lana-neal-sings-the-blues
 ---
 You may also like:

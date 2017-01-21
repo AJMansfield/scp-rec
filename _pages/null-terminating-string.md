@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: null-terminating-string
+permalink: Xnull-terminating-string
 title: null-terminating-string
 ---
 You may also like:

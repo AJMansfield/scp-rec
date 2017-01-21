@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-living-head
+permalink: Xthe-living-head
 title: the-living-head
 ---
 You may also like:

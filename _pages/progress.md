@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: progress
+permalink: Xprogress
 title: progress
 ---
 You may also like:

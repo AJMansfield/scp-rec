@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: cloudy-with-a-chance-of-showers
+permalink: Xcloudy-with-a-chance-of-showers
 title: cloudy-with-a-chance-of-showers
 ---
 You may also like:

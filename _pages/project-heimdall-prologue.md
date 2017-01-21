@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: project-heimdall-prologue
+permalink: Xproject-heimdall-prologue
 title: project-heimdall-prologue
 ---
 You may also like:

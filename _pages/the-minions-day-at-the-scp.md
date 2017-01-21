@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-minions-day-at-the-scp
+permalink: Xthe-minions-day-at-the-scp
 title: the-minions-day-at-the-scp
 ---
 You may also like:

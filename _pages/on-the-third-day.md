@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: on-the-third-day
+permalink: Xon-the-third-day
 title: on-the-third-day
 ---
 You may also like:

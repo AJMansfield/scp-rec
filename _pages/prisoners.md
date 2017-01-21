@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: prisoners
+permalink: Xprisoners
 title: prisoners
 ---
 You may also like:

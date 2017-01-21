@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: golden-horde-blues
+permalink: Xgolden-horde-blues
 title: golden-horde-blues
 ---
 You may also like:

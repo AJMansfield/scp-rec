@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: apakht
+permalink: Xapakht
 title: apakht
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: tenebrae
+permalink: Xtenebrae
 title: tenebrae
 ---
 You may also like:

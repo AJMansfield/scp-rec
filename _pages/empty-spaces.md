@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: empty-spaces
+permalink: Xempty-spaces
 title: empty-spaces
 ---
 You may also like:

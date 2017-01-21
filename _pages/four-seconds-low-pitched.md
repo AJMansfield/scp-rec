@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: four-seconds-low-pitched
+permalink: Xfour-seconds-low-pitched
 title: four-seconds-low-pitched
 ---
 You may also like:

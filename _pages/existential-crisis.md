@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: existential-crisis
+permalink: Xexistential-crisis
 title: existential-crisis
 ---
 You may also like:

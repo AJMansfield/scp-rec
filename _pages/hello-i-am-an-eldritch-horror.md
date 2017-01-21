@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: hello-i-am-an-eldritch-horror
+permalink: Xhello-i-am-an-eldritch-horror
 title: hello-i-am-an-eldritch-horror
 ---
 You may also like:

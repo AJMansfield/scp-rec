@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: dog-eat-dog-part-1
+permalink: Xdog-eat-dog-part-1
 title: dog-eat-dog-part-1
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: hexadon-s-arthur-page
+permalink: Xhexadon-s-arthur-page
 title: hexadon-s-arthur-page
 ---
 You may also like:

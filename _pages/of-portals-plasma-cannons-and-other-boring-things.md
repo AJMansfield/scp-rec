@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: of-portals-plasma-cannons-and-other-boring-things
+permalink: Xof-portals-plasma-cannons-and-other-boring-things
 title: of-portals-plasma-cannons-and-other-boring-things
 ---
 You may also like:

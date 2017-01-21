@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: decommissioned
+permalink: Xdecommissioned
 title: decommissioned
 ---
 You may also like:

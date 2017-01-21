@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: dr-john-peppersghost-pepper-s-personnel-file
+permalink: Xdr-john-peppersghost-pepper-s-personnel-file
 title: dr-john-peppersghost-pepper-s-personnel-file
 ---
 You may also like:

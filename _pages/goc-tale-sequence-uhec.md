@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: goc-tale-sequence-uhec
+permalink: Xgoc-tale-sequence-uhec
 title: goc-tale-sequence-uhec
 ---
 You may also like:

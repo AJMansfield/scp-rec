@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: dr-gears-s-personnel-file
+permalink: Xdr-gears-s-personnel-file
 title: dr-gears-s-personnel-file
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: cave-paintings
+permalink: Xcave-paintings
 title: cave-paintings
 ---
 You may also like:

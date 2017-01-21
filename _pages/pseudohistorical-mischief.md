@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: pseudohistorical-mischief
+permalink: Xpseudohistorical-mischief
 title: pseudohistorical-mischief
 ---
 You may also like:

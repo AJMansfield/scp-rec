@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: goi-contest-2014
+permalink: Xgoi-contest-2014
 title: goi-contest-2014
 ---
 You may also like:

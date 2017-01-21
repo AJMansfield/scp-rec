@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: incident-report-i-028-f
+permalink: Xincident-report-i-028-f
 title: incident-report-i-028-f
 ---
 You may also like:

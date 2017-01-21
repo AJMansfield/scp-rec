@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: ripped-from-the-headlines
+permalink: Xripped-from-the-headlines
 title: ripped-from-the-headlines
 ---
 You may also like:

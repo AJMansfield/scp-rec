@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-conspiracy-of-sigma-3
+permalink: Xthe-conspiracy-of-sigma-3
 title: the-conspiracy-of-sigma-3
 ---
 You may also like:

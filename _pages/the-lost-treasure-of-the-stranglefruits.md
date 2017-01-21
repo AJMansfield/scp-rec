@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-lost-treasure-of-the-stranglefruits
+permalink: Xthe-lost-treasure-of-the-stranglefruits
 title: the-lost-treasure-of-the-stranglefruits
 ---
 You may also like:

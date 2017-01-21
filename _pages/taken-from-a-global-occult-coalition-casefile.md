@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: taken-from-a-global-occult-coalition-casefile
+permalink: Xtaken-from-a-global-occult-coalition-casefile
 title: taken-from-a-global-occult-coalition-casefile
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: lucky-dinosaur
+permalink: Xlucky-dinosaur
 title: lucky-dinosaur
 ---
 You may also like:

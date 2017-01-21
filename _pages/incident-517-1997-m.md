@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: incident-517-1997-m
+permalink: Xincident-517-1997-m
 title: incident-517-1997-m
 ---
 You may also like:

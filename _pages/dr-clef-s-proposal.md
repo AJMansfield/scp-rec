@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: dr-clef-s-proposal
+permalink: Xdr-clef-s-proposal
 title: dr-clef-s-proposal
 ---
 You may also like:

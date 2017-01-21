@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: a-sort-of-challenge
+permalink: Xa-sort-of-challenge
 title: a-sort-of-challenge
 ---
 You may also like:

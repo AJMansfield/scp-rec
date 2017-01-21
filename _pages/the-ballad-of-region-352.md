@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-ballad-of-region-352
+permalink: Xthe-ballad-of-region-352
 title: the-ballad-of-region-352
 ---
 You may also like:

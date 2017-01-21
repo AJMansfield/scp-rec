@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: goc-tale-sequence-special-observer
+permalink: Xgoc-tale-sequence-special-observer
 title: goc-tale-sequence-special-observer
 ---
 You may also like:

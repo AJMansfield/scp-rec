@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: what-love-is-pt-1
+permalink: Xwhat-love-is-pt-1
 title: what-love-is-pt-1
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: a-discussion-with-l-e-t
+permalink: Xa-discussion-with-l-e-t
 title: a-discussion-with-l-e-t
 ---
 You may also like:

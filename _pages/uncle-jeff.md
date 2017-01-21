@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: uncle-jeff
+permalink: Xuncle-jeff
 title: uncle-jeff
 ---
 You may also like:

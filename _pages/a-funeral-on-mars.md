@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: a-funeral-on-mars
+permalink: Xa-funeral-on-mars
 title: a-funeral-on-mars
 ---
 You may also like:

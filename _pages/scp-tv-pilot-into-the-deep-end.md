@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: scp-tv-pilot-into-the-deep-end
+permalink: Xscp-tv-pilot-into-the-deep-end
 title: scp-tv-pilot-into-the-deep-end
 ---
 You may also like:

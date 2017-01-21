@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-fine-print
+permalink: Xthe-fine-print
 title: the-fine-print
 ---
 You may also like:

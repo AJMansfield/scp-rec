@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: keine-kosten-zu-hoch
+permalink: Xkeine-kosten-zu-hoch
 title: keine-kosten-zu-hoch
 ---
 You may also like:

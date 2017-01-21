@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: hats
+permalink: Xhats
 title: hats
 ---
 You may also like:

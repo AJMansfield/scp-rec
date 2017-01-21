@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: show-you-what-all-that-howl-is-for
+permalink: Xshow-you-what-all-that-howl-is-for
 title: show-you-what-all-that-howl-is-for
 ---
 You may also like:

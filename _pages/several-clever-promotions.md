@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: several-clever-promotions
+permalink: Xseveral-clever-promotions
 title: several-clever-promotions
 ---
 You may also like:

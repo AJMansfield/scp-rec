@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: shell
+permalink: Xshell
 title: shell
 ---
 You may also like:

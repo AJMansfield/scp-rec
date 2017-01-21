@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: operation-galahad
+permalink: Xoperation-galahad
 title: operation-galahad
 ---
 You may also like:

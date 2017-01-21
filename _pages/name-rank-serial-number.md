@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: name-rank-serial-number
+permalink: Xname-rank-serial-number
 title: name-rank-serial-number
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: video-log-1743-26
+permalink: Xvideo-log-1743-26
 title: video-log-1743-26
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: more-than-ever
+permalink: Xmore-than-ever
 title: more-than-ever
 ---
 You may also like:

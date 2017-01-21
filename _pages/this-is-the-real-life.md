@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: this-is-the-real-life
+permalink: Xthis-is-the-real-life
 title: this-is-the-real-life
 ---
 You may also like:

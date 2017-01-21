@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: mr-parker
+permalink: Xmr-parker
 title: mr-parker
 ---
 You may also like:

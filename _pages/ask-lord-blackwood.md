@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: ask-lord-blackwood
+permalink: Xask-lord-blackwood
 title: ask-lord-blackwood
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-ragdoll
+permalink: Xthe-ragdoll
 title: the-ragdoll
 ---
 You may also like:

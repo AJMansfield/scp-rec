@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: have-a-heart
+permalink: Xhave-a-heart
 title: have-a-heart
 ---
 You may also like:

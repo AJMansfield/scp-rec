@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: gray-god
+permalink: Xgray-god
 title: gray-god
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: mad-love
+permalink: Xmad-love
 title: mad-love
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: one-last-ride
+permalink: Xone-last-ride
 title: one-last-ride
 ---
 You may also like:

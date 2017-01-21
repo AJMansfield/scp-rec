@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: unstable-thoughts
+permalink: Xunstable-thoughts
 title: unstable-thoughts
 ---
 You may also like:

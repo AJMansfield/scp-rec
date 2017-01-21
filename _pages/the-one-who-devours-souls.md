@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-one-who-devours-souls
+permalink: Xthe-one-who-devours-souls
 title: the-one-who-devours-souls
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: broken
+permalink: Xbroken
 title: broken
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: peregrine
+permalink: Xperegrine
 title: peregrine
 ---
 You may also like:

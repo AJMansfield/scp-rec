@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: clusterfredacted
+permalink: Xclusterfredacted
 title: clusterfredacted
 ---
 You may also like:

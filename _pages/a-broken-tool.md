@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: a-broken-tool
+permalink: Xa-broken-tool
 title: a-broken-tool
 ---
 You may also like:

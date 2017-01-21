@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: mackenzie-glossary
+permalink: Xmackenzie-glossary
 title: mackenzie-glossary
 ---
 You may also like:

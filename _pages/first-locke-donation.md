@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: first-locke-donation
+permalink: Xfirst-locke-donation
 title: first-locke-donation
 ---
 You may also like:

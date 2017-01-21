@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: waking
+permalink: Xwaking
 title: waking
 ---
 You may also like:

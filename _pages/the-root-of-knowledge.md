@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-root-of-knowledge
+permalink: Xthe-root-of-knowledge
 title: the-root-of-knowledge
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: document-scp-1514-rm27
+permalink: Xdocument-scp-1514-rm27
 title: document-scp-1514-rm27
 ---
 You may also like:

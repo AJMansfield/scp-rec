@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: family-planning
+permalink: Xfamily-planning
 title: family-planning
 ---
 You may also like:

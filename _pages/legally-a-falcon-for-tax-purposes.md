@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: legally-a-falcon-for-tax-purposes
+permalink: Xlegally-a-falcon-for-tax-purposes
 title: legally-a-falcon-for-tax-purposes
 ---
 You may also like:

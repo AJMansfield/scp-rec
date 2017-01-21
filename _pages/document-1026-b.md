@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: document-1026-b
+permalink: Xdocument-1026-b
 title: document-1026-b
 ---
 You may also like:

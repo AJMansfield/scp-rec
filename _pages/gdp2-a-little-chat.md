@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: gdp2-a-little-chat
+permalink: Xgdp2-a-little-chat
 title: gdp2-a-little-chat
 ---
 You may also like:

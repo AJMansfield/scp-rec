@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: wonder
+permalink: Xwonder
 title: wonder
 ---
 You may also like:

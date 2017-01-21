@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: why-this-tho
+permalink: Xwhy-this-tho
 title: why-this-tho
 ---
 You may also like:

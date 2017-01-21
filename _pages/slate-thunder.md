@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: slate-thunder
+permalink: Xslate-thunder
 title: slate-thunder
 ---
 You may also like:

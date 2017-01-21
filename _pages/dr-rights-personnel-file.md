@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: dr-rights-personnel-file
+permalink: Xdr-rights-personnel-file
 title: dr-rights-personnel-file
 ---
 You may also like:

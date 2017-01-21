@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: i-hope-that-i-get-old-before-i-die
+permalink: Xi-hope-that-i-get-old-before-i-die
 title: i-hope-that-i-get-old-before-i-die
 ---
 You may also like:

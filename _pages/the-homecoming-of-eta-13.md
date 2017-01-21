@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-homecoming-of-eta-13
+permalink: Xthe-homecoming-of-eta-13
 title: the-homecoming-of-eta-13
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: nor-shall-my-sword-sleep
+permalink: Xnor-shall-my-sword-sleep
 title: nor-shall-my-sword-sleep
 ---
 You may also like:

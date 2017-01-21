@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: relics
+permalink: Xrelics
 title: relics
 ---
 You may also like:

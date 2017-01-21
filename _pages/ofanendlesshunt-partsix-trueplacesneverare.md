@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: ofanendlesshunt-partsix-trueplacesneverare
+permalink: Xofanendlesshunt-partsix-trueplacesneverare
 title: ofanendlesshunt-partsix-trueplacesneverare
 ---
 You may also like:

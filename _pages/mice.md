@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: mice
+permalink: Xmice
 title: mice
 ---
 You may also like:

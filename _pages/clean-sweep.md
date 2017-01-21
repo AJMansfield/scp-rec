@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: clean-sweep
+permalink: Xclean-sweep
 title: clean-sweep
 ---
 You may also like:

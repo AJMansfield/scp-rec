@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: personal-log-of-gordon-richards
+permalink: Xpersonal-log-of-gordon-richards
 title: personal-log-of-gordon-richards
 ---
 You may also like:

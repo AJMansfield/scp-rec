@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-keysmith-s-bootstrap
+permalink: Xthe-keysmith-s-bootstrap
 title: the-keysmith-s-bootstrap
 ---
 You may also like:

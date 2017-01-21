@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: twisted-together
+permalink: Xtwisted-together
 title: twisted-together
 ---
 You may also like:

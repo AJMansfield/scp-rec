@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-asylum
+permalink: Xthe-asylum
 title: the-asylum
 ---
 You may also like:

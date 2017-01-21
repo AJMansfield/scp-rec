@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: scp-1548-cu
+permalink: Xscp-1548-cu
 title: scp-1548-cu
 ---
 You may also like:

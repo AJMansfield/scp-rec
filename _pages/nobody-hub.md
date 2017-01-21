@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: nobody-hub
+permalink: Xnobody-hub
 title: nobody-hub
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: holy-crap-this-is-a-long-christmas-tale
+permalink: Xholy-crap-this-is-a-long-christmas-tale
 title: holy-crap-this-is-a-long-christmas-tale
 ---
 You may also like:

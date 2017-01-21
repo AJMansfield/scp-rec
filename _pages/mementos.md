@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: mementos
+permalink: Xmementos
 title: mementos
 ---
 You may also like:

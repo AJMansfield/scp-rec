@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: ineffective
+permalink: Xineffective
 title: ineffective
 ---
 You may also like:

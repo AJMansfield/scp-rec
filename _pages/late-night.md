@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: late-night
+permalink: Xlate-night
 title: late-night
 ---
 You may also like:

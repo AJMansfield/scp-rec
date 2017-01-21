@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: gourmet
+permalink: Xgourmet
 title: gourmet
 ---
 You may also like:

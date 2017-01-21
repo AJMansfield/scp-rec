@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: impression
+permalink: Ximpression
 title: impression
 ---
 You may also like:

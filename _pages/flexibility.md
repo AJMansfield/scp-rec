@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: flexibility
+permalink: Xflexibility
 title: flexibility
 ---
 You may also like:

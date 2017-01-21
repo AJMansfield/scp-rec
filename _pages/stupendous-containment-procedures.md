@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: stupendous-containment-procedures
+permalink: Xstupendous-containment-procedures
 title: stupendous-containment-procedures
 ---
 You may also like:

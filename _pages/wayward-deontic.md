@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: wayward-deontic
+permalink: Xwayward-deontic
 title: wayward-deontic
 ---
 You may also like:

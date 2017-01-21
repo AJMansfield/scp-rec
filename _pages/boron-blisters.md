@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: boron-blisters
+permalink: Xboron-blisters
 title: boron-blisters
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: scp-1459-extended-testing-log
+permalink: Xscp-1459-extended-testing-log
 title: scp-1459-extended-testing-log
 ---
 You may also like:

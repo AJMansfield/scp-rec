@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: vescatur-perago
+permalink: Xvescatur-perago
 title: vescatur-perago
 ---
 You may also like:

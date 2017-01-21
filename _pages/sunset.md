@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: sunset
+permalink: Xsunset
 title: sunset
 ---
 You may also like:

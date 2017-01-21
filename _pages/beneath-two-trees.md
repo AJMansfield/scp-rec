@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: beneath-two-trees
+permalink: Xbeneath-two-trees
 title: beneath-two-trees
 ---
 You may also like:

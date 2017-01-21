@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: foundation-rhymes
+permalink: Xfoundation-rhymes
 title: foundation-rhymes
 ---
 You may also like:

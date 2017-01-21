@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: greener-pastures
+permalink: Xgreener-pastures
 title: greener-pastures
 ---
 You may also like:

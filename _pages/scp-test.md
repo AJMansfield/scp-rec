@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: scp-test
+permalink: Xscp-test
 title: scp-test
 ---
 You may also like:

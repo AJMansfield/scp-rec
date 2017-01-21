@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: choir-of-the-damned
+permalink: Xchoir-of-the-damned
 title: choir-of-the-damned
 ---
 You may also like:

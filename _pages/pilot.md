@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: pilot
+permalink: Xpilot
 title: pilot
 ---
 You may also like:

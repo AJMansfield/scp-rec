@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: week-2-only-sane-man
+permalink: Xweek-2-only-sane-man
 title: week-2-only-sane-man
 ---
 You may also like:

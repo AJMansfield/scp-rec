@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-pale-horse
+permalink: Xthe-pale-horse
 title: the-pale-horse
 ---
 You may also like:

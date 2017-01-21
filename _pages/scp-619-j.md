@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: scp-619-j
+permalink: Xscp-619-j
 title: scp-619-j
 ---
 You may also like:

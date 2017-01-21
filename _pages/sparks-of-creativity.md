@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: sparks-of-creativity
+permalink: Xsparks-of-creativity
 title: sparks-of-creativity
 ---
 You may also like:

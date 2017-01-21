@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: scp-1023-arc
+permalink: Xscp-1023-arc
 title: scp-1023-arc
 ---
 You may also like:

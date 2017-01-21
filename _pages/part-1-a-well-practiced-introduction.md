@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: part-1-a-well-practiced-introduction
+permalink: Xpart-1-a-well-practiced-introduction
 title: part-1-a-well-practiced-introduction
 ---
 You may also like:

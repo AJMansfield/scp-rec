@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: euclidean-thinking
+permalink: Xeuclidean-thinking
 title: euclidean-thinking
 ---
 You may also like:

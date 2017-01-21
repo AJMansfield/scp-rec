@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: eric-h-s-author-page
+permalink: Xeric-h-s-author-page
 title: eric-h-s-author-page
 ---
 You may also like:

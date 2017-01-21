@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: list-of-foundation-s-internal-departments
+permalink: Xlist-of-foundation-s-internal-departments
 title: list-of-foundation-s-internal-departments
 ---
 You may also like:

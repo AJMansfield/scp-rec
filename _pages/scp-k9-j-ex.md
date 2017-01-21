@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: scp-k9-j-ex
+permalink: Xscp-k9-j-ex
 title: scp-k9-j-ex
 ---
 You may also like:

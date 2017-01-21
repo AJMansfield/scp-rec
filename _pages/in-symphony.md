@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: in-symphony
+permalink: Xin-symphony
 title: in-symphony
 ---
 You may also like:

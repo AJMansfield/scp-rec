@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: intheendfiatlux
+permalink: Xintheendfiatlux
 title: intheendfiatlux
 ---
 You may also like:

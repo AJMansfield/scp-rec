@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: challenge-accepted
+permalink: Xchallenge-accepted
 title: challenge-accepted
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: history-of-the-universe-part-two
+permalink: Xhistory-of-the-universe-part-two
 title: history-of-the-universe-part-two
 ---
 You may also like:

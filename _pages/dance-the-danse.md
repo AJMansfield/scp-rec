@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: dance-the-danse
+permalink: Xdance-the-danse
 title: dance-the-danse
 ---
 You may also like:

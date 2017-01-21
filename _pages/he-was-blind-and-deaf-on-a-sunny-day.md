@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: he-was-blind-and-deaf-on-a-sunny-day
+permalink: Xhe-was-blind-and-deaf-on-a-sunny-day
 title: he-was-blind-and-deaf-on-a-sunny-day
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: final-attack-orders
+permalink: Xfinal-attack-orders
 title: final-attack-orders
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-ride-never-ends
+permalink: Xthe-ride-never-ends
 title: the-ride-never-ends
 ---
 You may also like:

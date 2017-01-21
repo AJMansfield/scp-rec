@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: summer-s-exile
+permalink: Xsummer-s-exile
 title: summer-s-exile
 ---
 You may also like:

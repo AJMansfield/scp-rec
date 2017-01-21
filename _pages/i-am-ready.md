@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: i-am-ready
+permalink: Xi-am-ready
 title: i-am-ready
 ---
 You may also like:

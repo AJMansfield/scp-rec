@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: stealingsolidarityepilogue
+permalink: Xstealingsolidarityepilogue
 title: stealingsolidarityepilogue
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: hephaestus
+permalink: Xhephaestus
 title: hephaestus
 ---
 You may also like:

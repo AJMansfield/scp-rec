@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: far2-s-disciplinary-report
+permalink: Xfar2-s-disciplinary-report
 title: far2-s-disciplinary-report
 ---
 You may also like:

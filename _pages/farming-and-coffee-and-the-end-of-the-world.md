@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: farming-and-coffee-and-the-end-of-the-world
+permalink: Xfarming-and-coffee-and-the-end-of-the-world
 title: farming-and-coffee-and-the-end-of-the-world
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: warning-call
+permalink: Xwarning-call
 title: warning-call
 ---
 You may also like:

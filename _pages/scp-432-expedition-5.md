@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: scp-432-expedition-5
+permalink: Xscp-432-expedition-5
 title: scp-432-expedition-5
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: neptune-station
+permalink: Xneptune-station
 title: neptune-station
 ---
 You may also like:

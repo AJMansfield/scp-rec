@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: museum-of-idiots
+permalink: Xmuseum-of-idiots
 title: museum-of-idiots
 ---
 You may also like:

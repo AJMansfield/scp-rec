@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: integrity-project
+permalink: Xintegrity-project
 title: integrity-project
 ---
 You may also like:

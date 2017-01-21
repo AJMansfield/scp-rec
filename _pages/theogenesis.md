@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: theogenesis
+permalink: Xtheogenesis
 title: theogenesis
 ---
 You may also like:

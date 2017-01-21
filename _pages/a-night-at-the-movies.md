@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: a-night-at-the-movies
+permalink: Xa-night-at-the-movies
 title: a-night-at-the-movies
 ---
 You may also like:

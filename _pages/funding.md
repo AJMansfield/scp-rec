@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: funding
+permalink: Xfunding
 title: funding
 ---
 You may also like:

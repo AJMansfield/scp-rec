@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: total-recall
+permalink: Xtotal-recall
 title: total-recall
 ---
 You may also like:

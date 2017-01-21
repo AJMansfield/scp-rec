@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: stealingsolidarityphase1
+permalink: Xstealingsolidarityphase1
 title: stealingsolidarityphase1
 ---
 You may also like:

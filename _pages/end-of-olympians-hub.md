@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: end-of-olympians-hub
+permalink: Xend-of-olympians-hub
 title: end-of-olympians-hub
 ---
 You may also like:

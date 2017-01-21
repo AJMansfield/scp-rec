@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: 2212-archival-class
+permalink: X2212-archival-class
 title: 2212-archival-class
 ---
 You may also like:

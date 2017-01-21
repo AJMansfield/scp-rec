@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: cleaning-larry
+permalink: Xcleaning-larry
 title: cleaning-larry
 ---
 You may also like:

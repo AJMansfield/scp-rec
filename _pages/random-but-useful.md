@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: random-but-useful
+permalink: Xrandom-but-useful
 title: random-but-useful
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: a-day-at-the-call-center
+permalink: Xa-day-at-the-call-center
 title: a-day-at-the-call-center
 ---
 You may also like:

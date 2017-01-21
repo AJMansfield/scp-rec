@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-hatbot-chronicles
+permalink: Xthe-hatbot-chronicles
 title: the-hatbot-chronicles
 ---
 You may also like:

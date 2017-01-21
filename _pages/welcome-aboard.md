@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: welcome-aboard
+permalink: Xwelcome-aboard
 title: welcome-aboard
 ---
 You may also like:

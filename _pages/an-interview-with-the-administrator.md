@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: an-interview-with-the-administrator
+permalink: Xan-interview-with-the-administrator
 title: an-interview-with-the-administrator
 ---
 You may also like:

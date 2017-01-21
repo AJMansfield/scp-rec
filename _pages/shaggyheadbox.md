@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: shaggyheadbox
+permalink: Xshaggyheadbox
 title: shaggyheadbox
 ---
 You may also like:

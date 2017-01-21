@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-harold-maine-fan-club
+permalink: Xthe-harold-maine-fan-club
 title: the-harold-maine-fan-club
 ---
 You may also like:

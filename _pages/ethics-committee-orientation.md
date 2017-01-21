@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: ethics-committee-orientation
+permalink: Xethics-committee-orientation
 title: ethics-committee-orientation
 ---
 You may also like:

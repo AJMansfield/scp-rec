@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: reject
+permalink: Xreject
 title: reject
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: fritzwillie-s-author-page
+permalink: Xfritzwillie-s-author-page
 title: fritzwillie-s-author-page
 ---
 You may also like:

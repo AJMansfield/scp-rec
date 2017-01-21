@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: webs
+permalink: Xwebs
 title: webs
 ---
 You may also like:

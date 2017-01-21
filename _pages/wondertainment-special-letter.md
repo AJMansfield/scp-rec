@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: wondertainment-special-letter
+permalink: Xwondertainment-special-letter
 title: wondertainment-special-letter
 ---
 You may also like:

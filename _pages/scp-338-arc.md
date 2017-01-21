@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: scp-338-arc
+permalink: Xscp-338-arc
 title: scp-338-arc
 ---
 You may also like:

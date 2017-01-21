@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: party-of-gods
+permalink: Xparty-of-gods
 title: party-of-gods
 ---
 You may also like:

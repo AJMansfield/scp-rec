@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: triumph
+permalink: Xtriumph
 title: triumph
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: just-like-me
+permalink: Xjust-like-me
 title: just-like-me
 ---
 You may also like:

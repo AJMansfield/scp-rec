@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: a-simple-solution
+permalink: Xa-simple-solution
 title: a-simple-solution
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-avian-and-the-amphibian
+permalink: Xthe-avian-and-the-amphibian
 title: the-avian-and-the-amphibian
 ---
 You may also like:

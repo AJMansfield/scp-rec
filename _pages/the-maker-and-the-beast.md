@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-maker-and-the-beast
+permalink: Xthe-maker-and-the-beast
 title: the-maker-and-the-beast
 ---
 You may also like:

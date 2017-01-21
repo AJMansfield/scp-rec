@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: irrational
+permalink: Xirrational
 title: irrational
 ---
 You may also like:

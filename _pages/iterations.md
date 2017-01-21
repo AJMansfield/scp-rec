@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: iterations
+permalink: Xiterations
 title: iterations
 ---
 You may also like:

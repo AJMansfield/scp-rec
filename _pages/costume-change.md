@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: costume-change
+permalink: Xcostume-change
 title: costume-change
 ---
 You may also like:

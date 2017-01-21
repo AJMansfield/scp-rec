@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: castling-by-hand
+permalink: Xcastling-by-hand
 title: castling-by-hand
 ---
 You may also like:

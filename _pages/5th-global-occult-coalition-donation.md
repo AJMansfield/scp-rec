@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: 5th-global-occult-coalition-donation
+permalink: X5th-global-occult-coalition-donation
 title: 5th-global-occult-coalition-donation
 ---
 You may also like:

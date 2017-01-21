@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: hello-world-part-ii
+permalink: Xhello-world-part-ii
 title: hello-world-part-ii
 ---
 You may also like:

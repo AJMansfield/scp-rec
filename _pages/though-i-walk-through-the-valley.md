@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: though-i-walk-through-the-valley
+permalink: Xthough-i-walk-through-the-valley
 title: though-i-walk-through-the-valley
 ---
 You may also like:

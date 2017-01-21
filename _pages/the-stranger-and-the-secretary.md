@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-stranger-and-the-secretary
+permalink: Xthe-stranger-and-the-secretary
 title: the-stranger-and-the-secretary
 ---
 You may also like:

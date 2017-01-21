@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: kinchtheknifeblade-s-author-page
+permalink: Xkinchtheknifeblade-s-author-page
 title: kinchtheknifeblade-s-author-page
 ---
 You may also like:

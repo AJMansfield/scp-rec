@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: postgame
+permalink: Xpostgame
 title: postgame
 ---
 You may also like:

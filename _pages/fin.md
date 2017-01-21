@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: fin
+permalink: Xfin
 title: fin
 ---
 You may also like:

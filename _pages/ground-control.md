@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: ground-control
+permalink: Xground-control
 title: ground-control
 ---
 You may also like:

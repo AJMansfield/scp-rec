@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: secret-of-the-goldfish
+permalink: Xsecret-of-the-goldfish
 title: secret-of-the-goldfish
 ---
 You may also like:

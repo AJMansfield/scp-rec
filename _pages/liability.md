@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: liability
+permalink: Xliability
 title: liability
 ---
 You may also like:

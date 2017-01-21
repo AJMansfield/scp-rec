@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: probe-h9
+permalink: Xprobe-h9
 title: probe-h9
 ---
 You may also like:

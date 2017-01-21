@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-rain
+permalink: Xthe-rain
 title: the-rain
 ---
 You may also like:

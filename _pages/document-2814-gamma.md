@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: document-2814-gamma
+permalink: Xdocument-2814-gamma
 title: document-2814-gamma
 ---
 You may also like:

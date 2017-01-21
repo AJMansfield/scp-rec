@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-swift-rise-and-fall-of-technical-researcher-david-rosen
+permalink: Xthe-swift-rise-and-fall-of-technical-researcher-david-rosen
 title: the-swift-rise-and-fall-of-technical-researcher-david-rosen
 ---
 You may also like:

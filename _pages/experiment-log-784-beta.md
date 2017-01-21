@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: experiment-log-784-beta
+permalink: Xexperiment-log-784-beta
 title: experiment-log-784-beta
 ---
 You may also like:

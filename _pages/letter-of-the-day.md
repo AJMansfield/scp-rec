@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: letter-of-the-day
+permalink: Xletter-of-the-day
 title: letter-of-the-day
 ---
 You may also like:

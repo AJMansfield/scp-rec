@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: budget-cuts
+permalink: Xbudget-cuts
 title: budget-cuts
 ---
 You may also like:

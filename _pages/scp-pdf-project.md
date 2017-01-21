@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: scp-pdf-project
+permalink: Xscp-pdf-project
 title: scp-pdf-project
 ---
 You may also like:

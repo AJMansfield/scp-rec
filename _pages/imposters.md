@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: imposters
+permalink: Ximposters
 title: imposters
 ---
 You may also like:

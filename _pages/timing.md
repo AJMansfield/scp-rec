@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: timing
+permalink: Xtiming
 title: timing
 ---
 You may also like:

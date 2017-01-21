@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: aiad-homescreen
+permalink: Xaiad-homescreen
 title: aiad-homescreen
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: set-up-thine-altar-here
+permalink: Xset-up-thine-altar-here
 title: set-up-thine-altar-here
 ---
 You may also like:

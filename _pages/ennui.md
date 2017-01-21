@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: ennui
+permalink: Xennui
 title: ennui
 ---
 You may also like:

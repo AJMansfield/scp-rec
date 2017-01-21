@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-year-that-it-was
+permalink: Xthe-year-that-it-was
 title: the-year-that-it-was
 ---
 You may also like:

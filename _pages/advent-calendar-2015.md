@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: advent-calendar-2015
+permalink: Xadvent-calendar-2015
 title: advent-calendar-2015
 ---
 You may also like:

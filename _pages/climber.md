@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: climber
+permalink: Xclimber
 title: climber
 ---
 You may also like:

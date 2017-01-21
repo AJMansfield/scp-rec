@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: kens-festive-stories
+permalink: Xkens-festive-stories
 title: kens-festive-stories
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: smooth-as-silk
+permalink: Xsmooth-as-silk
 title: smooth-as-silk
 ---
 You may also like:

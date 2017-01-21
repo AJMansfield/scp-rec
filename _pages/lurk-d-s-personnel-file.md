@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: lurk-d-s-personnel-file
+permalink: Xlurk-d-s-personnel-file
 title: lurk-d-s-personnel-file
 ---
 You may also like:

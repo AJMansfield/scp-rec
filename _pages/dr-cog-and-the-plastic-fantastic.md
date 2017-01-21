@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: dr-cog-and-the-plastic-fantastic
+permalink: Xdr-cog-and-the-plastic-fantastic
 title: dr-cog-and-the-plastic-fantastic
 ---
 You may also like:

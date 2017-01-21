@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: decommissioned-scps-arc
+permalink: Xdecommissioned-scps-arc
 title: decommissioned-scps-arc
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: sidelines-sarabande
+permalink: Xsidelines-sarabande
 title: sidelines-sarabande
 ---
 You may also like:

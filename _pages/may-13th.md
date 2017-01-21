@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: may-13th
+permalink: Xmay-13th
 title: may-13th
 ---
 You may also like:

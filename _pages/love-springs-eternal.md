@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: love-springs-eternal
+permalink: Xlove-springs-eternal
 title: love-springs-eternal
 ---
 You may also like:

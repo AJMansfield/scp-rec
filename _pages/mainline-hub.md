@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: mainline-hub
+permalink: Xmainline-hub
 title: mainline-hub
 ---
 You may also like:

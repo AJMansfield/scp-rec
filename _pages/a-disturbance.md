@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: a-disturbance
+permalink: Xa-disturbance
 title: a-disturbance
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: secure-facility-dossier-site-77
+permalink: Xsecure-facility-dossier-site-77
 title: secure-facility-dossier-site-77
 ---
 You may also like:

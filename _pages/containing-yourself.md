@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: containing-yourself
+permalink: Xcontaining-yourself
 title: containing-yourself
 ---
 You may also like:

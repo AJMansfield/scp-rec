@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: cogwork
+permalink: Xcogwork
 title: cogwork
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: moonlighting
+permalink: Xmoonlighting
 title: moonlighting
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: a-few-memos
+permalink: Xa-few-memos
 title: a-few-memos
 ---
 You may also like:

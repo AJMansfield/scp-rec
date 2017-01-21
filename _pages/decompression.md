@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: decompression
+permalink: Xdecompression
 title: decompression
 ---
 You may also like:

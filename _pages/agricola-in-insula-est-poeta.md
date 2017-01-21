@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: agricola-in-insula-est-poeta
+permalink: Xagricola-in-insula-est-poeta
 title: agricola-in-insula-est-poeta
 ---
 You may also like:

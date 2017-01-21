@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: scp-2446-interview
+permalink: Xscp-2446-interview
 title: scp-2446-interview
 ---
 You may also like:

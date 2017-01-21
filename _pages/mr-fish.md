@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: mr-fish
+permalink: Xmr-fish
 title: mr-fish
 ---
 You may also like:

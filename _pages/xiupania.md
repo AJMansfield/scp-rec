@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: xiupania
+permalink: Xxiupania
 title: xiupania
 ---
 You may also like:

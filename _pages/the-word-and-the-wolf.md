@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-word-and-the-wolf
+permalink: Xthe-word-and-the-wolf
 title: the-word-and-the-wolf
 ---
 You may also like:

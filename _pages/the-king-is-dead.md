@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-king-is-dead
+permalink: Xthe-king-is-dead
 title: the-king-is-dead
 ---
 You may also like:

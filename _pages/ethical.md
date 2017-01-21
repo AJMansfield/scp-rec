@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: ethical
+permalink: Xethical
 title: ethical
 ---
 You may also like:

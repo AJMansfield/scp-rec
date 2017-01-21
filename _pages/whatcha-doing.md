@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: whatcha-doing
+permalink: Xwhatcha-doing
 title: whatcha-doing
 ---
 You may also like:

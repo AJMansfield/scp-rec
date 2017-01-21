@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: welcome-to-the-machine
+permalink: Xwelcome-to-the-machine
 title: welcome-to-the-machine
 ---
 You may also like:

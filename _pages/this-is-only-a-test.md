@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: this-is-only-a-test
+permalink: Xthis-is-only-a-test
 title: this-is-only-a-test
 ---
 You may also like:

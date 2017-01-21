@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: colors
+permalink: Xcolors
 title: colors
 ---
 You may also like:

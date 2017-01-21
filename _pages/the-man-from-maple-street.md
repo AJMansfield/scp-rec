@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-man-from-maple-street
+permalink: Xthe-man-from-maple-street
 title: the-man-from-maple-street
 ---
 You may also like:

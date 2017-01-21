@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: nothing-and-five-and-five
+permalink: Xnothing-and-five-and-five
 title: nothing-and-five-and-five
 ---
 You may also like:

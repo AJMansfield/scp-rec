@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: lte-2712-bosch
+permalink: Xlte-2712-bosch
 title: lte-2712-bosch
 ---
 You may also like:

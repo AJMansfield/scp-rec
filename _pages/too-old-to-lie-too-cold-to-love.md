@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: too-old-to-lie-too-cold-to-love
+permalink: Xtoo-old-to-lie-too-cold-to-love
 title: too-old-to-lie-too-cold-to-love
 ---
 You may also like:

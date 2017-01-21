@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-choir-below
+permalink: Xthe-choir-below
 title: the-choir-below
 ---
 You may also like:

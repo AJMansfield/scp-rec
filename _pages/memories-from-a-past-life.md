@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: memories-from-a-past-life
+permalink: Xmemories-from-a-past-life
 title: memories-from-a-past-life
 ---
 You may also like:

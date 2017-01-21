@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: cassandra
+permalink: Xcassandra
 title: cassandra
 ---
 You may also like:

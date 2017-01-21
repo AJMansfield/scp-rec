@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: welcome-to-this-fabulous-magical-locked-door
+permalink: Xwelcome-to-this-fabulous-magical-locked-door
 title: welcome-to-this-fabulous-magical-locked-door
 ---
 You may also like:

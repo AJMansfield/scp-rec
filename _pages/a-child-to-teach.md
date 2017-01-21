@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: a-child-to-teach
+permalink: Xa-child-to-teach
 title: a-child-to-teach
 ---
 You may also like:

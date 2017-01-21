@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: narcissus
+permalink: Xnarcissus
 title: narcissus
 ---
 You may also like:

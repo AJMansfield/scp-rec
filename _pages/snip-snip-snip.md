@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: snip-snip-snip
+permalink: Xsnip-snip-snip
 title: snip-snip-snip
 ---
 You may also like:

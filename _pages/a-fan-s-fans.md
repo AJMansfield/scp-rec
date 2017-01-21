@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: a-fan-s-fans
+permalink: Xa-fan-s-fans
 title: a-fan-s-fans
 ---
 You may also like:

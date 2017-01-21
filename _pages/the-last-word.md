@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-last-word
+permalink: Xthe-last-word
 title: the-last-word
 ---
 You may also like:

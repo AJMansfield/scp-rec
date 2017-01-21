@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: conspiracy
+permalink: Xconspiracy
 title: conspiracy
 ---
 You may also like:

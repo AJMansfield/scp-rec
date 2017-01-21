@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: jam-jars
+permalink: Xjam-jars
 title: jam-jars
 ---
 You may also like:

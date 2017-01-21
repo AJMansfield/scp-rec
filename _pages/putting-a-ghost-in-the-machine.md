@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: putting-a-ghost-in-the-machine
+permalink: Xputting-a-ghost-in-the-machine
 title: putting-a-ghost-in-the-machine
 ---
 You may also like:

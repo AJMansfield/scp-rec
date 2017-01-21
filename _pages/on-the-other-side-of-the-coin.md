@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: on-the-other-side-of-the-coin
+permalink: Xon-the-other-side-of-the-coin
 title: on-the-other-side-of-the-coin
 ---
 You may also like:

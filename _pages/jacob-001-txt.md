@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: jacob-001-txt
+permalink: Xjacob-001-txt
 title: jacob-001-txt
 ---
 You may also like:

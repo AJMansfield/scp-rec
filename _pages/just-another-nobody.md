@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: just-another-nobody
+permalink: Xjust-another-nobody
 title: just-another-nobody
 ---
 You may also like:

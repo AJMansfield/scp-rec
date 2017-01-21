@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: my-brother-the-ape
+permalink: Xmy-brother-the-ape
 title: my-brother-the-ape
 ---
 You may also like:

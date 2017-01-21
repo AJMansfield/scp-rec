@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: syfy-channel-presents-bearmaggedon
+permalink: Xsyfy-channel-presents-bearmaggedon
 title: syfy-channel-presents-bearmaggedon
 ---
 You may also like:

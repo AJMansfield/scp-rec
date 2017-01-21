@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: incident-report-yersinia-047-01-2010
+permalink: Xincident-report-yersinia-047-01-2010
 title: incident-report-yersinia-047-01-2010
 ---
 You may also like:

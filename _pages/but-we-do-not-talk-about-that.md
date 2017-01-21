@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: but-we-do-not-talk-about-that
+permalink: Xbut-we-do-not-talk-about-that
 title: but-we-do-not-talk-about-that
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: you-re-always-on-my-mind
+permalink: Xyou-re-always-on-my-mind
 title: you-re-always-on-my-mind
 ---
 You may also like:

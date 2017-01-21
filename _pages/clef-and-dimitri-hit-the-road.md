@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: clef-and-dimitri-hit-the-road
+permalink: Xclef-and-dimitri-hit-the-road
 title: clef-and-dimitri-hit-the-road
 ---
 You may also like:

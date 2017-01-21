@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: scp-178-log
+permalink: Xscp-178-log
 title: scp-178-log
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: consolidation
+permalink: Xconsolidation
 title: consolidation
 ---
 You may also like:

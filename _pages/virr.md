@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: virr
+permalink: Xvirr
 title: virr
 ---
 You may also like:

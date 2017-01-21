@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: document-scp-1734-e9
+permalink: Xdocument-scp-1734-e9
 title: document-scp-1734-e9
 ---
 You may also like:

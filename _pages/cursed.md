@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: cursed
+permalink: Xcursed
 title: cursed
 ---
 You may also like:

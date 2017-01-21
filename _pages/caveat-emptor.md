@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: caveat-emptor
+permalink: Xcaveat-emptor
 title: caveat-emptor
 ---
 You may also like:

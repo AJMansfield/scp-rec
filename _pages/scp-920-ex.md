@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: scp-920-ex
+permalink: Xscp-920-ex
 title: scp-920-ex
 ---
 You may also like:

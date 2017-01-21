@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: zolgamax
+permalink: Xzolgamax
 title: zolgamax
 ---
 You may also like:

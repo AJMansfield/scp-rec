@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: scp-ccg
+permalink: Xscp-ccg
 title: scp-ccg
 ---
 You may also like:

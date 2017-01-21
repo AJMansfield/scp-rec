@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: war-is-child-s-play
+permalink: Xwar-is-child-s-play
 title: war-is-child-s-play
 ---
 You may also like:

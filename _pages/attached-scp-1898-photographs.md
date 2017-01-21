@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: attached-scp-1898-photographs
+permalink: Xattached-scp-1898-photographs
 title: attached-scp-1898-photographs
 ---
 You may also like:

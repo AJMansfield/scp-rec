@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: gdp2-freshbreath-holding
+permalink: Xgdp2-freshbreath-holding
 title: gdp2-freshbreath-holding
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: little-scp-507-lost
+permalink: Xlittle-scp-507-lost
 title: little-scp-507-lost
 ---
 You may also like:

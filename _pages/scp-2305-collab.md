@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: scp-2305-collab
+permalink: Xscp-2305-collab
 title: scp-2305-collab
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: it-always-has-been-it-always-has-not-been
+permalink: Xit-always-has-been-it-always-has-not-been
 title: it-always-has-been-it-always-has-not-been
 ---
 You may also like:

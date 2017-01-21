@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: disciplinary-report-51b-46
+permalink: Xdisciplinary-report-51b-46
 title: disciplinary-report-51b-46
 ---
 You may also like:

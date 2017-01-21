@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-red-place
+permalink: Xthe-red-place
 title: the-red-place
 ---
 You may also like:

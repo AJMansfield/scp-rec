@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: motivation-of-man
+permalink: Xmotivation-of-man
 title: motivation-of-man
 ---
 You may also like:

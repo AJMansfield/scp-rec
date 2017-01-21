@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: and-now-he-is-gone
+permalink: Xand-now-he-is-gone
 title: and-now-he-is-gone
 ---
 You may also like:

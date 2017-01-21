@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: game-day-part-3-synchronous
+permalink: Xgame-day-part-3-synchronous
 title: game-day-part-3-synchronous
 ---
 You may also like:

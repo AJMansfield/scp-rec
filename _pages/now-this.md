@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: now-this
+permalink: Xnow-this
 title: now-this
 ---
 You may also like:

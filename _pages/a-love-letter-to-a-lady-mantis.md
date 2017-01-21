@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: a-love-letter-to-a-lady-mantis
+permalink: Xa-love-letter-to-a-lady-mantis
 title: a-love-letter-to-a-lady-mantis
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-real-monsters
+permalink: Xthe-real-monsters
 title: the-real-monsters
 ---
 You may also like:

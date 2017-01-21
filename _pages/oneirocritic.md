@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: oneirocritic
+permalink: Xoneirocritic
 title: oneirocritic
 ---
 You may also like:

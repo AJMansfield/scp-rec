@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: poi-dark
+permalink: Xpoi-dark
 title: poi-dark
 ---
 You may also like:

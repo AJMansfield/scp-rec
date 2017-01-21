@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-gate-opens
+permalink: Xthe-gate-opens
 title: the-gate-opens
 ---
 You may also like:

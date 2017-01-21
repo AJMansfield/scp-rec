@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: soliloquy
+permalink: Xsoliloquy
 title: soliloquy
 ---
 You may also like:

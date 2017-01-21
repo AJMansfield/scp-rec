@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-end
+permalink: Xthe-end
 title: the-end
 ---
 You may also like:

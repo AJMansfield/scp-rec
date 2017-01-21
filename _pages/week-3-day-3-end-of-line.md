@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: week-3-day-3-end-of-line
+permalink: Xweek-3-day-3-end-of-line
 title: week-3-day-3-end-of-line
 ---
 You may also like:

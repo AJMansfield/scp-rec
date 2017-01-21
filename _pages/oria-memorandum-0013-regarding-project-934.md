@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: oria-memorandum-0013-regarding-project-934
+permalink: Xoria-memorandum-0013-regarding-project-934
 title: oria-memorandum-0013-regarding-project-934
 ---
 You may also like:

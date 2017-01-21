@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: first-ivady-donation
+permalink: Xfirst-ivady-donation
 title: first-ivady-donation
 ---
 You may also like:

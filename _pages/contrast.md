@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: contrast
+permalink: Xcontrast
 title: contrast
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: family-business
+permalink: Xfamily-business
 title: family-business
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: joseon
+permalink: Xjoseon
 title: joseon
 ---
 You may also like:

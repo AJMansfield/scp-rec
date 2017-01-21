@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: survey-log-1165
+permalink: Xsurvey-log-1165
 title: survey-log-1165
 ---
 You may also like:

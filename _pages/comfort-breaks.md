@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: comfort-breaks
+permalink: Xcomfort-breaks
 title: comfort-breaks
 ---
 You may also like:

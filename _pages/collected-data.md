@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: collected-data
+permalink: Xcollected-data
 title: collected-data
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: charon-part-1-nekyia
+permalink: Xcharon-part-1-nekyia
 title: charon-part-1-nekyia
 ---
 You may also like:

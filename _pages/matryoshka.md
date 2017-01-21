@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: matryoshka
+permalink: Xmatryoshka
 title: matryoshka
 ---
 You may also like:

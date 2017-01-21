@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: from-the-diaries-of-lord-blackwood
+permalink: Xfrom-the-diaries-of-lord-blackwood
 title: from-the-diaries-of-lord-blackwood
 ---
 You may also like:

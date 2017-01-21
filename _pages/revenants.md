@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: revenants
+permalink: Xrevenants
 title: revenants
 ---
 You may also like:

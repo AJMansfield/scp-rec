@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: syringes
+permalink: Xsyringes
 title: syringes
 ---
 You may also like:

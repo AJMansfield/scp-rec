@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: quintessence-of-dust
+permalink: Xquintessence-of-dust
 title: quintessence-of-dust
 ---
 You may also like:

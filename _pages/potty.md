@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: potty
+permalink: Xpotty
 title: potty
 ---
 You may also like:

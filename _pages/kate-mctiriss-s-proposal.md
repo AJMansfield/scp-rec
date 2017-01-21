@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: kate-mctiriss-s-proposal
+permalink: Xkate-mctiriss-s-proposal
 title: kate-mctiriss-s-proposal
 ---
 You may also like:

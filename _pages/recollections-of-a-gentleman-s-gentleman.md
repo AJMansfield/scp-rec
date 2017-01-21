@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: recollections-of-a-gentleman-s-gentleman
+permalink: Xrecollections-of-a-gentleman-s-gentleman
 title: recollections-of-a-gentleman-s-gentleman
 ---
 You may also like:

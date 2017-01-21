@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: lord-stonefish
+permalink: Xlord-stonefish
 title: lord-stonefish
 ---
 You may also like:

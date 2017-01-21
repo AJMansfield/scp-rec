@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: kens-artistic-side
+permalink: Xkens-artistic-side
 title: kens-artistic-side
 ---
 You may also like:

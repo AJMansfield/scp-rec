@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: 2212-archival-interview
+permalink: X2212-archival-interview
 title: 2212-archival-interview
 ---
 You may also like:

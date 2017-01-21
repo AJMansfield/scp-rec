@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: document-2041-j
+permalink: Xdocument-2041-j
 title: document-2041-j
 ---
 You may also like:

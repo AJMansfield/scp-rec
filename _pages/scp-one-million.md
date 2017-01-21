@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: scp-one-million
+permalink: Xscp-one-million
 title: scp-one-million
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: annon
+permalink: Xannon
 title: annon
 ---
 You may also like:

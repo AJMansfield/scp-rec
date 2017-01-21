@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: don-ferreiros-lie-katana
+permalink: Xdon-ferreiros-lie-katana
 title: don-ferreiros-lie-katana
 ---
 You may also like:

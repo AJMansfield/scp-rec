@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: my-loever-the-dog
+permalink: Xmy-loever-the-dog
 title: my-loever-the-dog
 ---
 You may also like:

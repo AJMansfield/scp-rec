@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: placere-non-trinus
+permalink: Xplacere-non-trinus
 title: placere-non-trinus
 ---
 You may also like:

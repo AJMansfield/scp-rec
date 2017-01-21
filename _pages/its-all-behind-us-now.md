@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: its-all-behind-us-now
+permalink: Xits-all-behind-us-now
 title: its-all-behind-us-now
 ---
 You may also like:

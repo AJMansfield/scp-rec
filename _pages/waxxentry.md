@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: waxxentry
+permalink: Xwaxxentry
 title: waxxentry
 ---
 You may also like:

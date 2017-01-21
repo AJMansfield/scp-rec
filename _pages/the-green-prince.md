@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-green-prince
+permalink: Xthe-green-prince
 title: the-green-prince
 ---
 You may also like:

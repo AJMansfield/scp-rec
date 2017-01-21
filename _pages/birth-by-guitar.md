@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: birth-by-guitar
+permalink: Xbirth-by-guitar
 title: birth-by-guitar
 ---
 You may also like:

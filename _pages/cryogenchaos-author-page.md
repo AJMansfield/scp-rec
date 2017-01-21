@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: cryogenchaos-author-page
+permalink: Xcryogenchaos-author-page
 title: cryogenchaos-author-page
 ---
 You may also like:

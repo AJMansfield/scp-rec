@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: meat
+permalink: Xmeat
 title: meat
 ---
 You may also like:

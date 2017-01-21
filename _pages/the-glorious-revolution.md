@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-glorious-revolution
+permalink: Xthe-glorious-revolution
 title: the-glorious-revolution
 ---
 You may also like:

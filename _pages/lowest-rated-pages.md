@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: lowest-rated-pages
+permalink: Xlowest-rated-pages
 title: lowest-rated-pages
 ---
 You may also like:

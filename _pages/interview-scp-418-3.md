@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: interview-scp-418-3
+permalink: Xinterview-scp-418-3
 title: interview-scp-418-3
 ---
 You may also like:

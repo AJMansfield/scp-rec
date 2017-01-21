@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: cv-of-professor-skali-sharpnose
+permalink: Xcv-of-professor-skali-sharpnose
 title: cv-of-professor-skali-sharpnose
 ---
 You may also like:

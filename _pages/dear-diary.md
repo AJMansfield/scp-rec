@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: dear-diary
+permalink: Xdear-diary
 title: dear-diary
 ---
 You may also like:

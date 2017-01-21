@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: clinical-tone-declassified
+permalink: Xclinical-tone-declassified
 title: clinical-tone-declassified
 ---
 You may also like:

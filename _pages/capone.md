@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: capone
+permalink: Xcapone
 title: capone
 ---
 You may also like:

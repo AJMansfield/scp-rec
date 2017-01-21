@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: covert-cursing
+permalink: Xcovert-cursing
 title: covert-cursing
 ---
 You may also like:

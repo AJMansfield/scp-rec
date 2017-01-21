@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: authenticity-trip
+permalink: Xauthenticity-trip
 title: authenticity-trip
 ---
 You may also like:

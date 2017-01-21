@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: israfil
+permalink: Xisrafil
 title: israfil
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: links
+permalink: Xlinks
 title: links
 ---
 You may also like:

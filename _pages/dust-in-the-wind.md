@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: dust-in-the-wind
+permalink: Xdust-in-the-wind
 title: dust-in-the-wind
 ---
 You may also like:

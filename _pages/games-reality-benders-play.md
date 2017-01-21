@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: games-reality-benders-play
+permalink: Xgames-reality-benders-play
 title: games-reality-benders-play
 ---
 You may also like:

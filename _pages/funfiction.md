@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: funfiction
+permalink: Xfunfiction
 title: funfiction
 ---
 You may also like:

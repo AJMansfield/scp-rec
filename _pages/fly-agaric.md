@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: fly-agaric
+permalink: Xfly-agaric
 title: fly-agaric
 ---
 You may also like:

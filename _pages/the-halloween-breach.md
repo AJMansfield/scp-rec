@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-halloween-breach
+permalink: Xthe-halloween-breach
 title: the-halloween-breach
 ---
 You may also like:

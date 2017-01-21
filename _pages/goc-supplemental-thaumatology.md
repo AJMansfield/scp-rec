@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: goc-supplemental-thaumatology
+permalink: Xgoc-supplemental-thaumatology
 title: goc-supplemental-thaumatology
 ---
 You may also like:

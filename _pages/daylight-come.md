@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: daylight-come
+permalink: Xdaylight-come
 title: daylight-come
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: of-politics
+permalink: Xof-politics
 title: of-politics
 ---
 You may also like:

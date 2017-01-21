@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: exploration-log-record-455-3
+permalink: Xexploration-log-record-455-3
 title: exploration-log-record-455-3
 ---
 You may also like:

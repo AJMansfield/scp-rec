@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-flytrap
+permalink: Xthe-flytrap
 title: the-flytrap
 ---
 You may also like:

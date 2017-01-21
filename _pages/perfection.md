@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: perfection
+permalink: Xperfection
 title: perfection
 ---
 You may also like:

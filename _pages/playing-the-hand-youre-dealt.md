@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: playing-the-hand-youre-dealt
+permalink: Xplaying-the-hand-youre-dealt
 title: playing-the-hand-youre-dealt
 ---
 You may also like:

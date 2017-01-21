@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: tales-of-the-foundation-force-five
+permalink: Xtales-of-the-foundation-force-five
 title: tales-of-the-foundation-force-five
 ---
 You may also like:

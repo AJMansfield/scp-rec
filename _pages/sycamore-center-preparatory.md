@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: sycamore-center-preparatory
+permalink: Xsycamore-center-preparatory
 title: sycamore-center-preparatory
 ---
 You may also like:

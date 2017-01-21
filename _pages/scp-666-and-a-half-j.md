@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: scp-666-and-a-half-j
+permalink: Xscp-666-and-a-half-j
 title: scp-666-and-a-half-j
 ---
 You may also like:

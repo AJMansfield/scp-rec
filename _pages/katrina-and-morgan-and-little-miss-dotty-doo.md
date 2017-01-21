@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: katrina-and-morgan-and-little-miss-dotty-doo
+permalink: Xkatrina-and-morgan-and-little-miss-dotty-doo
 title: katrina-and-morgan-and-little-miss-dotty-doo
 ---
 You may also like:

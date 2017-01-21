@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: acquisitions3
+permalink: Xacquisitions3
 title: acquisitions3
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: spc-169-j
+permalink: Xspc-169-j
 title: spc-169-j
 ---
 You may also like:

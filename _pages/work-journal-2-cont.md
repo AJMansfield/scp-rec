@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: work-journal-2-cont
+permalink: Xwork-journal-2-cont
 title: work-journal-2-cont
 ---
 You may also like:

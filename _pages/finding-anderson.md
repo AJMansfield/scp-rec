@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: finding-anderson
+permalink: Xfinding-anderson
 title: finding-anderson
 ---
 You may also like:

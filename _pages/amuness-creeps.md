@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: amuness-creeps
+permalink: Xamuness-creeps
 title: amuness-creeps
 ---
 You may also like:

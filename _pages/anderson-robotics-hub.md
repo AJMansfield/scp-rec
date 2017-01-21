@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: anderson-robotics-hub
+permalink: Xanderson-robotics-hub
 title: anderson-robotics-hub
 ---
 You may also like:

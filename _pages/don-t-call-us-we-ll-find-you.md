@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: don-t-call-us-we-ll-find-you
+permalink: Xdon-t-call-us-we-ll-find-you
 title: don-t-call-us-we-ll-find-you
 ---
 You may also like:

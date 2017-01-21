@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: dial-s-for-scp
+permalink: Xdial-s-for-scp
 title: dial-s-for-scp
 ---
 You may also like:

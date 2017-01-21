@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: opening-moves
+permalink: Xopening-moves
 title: opening-moves
 ---
 You may also like:

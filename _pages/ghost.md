@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: ghost
+permalink: Xghost
 title: ghost
 ---
 You may also like:

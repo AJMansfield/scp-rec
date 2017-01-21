@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-man-at-the-threshold
+permalink: Xthe-man-at-the-threshold
 title: the-man-at-the-threshold
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: scp-2084-email-correspondence
+permalink: Xscp-2084-email-correspondence
 title: scp-2084-email-correspondence
 ---
 You may also like:

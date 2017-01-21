@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: 1st-cetres-donation
+permalink: X1st-cetres-donation
 title: 1st-cetres-donation
 ---
 You may also like:

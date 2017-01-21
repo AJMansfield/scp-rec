@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: dr-bleeps-author-page
+permalink: Xdr-bleeps-author-page
 title: dr-bleeps-author-page
 ---
 You may also like:

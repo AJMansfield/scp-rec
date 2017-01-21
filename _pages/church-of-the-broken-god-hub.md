@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: church-of-the-broken-god-hub
+permalink: Xchurch-of-the-broken-god-hub
 title: church-of-the-broken-god-hub
 ---
 You may also like:

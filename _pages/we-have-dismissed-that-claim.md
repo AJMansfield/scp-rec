@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: we-have-dismissed-that-claim
+permalink: Xwe-have-dismissed-that-claim
 title: we-have-dismissed-that-claim
 ---
 You may also like:

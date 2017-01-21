@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: dead-end
+permalink: Xdead-end
 title: dead-end
 ---
 You may also like:

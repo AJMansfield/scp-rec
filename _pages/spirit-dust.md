@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: spirit-dust
+permalink: Xspirit-dust
 title: spirit-dust
 ---
 You may also like:

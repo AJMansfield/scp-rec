@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-lord-of-endowments
+permalink: Xthe-lord-of-endowments
 title: the-lord-of-endowments
 ---
 You may also like:

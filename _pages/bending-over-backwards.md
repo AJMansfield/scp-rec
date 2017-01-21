@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: bending-over-backwards
+permalink: Xbending-over-backwards
 title: bending-over-backwards
 ---
 You may also like:

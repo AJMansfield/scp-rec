@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: cryogenchaos-comment-tales
+permalink: Xcryogenchaos-comment-tales
 title: cryogenchaos-comment-tales
 ---
 You may also like:

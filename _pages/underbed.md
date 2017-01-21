@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: underbed
+permalink: Xunderbed
 title: underbed
 ---
 You may also like:

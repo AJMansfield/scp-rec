@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: eulogies
+permalink: Xeulogies
 title: eulogies
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: busy-office-bees
+permalink: Xbusy-office-bees
 title: busy-office-bees
 ---
 You may also like:

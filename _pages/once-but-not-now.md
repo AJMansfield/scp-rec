@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: once-but-not-now
+permalink: Xonce-but-not-now
 title: once-but-not-now
 ---
 You may also like:

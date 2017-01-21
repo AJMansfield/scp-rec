@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: scp-212-upgrade-log
+permalink: Xscp-212-upgrade-log
 title: scp-212-upgrade-log
 ---
 You may also like:

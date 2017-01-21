@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: scp-857-d
+permalink: Xscp-857-d
 title: scp-857-d
 ---
 You may also like:

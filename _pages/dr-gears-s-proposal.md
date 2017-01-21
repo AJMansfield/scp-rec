@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: dr-gears-s-proposal
+permalink: Xdr-gears-s-proposal
 title: dr-gears-s-proposal
 ---
 You may also like:

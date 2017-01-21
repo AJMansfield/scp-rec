@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: recovered-document-4761-cotbg-82
+permalink: Xrecovered-document-4761-cotbg-82
 title: recovered-document-4761-cotbg-82
 ---
 You may also like:

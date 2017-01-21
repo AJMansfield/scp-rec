@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: histories
+permalink: Xhistories
 title: histories
 ---
 You may also like:

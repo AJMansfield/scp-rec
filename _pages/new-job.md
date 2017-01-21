@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: new-job
+permalink: Xnew-job
 title: new-job
 ---
 You may also like:

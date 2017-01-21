@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: back-into-hell
+permalink: Xback-into-hell
 title: back-into-hell
 ---
 You may also like:

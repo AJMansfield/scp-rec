@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: ghost-stories
+permalink: Xghost-stories
 title: ghost-stories
 ---
 You may also like:

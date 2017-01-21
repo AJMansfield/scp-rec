@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: opening-night
+permalink: Xopening-night
 title: opening-night
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: astronomical
+permalink: Xastronomical
 title: astronomical
 ---
 You may also like:

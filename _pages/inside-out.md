@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: inside-out
+permalink: Xinside-out
 title: inside-out
 ---
 You may also like:

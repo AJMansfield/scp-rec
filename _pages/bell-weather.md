@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: bell-weather
+permalink: Xbell-weather
 title: bell-weather
 ---
 You may also like:

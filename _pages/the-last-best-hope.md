@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-last-best-hope
+permalink: Xthe-last-best-hope
 title: the-last-best-hope
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: scp-cliche-generator
+permalink: Xscp-cliche-generator
 title: scp-cliche-generator
 ---
 You may also like:

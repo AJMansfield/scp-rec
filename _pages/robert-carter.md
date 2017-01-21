@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: robert-carter
+permalink: Xrobert-carter
 title: robert-carter
 ---
 You may also like:

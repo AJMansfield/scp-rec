@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: anime-is-art-too-guys
+permalink: Xanime-is-art-too-guys
 title: anime-is-art-too-guys
 ---
 You may also like:

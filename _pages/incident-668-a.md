@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: incident-668-a
+permalink: Xincident-668-a
 title: incident-668-a
 ---
 You may also like:

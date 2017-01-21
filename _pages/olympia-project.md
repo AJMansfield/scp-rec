@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: olympia-project
+permalink: Xolympia-project
 title: olympia-project
 ---
 You may also like:

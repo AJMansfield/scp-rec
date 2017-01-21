@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: a-s-s-and-other-low-threat-groups-of-interest
+permalink: Xa-s-s-and-other-low-threat-groups-of-interest
 title: a-s-s-and-other-low-threat-groups-of-interest
 ---
 You may also like:

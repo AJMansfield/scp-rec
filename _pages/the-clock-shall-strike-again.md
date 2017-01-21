@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-clock-shall-strike-again
+permalink: Xthe-clock-shall-strike-again
 title: the-clock-shall-strike-again
 ---
 You may also like:

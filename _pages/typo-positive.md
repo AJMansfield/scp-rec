@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: typo-positive
+permalink: Xtypo-positive
 title: typo-positive
 ---
 You may also like:

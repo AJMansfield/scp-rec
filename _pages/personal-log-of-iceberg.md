@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: personal-log-of-iceberg
+permalink: Xpersonal-log-of-iceberg
 title: personal-log-of-iceberg
 ---
 You may also like:

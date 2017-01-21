@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: ears
+permalink: Xears
 title: ears
 ---
 You may also like:

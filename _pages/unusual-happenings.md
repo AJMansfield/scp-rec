@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: unusual-happenings
+permalink: Xunusual-happenings
 title: unusual-happenings
 ---
 You may also like:

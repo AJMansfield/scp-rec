@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: event-log-scp-097
+permalink: Xevent-log-scp-097
 title: event-log-scp-097
 ---
 You may also like:

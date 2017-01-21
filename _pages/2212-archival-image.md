@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: 2212-archival-image
+permalink: X2212-archival-image
 title: 2212-archival-image
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: miss-heir
+permalink: Xmiss-heir
 title: miss-heir
 ---
 You may also like:

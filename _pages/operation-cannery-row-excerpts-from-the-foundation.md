@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: operation-cannery-row-excerpts-from-the-foundation
+permalink: Xoperation-cannery-row-excerpts-from-the-foundation
 title: operation-cannery-row-excerpts-from-the-foundation
 ---
 You may also like:

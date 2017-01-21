@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: don-tworryaboutit
+permalink: Xdon-tworryaboutit
 title: don-tworryaboutit
 ---
 You may also like:

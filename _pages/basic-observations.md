@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: basic-observations
+permalink: Xbasic-observations
 title: basic-observations
 ---
 You may also like:

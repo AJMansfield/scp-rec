@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: little-lost-skip
+permalink: Xlittle-lost-skip
 title: little-lost-skip
 ---
 You may also like:

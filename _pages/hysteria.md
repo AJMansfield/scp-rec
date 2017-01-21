@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: hysteria
+permalink: Xhysteria
 title: hysteria
 ---
 You may also like:

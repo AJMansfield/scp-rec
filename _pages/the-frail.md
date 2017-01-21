@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-frail
+permalink: Xthe-frail
 title: the-frail
 ---
 You may also like:

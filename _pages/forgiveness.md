@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: forgiveness
+permalink: Xforgiveness
 title: forgiveness
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: orientation
+permalink: Xorientation
 title: orientation
 ---
 You may also like:

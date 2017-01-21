@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: belation-in-the-evening
+permalink: Xbelation-in-the-evening
 title: belation-in-the-evening
 ---
 You may also like:

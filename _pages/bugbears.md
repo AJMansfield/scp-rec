@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: bugbears
+permalink: Xbugbears
 title: bugbears
 ---
 You may also like:

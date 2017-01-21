@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-iron-wolf
+permalink: Xthe-iron-wolf
 title: the-iron-wolf
 ---
 You may also like:

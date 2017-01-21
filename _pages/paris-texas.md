@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: paris-texas
+permalink: Xparis-texas
 title: paris-texas
 ---
 You may also like:

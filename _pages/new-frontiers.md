@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: new-frontiers
+permalink: Xnew-frontiers
 title: new-frontiers
 ---
 You may also like:

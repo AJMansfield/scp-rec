@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: scp-006-cu-ex
+permalink: Xscp-006-cu-ex
 title: scp-006-cu-ex
 ---
 You may also like:

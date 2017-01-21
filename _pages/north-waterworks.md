@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: north-waterworks
+permalink: Xnorth-waterworks
 title: north-waterworks
 ---
 You may also like:

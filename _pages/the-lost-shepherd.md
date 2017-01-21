@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-lost-shepherd
+permalink: Xthe-lost-shepherd
 title: the-lost-shepherd
 ---
 You may also like:

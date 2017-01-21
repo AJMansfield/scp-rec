@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: dust
+permalink: Xdust
 title: dust
 ---
 You may also like:

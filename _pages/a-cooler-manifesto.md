@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: a-cooler-manifesto
+permalink: Xa-cooler-manifesto
 title: a-cooler-manifesto
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: harbinger
+permalink: Xharbinger
 title: harbinger
 ---
 You may also like:

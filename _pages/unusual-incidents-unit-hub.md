@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: unusual-incidents-unit-hub
+permalink: Xunusual-incidents-unit-hub
 title: unusual-incidents-unit-hub
 ---
 You may also like:

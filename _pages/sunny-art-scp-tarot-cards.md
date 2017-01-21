@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: sunny-art-scp-tarot-cards
+permalink: Xsunny-art-scp-tarot-cards
 title: sunny-art-scp-tarot-cards
 ---
 You may also like:

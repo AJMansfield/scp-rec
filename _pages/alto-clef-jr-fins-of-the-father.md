@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: alto-clef-jr-fins-of-the-father
+permalink: Xalto-clef-jr-fins-of-the-father
 title: alto-clef-jr-fins-of-the-father
 ---
 You may also like:

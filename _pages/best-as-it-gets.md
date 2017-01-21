@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: best-as-it-gets
+permalink: Xbest-as-it-gets
 title: best-as-it-gets
 ---
 You may also like:

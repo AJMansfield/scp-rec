@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: prometheans
+permalink: Xprometheans
 title: prometheans
 ---
 You may also like:

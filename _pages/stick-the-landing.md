@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: stick-the-landing
+permalink: Xstick-the-landing
 title: stick-the-landing
 ---
 You may also like:

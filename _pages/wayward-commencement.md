@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: wayward-commencement
+permalink: Xwayward-commencement
 title: wayward-commencement
 ---
 You may also like:

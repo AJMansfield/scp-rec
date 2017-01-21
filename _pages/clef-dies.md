@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: clef-dies
+permalink: Xclef-dies
 title: clef-dies
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: joy-to-the-world
+permalink: Xjoy-to-the-world
 title: joy-to-the-world
 ---
 You may also like:

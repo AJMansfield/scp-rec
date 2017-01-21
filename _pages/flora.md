@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: flora
+permalink: Xflora
 title: flora
 ---
 You may also like:

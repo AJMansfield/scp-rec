@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: boxes
+permalink: Xboxes
 title: boxes
 ---
 You may also like:

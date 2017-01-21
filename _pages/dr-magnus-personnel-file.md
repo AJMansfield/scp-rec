@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: dr-magnus-personnel-file
+permalink: Xdr-magnus-personnel-file
 title: dr-magnus-personnel-file
 ---
 You may also like:

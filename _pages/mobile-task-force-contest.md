@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: mobile-task-force-contest
+permalink: Xmobile-task-force-contest
 title: mobile-task-force-contest
 ---
 You may also like:

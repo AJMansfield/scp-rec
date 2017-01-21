@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: canola-oil-panic
+permalink: Xcanola-oil-panic
 title: canola-oil-panic
 ---
 You may also like:

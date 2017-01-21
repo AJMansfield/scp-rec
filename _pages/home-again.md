@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: home-again
+permalink: Xhome-again
 title: home-again
 ---
 You may also like:

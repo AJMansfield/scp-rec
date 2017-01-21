@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: prelude-nobody
+permalink: Xprelude-nobody
 title: prelude-nobody
 ---
 You may also like:

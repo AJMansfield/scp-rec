@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: sunny-s-black-and-white-art
+permalink: Xsunny-s-black-and-white-art
 title: sunny-s-black-and-white-art
 ---
 You may also like:

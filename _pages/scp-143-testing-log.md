@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: scp-143-testing-log
+permalink: Xscp-143-testing-log
 title: scp-143-testing-log
 ---
 You may also like:

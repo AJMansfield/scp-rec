@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: zmax-s-author-page
+permalink: Xzmax-s-author-page
 title: zmax-s-author-page
 ---
 You may also like:

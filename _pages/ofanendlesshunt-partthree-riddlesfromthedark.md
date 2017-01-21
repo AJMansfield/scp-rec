@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: ofanendlesshunt-partthree-riddlesfromthedark
+permalink: Xofanendlesshunt-partthree-riddlesfromthedark
 title: ofanendlesshunt-partthree-riddlesfromthedark
 ---
 You may also like:

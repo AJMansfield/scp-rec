@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: iceberg-puts-135-on-ice
+permalink: Xiceberg-puts-135-on-ice
 title: iceberg-puts-135-on-ice
 ---
 You may also like:

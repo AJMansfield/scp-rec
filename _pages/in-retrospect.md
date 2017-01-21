@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: in-retrospect
+permalink: Xin-retrospect
 title: in-retrospect
 ---
 You may also like:

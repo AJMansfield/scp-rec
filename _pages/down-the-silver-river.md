@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: down-the-silver-river
+permalink: Xdown-the-silver-river
 title: down-the-silver-river
 ---
 You may also like:

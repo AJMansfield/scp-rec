@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: nope-not-typing-all-that
+permalink: Xnope-not-typing-all-that
 title: nope-not-typing-all-that
 ---
 You may also like:

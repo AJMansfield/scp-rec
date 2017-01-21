@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: when-one-reaches-the-end
+permalink: Xwhen-one-reaches-the-end
 title: when-one-reaches-the-end
 ---
 You may also like:

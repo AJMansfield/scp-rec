@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: sede-vacante
+permalink: Xsede-vacante
 title: sede-vacante
 ---
 You may also like:

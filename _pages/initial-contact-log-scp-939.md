@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: initial-contact-log-scp-939
+permalink: Xinitial-contact-log-scp-939
 title: initial-contact-log-scp-939
 ---
 You may also like:

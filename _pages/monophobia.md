@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: monophobia
+permalink: Xmonophobia
 title: monophobia
 ---
 You may also like:

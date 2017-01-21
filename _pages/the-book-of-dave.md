@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-book-of-dave
+permalink: Xthe-book-of-dave
 title: the-book-of-dave
 ---
 You may also like:

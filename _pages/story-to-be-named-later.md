@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: story-to-be-named-later
+permalink: Xstory-to-be-named-later
 title: story-to-be-named-later
 ---
 You may also like:

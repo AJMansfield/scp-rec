@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-wolves-at-the-door
+permalink: Xthe-wolves-at-the-door
 title: the-wolves-at-the-door
 ---
 You may also like:

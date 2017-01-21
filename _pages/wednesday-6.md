@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: wednesday-6
+permalink: Xwednesday-6
 title: wednesday-6
 ---
 You may also like:

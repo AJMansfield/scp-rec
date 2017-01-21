@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-fishman-of-manasquan
+permalink: Xthe-fishman-of-manasquan
 title: the-fishman-of-manasquan
 ---
 You may also like:

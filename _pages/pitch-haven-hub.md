@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: pitch-haven-hub
+permalink: Xpitch-haven-hub
 title: pitch-haven-hub
 ---
 You may also like:

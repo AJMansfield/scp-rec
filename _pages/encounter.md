@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: encounter
+permalink: Xencounter
 title: encounter
 ---
 You may also like:

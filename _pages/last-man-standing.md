@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: last-man-standing
+permalink: Xlast-man-standing
 title: last-man-standing
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: but-when-they-opened-it-they-turned-and-swift
+permalink: Xbut-when-they-opened-it-they-turned-and-swift
 title: but-when-they-opened-it-they-turned-and-swift
 ---
 You may also like:

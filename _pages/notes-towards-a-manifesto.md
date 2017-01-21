@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: notes-towards-a-manifesto
+permalink: Xnotes-towards-a-manifesto
 title: notes-towards-a-manifesto
 ---
 You may also like:

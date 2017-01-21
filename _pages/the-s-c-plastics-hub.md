@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-s-c-plastics-hub
+permalink: Xthe-s-c-plastics-hub
 title: the-s-c-plastics-hub
 ---
 You may also like:

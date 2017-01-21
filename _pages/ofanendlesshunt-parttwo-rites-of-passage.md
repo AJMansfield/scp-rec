@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: ofanendlesshunt-parttwo-rites-of-passage
+permalink: Xofanendlesshunt-parttwo-rites-of-passage
 title: ofanendlesshunt-parttwo-rites-of-passage
 ---
 You may also like:

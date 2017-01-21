@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-stuff-industry-hub
+permalink: Xthe-stuff-industry-hub
 title: the-stuff-industry-hub
 ---
 You may also like:

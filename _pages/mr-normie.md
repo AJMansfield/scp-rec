@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: mr-normie
+permalink: Xmr-normie
 title: mr-normie
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: of-mats-and-masquerades
+permalink: Xof-mats-and-masquerades
 title: of-mats-and-masquerades
 ---
 You may also like:

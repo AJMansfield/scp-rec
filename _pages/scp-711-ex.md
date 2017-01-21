@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: scp-711-ex
+permalink: Xscp-711-ex
 title: scp-711-ex
 ---
 You may also like:

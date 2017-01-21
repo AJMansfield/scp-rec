@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: rascal-one-actual
+permalink: Xrascal-one-actual
 title: rascal-one-actual
 ---
 You may also like:

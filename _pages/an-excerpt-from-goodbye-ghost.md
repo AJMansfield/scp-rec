@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: an-excerpt-from-goodbye-ghost
+permalink: Xan-excerpt-from-goodbye-ghost
 title: an-excerpt-from-goodbye-ghost
 ---
 You may also like:

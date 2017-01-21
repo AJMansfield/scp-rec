@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: brother-s-keeper
+permalink: Xbrother-s-keeper
 title: brother-s-keeper
 ---
 You may also like:

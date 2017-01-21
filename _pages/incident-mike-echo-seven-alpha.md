@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: incident-mike-echo-seven-alpha
+permalink: Xincident-mike-echo-seven-alpha
 title: incident-mike-echo-seven-alpha
 ---
 You may also like:

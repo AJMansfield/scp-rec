@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: goc-supplemental-threat-entities
+permalink: Xgoc-supplemental-threat-entities
 title: goc-supplemental-threat-entities
 ---
 You may also like:

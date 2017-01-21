@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: rising
+permalink: Xrising
 title: rising
 ---
 You may also like:

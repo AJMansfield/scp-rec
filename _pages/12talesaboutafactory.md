@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: 12talesaboutafactory
+permalink: X12talesaboutafactory
 title: 12talesaboutafactory
 ---
 You may also like:

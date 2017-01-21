@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: an-average-life
+permalink: Xan-average-life
 title: an-average-life
 ---
 You may also like:

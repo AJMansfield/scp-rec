@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: a-world-s-legacy
+permalink: Xa-world-s-legacy
 title: a-world-s-legacy
 ---
 You may also like:

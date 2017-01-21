@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: document-348-002
+permalink: Xdocument-348-002
 title: document-348-002
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: detained
+permalink: Xdetained
 title: detained
 ---
 You may also like:

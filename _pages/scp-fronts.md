@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: scp-fronts
+permalink: Xscp-fronts
 title: scp-fronts
 ---
 You may also like:

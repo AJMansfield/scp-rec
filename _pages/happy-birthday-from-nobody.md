@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: happy-birthday-from-nobody
+permalink: Xhappy-birthday-from-nobody
 title: happy-birthday-from-nobody
 ---
 You may also like:

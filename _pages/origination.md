@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: origination
+permalink: Xorigination
 title: origination
 ---
 You may also like:

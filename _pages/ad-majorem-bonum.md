@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: ad-majorem-bonum
+permalink: Xad-majorem-bonum
 title: ad-majorem-bonum
 ---
 You may also like:

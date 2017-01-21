@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: last-meetings
+permalink: Xlast-meetings
 title: last-meetings
 ---
 You may also like:

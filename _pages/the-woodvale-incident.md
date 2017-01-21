@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-woodvale-incident
+permalink: Xthe-woodvale-incident
 title: the-woodvale-incident
 ---
 You may also like:

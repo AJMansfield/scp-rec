@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: classified-and-you
+permalink: Xclassified-and-you
 title: classified-and-you
 ---
 You may also like:

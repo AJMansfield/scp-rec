@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: strangers-of-site-17-part-two
+permalink: Xstrangers-of-site-17-part-two
 title: strangers-of-site-17-part-two
 ---
 You may also like:

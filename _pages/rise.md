@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: rise
+permalink: Xrise
 title: rise
 ---
 You may also like:

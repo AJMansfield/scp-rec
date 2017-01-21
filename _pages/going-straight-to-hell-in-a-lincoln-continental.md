@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: going-straight-to-hell-in-a-lincoln-continental
+permalink: Xgoing-straight-to-hell-in-a-lincoln-continental
 title: going-straight-to-hell-in-a-lincoln-continental
 ---
 You may also like:

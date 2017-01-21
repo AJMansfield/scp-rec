@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: raising-hell
+permalink: Xraising-hell
 title: raising-hell
 ---
 You may also like:

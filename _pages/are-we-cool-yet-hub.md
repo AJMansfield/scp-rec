@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: are-we-cool-yet-hub
+permalink: Xare-we-cool-yet-hub
 title: are-we-cool-yet-hub
 ---
 You may also like:

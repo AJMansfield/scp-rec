@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-gulf
+permalink: Xthe-gulf
 title: the-gulf
 ---
 You may also like:

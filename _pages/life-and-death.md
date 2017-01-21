@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: life-and-death
+permalink: Xlife-and-death
 title: life-and-death
 ---
 You may also like:

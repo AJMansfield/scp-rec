@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: folly
+permalink: Xfolly
 title: folly
 ---
 You may also like:

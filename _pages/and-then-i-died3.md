@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: and-then-i-died3
+permalink: Xand-then-i-died3
 title: and-then-i-died3
 ---
 You may also like:

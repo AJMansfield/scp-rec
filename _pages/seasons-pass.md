@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: seasons-pass
+permalink: Xseasons-pass
 title: seasons-pass
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: wayfarers
+permalink: Xwayfarers
 title: wayfarers
 ---
 You may also like:

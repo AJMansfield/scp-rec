@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-little-lost-dragon
+permalink: Xthe-little-lost-dragon
 title: the-little-lost-dragon
 ---
 You may also like:

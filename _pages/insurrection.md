@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: insurrection
+permalink: Xinsurrection
 title: insurrection
 ---
 You may also like:

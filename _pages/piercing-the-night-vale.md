@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: piercing-the-night-vale
+permalink: Xpiercing-the-night-vale
 title: piercing-the-night-vale
 ---
 You may also like:

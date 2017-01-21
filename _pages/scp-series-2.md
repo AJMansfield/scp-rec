@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: scp-series-2
+permalink: Xscp-series-2
 title: scp-series-2
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: cosmology-through-itself
+permalink: Xcosmology-through-itself
 title: cosmology-through-itself
 ---
 You may also like:

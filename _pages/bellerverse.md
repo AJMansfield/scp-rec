@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: bellerverse
+permalink: Xbellerverse
 title: bellerverse
 ---
 You may also like:

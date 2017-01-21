@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: i-have-something-to-share
+permalink: Xi-have-something-to-share
 title: i-have-something-to-share
 ---
 You may also like:

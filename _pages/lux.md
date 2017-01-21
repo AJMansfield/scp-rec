@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: lux
+permalink: Xlux
 title: lux
 ---
 You may also like:

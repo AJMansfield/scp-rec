@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: loose-ends
+permalink: Xloose-ends
 title: loose-ends
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: psuls-author-page
+permalink: Xpsuls-author-page
 title: psuls-author-page
 ---
 You may also like:

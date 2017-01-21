@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: catch-your-death
+permalink: Xcatch-your-death
 title: catch-your-death
 ---
 You may also like:

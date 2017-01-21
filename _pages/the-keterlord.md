@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-keterlord
+permalink: Xthe-keterlord
 title: the-keterlord
 ---
 You may also like:

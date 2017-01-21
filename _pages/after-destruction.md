@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: after-destruction
+permalink: Xafter-destruction
 title: after-destruction
 ---
 You may also like:

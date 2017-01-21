@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: uncle-teddy
+permalink: Xuncle-teddy
 title: uncle-teddy
 ---
 You may also like:

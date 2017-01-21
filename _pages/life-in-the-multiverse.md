@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: life-in-the-multiverse
+permalink: Xlife-in-the-multiverse
 title: life-in-the-multiverse
 ---
 You may also like:

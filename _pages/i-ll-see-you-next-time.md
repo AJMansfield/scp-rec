@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: i-ll-see-you-next-time
+permalink: Xi-ll-see-you-next-time
 title: i-ll-see-you-next-time
 ---
 You may also like:

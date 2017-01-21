@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-longest-ride
+permalink: Xthe-longest-ride
 title: the-longest-ride
 ---
 You may also like:

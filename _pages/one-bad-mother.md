@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: one-bad-mother
+permalink: Xone-bad-mother
 title: one-bad-mother
 ---
 You may also like:

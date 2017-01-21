@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-giant-at-the-end-of-days
+permalink: Xthe-giant-at-the-end-of-days
 title: the-giant-at-the-end-of-days
 ---
 You may also like:

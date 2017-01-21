@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: memorandum-10-31
+permalink: Xmemorandum-10-31
 title: memorandum-10-31
 ---
 You may also like:

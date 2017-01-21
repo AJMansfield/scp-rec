@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: my-hell
+permalink: Xmy-hell
 title: my-hell
 ---
 You may also like:

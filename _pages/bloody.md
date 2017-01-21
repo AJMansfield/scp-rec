@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: bloody
+permalink: Xbloody
 title: bloody
 ---
 You may also like:

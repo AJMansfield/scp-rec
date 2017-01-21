@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: autocorrect
+permalink: Xautocorrect
 title: autocorrect
 ---
 You may also like:

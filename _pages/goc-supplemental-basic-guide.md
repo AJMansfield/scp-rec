@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: goc-supplemental-basic-guide
+permalink: Xgoc-supplemental-basic-guide
 title: goc-supplemental-basic-guide
 ---
 You may also like:

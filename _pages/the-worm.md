@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-worm
+permalink: Xthe-worm
 title: the-worm
 ---
 You may also like:

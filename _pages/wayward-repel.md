@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: wayward-repel
+permalink: Xwayward-repel
 title: wayward-repel
 ---
 You may also like:

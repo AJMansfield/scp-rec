@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: transcript-found-on-storage-level-b-8
+permalink: Xtranscript-found-on-storage-level-b-8
 title: transcript-found-on-storage-level-b-8
 ---
 You may also like:

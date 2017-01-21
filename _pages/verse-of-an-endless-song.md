@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: verse-of-an-endless-song
+permalink: Xverse-of-an-endless-song
 title: verse-of-an-endless-song
 ---
 You may also like:

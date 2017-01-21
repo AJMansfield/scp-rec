@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: still-in-business
+permalink: Xstill-in-business
 title: still-in-business
 ---
 You may also like:

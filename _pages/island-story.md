@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: island-story
+permalink: Xisland-story
 title: island-story
 ---
 You may also like:

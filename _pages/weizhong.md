@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: weizhong
+permalink: Xweizhong
 title: weizhong
 ---
 You may also like:

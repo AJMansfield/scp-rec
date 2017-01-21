@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: oria-hub
+permalink: Xoria-hub
 title: oria-hub
 ---
 You may also like:

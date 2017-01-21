@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: ch00bakka-personnel-file
+permalink: Xch00bakka-personnel-file
 title: ch00bakka-personnel-file
 ---
 You may also like:

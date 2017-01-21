@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: a-day-of-infamy
+permalink: Xa-day-of-infamy
 title: a-day-of-infamy
 ---
 You may also like:

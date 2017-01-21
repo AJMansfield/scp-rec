@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-lockdown
+permalink: Xthe-lockdown
 title: the-lockdown
 ---
 You may also like:

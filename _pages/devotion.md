@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: devotion
+permalink: Xdevotion
 title: devotion
 ---
 You may also like:

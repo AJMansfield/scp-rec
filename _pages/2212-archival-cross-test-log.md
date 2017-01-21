@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: 2212-archival-cross-test-log
+permalink: X2212-archival-cross-test-log
 title: 2212-archival-cross-test-log
 ---
 You may also like:

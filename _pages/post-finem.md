@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: post-finem
+permalink: Xpost-finem
 title: post-finem
 ---
 You may also like:

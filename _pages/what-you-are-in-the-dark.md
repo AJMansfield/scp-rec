@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: what-you-are-in-the-dark
+permalink: Xwhat-you-are-in-the-dark
 title: what-you-are-in-the-dark
 ---
 You may also like:

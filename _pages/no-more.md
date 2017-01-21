@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: no-more
+permalink: Xno-more
 title: no-more
 ---
 You may also like:

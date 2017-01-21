@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: draft-proposal-for-programme-arduinosis-9001
+permalink: Xdraft-proposal-for-programme-arduinosis-9001
 title: draft-proposal-for-programme-arduinosis-9001
 ---
 You may also like:

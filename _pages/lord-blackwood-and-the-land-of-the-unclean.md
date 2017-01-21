@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: lord-blackwood-and-the-land-of-the-unclean
+permalink: Xlord-blackwood-and-the-land-of-the-unclean
 title: lord-blackwood-and-the-land-of-the-unclean
 ---
 You may also like:

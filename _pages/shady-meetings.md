@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: shady-meetings
+permalink: Xshady-meetings
 title: shady-meetings
 ---
 You may also like:

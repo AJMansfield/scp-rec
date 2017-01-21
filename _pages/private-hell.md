@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: private-hell
+permalink: Xprivate-hell
 title: private-hell
 ---
 You may also like:

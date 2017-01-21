@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: christmas-propaganda
+permalink: Xchristmas-propaganda
 title: christmas-propaganda
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-beast-you-ve-made-of-me
+permalink: Xthe-beast-you-ve-made-of-me
 title: the-beast-you-ve-made-of-me
 ---
 You may also like:

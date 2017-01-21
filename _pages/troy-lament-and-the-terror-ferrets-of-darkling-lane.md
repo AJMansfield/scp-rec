@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: troy-lament-and-the-terror-ferrets-of-darkling-lane
+permalink: Xtroy-lament-and-the-terror-ferrets-of-darkling-lane
 title: troy-lament-and-the-terror-ferrets-of-darkling-lane
 ---
 You may also like:

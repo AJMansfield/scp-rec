@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: chains
+permalink: Xchains
 title: chains
 ---
 You may also like:

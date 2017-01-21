@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: rubber-summer
+permalink: Xrubber-summer
 title: rubber-summer
 ---
 You may also like:

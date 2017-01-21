@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: her-masterpiece
+permalink: Xher-masterpiece
 title: her-masterpiece
 ---
 You may also like:

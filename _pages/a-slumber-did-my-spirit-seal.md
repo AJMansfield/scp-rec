@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: a-slumber-did-my-spirit-seal
+permalink: Xa-slumber-did-my-spirit-seal
 title: a-slumber-did-my-spirit-seal
 ---
 You may also like:

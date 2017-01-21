@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: tradition
+permalink: Xtradition
 title: tradition
 ---
 You may also like:

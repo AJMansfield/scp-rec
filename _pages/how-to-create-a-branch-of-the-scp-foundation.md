@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: how-to-create-a-branch-of-the-scp-foundation
+permalink: Xhow-to-create-a-branch-of-the-scp-foundation
 title: how-to-create-a-branch-of-the-scp-foundation
 ---
 You may also like:

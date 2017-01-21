@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: agent-diogenes-personnel-file
+permalink: Xagent-diogenes-personnel-file
 title: agent-diogenes-personnel-file
 ---
 You may also like:

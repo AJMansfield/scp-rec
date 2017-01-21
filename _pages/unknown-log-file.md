@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: unknown-log-file
+permalink: Xunknown-log-file
 title: unknown-log-file
 ---
 You may also like:

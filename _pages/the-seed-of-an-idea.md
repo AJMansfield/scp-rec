@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-seed-of-an-idea
+permalink: Xthe-seed-of-an-idea
 title: the-seed-of-an-idea
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: rules-of-thumb
+permalink: Xrules-of-thumb
 title: rules-of-thumb
 ---
 You may also like:

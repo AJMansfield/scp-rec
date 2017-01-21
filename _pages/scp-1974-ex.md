@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: scp-1974-ex
+permalink: Xscp-1974-ex
 title: scp-1974-ex
 ---
 You may also like:

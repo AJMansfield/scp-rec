@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: scp-scp-033
+permalink: Xscp-scp-033
 title: scp-scp-033
 ---
 You may also like:

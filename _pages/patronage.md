@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: patronage
+permalink: Xpatronage
 title: patronage
 ---
 You may also like:

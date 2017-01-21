@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: goc-supplemental-equipment
+permalink: Xgoc-supplemental-equipment
 title: goc-supplemental-equipment
 ---
 You may also like:

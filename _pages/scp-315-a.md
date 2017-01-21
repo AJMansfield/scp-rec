@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: scp-315-a
+permalink: Xscp-315-a
 title: scp-315-a
 ---
 You may also like:

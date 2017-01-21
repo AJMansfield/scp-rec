@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: sailing-to-gallipoli
+permalink: Xsailing-to-gallipoli
 title: sailing-to-gallipoli
 ---
 You may also like:

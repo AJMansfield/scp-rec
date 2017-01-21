@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-grand-theological-game
+permalink: Xthe-grand-theological-game
 title: the-grand-theological-game
 ---
 You may also like:

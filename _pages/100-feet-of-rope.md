@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: 100-feet-of-rope
+permalink: X100-feet-of-rope
 title: 100-feet-of-rope
 ---
 You may also like:

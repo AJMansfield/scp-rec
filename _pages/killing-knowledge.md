@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: killing-knowledge
+permalink: Xkilling-knowledge
 title: killing-knowledge
 ---
 You may also like:

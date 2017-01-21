@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: hiding-beauty
+permalink: Xhiding-beauty
 title: hiding-beauty
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: memetics-and-infohazards-division-orientation
+permalink: Xmemetics-and-infohazards-division-orientation
 title: memetics-and-infohazards-division-orientation
 ---
 You may also like:

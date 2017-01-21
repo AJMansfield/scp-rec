@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: wills-and-ways-hub
+permalink: Xwills-and-ways-hub
 title: wills-and-ways-hub
 ---
 You may also like:

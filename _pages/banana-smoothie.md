@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: banana-smoothie
+permalink: Xbanana-smoothie
 title: banana-smoothie
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: i-was-not-magnificent
+permalink: Xi-was-not-magnificent
 title: i-was-not-magnificent
 ---
 You may also like:

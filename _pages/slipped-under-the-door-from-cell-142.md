@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: slipped-under-the-door-from-cell-142
+permalink: Xslipped-under-the-door-from-cell-142
 title: slipped-under-the-door-from-cell-142
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: cold
+permalink: Xcold
 title: cold
 ---
 You may also like:

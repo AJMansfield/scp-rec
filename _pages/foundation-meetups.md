@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: foundation-meetups
+permalink: Xfoundation-meetups
 title: foundation-meetups
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: waffling-about
+permalink: Xwaffling-about
 title: waffling-about
 ---
 You may also like:

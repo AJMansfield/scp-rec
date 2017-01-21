@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-little-things-that-count
+permalink: Xthe-little-things-that-count
 title: the-little-things-that-count
 ---
 You may also like:

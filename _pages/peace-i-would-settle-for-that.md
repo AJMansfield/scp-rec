@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: peace-i-would-settle-for-that
+permalink: Xpeace-i-would-settle-for-that
 title: peace-i-would-settle-for-that
 ---
 You may also like:

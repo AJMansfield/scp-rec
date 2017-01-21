@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: intheendfinally
+permalink: Xintheendfinally
 title: intheendfinally
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: rapture
+permalink: Xrapture
 title: rapture
 ---
 You may also like:

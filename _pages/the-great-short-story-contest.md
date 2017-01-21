@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-great-short-story-contest
+permalink: Xthe-great-short-story-contest
 title: the-great-short-story-contest
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: green-pawn
+permalink: Xgreen-pawn
 title: green-pawn
 ---
 You may also like:

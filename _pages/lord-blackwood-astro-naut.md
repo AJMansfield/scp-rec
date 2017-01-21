@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: lord-blackwood-astro-naut
+permalink: Xlord-blackwood-astro-naut
 title: lord-blackwood-astro-naut
 ---
 You may also like:

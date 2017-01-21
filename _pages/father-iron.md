@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: father-iron
+permalink: Xfather-iron
 title: father-iron
 ---
 You may also like:

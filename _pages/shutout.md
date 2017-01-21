@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: shutout
+permalink: Xshutout
 title: shutout
 ---
 You may also like:

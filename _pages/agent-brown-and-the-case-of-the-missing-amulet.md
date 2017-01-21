@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: agent-brown-and-the-case-of-the-missing-amulet
+permalink: Xagent-brown-and-the-case-of-the-missing-amulet
 title: agent-brown-and-the-case-of-the-missing-amulet
 ---
 You may also like:

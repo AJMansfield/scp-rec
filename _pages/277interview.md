@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: 277interview
+permalink: X277interview
 title: 277interview
 ---
 You may also like:

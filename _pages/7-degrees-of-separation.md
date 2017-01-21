@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: 7-degrees-of-separation
+permalink: X7-degrees-of-separation
 title: 7-degrees-of-separation
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: when-in-doubt-poke-it-with-a-stick
+permalink: Xwhen-in-doubt-poke-it-with-a-stick
 title: when-in-doubt-poke-it-with-a-stick
 ---
 You may also like:

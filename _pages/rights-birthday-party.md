@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: rights-birthday-party
+permalink: Xrights-birthday-party
 title: rights-birthday-party
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: domo-arigato
+permalink: Xdomo-arigato
 title: domo-arigato
 ---
 You may also like:

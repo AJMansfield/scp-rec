@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: home-is-a-place-with-mushrooms
+permalink: Xhome-is-a-place-with-mushrooms
 title: home-is-a-place-with-mushrooms
 ---
 You may also like:

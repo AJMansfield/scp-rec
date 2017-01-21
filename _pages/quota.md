@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: quota
+permalink: Xquota
 title: quota
 ---
 You may also like:

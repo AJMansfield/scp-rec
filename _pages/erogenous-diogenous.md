@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: erogenous-diogenous
+permalink: Xerogenous-diogenous
 title: erogenous-diogenous
 ---
 You may also like:

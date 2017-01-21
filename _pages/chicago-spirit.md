@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: chicago-spirit
+permalink: Xchicago-spirit
 title: chicago-spirit
 ---
 You may also like:

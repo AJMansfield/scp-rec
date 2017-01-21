@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: library-gallery-exhibition
+permalink: Xlibrary-gallery-exhibition
 title: library-gallery-exhibition
 ---
 You may also like:

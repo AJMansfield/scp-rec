@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-completely-canonical-story-of-james
+permalink: Xthe-completely-canonical-story-of-james
 title: the-completely-canonical-story-of-james
 ---
 You may also like:

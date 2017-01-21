@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: incident-239-abridged
+permalink: Xincident-239-abridged
 title: incident-239-abridged
 ---
 You may also like:

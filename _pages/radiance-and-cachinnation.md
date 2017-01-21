@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: radiance-and-cachinnation
+permalink: Xradiance-and-cachinnation
 title: radiance-and-cachinnation
 ---
 You may also like:

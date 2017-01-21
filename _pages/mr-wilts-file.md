@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: mr-wilts-file
+permalink: Xmr-wilts-file
 title: mr-wilts-file
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: scp-1162-log
+permalink: Xscp-1162-log
 title: scp-1162-log
 ---
 You may also like:

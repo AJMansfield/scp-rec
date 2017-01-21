@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: misnomer
+permalink: Xmisnomer
 title: misnomer
 ---
 You may also like:

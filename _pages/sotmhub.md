@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: sotmhub
+permalink: Xsotmhub
 title: sotmhub
 ---
 You may also like:

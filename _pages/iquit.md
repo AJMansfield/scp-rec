@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: iquit
+permalink: Xiquit
 title: iquit
 ---
 You may also like:

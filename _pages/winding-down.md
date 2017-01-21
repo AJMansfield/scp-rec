@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: winding-down
+permalink: Xwinding-down
 title: winding-down
 ---
 You may also like:

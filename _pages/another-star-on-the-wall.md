@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: another-star-on-the-wall
+permalink: Xanother-star-on-the-wall
 title: another-star-on-the-wall
 ---
 You may also like:

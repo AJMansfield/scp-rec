@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: extended-scp-420-j-experiment-log
+permalink: Xextended-scp-420-j-experiment-log
 title: extended-scp-420-j-experiment-log
 ---
 You may also like:

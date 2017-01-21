@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: green-thumb
+permalink: Xgreen-thumb
 title: green-thumb
 ---
 You may also like:

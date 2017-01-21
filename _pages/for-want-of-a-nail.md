@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: for-want-of-a-nail
+permalink: Xfor-want-of-a-nail
 title: for-want-of-a-nail
 ---
 You may also like:

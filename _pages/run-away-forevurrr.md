@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: run-away-forevurrr
+permalink: Xrun-away-forevurrr
 title: run-away-forevurrr
 ---
 You may also like:

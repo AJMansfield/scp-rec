@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: broken-faith
+permalink: Xbroken-faith
 title: broken-faith
 ---
 You may also like:

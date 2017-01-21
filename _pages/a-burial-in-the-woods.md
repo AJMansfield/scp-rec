@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: a-burial-in-the-woods
+permalink: Xa-burial-in-the-woods
 title: a-burial-in-the-woods
 ---
 You may also like:

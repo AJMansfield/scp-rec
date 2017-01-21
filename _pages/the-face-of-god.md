@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-face-of-god
+permalink: Xthe-face-of-god
 title: the-face-of-god
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-friday-exhibition
+permalink: Xthe-friday-exhibition
 title: the-friday-exhibition
 ---
 You may also like:

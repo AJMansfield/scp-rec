@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: follow-the-keter
+permalink: Xfollow-the-keter
 title: follow-the-keter
 ---
 You may also like:

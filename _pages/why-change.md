@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: why-change
+permalink: Xwhy-change
 title: why-change
 ---
 You may also like:

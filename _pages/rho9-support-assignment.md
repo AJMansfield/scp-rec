@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: rho9-support-assignment
+permalink: Xrho9-support-assignment
 title: rho9-support-assignment
 ---
 You may also like:

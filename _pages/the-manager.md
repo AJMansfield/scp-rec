@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-manager
+permalink: Xthe-manager
 title: the-manager
 ---
 You may also like:

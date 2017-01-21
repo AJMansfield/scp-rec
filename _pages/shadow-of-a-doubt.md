@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: shadow-of-a-doubt
+permalink: Xshadow-of-a-doubt
 title: shadow-of-a-doubt
 ---
 You may also like:

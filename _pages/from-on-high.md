@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: from-on-high
+permalink: Xfrom-on-high
 title: from-on-high
 ---
 You may also like:

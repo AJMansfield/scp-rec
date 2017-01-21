@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: psychiatric-profile-for-researcher-lee-byron
+permalink: Xpsychiatric-profile-for-researcher-lee-byron
 title: psychiatric-profile-for-researcher-lee-byron
 ---
 You may also like:

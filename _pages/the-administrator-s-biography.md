@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-administrator-s-biography
+permalink: Xthe-administrator-s-biography
 title: the-administrator-s-biography
 ---
 You may also like:

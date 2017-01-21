@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: take-on-me
+permalink: Xtake-on-me
 title: take-on-me
 ---
 You may also like:

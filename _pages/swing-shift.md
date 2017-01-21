@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: swing-shift
+permalink: Xswing-shift
 title: swing-shift
 ---
 You may also like:

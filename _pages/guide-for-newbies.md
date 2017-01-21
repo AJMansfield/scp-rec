@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: guide-for-newbies
+permalink: Xguide-for-newbies
 title: guide-for-newbies
 ---
 You may also like:

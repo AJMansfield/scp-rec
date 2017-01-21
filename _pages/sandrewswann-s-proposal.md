@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: sandrewswann-s-proposal
+permalink: Xsandrewswann-s-proposal
 title: sandrewswann-s-proposal
 ---
 You may also like:

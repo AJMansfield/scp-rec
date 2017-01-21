@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: surgery
+permalink: Xsurgery
 title: surgery
 ---
 You may also like:

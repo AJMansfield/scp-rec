@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: wayfarers-hub
+permalink: Xwayfarers-hub
 title: wayfarers-hub
 ---
 You may also like:

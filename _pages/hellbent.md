@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: hellbent
+permalink: Xhellbent
 title: hellbent
 ---
 You may also like:

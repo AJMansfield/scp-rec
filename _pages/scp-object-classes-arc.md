@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: scp-object-classes-arc
+permalink: Xscp-object-classes-arc
 title: scp-object-classes-arc
 ---
 You may also like:

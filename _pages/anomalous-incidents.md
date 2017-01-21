@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: anomalous-incidents
+permalink: Xanomalous-incidents
 title: anomalous-incidents
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: scp-1348-icl-8
+permalink: Xscp-1348-icl-8
 title: scp-1348-icl-8
 ---
 You may also like:

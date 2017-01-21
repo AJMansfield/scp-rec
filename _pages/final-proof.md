@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: final-proof
+permalink: Xfinal-proof
 title: final-proof
 ---
 You may also like:

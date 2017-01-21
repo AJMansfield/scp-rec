@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: and-the-winner-is
+permalink: Xand-the-winner-is
 title: and-the-winner-is
 ---
 You may also like:

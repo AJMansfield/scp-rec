@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: pitchmeet
+permalink: Xpitchmeet
 title: pitchmeet
 ---
 You may also like:

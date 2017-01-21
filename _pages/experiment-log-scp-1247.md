@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: experiment-log-scp-1247
+permalink: Xexperiment-log-scp-1247
 title: experiment-log-scp-1247
 ---
 You may also like:

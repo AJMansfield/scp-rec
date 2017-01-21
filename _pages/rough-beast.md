@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: rough-beast
+permalink: Xrough-beast
 title: rough-beast
 ---
 You may also like:

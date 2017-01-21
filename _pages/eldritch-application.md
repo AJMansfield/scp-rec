@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: eldritch-application
+permalink: Xeldritch-application
 title: eldritch-application
 ---
 You may also like:

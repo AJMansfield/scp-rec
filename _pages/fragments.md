@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: fragments
+permalink: Xfragments
 title: fragments
 ---
 You may also like:

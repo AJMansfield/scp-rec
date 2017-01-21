@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: nonpareil
+permalink: Xnonpareil
 title: nonpareil
 ---
 You may also like:

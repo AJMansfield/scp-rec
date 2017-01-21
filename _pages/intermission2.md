@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: intermission2
+permalink: Xintermission2
 title: intermission2
 ---
 You may also like:

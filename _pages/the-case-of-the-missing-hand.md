@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-case-of-the-missing-hand
+permalink: Xthe-case-of-the-missing-hand
 title: the-case-of-the-missing-hand
 ---
 You may also like:

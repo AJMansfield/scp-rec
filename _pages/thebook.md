@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: thebook
+permalink: Xthebook
 title: thebook
 ---
 You may also like:

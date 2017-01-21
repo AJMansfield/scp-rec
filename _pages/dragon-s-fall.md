@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: dragon-s-fall
+permalink: Xdragon-s-fall
 title: dragon-s-fall
 ---
 You may also like:

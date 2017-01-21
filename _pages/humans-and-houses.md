@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: humans-and-houses
+permalink: Xhumans-and-houses
 title: humans-and-houses
 ---
 You may also like:

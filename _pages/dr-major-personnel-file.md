@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: dr-major-personnel-file
+permalink: Xdr-major-personnel-file
 title: dr-major-personnel-file
 ---
 You may also like:

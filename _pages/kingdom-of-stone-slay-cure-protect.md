@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: kingdom-of-stone-slay-cure-protect
+permalink: Xkingdom-of-stone-slay-cure-protect
 title: kingdom-of-stone-slay-cure-protect
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: gate-of-janus
+permalink: Xgate-of-janus
 title: gate-of-janus
 ---
 You may also like:

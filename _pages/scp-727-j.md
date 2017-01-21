@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: scp-727-j
+permalink: Xscp-727-j
 title: scp-727-j
 ---
 You may also like:

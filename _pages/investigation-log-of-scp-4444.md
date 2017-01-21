@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: investigation-log-of-scp-4444
+permalink: Xinvestigation-log-of-scp-4444
 title: investigation-log-of-scp-4444
 ---
 You may also like:

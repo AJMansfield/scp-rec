@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: test-log-1825-01
+permalink: Xtest-log-1825-01
 title: test-log-1825-01
 ---
 You may also like:

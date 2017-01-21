@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: faith
+permalink: Xfaith
 title: faith
 ---
 You may also like:

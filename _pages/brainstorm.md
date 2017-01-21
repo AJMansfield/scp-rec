@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: brainstorm
+permalink: Xbrainstorm
 title: brainstorm
 ---
 You may also like:

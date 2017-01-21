@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: my-beloved-gecko
+permalink: Xmy-beloved-gecko
 title: my-beloved-gecko
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-diary-of-an-author
+permalink: Xthe-diary-of-an-author
 title: the-diary-of-an-author
 ---
 You may also like:

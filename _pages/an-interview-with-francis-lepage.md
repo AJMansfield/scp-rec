@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: an-interview-with-francis-lepage
+permalink: Xan-interview-with-francis-lepage
 title: an-interview-with-francis-lepage
 ---
 You may also like:

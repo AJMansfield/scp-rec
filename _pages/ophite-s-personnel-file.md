@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: ophite-s-personnel-file
+permalink: Xophite-s-personnel-file
 title: ophite-s-personnel-file
 ---
 You may also like:

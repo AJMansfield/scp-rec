@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: memorandum-321-regarding-project-707
+permalink: Xmemorandum-321-regarding-project-707
 title: memorandum-321-regarding-project-707
 ---
 You may also like:

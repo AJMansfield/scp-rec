@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: arbitrary-darkness
+permalink: Xarbitrary-darkness
 title: arbitrary-darkness
 ---
 You may also like:

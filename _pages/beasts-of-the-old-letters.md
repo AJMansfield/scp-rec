@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: beasts-of-the-old-letters
+permalink: Xbeasts-of-the-old-letters
 title: beasts-of-the-old-letters
 ---
 You may also like:

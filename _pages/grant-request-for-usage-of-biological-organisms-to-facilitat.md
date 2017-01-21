@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: grant-request-for-usage-of-biological-organisms-to-facilitat
+permalink: Xgrant-request-for-usage-of-biological-organisms-to-facilitat
 title: grant-request-for-usage-of-biological-organisms-to-facilitat
 ---
 You may also like:

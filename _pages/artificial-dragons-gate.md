@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: artificial-dragons-gate
+permalink: Xartificial-dragons-gate
 title: artificial-dragons-gate
 ---
 You may also like:

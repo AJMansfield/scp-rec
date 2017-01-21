@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: a-keter-kinda-christmas
+permalink: Xa-keter-kinda-christmas
 title: a-keter-kinda-christmas
 ---
 You may also like:

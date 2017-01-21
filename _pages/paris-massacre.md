@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: paris-massacre
+permalink: Xparis-massacre
 title: paris-massacre
 ---
 You may also like:

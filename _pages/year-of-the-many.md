@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: year-of-the-many
+permalink: Xyear-of-the-many
 title: year-of-the-many
 ---
 You may also like:

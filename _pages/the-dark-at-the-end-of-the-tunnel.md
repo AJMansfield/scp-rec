@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-dark-at-the-end-of-the-tunnel
+permalink: Xthe-dark-at-the-end-of-the-tunnel
 title: the-dark-at-the-end-of-the-tunnel
 ---
 You may also like:

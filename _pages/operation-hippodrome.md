@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: operation-hippodrome
+permalink: Xoperation-hippodrome
 title: operation-hippodrome
 ---
 You may also like:

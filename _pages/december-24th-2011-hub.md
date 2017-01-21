@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: december-24th-2011-hub
+permalink: Xdecember-24th-2011-hub
 title: december-24th-2011-hub
 ---
 You may also like:

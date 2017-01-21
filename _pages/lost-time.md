@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: lost-time
+permalink: Xlost-time
 title: lost-time
 ---
 You may also like:

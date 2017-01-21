@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: in-other-news
+permalink: Xin-other-news
 title: in-other-news
 ---
 You may also like:

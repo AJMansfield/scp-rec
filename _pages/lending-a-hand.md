@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: lending-a-hand
+permalink: Xlending-a-hand
 title: lending-a-hand
 ---
 You may also like:

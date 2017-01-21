@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: resale-value
+permalink: Xresale-value
 title: resale-value
 ---
 You may also like:

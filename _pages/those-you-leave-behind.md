@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: those-you-leave-behind
+permalink: Xthose-you-leave-behind
 title: those-you-leave-behind
 ---
 You may also like:

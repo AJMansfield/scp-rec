@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: ketergrams
+permalink: Xketergrams
 title: ketergrams
 ---
 You may also like:

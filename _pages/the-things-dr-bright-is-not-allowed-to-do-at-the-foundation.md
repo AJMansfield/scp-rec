@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-things-dr-bright-is-not-allowed-to-do-at-the-foundation
+permalink: Xthe-things-dr-bright-is-not-allowed-to-do-at-the-foundation
 title: the-things-dr-bright-is-not-allowed-to-do-at-the-foundation
 ---
 You may also like:

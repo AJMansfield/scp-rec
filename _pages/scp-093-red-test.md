@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: scp-093-red-test
+permalink: Xscp-093-red-test
 title: scp-093-red-test
 ---
 You may also like:

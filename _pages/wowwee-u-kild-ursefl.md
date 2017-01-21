@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: wowwee-u-kild-ursefl
+permalink: Xwowwee-u-kild-ursefl
 title: wowwee-u-kild-ursefl
 ---
 You may also like:

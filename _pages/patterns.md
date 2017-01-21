@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: patterns
+permalink: Xpatterns
 title: patterns
 ---
 You may also like:

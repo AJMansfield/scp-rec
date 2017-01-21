@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: ell-crailey-s-personnel-file
+permalink: Xell-crailey-s-personnel-file
 title: ell-crailey-s-personnel-file
 ---
 You may also like:

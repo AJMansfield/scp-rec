@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: in-search-of-lost-antigo
+permalink: Xin-search-of-lost-antigo
 title: in-search-of-lost-antigo
 ---
 You may also like:

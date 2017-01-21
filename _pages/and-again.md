@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: and-again
+permalink: Xand-again
 title: and-again
 ---
 You may also like:

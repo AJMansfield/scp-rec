@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: mackenzie-pitfalls
+permalink: Xmackenzie-pitfalls
 title: mackenzie-pitfalls
 ---
 You may also like:

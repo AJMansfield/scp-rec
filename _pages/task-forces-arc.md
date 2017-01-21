@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: task-forces-arc
+permalink: Xtask-forces-arc
 title: task-forces-arc
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: goc-tale-sequence-vigil
+permalink: Xgoc-tale-sequence-vigil
 title: goc-tale-sequence-vigil
 ---
 You may also like:

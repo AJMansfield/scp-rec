@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: key-biscayne
+permalink: Xkey-biscayne
 title: key-biscayne
 ---
 You may also like:

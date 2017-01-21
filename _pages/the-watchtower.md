@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-watchtower
+permalink: Xthe-watchtower
 title: the-watchtower
 ---
 You may also like:

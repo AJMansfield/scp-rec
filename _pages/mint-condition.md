@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: mint-condition
+permalink: Xmint-condition
 title: mint-condition
 ---
 You may also like:

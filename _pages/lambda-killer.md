@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: lambda-killer
+permalink: Xlambda-killer
 title: lambda-killer
 ---
 You may also like:

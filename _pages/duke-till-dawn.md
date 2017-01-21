@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: duke-till-dawn
+permalink: Xduke-till-dawn
 title: duke-till-dawn
 ---
 You may also like:

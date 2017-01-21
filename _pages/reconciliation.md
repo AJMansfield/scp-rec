@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: reconciliation
+permalink: Xreconciliation
 title: reconciliation
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: scp-818-script
+permalink: Xscp-818-script
 title: scp-818-script
 ---
 You may also like:

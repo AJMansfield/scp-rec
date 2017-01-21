@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: it-s-a-mystery-that-you-ll-never-be-discovering
+permalink: Xit-s-a-mystery-that-you-ll-never-be-discovering
 title: it-s-a-mystery-that-you-ll-never-be-discovering
 ---
 You may also like:

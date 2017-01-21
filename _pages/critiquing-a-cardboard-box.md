@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: critiquing-a-cardboard-box
+permalink: Xcritiquing-a-cardboard-box
 title: critiquing-a-cardboard-box
 ---
 You may also like:

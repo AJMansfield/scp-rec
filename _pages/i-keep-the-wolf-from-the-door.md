@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: i-keep-the-wolf-from-the-door
+permalink: Xi-keep-the-wolf-from-the-door
 title: i-keep-the-wolf-from-the-door
 ---
 You may also like:

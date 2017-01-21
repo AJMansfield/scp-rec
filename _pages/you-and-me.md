@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: you-and-me
+permalink: Xyou-and-me
 title: you-and-me
 ---
 You may also like:

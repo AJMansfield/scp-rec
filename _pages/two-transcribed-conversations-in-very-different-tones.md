@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: two-transcribed-conversations-in-very-different-tones
+permalink: Xtwo-transcribed-conversations-in-very-different-tones
 title: two-transcribed-conversations-in-very-different-tones
 ---
 You may also like:

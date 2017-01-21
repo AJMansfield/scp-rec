@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: urban-legends
+permalink: Xurban-legends
 title: urban-legends
 ---
 You may also like:

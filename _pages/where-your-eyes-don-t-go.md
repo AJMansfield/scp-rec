@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: where-your-eyes-don-t-go
+permalink: Xwhere-your-eyes-don-t-go
 title: where-your-eyes-don-t-go
 ---
 You may also like:

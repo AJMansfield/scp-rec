@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: wrongjohnsilver-s-author-page
+permalink: Xwrongjohnsilver-s-author-page
 title: wrongjohnsilver-s-author-page
 ---
 You may also like:

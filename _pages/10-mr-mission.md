@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: 10-mr-mission
+permalink: X10-mr-mission
 title: 10-mr-mission
 ---
 You may also like:

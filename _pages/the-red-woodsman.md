@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-red-woodsman
+permalink: Xthe-red-woodsman
 title: the-red-woodsman
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: skitter-marshall
+permalink: Xskitter-marshall
 title: skitter-marshall
 ---
 You may also like:

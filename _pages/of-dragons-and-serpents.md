@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: of-dragons-and-serpents
+permalink: Xof-dragons-and-serpents
 title: of-dragons-and-serpents
 ---
 You may also like:

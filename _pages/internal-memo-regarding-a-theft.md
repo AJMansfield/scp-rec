@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: internal-memo-regarding-a-theft
+permalink: Xinternal-memo-regarding-a-theft
 title: internal-memo-regarding-a-theft
 ---
 You may also like:

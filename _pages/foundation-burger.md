@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: foundation-burger
+permalink: Xfoundation-burger
 title: foundation-burger
 ---
 You may also like:

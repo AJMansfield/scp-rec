@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: and-then-what-happened
+permalink: Xand-then-what-happened
 title: and-then-what-happened
 ---
 You may also like:

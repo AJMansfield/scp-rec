@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: theres-an-app-for-that
+permalink: Xtheres-an-app-for-that
 title: theres-an-app-for-that
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: hello-world
+permalink: Xhello-world
 title: hello-world
 ---
 You may also like:

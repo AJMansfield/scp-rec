@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: to-what-purpose-an-invasion
+permalink: Xto-what-purpose-an-invasion
 title: to-what-purpose-an-invasion
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: holy-war
+permalink: Xholy-war
 title: holy-war
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: code-name-the-truth
+permalink: Xcode-name-the-truth
 title: code-name-the-truth
 ---
 You may also like:

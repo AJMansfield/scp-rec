@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: reality-check
+permalink: Xreality-check
 title: reality-check
 ---
 You may also like:

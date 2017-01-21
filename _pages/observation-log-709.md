@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: observation-log-709
+permalink: Xobservation-log-709
 title: observation-log-709
 ---
 You may also like:

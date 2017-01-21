@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: clock-is-ticking
+permalink: Xclock-is-ticking
 title: clock-is-ticking
 ---
 You may also like:

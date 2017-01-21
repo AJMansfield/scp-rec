@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: little-ones
+permalink: Xlittle-ones
 title: little-ones
 ---
 You may also like:

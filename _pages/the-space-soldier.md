@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-space-soldier
+permalink: Xthe-space-soldier
 title: the-space-soldier
 ---
 You may also like:

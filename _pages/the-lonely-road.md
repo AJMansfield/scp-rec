@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-lonely-road
+permalink: Xthe-lonely-road
 title: the-lonely-road
 ---
 You may also like:

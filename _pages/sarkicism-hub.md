@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: sarkicism-hub
+permalink: Xsarkicism-hub
 title: sarkicism-hub
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: termination-log-scp-1016
+permalink: Xtermination-log-scp-1016
 title: termination-log-scp-1016
 ---
 You may also like:

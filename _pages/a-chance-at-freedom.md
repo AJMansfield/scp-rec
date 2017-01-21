@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: a-chance-at-freedom
+permalink: Xa-chance-at-freedom
 title: a-chance-at-freedom
 ---
 You may also like:

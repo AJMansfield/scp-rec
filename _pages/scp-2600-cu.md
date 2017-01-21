@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: scp-2600-cu
+permalink: Xscp-2600-cu
 title: scp-2600-cu
 ---
 You may also like:

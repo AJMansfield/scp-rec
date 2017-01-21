@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: thinking-knowing-living
+permalink: Xthinking-knowing-living
 title: thinking-knowing-living
 ---
 You may also like:

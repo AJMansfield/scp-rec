@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: operation-azure-peregrine
+permalink: Xoperation-azure-peregrine
 title: operation-azure-peregrine
 ---
 You may also like:

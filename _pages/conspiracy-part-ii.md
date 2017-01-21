@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: conspiracy-part-ii
+permalink: Xconspiracy-part-ii
 title: conspiracy-part-ii
 ---
 You may also like:

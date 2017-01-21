@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: setting-the-stage
+permalink: Xsetting-the-stage
 title: setting-the-stage
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: fields-of-green
+permalink: Xfields-of-green
 title: fields-of-green
 ---
 You may also like:

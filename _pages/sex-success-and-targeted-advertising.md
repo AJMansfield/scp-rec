@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: sex-success-and-targeted-advertising
+permalink: Xsex-success-and-targeted-advertising
 title: sex-success-and-targeted-advertising
 ---
 You may also like:

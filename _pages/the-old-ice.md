@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-old-ice
+permalink: Xthe-old-ice
 title: the-old-ice
 ---
 You may also like:

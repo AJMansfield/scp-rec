@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: gears-is-totally-not-a-robot-guys
+permalink: Xgears-is-totally-not-a-robot-guys
 title: gears-is-totally-not-a-robot-guys
 ---
 You may also like:

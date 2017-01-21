@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-rotting-man-of-stalingrad
+permalink: Xthe-rotting-man-of-stalingrad
 title: the-rotting-man-of-stalingrad
 ---
 You may also like:

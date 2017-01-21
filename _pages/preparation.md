@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: preparation
+permalink: Xpreparation
 title: preparation
 ---
 You may also like:

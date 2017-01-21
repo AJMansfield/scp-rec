@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: rex-sponge-s-revealing-revelations
+permalink: Xrex-sponge-s-revealing-revelations
 title: rex-sponge-s-revealing-revelations
 ---
 You may also like:

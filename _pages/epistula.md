@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: epistula
+permalink: Xepistula
 title: epistula
 ---
 You may also like:

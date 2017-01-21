@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-cool-kids
+permalink: Xthe-cool-kids
 title: the-cool-kids
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: long-live-the-king
+permalink: Xlong-live-the-king
 title: long-live-the-king
 ---
 You may also like:

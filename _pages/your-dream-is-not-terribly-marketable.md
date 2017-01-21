@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: your-dream-is-not-terribly-marketable
+permalink: Xyour-dream-is-not-terribly-marketable
 title: your-dream-is-not-terribly-marketable
 ---
 You may also like:

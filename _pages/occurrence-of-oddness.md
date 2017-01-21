@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: occurrence-of-oddness
+permalink: Xoccurrence-of-oddness
 title: occurrence-of-oddness
 ---
 You may also like:

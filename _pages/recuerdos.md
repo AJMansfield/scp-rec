@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: recuerdos
+permalink: Xrecuerdos
 title: recuerdos
 ---
 You may also like:

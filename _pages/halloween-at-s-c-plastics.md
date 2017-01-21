@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: halloween-at-s-c-plastics
+permalink: Xhalloween-at-s-c-plastics
 title: halloween-at-s-c-plastics
 ---
 You may also like:

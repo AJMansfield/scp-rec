@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: ofanendlesshunt-partfour-livingthroughshatteredglass
+permalink: Xofanendlesshunt-partfour-livingthroughshatteredglass
 title: ofanendlesshunt-partfour-livingthroughshatteredglass
 ---
 You may also like:

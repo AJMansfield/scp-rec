@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-special-bond-between-child-and-mother
+permalink: Xthe-special-bond-between-child-and-mother
 title: the-special-bond-between-child-and-mother
 ---
 You may also like:

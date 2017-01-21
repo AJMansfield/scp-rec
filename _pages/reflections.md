@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: reflections
+permalink: Xreflections
 title: reflections
 ---
 You may also like:

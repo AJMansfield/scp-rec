@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: a-lack-of-proper-procedure
+permalink: Xa-lack-of-proper-procedure
 title: a-lack-of-proper-procedure
 ---
 You may also like:

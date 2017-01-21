@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: account-of-a-hiking-trip
+permalink: Xaccount-of-a-hiking-trip
 title: account-of-a-hiking-trip
 ---
 You may also like:

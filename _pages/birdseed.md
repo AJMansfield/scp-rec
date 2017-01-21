@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: birdseed
+permalink: Xbirdseed
 title: birdseed
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: roget-s-proposal
+permalink: Xroget-s-proposal
 title: roget-s-proposal
 ---
 You may also like:

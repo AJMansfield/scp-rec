@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: news-update-01
+permalink: Xnews-update-01
 title: news-update-01
 ---
 You may also like:

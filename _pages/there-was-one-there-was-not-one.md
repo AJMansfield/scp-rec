@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: there-was-one-there-was-not-one
+permalink: Xthere-was-one-there-was-not-one
 title: there-was-one-there-was-not-one
 ---
 You may also like:

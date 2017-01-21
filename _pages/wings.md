@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: wings
+permalink: Xwings
 title: wings
 ---
 You may also like:

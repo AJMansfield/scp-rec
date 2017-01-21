@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: old-faithful
+permalink: Xold-faithful
 title: old-faithful
 ---
 You may also like:

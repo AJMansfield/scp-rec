@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: chasing-tails
+permalink: Xchasing-tails
 title: chasing-tails
 ---
 You may also like:

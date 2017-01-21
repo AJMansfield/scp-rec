@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: doctor-s-s-personnel-file
+permalink: Xdoctor-s-s-personnel-file
 title: doctor-s-s-personnel-file
 ---
 You may also like:

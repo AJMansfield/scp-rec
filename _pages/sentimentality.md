@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: sentimentality
+permalink: Xsentimentality
 title: sentimentality
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: tuesday-11am-conference-room-three
+permalink: Xtuesday-11am-conference-room-three
 title: tuesday-11am-conference-room-three
 ---
 You may also like:

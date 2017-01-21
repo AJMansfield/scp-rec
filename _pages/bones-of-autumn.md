@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: bones-of-autumn
+permalink: Xbones-of-autumn
 title: bones-of-autumn
 ---
 You may also like:

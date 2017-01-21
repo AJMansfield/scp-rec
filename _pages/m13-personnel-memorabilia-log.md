@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: m13-personnel-memorabilia-log
+permalink: Xm13-personnel-memorabilia-log
 title: m13-personnel-memorabilia-log
 ---
 You may also like:

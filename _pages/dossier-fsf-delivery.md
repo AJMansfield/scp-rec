@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: dossier-fsf-delivery
+permalink: Xdossier-fsf-delivery
 title: dossier-fsf-delivery
 ---
 You may also like:

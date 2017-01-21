@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: unusual
+permalink: Xunusual
 title: unusual
 ---
 You may also like:

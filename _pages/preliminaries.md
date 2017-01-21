@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: preliminaries
+permalink: Xpreliminaries
 title: preliminaries
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: scp-728-arc
+permalink: Xscp-728-arc
 title: scp-728-arc
 ---
 You may also like:

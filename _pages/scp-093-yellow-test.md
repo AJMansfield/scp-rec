@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: scp-093-yellow-test
+permalink: Xscp-093-yellow-test
 title: scp-093-yellow-test
 ---
 You may also like:

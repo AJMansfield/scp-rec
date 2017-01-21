@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: shark-tale
+permalink: Xshark-tale
 title: shark-tale
 ---
 You may also like:

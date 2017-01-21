@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: paddy-s-last-jest
+permalink: Xpaddy-s-last-jest
 title: paddy-s-last-jest
 ---
 You may also like:

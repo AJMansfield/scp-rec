@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: bicentennial
+permalink: Xbicentennial
 title: bicentennial
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: routine
+permalink: Xroutine
 title: routine
 ---
 You may also like:

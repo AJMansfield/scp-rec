@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: shellfish-for-breakfast
+permalink: Xshellfish-for-breakfast
 title: shellfish-for-breakfast
 ---
 You may also like:

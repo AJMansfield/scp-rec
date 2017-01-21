@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: an-incredibly-important-announcement
+permalink: Xan-incredibly-important-announcement
 title: an-incredibly-important-announcement
 ---
 You may also like:

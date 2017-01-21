@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: scpoems
+permalink: Xscpoems
 title: scpoems
 ---
 You may also like:

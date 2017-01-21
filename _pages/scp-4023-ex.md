@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: scp-4023-ex
+permalink: Xscp-4023-ex
 title: scp-4023-ex
 ---
 You may also like:

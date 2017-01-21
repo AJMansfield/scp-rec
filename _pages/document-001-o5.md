@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: document-001-o5
+permalink: Xdocument-001-o5
 title: document-001-o5
 ---
 You may also like:

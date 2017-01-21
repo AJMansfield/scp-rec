@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: dr-l-goose-personnel-file
+permalink: Xdr-l-goose-personnel-file
 title: dr-l-goose-personnel-file
 ---
 You may also like:

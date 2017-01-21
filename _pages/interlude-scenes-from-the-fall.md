@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: interlude-scenes-from-the-fall
+permalink: Xinterlude-scenes-from-the-fall
 title: interlude-scenes-from-the-fall
 ---
 You may also like:

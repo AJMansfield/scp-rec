@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: fire
+permalink: Xfire
 title: fire
 ---
 You may also like:

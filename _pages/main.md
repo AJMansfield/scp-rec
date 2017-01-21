@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: main
+permalink: Xmain
 title: main
 ---
 You may also like:

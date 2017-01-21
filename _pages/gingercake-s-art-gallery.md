@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: gingercake-s-art-gallery
+permalink: Xgingercake-s-art-gallery
 title: gingercake-s-art-gallery
 ---
 You may also like:

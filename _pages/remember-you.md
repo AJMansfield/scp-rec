@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: remember-you
+permalink: Xremember-you
 title: remember-you
 ---
 You may also like:

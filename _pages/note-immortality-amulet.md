@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: note-immortality-amulet
+permalink: Xnote-immortality-amulet
 title: note-immortality-amulet
 ---
 You may also like:

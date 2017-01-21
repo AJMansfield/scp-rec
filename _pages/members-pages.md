@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: members-pages
+permalink: Xmembers-pages
 title: members-pages
 ---
 You may also like:

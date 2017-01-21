@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: another-boring-day
+permalink: Xanother-boring-day
 title: another-boring-day
 ---
 You may also like:

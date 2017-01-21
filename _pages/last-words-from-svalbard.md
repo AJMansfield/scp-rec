@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: last-words-from-svalbard
+permalink: Xlast-words-from-svalbard
 title: last-words-from-svalbard
 ---
 You may also like:

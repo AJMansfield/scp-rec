@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: djoric-dmatix-proposal
+permalink: Xdjoric-dmatix-proposal
 title: djoric-dmatix-proposal
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: unusual-incident-units-case-files-classified
+permalink: Xunusual-incident-units-case-files-classified
 title: unusual-incident-units-case-files-classified
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-other-side
+permalink: Xthe-other-side
 title: the-other-side
 ---
 You may also like:

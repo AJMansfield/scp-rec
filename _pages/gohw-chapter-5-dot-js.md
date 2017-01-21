@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: gohw-chapter-5-dot-js
+permalink: Xgohw-chapter-5-dot-js
 title: gohw-chapter-5-dot-js
 ---
 You may also like:

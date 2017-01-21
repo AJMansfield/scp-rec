@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: snipped-from-the-same-cloth
+permalink: Xsnipped-from-the-same-cloth
 title: snipped-from-the-same-cloth
 ---
 You may also like:

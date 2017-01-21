@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: play
+permalink: Xplay
 title: play
 ---
 You may also like:

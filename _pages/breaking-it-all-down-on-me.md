@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: breaking-it-all-down-on-me
+permalink: Xbreaking-it-all-down-on-me
 title: breaking-it-all-down-on-me
 ---
 You may also like:

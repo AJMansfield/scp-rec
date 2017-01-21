@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: birth-of-an-angel
+permalink: Xbirth-of-an-angel
 title: birth-of-an-angel
 ---
 You may also like:

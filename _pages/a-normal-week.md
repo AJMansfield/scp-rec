@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: a-normal-week
+permalink: Xa-normal-week
 title: a-normal-week
 ---
 You may also like:

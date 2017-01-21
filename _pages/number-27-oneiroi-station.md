@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: number-27-oneiroi-station
+permalink: Xnumber-27-oneiroi-station
 title: number-27-oneiroi-station
 ---
 You may also like:

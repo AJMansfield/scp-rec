@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: tag-search
+permalink: Xtag-search
 title: tag-search
 ---
 You may also like:

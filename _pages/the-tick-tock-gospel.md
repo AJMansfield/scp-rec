@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-tick-tock-gospel
+permalink: Xthe-tick-tock-gospel
 title: the-tick-tock-gospel
 ---
 You may also like:

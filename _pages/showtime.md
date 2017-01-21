@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: showtime
+permalink: Xshowtime
 title: showtime
 ---
 You may also like:

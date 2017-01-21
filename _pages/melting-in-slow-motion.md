@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: melting-in-slow-motion
+permalink: Xmelting-in-slow-motion
 title: melting-in-slow-motion
 ---
 You may also like:

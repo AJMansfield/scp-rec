@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: novel-cultivars
+permalink: Xnovel-cultivars
 title: novel-cultivars
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: f-u-b-a-r
+permalink: Xf-u-b-a-r
 title: f-u-b-a-r
 ---
 You may also like:

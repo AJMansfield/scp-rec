@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: orgy-5-counsel-9
+permalink: Xorgy-5-counsel-9
 title: orgy-5-counsel-9
 ---
 You may also like:

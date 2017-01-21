@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: heritage-collection
+permalink: Xheritage-collection
 title: heritage-collection
 ---
 You may also like:

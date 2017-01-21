@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: how-to-debate-an-armchair
+permalink: Xhow-to-debate-an-armchair
 title: how-to-debate-an-armchair
 ---
 You may also like:

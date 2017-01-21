@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: addressing-the-second
+permalink: Xaddressing-the-second
 title: addressing-the-second
 ---
 You may also like:

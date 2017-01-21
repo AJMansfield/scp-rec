@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: gdp2-angle-of-attack
+permalink: Xgdp2-angle-of-attack
 title: gdp2-angle-of-attack
 ---
 You may also like:

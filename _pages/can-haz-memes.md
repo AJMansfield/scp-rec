@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: can-haz-memes
+permalink: Xcan-haz-memes
 title: can-haz-memes
 ---
 You may also like:

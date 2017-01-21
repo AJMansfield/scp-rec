@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: carlysle-aktus-is-a-prickly-bastard-an-high-school-au
+permalink: Xcarlysle-aktus-is-a-prickly-bastard-an-high-school-au
 title: carlysle-aktus-is-a-prickly-bastard-an-high-school-au
 ---
 You may also like:

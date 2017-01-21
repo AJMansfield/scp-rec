@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: fourth-and-long
+permalink: Xfourth-and-long
 title: fourth-and-long
 ---
 You may also like:

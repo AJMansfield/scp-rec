@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: ecceperago
+permalink: Xecceperago
 title: ecceperago
 ---
 You may also like:

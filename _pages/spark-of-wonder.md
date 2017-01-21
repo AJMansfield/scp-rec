@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: spark-of-wonder
+permalink: Xspark-of-wonder
 title: spark-of-wonder
 ---
 You may also like:

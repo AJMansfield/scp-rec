@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: classicalinterlude
+permalink: Xclassicalinterlude
 title: classicalinterlude
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: database-error
+permalink: Xdatabase-error
 title: database-error
 ---
 You may also like:

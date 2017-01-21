@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: bijhan
+permalink: Xbijhan
 title: bijhan
 ---
 You may also like:

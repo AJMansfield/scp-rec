@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: addendum-2952-a
+permalink: Xaddendum-2952-a
 title: addendum-2952-a
 ---
 You may also like:

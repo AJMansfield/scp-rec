@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: theesherm-s-great-scip-dictations
+permalink: Xtheesherm-s-great-scip-dictations
 title: theesherm-s-great-scip-dictations
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-high-court-with-the-magic-army
+permalink: Xthe-high-court-with-the-magic-army
 title: the-high-court-with-the-magic-army
 ---
 You may also like:

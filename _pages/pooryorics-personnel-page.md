@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: pooryorics-personnel-page
+permalink: Xpooryorics-personnel-page
 title: pooryorics-personnel-page
 ---
 You may also like:

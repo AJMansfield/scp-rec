@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: pawn-to-e4
+permalink: Xpawn-to-e4
 title: pawn-to-e4
 ---
 You may also like:

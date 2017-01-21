@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: scp-1146-testing-log
+permalink: Xscp-1146-testing-log
 title: scp-1146-testing-log
 ---
 You may also like:

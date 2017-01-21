@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: archive-c-424
+permalink: Xarchive-c-424
 title: archive-c-424
 ---
 You may also like:

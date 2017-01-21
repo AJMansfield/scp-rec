@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: its-not-pronounced-like-the-thesaurus-dammit
+permalink: Xits-not-pronounced-like-the-thesaurus-dammit
 title: its-not-pronounced-like-the-thesaurus-dammit
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-peter-paul-parable
+permalink: Xthe-peter-paul-parable
 title: the-peter-paul-parable
 ---
 You may also like:

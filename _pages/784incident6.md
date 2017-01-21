@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: 784incident6
+permalink: X784incident6
 title: 784incident6
 ---
 You may also like:

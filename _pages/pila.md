@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: pila
+permalink: Xpila
 title: pila
 ---
 You may also like:

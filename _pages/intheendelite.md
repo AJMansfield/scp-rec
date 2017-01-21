@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: intheendelite
+permalink: Xintheendelite
 title: intheendelite
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: dr-beedee-s-personnel-file
+permalink: Xdr-beedee-s-personnel-file
 title: dr-beedee-s-personnel-file
 ---
 You may also like:

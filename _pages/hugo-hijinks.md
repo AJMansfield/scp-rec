@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: hugo-hijinks
+permalink: Xhugo-hijinks
 title: hugo-hijinks
 ---
 You may also like:

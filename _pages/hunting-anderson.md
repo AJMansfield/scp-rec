@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: hunting-anderson
+permalink: Xhunting-anderson
 title: hunting-anderson
 ---
 You may also like:

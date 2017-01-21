@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: saturday-night-scp-showdown
+permalink: Xsaturday-night-scp-showdown
 title: saturday-night-scp-showdown
 ---
 You may also like:

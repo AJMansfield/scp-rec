@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: gdp2-the-light-at-the-end-of-the-tunnel
+permalink: Xgdp2-the-light-at-the-end-of-the-tunnel
 title: gdp2-the-light-at-the-end-of-the-tunnel
 ---
 You may also like:

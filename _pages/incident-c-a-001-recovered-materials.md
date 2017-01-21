@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: incident-c-a-001-recovered-materials
+permalink: Xincident-c-a-001-recovered-materials
 title: incident-c-a-001-recovered-materials
 ---
 You may also like:

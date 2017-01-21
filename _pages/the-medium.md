@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-medium
+permalink: Xthe-medium
 title: the-medium
 ---
 You may also like:

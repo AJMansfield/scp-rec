@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: peanuts
+permalink: Xpeanuts
 title: peanuts
 ---
 You may also like:

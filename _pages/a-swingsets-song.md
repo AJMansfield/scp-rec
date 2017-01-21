@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: a-swingsets-song
+permalink: Xa-swingsets-song
 title: a-swingsets-song
 ---
 You may also like:

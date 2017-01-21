@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-island-murder-mystery-show
+permalink: Xthe-island-murder-mystery-show
 title: the-island-murder-mystery-show
 ---
 You may also like:

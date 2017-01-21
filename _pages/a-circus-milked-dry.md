@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: a-circus-milked-dry
+permalink: Xa-circus-milked-dry
 title: a-circus-milked-dry
 ---
 You may also like:

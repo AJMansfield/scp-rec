@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: learning
+permalink: Xlearning
 title: learning
 ---
 You may also like:

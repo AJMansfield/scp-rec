@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: kill-682
+permalink: Xkill-682
 title: kill-682
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: standard-form-for-downvotes
+permalink: Xstandard-form-for-downvotes
 title: standard-form-for-downvotes
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: date-night
+permalink: Xdate-night
 title: date-night
 ---
 You may also like:

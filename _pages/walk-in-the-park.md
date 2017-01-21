@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: walk-in-the-park
+permalink: Xwalk-in-the-park
 title: walk-in-the-park
 ---
 You may also like:

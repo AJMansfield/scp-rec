@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: right
+permalink: Xright
 title: right
 ---
 You may also like:

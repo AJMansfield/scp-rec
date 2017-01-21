@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: col-hornby-s-audio-guide
+permalink: Xcol-hornby-s-audio-guide
 title: col-hornby-s-audio-guide
 ---
 You may also like:

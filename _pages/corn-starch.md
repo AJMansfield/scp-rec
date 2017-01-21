@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: corn-starch
+permalink: Xcorn-starch
 title: corn-starch
 ---
 You may also like:

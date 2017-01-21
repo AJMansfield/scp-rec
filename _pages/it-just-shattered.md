@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: it-just-shattered
+permalink: Xit-just-shattered
 title: it-just-shattered
 ---
 You may also like:

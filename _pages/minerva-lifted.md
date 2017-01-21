@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: minerva-lifted
+permalink: Xminerva-lifted
 title: minerva-lifted
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: every-other-day
+permalink: Xevery-other-day
 title: every-other-day
 ---
 You may also like:

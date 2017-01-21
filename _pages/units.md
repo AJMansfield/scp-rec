@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: units
+permalink: Xunits
 title: units
 ---
 You may also like:

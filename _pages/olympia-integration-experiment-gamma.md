@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: olympia-integration-experiment-gamma
+permalink: Xolympia-integration-experiment-gamma
 title: olympia-integration-experiment-gamma
 ---
 You may also like:

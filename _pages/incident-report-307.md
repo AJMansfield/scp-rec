@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: incident-report-307
+permalink: Xincident-report-307
 title: incident-report-307
 ---
 You may also like:

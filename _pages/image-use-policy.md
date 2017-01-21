@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: image-use-policy
+permalink: Ximage-use-policy
 title: image-use-policy
 ---
 You may also like:

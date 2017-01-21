@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: a-question-of-commerce
+permalink: Xa-question-of-commerce
 title: a-question-of-commerce
 ---
 You may also like:

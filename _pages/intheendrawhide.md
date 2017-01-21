@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: intheendrawhide
+permalink: Xintheendrawhide
 title: intheendrawhide
 ---
 You may also like:

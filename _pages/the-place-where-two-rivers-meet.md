@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-place-where-two-rivers-meet
+permalink: Xthe-place-where-two-rivers-meet
 title: the-place-where-two-rivers-meet
 ---
 You may also like:

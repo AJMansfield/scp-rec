@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: knives
+permalink: Xknives
 title: knives
 ---
 You may also like:

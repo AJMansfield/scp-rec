@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: who-you-gonna-call
+permalink: Xwho-you-gonna-call
 title: who-you-gonna-call
 ---
 You may also like:

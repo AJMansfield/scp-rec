@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: maria-jones-this-is-your-life
+permalink: Xmaria-jones-this-is-your-life
 title: maria-jones-this-is-your-life
 ---
 You may also like:

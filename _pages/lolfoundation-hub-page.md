@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: lolfoundation-hub-page
+permalink: Xlolfoundation-hub-page
 title: lolfoundation-hub-page
 ---
 You may also like:

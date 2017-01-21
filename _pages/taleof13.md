@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: taleof13
+permalink: Xtaleof13
 title: taleof13
 ---
 You may also like:

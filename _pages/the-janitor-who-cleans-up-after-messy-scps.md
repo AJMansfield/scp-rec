@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-janitor-who-cleans-up-after-messy-scps
+permalink: Xthe-janitor-who-cleans-up-after-messy-scps
 title: the-janitor-who-cleans-up-after-messy-scps
 ---
 You may also like:

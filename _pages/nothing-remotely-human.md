@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: nothing-remotely-human
+permalink: Xnothing-remotely-human
 title: nothing-remotely-human
 ---
 You may also like:

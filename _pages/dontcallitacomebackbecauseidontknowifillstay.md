@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: dontcallitacomebackbecauseidontknowifillstay
+permalink: Xdontcallitacomebackbecauseidontknowifillstay
 title: dontcallitacomebackbecauseidontknowifillstay
 ---
 You may also like:

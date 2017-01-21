@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: a-calculated-risk
+permalink: Xa-calculated-risk
 title: a-calculated-risk
 ---
 You may also like:

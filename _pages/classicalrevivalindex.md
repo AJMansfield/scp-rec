@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: classicalrevivalindex
+permalink: Xclassicalrevivalindex
 title: classicalrevivalindex
 ---
 You may also like:

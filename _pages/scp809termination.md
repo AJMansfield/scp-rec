@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: scp809termination
+permalink: Xscp809termination
 title: scp809termination
 ---
 You may also like:

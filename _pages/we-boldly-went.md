@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: we-boldly-went
+permalink: Xwe-boldly-went
 title: we-boldly-went
 ---
 You may also like:

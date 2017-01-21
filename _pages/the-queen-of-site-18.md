@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-queen-of-site-18
+permalink: Xthe-queen-of-site-18
 title: the-queen-of-site-18
 ---
 You may also like:

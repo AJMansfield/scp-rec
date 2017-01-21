@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: first-quarto
+permalink: Xfirst-quarto
 title: first-quarto
 ---
 You may also like:

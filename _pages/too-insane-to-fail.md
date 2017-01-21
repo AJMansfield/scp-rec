@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: too-insane-to-fail
+permalink: Xtoo-insane-to-fail
 title: too-insane-to-fail
 ---
 You may also like:

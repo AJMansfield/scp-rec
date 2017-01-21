@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: a-c-sharp-e
+permalink: Xa-c-sharp-e
 title: a-c-sharp-e
 ---
 You may also like:

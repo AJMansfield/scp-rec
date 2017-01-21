@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: goc-tale-sequence-assessment
+permalink: Xgoc-tale-sequence-assessment
 title: goc-tale-sequence-assessment
 ---
 You may also like:

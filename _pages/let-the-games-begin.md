@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: let-the-games-begin
+permalink: Xlet-the-games-begin
 title: let-the-games-begin
 ---
 You may also like:

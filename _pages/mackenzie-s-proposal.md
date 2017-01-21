@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: mackenzie-s-proposal
+permalink: Xmackenzie-s-proposal
 title: mackenzie-s-proposal
 ---
 You may also like:

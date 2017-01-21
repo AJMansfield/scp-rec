@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: scp-2213-automatedsuccess
+permalink: Xscp-2213-automatedsuccess
 title: scp-2213-automatedsuccess
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: dream-report-990-1
+permalink: Xdream-report-990-1
 title: dream-report-990-1
 ---
 You may also like:

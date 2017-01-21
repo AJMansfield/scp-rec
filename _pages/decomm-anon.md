@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: decomm-anon
+permalink: Xdecomm-anon
 title: decomm-anon
 ---
 You may also like:

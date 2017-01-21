@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: intheendwedarenotgoahunting
+permalink: Xintheendwedarenotgoahunting
 title: intheendwedarenotgoahunting
 ---
 You may also like:

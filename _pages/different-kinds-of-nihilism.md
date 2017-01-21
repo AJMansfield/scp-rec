@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: different-kinds-of-nihilism
+permalink: Xdifferent-kinds-of-nihilism
 title: different-kinds-of-nihilism
 ---
 You may also like:

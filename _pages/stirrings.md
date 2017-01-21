@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: stirrings
+permalink: Xstirrings
 title: stirrings
 ---
 You may also like:

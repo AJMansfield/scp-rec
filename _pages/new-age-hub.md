@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: new-age-hub
+permalink: Xnew-age-hub
 title: new-age-hub
 ---
 You may also like:

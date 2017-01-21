@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: duck-rule
+permalink: Xduck-rule
 title: duck-rule
 ---
 You may also like:

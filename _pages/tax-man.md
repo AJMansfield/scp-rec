@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: tax-man
+permalink: Xtax-man
 title: tax-man
 ---
 You may also like:

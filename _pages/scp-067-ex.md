@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: scp-067-ex
+permalink: Xscp-067-ex
 title: scp-067-ex
 ---
 You may also like:

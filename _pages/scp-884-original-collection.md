@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: scp-884-original-collection
+permalink: Xscp-884-original-collection
 title: scp-884-original-collection
 ---
 You may also like:

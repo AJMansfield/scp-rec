@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: a-brief-explanation-on-demonics
+permalink: Xa-brief-explanation-on-demonics
 title: a-brief-explanation-on-demonics
 ---
 You may also like:

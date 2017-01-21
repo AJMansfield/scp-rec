@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: realignment
+permalink: Xrealignment
 title: realignment
 ---
 You may also like:

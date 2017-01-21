@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: turn-a-new-page
+permalink: Xturn-a-new-page
 title: turn-a-new-page
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: whatislove
+permalink: Xwhatislove
 title: whatislove
 ---
 You may also like:

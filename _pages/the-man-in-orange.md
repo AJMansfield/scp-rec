@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-man-in-orange
+permalink: Xthe-man-in-orange
 title: the-man-in-orange
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-night-before-redacted
+permalink: Xthe-night-before-redacted
 title: the-night-before-redacted
 ---
 You may also like:

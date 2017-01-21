@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: old-man-in-the-sea-hub
+permalink: Xold-man-in-the-sea-hub
 title: old-man-in-the-sea-hub
 ---
 You may also like:

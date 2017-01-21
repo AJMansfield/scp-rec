@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: wasteland
+permalink: Xwasteland
 title: wasteland
 ---
 You may also like:

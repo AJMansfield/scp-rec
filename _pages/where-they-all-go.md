@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: where-they-all-go
+permalink: Xwhere-they-all-go
 title: where-they-all-go
 ---
 You may also like:

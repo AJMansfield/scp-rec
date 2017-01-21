@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: memory-of-a-memory-antarctic-exchange-6
+permalink: Xmemory-of-a-memory-antarctic-exchange-6
 title: memory-of-a-memory-antarctic-exchange-6
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: scp-50-ae-j
+permalink: Xscp-50-ae-j
 title: scp-50-ae-j
 ---
 You may also like:

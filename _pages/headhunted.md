@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: headhunted
+permalink: Xheadhunted
 title: headhunted
 ---
 You may also like:

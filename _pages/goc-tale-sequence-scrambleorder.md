@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: goc-tale-sequence-scrambleorder
+permalink: Xgoc-tale-sequence-scrambleorder
 title: goc-tale-sequence-scrambleorder
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: theres-no-place-like
+permalink: Xtheres-no-place-like
 title: theres-no-place-like
 ---
 You may also like:

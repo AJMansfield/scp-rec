@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: father-of-lies
+permalink: Xfather-of-lies
 title: father-of-lies
 ---
 You may also like:

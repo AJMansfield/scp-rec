@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: what-not-to-do
+permalink: Xwhat-not-to-do
 title: what-not-to-do
 ---
 You may also like:

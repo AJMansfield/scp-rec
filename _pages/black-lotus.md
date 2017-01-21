@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: black-lotus
+permalink: Xblack-lotus
 title: black-lotus
 ---
 You may also like:

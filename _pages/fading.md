@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: fading
+permalink: Xfading
 title: fading
 ---
 You may also like:

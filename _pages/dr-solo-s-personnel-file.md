@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: dr-solo-s-personnel-file
+permalink: Xdr-solo-s-personnel-file
 title: dr-solo-s-personnel-file
 ---
 You may also like:

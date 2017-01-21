@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: charles-hull-shall-be
+permalink: Xcharles-hull-shall-be
 title: charles-hull-shall-be
 ---
 You may also like:

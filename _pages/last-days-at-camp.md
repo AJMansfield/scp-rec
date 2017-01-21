@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: last-days-at-camp
+permalink: Xlast-days-at-camp
 title: last-days-at-camp
 ---
 You may also like:

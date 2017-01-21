@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: retrocausality-torus-interview-b
+permalink: Xretrocausality-torus-interview-b
 title: retrocausality-torus-interview-b
 ---
 You may also like:

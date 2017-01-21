@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: goc-tale-sequence-tempering
+permalink: Xgoc-tale-sequence-tempering
 title: goc-tale-sequence-tempering
 ---
 You may also like:

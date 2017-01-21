@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: rogue-ai-nveo4-yvn3e-pn6ug
+permalink: Xrogue-ai-nveo4-yvn3e-pn6ug
 title: rogue-ai-nveo4-yvn3e-pn6ug
 ---
 You may also like:

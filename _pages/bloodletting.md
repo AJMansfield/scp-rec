@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: bloodletting
+permalink: Xbloodletting
 title: bloodletting
 ---
 You may also like:

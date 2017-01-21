@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: unfinished-business-ii
+permalink: Xunfinished-business-ii
 title: unfinished-business-ii
 ---
 You may also like:

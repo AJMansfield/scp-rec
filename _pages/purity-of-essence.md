@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: purity-of-essence
+permalink: Xpurity-of-essence
 title: purity-of-essence
 ---
 You may also like:

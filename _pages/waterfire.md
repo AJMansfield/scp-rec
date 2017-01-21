@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: waterfire
+permalink: Xwaterfire
 title: waterfire
 ---
 You may also like:

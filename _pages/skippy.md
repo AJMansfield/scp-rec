@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: skippy
+permalink: Xskippy
 title: skippy
 ---
 You may also like:

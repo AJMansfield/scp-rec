@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: doctors-of-the-church-hub
+permalink: Xdoctors-of-the-church-hub
 title: doctors-of-the-church-hub
 ---
 You may also like:

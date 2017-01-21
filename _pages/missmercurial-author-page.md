@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: missmercurial-author-page
+permalink: Xmissmercurial-author-page
 title: missmercurial-author-page
 ---
 You may also like:

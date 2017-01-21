@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: an-unconventional-tail
+permalink: Xan-unconventional-tail
 title: an-unconventional-tail
 ---
 You may also like:

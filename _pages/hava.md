@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: hava
+permalink: Xhava
 title: hava
 ---
 You may also like:

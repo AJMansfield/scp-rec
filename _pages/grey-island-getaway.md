@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: grey-island-getaway
+permalink: Xgrey-island-getaway
 title: grey-island-getaway
 ---
 You may also like:

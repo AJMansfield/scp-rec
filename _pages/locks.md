@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: locks
+permalink: Xlocks
 title: locks
 ---
 You may also like:

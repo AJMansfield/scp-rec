@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: merrily-merrily-merrily
+permalink: Xmerrily-merrily-merrily
 title: merrily-merrily-merrily
 ---
 You may also like:

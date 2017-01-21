@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: rebranding
+permalink: Xrebranding
 title: rebranding
 ---
 You may also like:

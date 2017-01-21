@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-big-list-of-overdone-scp-cliches
+permalink: Xthe-big-list-of-overdone-scp-cliches
 title: the-big-list-of-overdone-scp-cliches
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-executions-of-doctor-bright
+permalink: Xthe-executions-of-doctor-bright
 title: the-executions-of-doctor-bright
 ---
 You may also like:

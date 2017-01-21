@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: kain-pathos-crow-s-author-page
+permalink: Xkain-pathos-crow-s-author-page
 title: kain-pathos-crow-s-author-page
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: revelation
+permalink: Xrevelation
 title: revelation
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: audio-adaptations
+permalink: Xaudio-adaptations
 title: audio-adaptations
 ---
 You may also like:

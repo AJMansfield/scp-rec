@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-end-is-the-beginning-is-the-end
+permalink: Xthe-end-is-the-beginning-is-the-end
 title: the-end-is-the-beginning-is-the-end
 ---
 You may also like:

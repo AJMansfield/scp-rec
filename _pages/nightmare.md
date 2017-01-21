@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: nightmare
+permalink: Xnightmare
 title: nightmare
 ---
 You may also like:

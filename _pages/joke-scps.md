@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: joke-scps
+permalink: Xjoke-scps
 title: joke-scps
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: conspiracy-prologue
+permalink: Xconspiracy-prologue
 title: conspiracy-prologue
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: bluebrotherhood
+permalink: Xbluebrotherhood
 title: bluebrotherhood
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: a-kind-of-christmas
+permalink: Xa-kind-of-christmas
 title: a-kind-of-christmas
 ---
 You may also like:

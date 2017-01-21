@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: out-of-time
+permalink: Xout-of-time
 title: out-of-time
 ---
 You may also like:

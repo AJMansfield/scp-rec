@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: message-in-a-bottle
+permalink: Xmessage-in-a-bottle
 title: message-in-a-bottle
 ---
 You may also like:

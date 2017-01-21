@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: d-class-contest
+permalink: Xd-class-contest
 title: d-class-contest
 ---
 You may also like:

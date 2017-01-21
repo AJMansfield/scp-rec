@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: upswing-of-disorder
+permalink: Xupswing-of-disorder
 title: upswing-of-disorder
 ---
 You may also like:

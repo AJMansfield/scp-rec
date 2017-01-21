@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: tasers-thermite
+permalink: Xtasers-thermite
 title: tasers-thermite
 ---
 You may also like:

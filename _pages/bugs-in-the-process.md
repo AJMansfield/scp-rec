@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: bugs-in-the-process
+permalink: Xbugs-in-the-process
 title: bugs-in-the-process
 ---
 You may also like:

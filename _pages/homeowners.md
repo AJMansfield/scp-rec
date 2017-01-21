@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: homeowners
+permalink: Xhomeowners
 title: homeowners
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: faith-and-knighthood
+permalink: Xfaith-and-knighthood
 title: faith-and-knighthood
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: in-his-own-image-part-5
+permalink: Xin-his-own-image-part-5
 title: in-his-own-image-part-5
 ---
 You may also like:

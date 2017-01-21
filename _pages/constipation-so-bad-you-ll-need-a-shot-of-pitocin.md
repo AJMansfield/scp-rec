@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: constipation-so-bad-you-ll-need-a-shot-of-pitocin
+permalink: Xconstipation-so-bad-you-ll-need-a-shot-of-pitocin
 title: constipation-so-bad-you-ll-need-a-shot-of-pitocin
 ---
 You may also like:

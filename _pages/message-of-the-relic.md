@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: message-of-the-relic
+permalink: Xmessage-of-the-relic
 title: message-of-the-relic
 ---
 You may also like:

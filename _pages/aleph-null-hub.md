@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: aleph-null-hub
+permalink: Xaleph-null-hub
 title: aleph-null-hub
 ---
 You may also like:

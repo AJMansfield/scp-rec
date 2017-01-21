@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: mtf-theta-90-hub-page
+permalink: Xmtf-theta-90-hub-page
 title: mtf-theta-90-hub-page
 ---
 You may also like:

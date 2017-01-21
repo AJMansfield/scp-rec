@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: flow
+permalink: Xflow
 title: flow
 ---
 You may also like:

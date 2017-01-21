@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: personal-log-of-dr-gears
+permalink: Xpersonal-log-of-dr-gears
 title: personal-log-of-dr-gears
 ---
 You may also like:

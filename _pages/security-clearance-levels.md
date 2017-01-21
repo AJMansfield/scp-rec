@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: security-clearance-levels
+permalink: Xsecurity-clearance-levels
 title: security-clearance-levels
 ---
 You may also like:

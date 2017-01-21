@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: note-a-part-of-nobody
+permalink: Xnote-a-part-of-nobody
 title: note-a-part-of-nobody
 ---
 You may also like:

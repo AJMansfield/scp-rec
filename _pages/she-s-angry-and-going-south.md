@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: she-s-angry-and-going-south
+permalink: Xshe-s-angry-and-going-south
 title: she-s-angry-and-going-south
 ---
 You may also like:

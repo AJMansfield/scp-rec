@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: scp-1841-ex
+permalink: Xscp-1841-ex
 title: scp-1841-ex
 ---
 You may also like:

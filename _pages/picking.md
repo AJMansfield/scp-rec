@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: picking
+permalink: Xpicking
 title: picking
 ---
 You may also like:

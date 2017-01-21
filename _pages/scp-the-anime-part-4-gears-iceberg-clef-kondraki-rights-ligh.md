@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: scp-the-anime-part-4-gears-iceberg-clef-kondraki-rights-ligh
+permalink: Xscp-the-anime-part-4-gears-iceberg-clef-kondraki-rights-ligh
 title: scp-the-anime-part-4-gears-iceberg-clef-kondraki-rights-ligh
 ---
 You may also like:

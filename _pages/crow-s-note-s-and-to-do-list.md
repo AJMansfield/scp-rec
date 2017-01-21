@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: crow-s-note-s-and-to-do-list
+permalink: Xcrow-s-note-s-and-to-do-list
 title: crow-s-note-s-and-to-do-list
 ---
 You may also like:

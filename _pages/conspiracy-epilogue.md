@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: conspiracy-epilogue
+permalink: Xconspiracy-epilogue
 title: conspiracy-epilogue
 ---
 You may also like:

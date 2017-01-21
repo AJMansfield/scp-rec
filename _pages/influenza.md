@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: influenza
+permalink: Xinfluenza
 title: influenza
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: interrogation-w-2105-001
+permalink: Xinterrogation-w-2105-001
 title: interrogation-w-2105-001
 ---
 You may also like:

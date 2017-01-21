@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: duty
+permalink: Xduty
 title: duty
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: under-the-sea
+permalink: Xunder-the-sea
 title: under-the-sea
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: evaluation-log-781
+permalink: Xevaluation-log-781
 title: evaluation-log-781
 ---
 You may also like:

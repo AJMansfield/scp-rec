@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: golan
+permalink: Xgolan
 title: golan
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: jackofclubs
+permalink: Xjackofclubs
 title: jackofclubs
 ---
 You may also like:

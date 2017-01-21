@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: collecting
+permalink: Xcollecting
 title: collecting
 ---
 You may also like:

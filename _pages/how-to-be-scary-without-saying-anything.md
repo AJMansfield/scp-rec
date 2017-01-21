@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: how-to-be-scary-without-saying-anything
+permalink: Xhow-to-be-scary-without-saying-anything
 title: how-to-be-scary-without-saying-anything
 ---
 You may also like:

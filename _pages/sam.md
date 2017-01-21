@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: sam
+permalink: Xsam
 title: sam
 ---
 You may also like:

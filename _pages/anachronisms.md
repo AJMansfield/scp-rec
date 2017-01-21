@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: anachronisms
+permalink: Xanachronisms
 title: anachronisms
 ---
 You may also like:

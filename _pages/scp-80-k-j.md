@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: scp-80-k-j
+permalink: Xscp-80-k-j
 title: scp-80-k-j
 ---
 You may also like:

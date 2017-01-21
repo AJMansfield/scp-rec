@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: settling-tabs
+permalink: Xsettling-tabs
 title: settling-tabs
 ---
 You may also like:

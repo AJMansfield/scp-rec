@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: bluesoul-s-author-page
+permalink: Xbluesoul-s-author-page
 title: bluesoul-s-author-page
 ---
 You may also like:

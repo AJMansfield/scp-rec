@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: broken-masquerade-hub
+permalink: Xbroken-masquerade-hub
 title: broken-masquerade-hub
 ---
 You may also like:

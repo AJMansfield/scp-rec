@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: happy-howlidays
+permalink: Xhappy-howlidays
 title: happy-howlidays
 ---
 You may also like:

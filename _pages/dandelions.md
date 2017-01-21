@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: dandelions
+permalink: Xdandelions
 title: dandelions
 ---
 You may also like:

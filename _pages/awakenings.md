@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: awakenings
+permalink: Xawakenings
 title: awakenings
 ---
 You may also like:

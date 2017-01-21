@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: another-goddamn-magic-system
+permalink: Xanother-goddamn-magic-system
 title: another-goddamn-magic-system
 ---
 You may also like:

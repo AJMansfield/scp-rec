@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: aftermath
+permalink: Xaftermath
 title: aftermath
 ---
 You may also like:

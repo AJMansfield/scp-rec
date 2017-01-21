@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: a-reason-to-die
+permalink: Xa-reason-to-die
 title: a-reason-to-die
 ---
 You may also like:

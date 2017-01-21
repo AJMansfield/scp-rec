@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: i-autarch
+permalink: Xi-autarch
 title: i-autarch
 ---
 You may also like:

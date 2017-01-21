@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: requite-fahrenheit-file
+permalink: Xrequite-fahrenheit-file
 title: requite-fahrenheit-file
 ---
 You may also like:

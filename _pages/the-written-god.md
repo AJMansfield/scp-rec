@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-written-god
+permalink: Xthe-written-god
 title: the-written-god
 ---
 You may also like:

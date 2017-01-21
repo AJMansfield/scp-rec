@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: after-the-end
+permalink: Xafter-the-end
 title: after-the-end
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: scp-978-extended-test-logs
+permalink: Xscp-978-extended-test-logs
 title: scp-978-extended-test-logs
 ---
 You may also like:

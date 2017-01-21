@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: log-of-anomalous-items
+permalink: Xlog-of-anomalous-items
 title: log-of-anomalous-items
 ---
 You may also like:

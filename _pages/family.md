@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: family
+permalink: Xfamily
 title: family
 ---
 You may also like:

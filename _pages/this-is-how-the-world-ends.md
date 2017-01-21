@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: this-is-how-the-world-ends
+permalink: Xthis-is-how-the-world-ends
 title: this-is-how-the-world-ends
 ---
 You may also like:

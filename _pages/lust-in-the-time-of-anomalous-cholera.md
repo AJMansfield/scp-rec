@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: lust-in-the-time-of-anomalous-cholera
+permalink: Xlust-in-the-time-of-anomalous-cholera
 title: lust-in-the-time-of-anomalous-cholera
 ---
 You may also like:

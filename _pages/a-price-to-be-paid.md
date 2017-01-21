@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: a-price-to-be-paid
+permalink: Xa-price-to-be-paid
 title: a-price-to-be-paid
 ---
 You may also like:

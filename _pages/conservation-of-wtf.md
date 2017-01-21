@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: conservation-of-wtf
+permalink: Xconservation-of-wtf
 title: conservation-of-wtf
 ---
 You may also like:

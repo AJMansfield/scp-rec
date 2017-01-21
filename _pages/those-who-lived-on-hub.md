@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: those-who-lived-on-hub
+permalink: Xthose-who-lived-on-hub
 title: those-who-lived-on-hub
 ---
 You may also like:

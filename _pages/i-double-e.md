@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: i-double-e
+permalink: Xi-double-e
 title: i-double-e
 ---
 You may also like:

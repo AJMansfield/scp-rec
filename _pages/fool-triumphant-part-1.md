@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: fool-triumphant-part-1
+permalink: Xfool-triumphant-part-1
 title: fool-triumphant-part-1
 ---
 You may also like:

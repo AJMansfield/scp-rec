@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: playing-god
+permalink: Xplaying-god
 title: playing-god
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: scp-440-exploratory-log-b
+permalink: Xscp-440-exploratory-log-b
 title: scp-440-exploratory-log-b
 ---
 You may also like:

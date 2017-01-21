@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: could-find-my-way-to-mariana
+permalink: Xcould-find-my-way-to-mariana
 title: could-find-my-way-to-mariana
 ---
 You may also like:

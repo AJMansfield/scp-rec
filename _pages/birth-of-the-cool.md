@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: birth-of-the-cool
+permalink: Xbirth-of-the-cool
 title: birth-of-the-cool
 ---
 You may also like:

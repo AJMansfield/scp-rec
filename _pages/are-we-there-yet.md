@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: are-we-there-yet
+permalink: Xare-we-there-yet
 title: are-we-there-yet
 ---
 You may also like:

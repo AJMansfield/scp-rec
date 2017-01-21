@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: last-plane-out-of-the-south
+permalink: Xlast-plane-out-of-the-south
 title: last-plane-out-of-the-south
 ---
 You may also like:

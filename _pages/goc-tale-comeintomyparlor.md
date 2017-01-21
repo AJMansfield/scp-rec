@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: goc-tale-comeintomyparlor
+permalink: Xgoc-tale-comeintomyparlor
 title: goc-tale-comeintomyparlor
 ---
 You may also like:

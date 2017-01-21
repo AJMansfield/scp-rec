@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: dreams
+permalink: Xdreams
 title: dreams
 ---
 You may also like:

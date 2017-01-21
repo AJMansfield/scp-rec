@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: cavalcade-hub
+permalink: Xcavalcade-hub
 title: cavalcade-hub
 ---
 You may also like:

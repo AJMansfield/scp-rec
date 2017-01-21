@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: and-then-there-were-none
+permalink: Xand-then-there-were-none
 title: and-then-there-were-none
 ---
 You may also like:

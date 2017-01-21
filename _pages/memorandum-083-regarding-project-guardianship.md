@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: memorandum-083-regarding-project-guardianship
+permalink: Xmemorandum-083-regarding-project-guardianship
 title: memorandum-083-regarding-project-guardianship
 ---
 You may also like:

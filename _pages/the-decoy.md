@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-decoy
+permalink: Xthe-decoy
 title: the-decoy
 ---
 You may also like:

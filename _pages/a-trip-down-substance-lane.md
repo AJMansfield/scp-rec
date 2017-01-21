@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: a-trip-down-substance-lane
+permalink: Xa-trip-down-substance-lane
 title: a-trip-down-substance-lane
 ---
 You may also like:

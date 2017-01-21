@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: what-if-they-weren-t
+permalink: Xwhat-if-they-weren-t
 title: what-if-they-weren-t
 ---
 You may also like:

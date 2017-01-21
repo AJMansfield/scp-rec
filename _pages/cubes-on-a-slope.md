@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: cubes-on-a-slope
+permalink: Xcubes-on-a-slope
 title: cubes-on-a-slope
 ---
 You may also like:

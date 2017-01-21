@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: automata-et-cetera
+permalink: Xautomata-et-cetera
 title: automata-et-cetera
 ---
 You may also like:

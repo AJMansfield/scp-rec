@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: no-one-else-will-protect-us
+permalink: Xno-one-else-will-protect-us
 title: no-one-else-will-protect-us
 ---
 You may also like:

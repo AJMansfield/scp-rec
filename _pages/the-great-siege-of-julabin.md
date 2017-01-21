@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-great-siege-of-julabin
+permalink: Xthe-great-siege-of-julabin
 title: the-great-siege-of-julabin
 ---
 You may also like:

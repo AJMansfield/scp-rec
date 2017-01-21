@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: a-study-of-anomalous-art
+permalink: Xa-study-of-anomalous-art
 title: a-study-of-anomalous-art
 ---
 You may also like:

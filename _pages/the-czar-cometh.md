@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-czar-cometh
+permalink: Xthe-czar-cometh
 title: the-czar-cometh
 ---
 You may also like:

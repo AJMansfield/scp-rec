@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: experiments-of-paper-part-1
+permalink: Xexperiments-of-paper-part-1
 title: experiments-of-paper-part-1
 ---
 You may also like:

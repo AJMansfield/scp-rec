@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: doctor-ronald-stimson-s-personnel-file
+permalink: Xdoctor-ronald-stimson-s-personnel-file
 title: doctor-ronald-stimson-s-personnel-file
 ---
 You may also like:

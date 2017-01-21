@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-surfside-beat
+permalink: Xthe-surfside-beat
 title: the-surfside-beat
 ---
 You may also like:

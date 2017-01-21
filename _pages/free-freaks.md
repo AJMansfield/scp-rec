@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: free-freaks
+permalink: Xfree-freaks
 title: free-freaks
 ---
 You may also like:

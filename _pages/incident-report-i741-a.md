@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: incident-report-i741-a
+permalink: Xincident-report-i741-a
 title: incident-report-i741-a
 ---
 You may also like:

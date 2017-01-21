@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: plumbing
+permalink: Xplumbing
 title: plumbing
 ---
 You may also like:

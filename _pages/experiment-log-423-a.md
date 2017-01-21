@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: experiment-log-423-a
+permalink: Xexperiment-log-423-a
 title: experiment-log-423-a
 ---
 You may also like:

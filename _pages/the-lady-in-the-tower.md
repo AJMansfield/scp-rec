@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-lady-in-the-tower
+permalink: Xthe-lady-in-the-tower
 title: the-lady-in-the-tower
 ---
 You may also like:

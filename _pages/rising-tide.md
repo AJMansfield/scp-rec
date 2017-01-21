@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: rising-tide
+permalink: Xrising-tide
 title: rising-tide
 ---
 You may also like:

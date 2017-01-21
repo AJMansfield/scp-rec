@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: serpent-s-hand-hub
+permalink: Xserpent-s-hand-hub
 title: serpent-s-hand-hub
 ---
 You may also like:

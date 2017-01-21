@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: wayward-intermission
+permalink: Xwayward-intermission
 title: wayward-intermission
 ---
 You may also like:

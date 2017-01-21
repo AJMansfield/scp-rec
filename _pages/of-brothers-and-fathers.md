@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: of-brothers-and-fathers
+permalink: Xof-brothers-and-fathers
 title: of-brothers-and-fathers
 ---
 You may also like:

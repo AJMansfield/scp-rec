@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: no-joke
+permalink: Xno-joke
 title: no-joke
 ---
 You may also like:

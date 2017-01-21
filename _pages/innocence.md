@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: innocence
+permalink: Xinnocence
 title: innocence
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: audio-log-185-53
+permalink: Xaudio-log-185-53
 title: audio-log-185-53
 ---
 You may also like:

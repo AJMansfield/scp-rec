@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: loop
+permalink: Xloop
 title: loop
 ---
 You may also like:

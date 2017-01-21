@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: log-of-agent-aa
+permalink: Xlog-of-agent-aa
 title: log-of-agent-aa
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: recovered-documents-from-cell-3
+permalink: Xrecovered-documents-from-cell-3
 title: recovered-documents-from-cell-3
 ---
 You may also like:

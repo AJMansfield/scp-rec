@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: a-day-in-the-life
+permalink: Xa-day-in-the-life
 title: a-day-in-the-life
 ---
 You may also like:

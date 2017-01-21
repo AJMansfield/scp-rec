@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: love-hate
+permalink: Xlove-hate
 title: love-hate
 ---
 You may also like:

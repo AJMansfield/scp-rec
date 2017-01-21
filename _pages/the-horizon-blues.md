@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-horizon-blues
+permalink: Xthe-horizon-blues
 title: the-horizon-blues
 ---
 You may also like:

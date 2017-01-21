@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: green-gray
+permalink: Xgreen-gray
 title: green-gray
 ---
 You may also like:

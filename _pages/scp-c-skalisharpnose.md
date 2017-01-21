@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: scp-c-skalisharpnose
+permalink: Xscp-c-skalisharpnose
 title: scp-c-skalisharpnose
 ---
 You may also like:

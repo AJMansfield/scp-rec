@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: interview-616-am
+permalink: Xinterview-616-am
 title: interview-616-am
 ---
 You may also like:

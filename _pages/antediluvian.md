@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: antediluvian
+permalink: Xantediluvian
 title: antediluvian
 ---
 You may also like:

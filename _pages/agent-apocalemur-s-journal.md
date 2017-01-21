@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: agent-apocalemur-s-journal
+permalink: Xagent-apocalemur-s-journal
 title: agent-apocalemur-s-journal
 ---
 You may also like:

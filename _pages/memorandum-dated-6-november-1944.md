@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: memorandum-dated-6-november-1944
+permalink: Xmemorandum-dated-6-november-1944
 title: memorandum-dated-6-november-1944
 ---
 You may also like:

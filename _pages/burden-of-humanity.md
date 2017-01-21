@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: burden-of-humanity
+permalink: Xburden-of-humanity
 title: burden-of-humanity
 ---
 You may also like:

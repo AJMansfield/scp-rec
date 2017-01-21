@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: breakfast-for-dinner
+permalink: Xbreakfast-for-dinner
 title: breakfast-for-dinner
 ---
 You may also like:

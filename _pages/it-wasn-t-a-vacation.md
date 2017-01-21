@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: it-wasn-t-a-vacation
+permalink: Xit-wasn-t-a-vacation
 title: it-wasn-t-a-vacation
 ---
 You may also like:

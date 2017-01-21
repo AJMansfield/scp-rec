@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: recording-stuff-or-whatever
+permalink: Xrecording-stuff-or-whatever
 title: recording-stuff-or-whatever
 ---
 You may also like:

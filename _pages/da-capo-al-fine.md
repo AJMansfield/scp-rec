@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: da-capo-al-fine
+permalink: Xda-capo-al-fine
 title: da-capo-al-fine
 ---
 You may also like:

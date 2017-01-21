@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: no-one-like-you
+permalink: Xno-one-like-you
 title: no-one-like-you
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: doublehorses
+permalink: Xdoublehorses
 title: doublehorses
 ---
 You may also like:

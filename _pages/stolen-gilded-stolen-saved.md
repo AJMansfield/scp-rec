@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: stolen-gilded-stolen-saved
+permalink: Xstolen-gilded-stolen-saved
 title: stolen-gilded-stolen-saved
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: interlude-new-toys
+permalink: Xinterlude-new-toys
 title: interlude-new-toys
 ---
 You may also like:

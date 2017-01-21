@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: board-meeting-transcript
+permalink: Xboard-meeting-transcript
 title: board-meeting-transcript
 ---
 You may also like:

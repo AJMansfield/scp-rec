@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: ohhello
+permalink: Xohhello
 title: ohhello
 ---
 You may also like:

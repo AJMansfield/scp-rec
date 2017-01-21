@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: days-gone-by
+permalink: Xdays-gone-by
 title: days-gone-by
 ---
 You may also like:

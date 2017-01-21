@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: i-remember-my-heroes
+permalink: Xi-remember-my-heroes
 title: i-remember-my-heroes
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: scptabloid
+permalink: Xscptabloid
 title: scptabloid
 ---
 You may also like:

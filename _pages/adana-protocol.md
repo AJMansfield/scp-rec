@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: adana-protocol
+permalink: Xadana-protocol
 title: adana-protocol
 ---
 You may also like:

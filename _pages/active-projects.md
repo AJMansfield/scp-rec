@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: active-projects
+permalink: Xactive-projects
 title: active-projects
 ---
 You may also like:

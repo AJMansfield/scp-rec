@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: jth
+permalink: Xjth
 title: jth
 ---
 You may also like:

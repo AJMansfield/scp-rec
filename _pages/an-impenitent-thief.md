@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: an-impenitent-thief
+permalink: Xan-impenitent-thief
 title: an-impenitent-thief
 ---
 You may also like:

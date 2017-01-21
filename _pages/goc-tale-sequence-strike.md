@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: goc-tale-sequence-strike
+permalink: Xgoc-tale-sequence-strike
 title: goc-tale-sequence-strike
 ---
 You may also like:

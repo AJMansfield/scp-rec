@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: third-death
+permalink: Xthird-death
 title: third-death
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: faq
+permalink: Xfaq
 title: faq
 ---
 You may also like:

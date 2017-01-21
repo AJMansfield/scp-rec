@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: dichotomy
+permalink: Xdichotomy
 title: dichotomy
 ---
 You may also like:

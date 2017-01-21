@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: tales-from-the-bright-side-chapter-1-5
+permalink: Xtales-from-the-bright-side-chapter-1-5
 title: tales-from-the-bright-side-chapter-1-5
 ---
 You may also like:

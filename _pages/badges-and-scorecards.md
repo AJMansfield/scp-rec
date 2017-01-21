@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: badges-and-scorecards
+permalink: Xbadges-and-scorecards
 title: badges-and-scorecards
 ---
 You may also like:

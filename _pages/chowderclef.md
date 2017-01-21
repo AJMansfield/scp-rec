@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: chowderclef
+permalink: Xchowderclef
 title: chowderclef
 ---
 You may also like:

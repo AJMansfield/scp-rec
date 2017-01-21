@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: scp-wtf-j
+permalink: Xscp-wtf-j
 title: scp-wtf-j
 ---
 You may also like:

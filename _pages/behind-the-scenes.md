@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: behind-the-scenes
+permalink: Xbehind-the-scenes
 title: behind-the-scenes
 ---
 You may also like:

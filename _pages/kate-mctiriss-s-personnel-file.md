@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: kate-mctiriss-s-personnel-file
+permalink: Xkate-mctiriss-s-personnel-file
 title: kate-mctiriss-s-personnel-file
 ---
 You may also like:

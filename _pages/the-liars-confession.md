@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-liars-confession
+permalink: Xthe-liars-confession
 title: the-liars-confession
 ---
 You may also like:

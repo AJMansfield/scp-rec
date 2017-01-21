@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-journal-of-j-s-junior-technician
+permalink: Xthe-journal-of-j-s-junior-technician
 title: the-journal-of-j-s-junior-technician
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: unraveled
+permalink: Xunraveled
 title: unraveled
 ---
 You may also like:

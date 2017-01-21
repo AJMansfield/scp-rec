@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: this-is-always-a-horrible-idea
+permalink: Xthis-is-always-a-horrible-idea
 title: this-is-always-a-horrible-idea
 ---
 You may also like:

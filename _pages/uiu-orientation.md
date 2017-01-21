@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: uiu-orientation
+permalink: Xuiu-orientation
 title: uiu-orientation
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: activity-documentation-file-11-a
+permalink: Xactivity-documentation-file-11-a
 title: activity-documentation-file-11-a
 ---
 You may also like:

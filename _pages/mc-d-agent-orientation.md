@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: mc-d-agent-orientation
+permalink: Xmc-d-agent-orientation
 title: mc-d-agent-orientation
 ---
 You may also like:

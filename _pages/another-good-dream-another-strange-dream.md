@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: another-good-dream-another-strange-dream
+permalink: Xanother-good-dream-another-strange-dream
 title: another-good-dream-another-strange-dream
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: they-who-find-darkness-loving
+permalink: Xthey-who-find-darkness-loving
 title: they-who-find-darkness-loving
 ---
 You may also like:

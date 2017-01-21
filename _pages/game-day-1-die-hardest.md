@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: game-day-1-die-hardest
+permalink: Xgame-day-1-die-hardest
 title: game-day-1-die-hardest
 ---
 You may also like:

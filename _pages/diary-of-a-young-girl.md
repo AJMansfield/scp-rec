@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: diary-of-a-young-girl
+permalink: Xdiary-of-a-young-girl
 title: diary-of-a-young-girl
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: oria-001
+permalink: Xoria-001
 title: oria-001
 ---
 You may also like:

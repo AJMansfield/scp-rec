@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: don-t-forget
+permalink: Xdon-t-forget
 title: don-t-forget
 ---
 You may also like:

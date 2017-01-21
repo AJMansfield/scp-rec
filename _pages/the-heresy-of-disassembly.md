@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-heresy-of-disassembly
+permalink: Xthe-heresy-of-disassembly
 title: the-heresy-of-disassembly
 ---
 You may also like:

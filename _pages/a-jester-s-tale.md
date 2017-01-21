@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: a-jester-s-tale
+permalink: Xa-jester-s-tale
 title: a-jester-s-tale
 ---
 You may also like:

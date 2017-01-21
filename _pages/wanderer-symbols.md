@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: wanderer-symbols
+permalink: Xwanderer-symbols
 title: wanderer-symbols
 ---
 You may also like:

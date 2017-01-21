@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: interviews-log-405
+permalink: Xinterviews-log-405
 title: interviews-log-405
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: a-brief-history-of-foundation-rp
+permalink: Xa-brief-history-of-foundation-rp
 title: a-brief-history-of-foundation-rp
 ---
 You may also like:

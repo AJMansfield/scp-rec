@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-thing-that-hates
+permalink: Xthe-thing-that-hates
 title: the-thing-that-hates
 ---
 You may also like:

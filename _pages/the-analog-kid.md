@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-analog-kid
+permalink: Xthe-analog-kid
 title: the-analog-kid
 ---
 You may also like:

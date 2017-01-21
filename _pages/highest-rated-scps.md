@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: highest-rated-scps
+permalink: Xhighest-rated-scps
 title: highest-rated-scps
 ---
 You may also like:

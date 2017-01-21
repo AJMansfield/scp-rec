@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: dr-bright-s-personnel-file
+permalink: Xdr-bright-s-personnel-file
 title: dr-bright-s-personnel-file
 ---
 You may also like:

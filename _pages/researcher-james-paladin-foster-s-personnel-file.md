@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: researcher-james-paladin-foster-s-personnel-file
+permalink: Xresearcher-james-paladin-foster-s-personnel-file
 title: researcher-james-paladin-foster-s-personnel-file
 ---
 You may also like:

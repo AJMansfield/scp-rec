@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: goc-supplemental-thaumworkings
+permalink: Xgoc-supplemental-thaumworkings
 title: goc-supplemental-thaumworkings
 ---
 You may also like:

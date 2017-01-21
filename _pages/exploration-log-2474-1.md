@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: exploration-log-2474-1
+permalink: Xexploration-log-2474-1
 title: exploration-log-2474-1
 ---
 You may also like:

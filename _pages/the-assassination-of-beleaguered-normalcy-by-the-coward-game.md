@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-assassination-of-beleaguered-normalcy-by-the-coward-game
+permalink: Xthe-assassination-of-beleaguered-normalcy-by-the-coward-game
 title: the-assassination-of-beleaguered-normalcy-by-the-coward-game
 ---
 You may also like:

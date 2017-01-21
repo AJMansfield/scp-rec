@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: of-blackmail-and-bribery
+permalink: Xof-blackmail-and-bribery
 title: of-blackmail-and-bribery
 ---
 You may also like:

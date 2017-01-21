@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: repost
+permalink: Xrepost
 title: repost
 ---
 You may also like:

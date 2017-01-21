@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: partial-worldwide-scp-map
+permalink: Xpartial-worldwide-scp-map
 title: partial-worldwide-scp-map
 ---
 You may also like:

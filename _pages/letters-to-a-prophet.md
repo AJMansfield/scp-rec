@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: letters-to-a-prophet
+permalink: Xletters-to-a-prophet
 title: letters-to-a-prophet
 ---
 You may also like:

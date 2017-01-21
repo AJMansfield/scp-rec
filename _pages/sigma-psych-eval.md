@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: sigma-psych-eval
+permalink: Xsigma-psych-eval
 title: sigma-psych-eval
 ---
 You may also like:

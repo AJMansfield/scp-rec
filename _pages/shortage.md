@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: shortage
+permalink: Xshortage
 title: shortage
 ---
 You may also like:

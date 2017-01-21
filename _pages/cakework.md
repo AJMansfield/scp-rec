@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: cakework
+permalink: Xcakework
 title: cakework
 ---
 You may also like:

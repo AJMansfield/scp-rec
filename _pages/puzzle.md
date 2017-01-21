@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: puzzle
+permalink: Xpuzzle
 title: puzzle
 ---
 You may also like:

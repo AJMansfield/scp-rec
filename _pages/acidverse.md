@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: acidverse
+permalink: Xacidverse
 title: acidverse
 ---
 You may also like:

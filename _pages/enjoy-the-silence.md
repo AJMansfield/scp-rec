@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: enjoy-the-silence
+permalink: Xenjoy-the-silence
 title: enjoy-the-silence
 ---
 You may also like:

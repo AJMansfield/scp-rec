@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: six-days
+permalink: Xsix-days
 title: six-days
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: old-kansas-sector-part-7
+permalink: Xold-kansas-sector-part-7
 title: old-kansas-sector-part-7
 ---
 You may also like:

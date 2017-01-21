@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: all-of-me-wants-all-of-you
+permalink: Xall-of-me-wants-all-of-you
 title: all-of-me-wants-all-of-you
 ---
 You may also like:

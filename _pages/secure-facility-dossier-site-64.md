@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: secure-facility-dossier-site-64
+permalink: Xsecure-facility-dossier-site-64
 title: secure-facility-dossier-site-64
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: escape
+permalink: Xescape
 title: escape
 ---
 You may also like:

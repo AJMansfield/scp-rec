@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: scp-game-project
+permalink: Xscp-game-project
 title: scp-game-project
 ---
 You may also like:

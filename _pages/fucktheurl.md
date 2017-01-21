@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: fucktheurl
+permalink: Xfucktheurl
 title: fucktheurl
 ---
 You may also like:

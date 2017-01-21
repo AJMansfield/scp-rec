@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: i-forget-myself-in-this-wondrous-night
+permalink: Xi-forget-myself-in-this-wondrous-night
 title: i-forget-myself-in-this-wondrous-night
 ---
 You may also like:

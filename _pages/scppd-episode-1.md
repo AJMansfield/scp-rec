@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: scppd-episode-1
+permalink: Xscppd-episode-1
 title: scppd-episode-1
 ---
 You may also like:

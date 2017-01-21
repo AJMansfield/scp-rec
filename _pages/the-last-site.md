@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-last-site
+permalink: Xthe-last-site
 title: the-last-site
 ---
 You may also like:

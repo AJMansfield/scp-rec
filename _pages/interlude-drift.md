@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: interlude-drift
+permalink: Xinterlude-drift
 title: interlude-drift
 ---
 You may also like:

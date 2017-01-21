@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: and-he-will-crash-upon-the-rocks
+permalink: Xand-he-will-crash-upon-the-rocks
 title: and-he-will-crash-upon-the-rocks
 ---
 You may also like:

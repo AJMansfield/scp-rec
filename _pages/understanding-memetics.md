@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: understanding-memetics
+permalink: Xunderstanding-memetics
 title: understanding-memetics
 ---
 You may also like:

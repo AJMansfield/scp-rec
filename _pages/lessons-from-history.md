@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: lessons-from-history
+permalink: Xlessons-from-history
 title: lessons-from-history
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: a-poem-for-nobody
+permalink: Xa-poem-for-nobody
 title: a-poem-for-nobody
 ---
 You may also like:

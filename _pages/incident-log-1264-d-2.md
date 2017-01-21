@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: incident-log-1264-d-2
+permalink: Xincident-log-1264-d-2
 title: incident-log-1264-d-2
 ---
 You may also like:

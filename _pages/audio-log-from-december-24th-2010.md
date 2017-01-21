@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: audio-log-from-december-24th-2010
+permalink: Xaudio-log-from-december-24th-2010
 title: audio-log-from-december-24th-2010
 ---
 You may also like:

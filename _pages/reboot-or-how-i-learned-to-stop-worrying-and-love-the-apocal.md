@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: reboot-or-how-i-learned-to-stop-worrying-and-love-the-apocal
+permalink: Xreboot-or-how-i-learned-to-stop-worrying-and-love-the-apocal
 title: reboot-or-how-i-learned-to-stop-worrying-and-love-the-apocal
 ---
 You may also like:

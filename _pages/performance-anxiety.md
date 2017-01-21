@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: performance-anxiety
+permalink: Xperformance-anxiety
 title: performance-anxiety
 ---
 You may also like:

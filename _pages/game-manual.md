@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: game-manual
+permalink: Xgame-manual
 title: game-manual
 ---
 You may also like:

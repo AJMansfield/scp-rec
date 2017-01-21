@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: in-the-darke
+permalink: Xin-the-darke
 title: in-the-darke
 ---
 You may also like:

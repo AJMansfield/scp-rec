@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: involuntary-isolation
+permalink: Xinvoluntary-isolation
 title: involuntary-isolation
 ---
 You may also like:

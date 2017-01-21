@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: primo-gustu-color
+permalink: Xprimo-gustu-color
 title: primo-gustu-color
 ---
 You may also like:

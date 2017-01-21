@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: a-long-ways-from-home
+permalink: Xa-long-ways-from-home
 title: a-long-ways-from-home
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: mackenzie-test-page
+permalink: Xmackenzie-test-page
 title: mackenzie-test-page
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: solvin-center-of-problems
+permalink: Xsolvin-center-of-problems
 title: solvin-center-of-problems
 ---
 You may also like:

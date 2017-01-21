@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-doc-block
+permalink: Xthe-doc-block
 title: the-doc-block
 ---
 You may also like:

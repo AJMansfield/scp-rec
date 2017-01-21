@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: goc-tale-sequence-awtok
+permalink: Xgoc-tale-sequence-awtok
 title: goc-tale-sequence-awtok
 ---
 You may also like:

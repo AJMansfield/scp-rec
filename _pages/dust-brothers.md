@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: dust-brothers
+permalink: Xdust-brothers
 title: dust-brothers
 ---
 You may also like:

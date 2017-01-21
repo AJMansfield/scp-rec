@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: stop-going-in-circles
+permalink: Xstop-going-in-circles
 title: stop-going-in-circles
 ---
 You may also like:

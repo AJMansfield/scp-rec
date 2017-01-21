@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: holder-of-the-foundation
+permalink: Xholder-of-the-foundation
 title: holder-of-the-foundation
 ---
 You may also like:

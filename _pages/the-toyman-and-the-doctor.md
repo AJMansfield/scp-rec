@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-toyman-and-the-doctor
+permalink: Xthe-toyman-and-the-doctor
 title: the-toyman-and-the-doctor
 ---
 You may also like:

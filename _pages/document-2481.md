@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: document-2481
+permalink: Xdocument-2481
 title: document-2481
 ---
 You may also like:

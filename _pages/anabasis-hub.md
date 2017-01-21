@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: anabasis-hub
+permalink: Xanabasis-hub
 title: anabasis-hub
 ---
 You may also like:

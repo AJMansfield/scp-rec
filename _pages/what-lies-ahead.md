@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: what-lies-ahead
+permalink: Xwhat-lies-ahead
 title: what-lies-ahead
 ---
 You may also like:

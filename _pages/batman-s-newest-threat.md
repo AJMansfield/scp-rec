@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: batman-s-newest-threat
+permalink: Xbatman-s-newest-threat
 title: batman-s-newest-threat
 ---
 You may also like:

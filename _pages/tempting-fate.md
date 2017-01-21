@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: tempting-fate
+permalink: Xtempting-fate
 title: tempting-fate
 ---
 You may also like:

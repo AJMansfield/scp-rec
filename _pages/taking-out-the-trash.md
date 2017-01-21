@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: taking-out-the-trash
+permalink: Xtaking-out-the-trash
 title: taking-out-the-trash
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: strung-out-in-heavens-high
+permalink: Xstrung-out-in-heavens-high
 title: strung-out-in-heavens-high
 ---
 You may also like:

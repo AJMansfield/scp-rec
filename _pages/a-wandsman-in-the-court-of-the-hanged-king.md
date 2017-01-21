@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: a-wandsman-in-the-court-of-the-hanged-king
+permalink: Xa-wandsman-in-the-court-of-the-hanged-king
 title: a-wandsman-in-the-court-of-the-hanged-king
 ---
 You may also like:

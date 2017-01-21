@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: kalinins-proposal
+permalink: Xkalinins-proposal
 title: kalinins-proposal
 ---
 You may also like:

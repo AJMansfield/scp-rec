@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-recording
+permalink: Xthe-recording
 title: the-recording
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: one-last-punch-for-the-road
+permalink: Xone-last-punch-for-the-road
 title: one-last-punch-for-the-road
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: an-armenian-bodybuilder-exercises-his-legal-rights
+permalink: Xan-armenian-bodybuilder-exercises-his-legal-rights
 title: an-armenian-bodybuilder-exercises-his-legal-rights
 ---
 You may also like:

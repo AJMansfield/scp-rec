@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: feverish
+permalink: Xfeverish
 title: feverish
 ---
 You may also like:

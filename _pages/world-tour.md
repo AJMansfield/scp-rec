@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: world-tour
+permalink: Xworld-tour
 title: world-tour
 ---
 You may also like:

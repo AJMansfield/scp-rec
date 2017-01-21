@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-black-horse
+permalink: Xthe-black-horse
 title: the-black-horse
 ---
 You may also like:

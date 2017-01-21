@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: iris-dark
+permalink: Xiris-dark
 title: iris-dark
 ---
 You may also like:

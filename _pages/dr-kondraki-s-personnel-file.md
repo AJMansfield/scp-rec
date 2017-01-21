@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: dr-kondraki-s-personnel-file
+permalink: Xdr-kondraki-s-personnel-file
 title: dr-kondraki-s-personnel-file
 ---
 You may also like:

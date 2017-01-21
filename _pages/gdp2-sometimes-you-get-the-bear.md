@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: gdp2-sometimes-you-get-the-bear
+permalink: Xgdp2-sometimes-you-get-the-bear
 title: gdp2-sometimes-you-get-the-bear
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: building-up
+permalink: Xbuilding-up
 title: building-up
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: heretherebe
+permalink: Xheretherebe
 title: heretherebe
 ---
 You may also like:

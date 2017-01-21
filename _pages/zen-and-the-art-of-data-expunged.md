@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: zen-and-the-art-of-data-expunged
+permalink: Xzen-and-the-art-of-data-expunged
 title: zen-and-the-art-of-data-expunged
 ---
 You may also like:

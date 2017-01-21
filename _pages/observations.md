@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: observations
+permalink: Xobservations
 title: observations
 ---
 You may also like:

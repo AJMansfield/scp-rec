@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: grasp-on-reality
+permalink: Xgrasp-on-reality
 title: grasp-on-reality
 ---
 You may also like:

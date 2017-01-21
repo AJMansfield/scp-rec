@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: 1-mr-headless
+permalink: X1-mr-headless
 title: 1-mr-headless
 ---
 You may also like:

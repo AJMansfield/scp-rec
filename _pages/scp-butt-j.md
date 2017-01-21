@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: scp-butt-j
+permalink: Xscp-butt-j
 title: scp-butt-j
 ---
 You may also like:

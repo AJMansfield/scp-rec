@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: conclusions-red-173-2263-incident
+permalink: Xconclusions-red-173-2263-incident
 title: conclusions-red-173-2263-incident
 ---
 You may also like:

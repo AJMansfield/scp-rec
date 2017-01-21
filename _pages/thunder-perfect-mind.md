@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: thunder-perfect-mind
+permalink: Xthunder-perfect-mind
 title: thunder-perfect-mind
 ---
 You may also like:

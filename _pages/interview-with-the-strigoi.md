@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: interview-with-the-strigoi
+permalink: Xinterview-with-the-strigoi
 title: interview-with-the-strigoi
 ---
 You may also like:

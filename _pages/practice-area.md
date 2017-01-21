@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: practice-area
+permalink: Xpractice-area
 title: practice-area
 ---
 You may also like:

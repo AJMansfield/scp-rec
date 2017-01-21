@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: when-moses-goes-wrong
+permalink: Xwhen-moses-goes-wrong
 title: when-moses-goes-wrong
 ---
 You may also like:

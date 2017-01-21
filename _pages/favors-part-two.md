@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: favors-part-two
+permalink: Xfavors-part-two
 title: favors-part-two
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: criticism-policy
+permalink: Xcriticism-policy
 title: criticism-policy
 ---
 You may also like:

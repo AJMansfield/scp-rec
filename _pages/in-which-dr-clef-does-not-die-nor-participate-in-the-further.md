@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: in-which-dr-clef-does-not-die-nor-participate-in-the-further
+permalink: Xin-which-dr-clef-does-not-die-nor-participate-in-the-further
 title: in-which-dr-clef-does-not-die-nor-participate-in-the-further
 ---
 You may also like:

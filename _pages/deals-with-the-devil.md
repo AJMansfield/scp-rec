@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: deals-with-the-devil
+permalink: Xdeals-with-the-devil
 title: deals-with-the-devil
 ---
 You may also like:

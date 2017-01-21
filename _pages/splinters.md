@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: splinters
+permalink: Xsplinters
 title: splinters
 ---
 You may also like:

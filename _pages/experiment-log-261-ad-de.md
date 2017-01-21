@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: experiment-log-261-ad-de
+permalink: Xexperiment-log-261-ad-de
 title: experiment-log-261-ad-de
 ---
 You may also like:

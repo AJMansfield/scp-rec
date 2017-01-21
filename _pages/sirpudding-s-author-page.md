@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: sirpudding-s-author-page
+permalink: Xsirpudding-s-author-page
 title: sirpudding-s-author-page
 ---
 You may also like:

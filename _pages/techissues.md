@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: techissues
+permalink: Xtechissues
 title: techissues
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: breaker-1-9
+permalink: Xbreaker-1-9
 title: breaker-1-9
 ---
 You may also like:

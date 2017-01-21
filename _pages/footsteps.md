@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: footsteps
+permalink: Xfootsteps
 title: footsteps
 ---
 You may also like:

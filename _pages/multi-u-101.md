@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: multi-u-101
+permalink: Xmulti-u-101
 title: multi-u-101
 ---
 You may also like:

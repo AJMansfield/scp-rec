@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: what-happened-at-greenwich
+permalink: Xwhat-happened-at-greenwich
 title: what-happened-at-greenwich
 ---
 You may also like:

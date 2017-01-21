@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: top-rated-pages-this-month
+permalink: Xtop-rated-pages-this-month
 title: top-rated-pages-this-month
 ---
 You may also like:

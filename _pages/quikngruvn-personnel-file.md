@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: quikngruvn-personnel-file
+permalink: Xquikngruvn-personnel-file
 title: quikngruvn-personnel-file
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: enkidu
+permalink: Xenkidu
 title: enkidu
 ---
 You may also like:

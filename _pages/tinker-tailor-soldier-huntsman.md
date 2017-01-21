@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: tinker-tailor-soldier-huntsman
+permalink: Xtinker-tailor-soldier-huntsman
 title: tinker-tailor-soldier-huntsman
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: from-the-mists-of-time
+permalink: Xfrom-the-mists-of-time
 title: from-the-mists-of-time
 ---
 You may also like:

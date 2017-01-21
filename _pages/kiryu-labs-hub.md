@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: kiryu-labs-hub
+permalink: Xkiryu-labs-hub
 title: kiryu-labs-hub
 ---
 You may also like:

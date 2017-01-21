@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: breakroom-routing
+permalink: Xbreakroom-routing
 title: breakroom-routing
 ---
 You may also like:

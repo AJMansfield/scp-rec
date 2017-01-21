@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: freaky-commodities
+permalink: Xfreaky-commodities
 title: freaky-commodities
 ---
 You may also like:

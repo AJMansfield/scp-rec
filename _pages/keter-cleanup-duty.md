@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: keter-cleanup-duty
+permalink: Xketer-cleanup-duty
 title: keter-cleanup-duty
 ---
 You may also like:

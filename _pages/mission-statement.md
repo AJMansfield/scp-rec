@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: mission-statement
+permalink: Xmission-statement
 title: mission-statement
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: absolute-self-control
+permalink: Xabsolute-self-control
 title: absolute-self-control
 ---
 You may also like:

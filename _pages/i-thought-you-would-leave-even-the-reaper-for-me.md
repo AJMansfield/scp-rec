@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: i-thought-you-would-leave-even-the-reaper-for-me
+permalink: Xi-thought-you-would-leave-even-the-reaper-for-me
 title: i-thought-you-would-leave-even-the-reaper-for-me
 ---
 You may also like:

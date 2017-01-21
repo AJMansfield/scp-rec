@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: facetious-fanatics
+permalink: Xfacetious-fanatics
 title: facetious-fanatics
 ---
 You may also like:

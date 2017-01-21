@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-black-queen
+permalink: Xthe-black-queen
 title: the-black-queen
 ---
 You may also like:

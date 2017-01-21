@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: tedlyanderson-author-page
+permalink: Xtedlyanderson-author-page
 title: tedlyanderson-author-page
 ---
 You may also like:

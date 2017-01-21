@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: taking-a-break-from-all-your-worries
+permalink: Xtaking-a-break-from-all-your-worries
 title: taking-a-break-from-all-your-worries
 ---
 You may also like:

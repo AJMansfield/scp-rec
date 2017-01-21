@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: min-min
+permalink: Xmin-min
 title: min-min
 ---
 You may also like:

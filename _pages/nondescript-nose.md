@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: nondescript-nose
+permalink: Xnondescript-nose
 title: nondescript-nose
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: forum-access-issues-19-oct-2012
+permalink: Xforum-access-issues-19-oct-2012
 title: forum-access-issues-19-oct-2012
 ---
 You may also like:

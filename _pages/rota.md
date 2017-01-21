@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: rota
+permalink: Xrota
 title: rota
 ---
 You may also like:

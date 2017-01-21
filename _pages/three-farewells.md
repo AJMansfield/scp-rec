@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: three-farewells
+permalink: Xthree-farewells
 title: three-farewells
 ---
 You may also like:

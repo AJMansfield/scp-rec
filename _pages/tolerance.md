@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: tolerance
+permalink: Xtolerance
 title: tolerance
 ---
 You may also like:

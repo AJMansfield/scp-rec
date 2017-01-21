@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: between-shelves
+permalink: Xbetween-shelves
 title: between-shelves
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: final-regrets
+permalink: Xfinal-regrets
 title: final-regrets
 ---
 You may also like:

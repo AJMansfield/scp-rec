@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: oricha-s-folly
+permalink: Xoricha-s-folly
 title: oricha-s-folly
 ---
 You may also like:

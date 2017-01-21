@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: interval-2
+permalink: Xinterval-2
 title: interval-2
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: learning-shit
+permalink: Xlearning-shit
 title: learning-shit
 ---
 You may also like:

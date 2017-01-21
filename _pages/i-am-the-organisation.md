@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: i-am-the-organisation
+permalink: Xi-am-the-organisation
 title: i-am-the-organisation
 ---
 You may also like:

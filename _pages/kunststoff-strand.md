@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: kunststoff-strand
+permalink: Xkunststoff-strand
 title: kunststoff-strand
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: goc-tale-sequence-trauma
+permalink: Xgoc-tale-sequence-trauma
 title: goc-tale-sequence-trauma
 ---
 You may also like:

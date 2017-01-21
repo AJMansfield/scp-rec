@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-last-redcoat
+permalink: Xthe-last-redcoat
 title: the-last-redcoat
 ---
 You may also like:

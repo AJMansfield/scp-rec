@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-hydra-s-spine
+permalink: Xthe-hydra-s-spine
 title: the-hydra-s-spine
 ---
 You may also like:

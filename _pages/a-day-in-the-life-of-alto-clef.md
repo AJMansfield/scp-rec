@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: a-day-in-the-life-of-alto-clef
+permalink: Xa-day-in-the-life-of-alto-clef
 title: a-day-in-the-life-of-alto-clef
 ---
 You may also like:

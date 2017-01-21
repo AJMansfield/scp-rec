@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: blue-team
+permalink: Xblue-team
 title: blue-team
 ---
 You may also like:

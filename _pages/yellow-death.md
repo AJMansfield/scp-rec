@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: yellow-death
+permalink: Xyellow-death
 title: yellow-death
 ---
 You may also like:

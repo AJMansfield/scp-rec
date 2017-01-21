@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: collected-information-concerning-mr-welsch
+permalink: Xcollected-information-concerning-mr-welsch
 title: collected-information-concerning-mr-welsch
 ---
 You may also like:

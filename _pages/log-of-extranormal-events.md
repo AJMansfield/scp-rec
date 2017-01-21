@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: log-of-extranormal-events
+permalink: Xlog-of-extranormal-events
 title: log-of-extranormal-events
 ---
 You may also like:

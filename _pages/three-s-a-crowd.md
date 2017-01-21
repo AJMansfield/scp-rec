@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: three-s-a-crowd
+permalink: Xthree-s-a-crowd
 title: three-s-a-crowd
 ---
 You may also like:

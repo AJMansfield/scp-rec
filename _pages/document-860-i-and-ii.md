@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: document-860-i-and-ii
+permalink: Xdocument-860-i-and-ii
 title: document-860-i-and-ii
 ---
 You may also like:

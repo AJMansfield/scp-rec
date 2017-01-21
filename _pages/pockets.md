@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: pockets
+permalink: Xpockets
 title: pockets
 ---
 You may also like:

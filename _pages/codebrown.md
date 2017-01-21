@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: codebrown
+permalink: Xcodebrown
 title: codebrown
 ---
 You may also like:

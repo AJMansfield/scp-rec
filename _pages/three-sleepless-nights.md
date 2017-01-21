@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: three-sleepless-nights
+permalink: Xthree-sleepless-nights
 title: three-sleepless-nights
 ---
 You may also like:

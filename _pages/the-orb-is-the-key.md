@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-orb-is-the-key
+permalink: Xthe-orb-is-the-key
 title: the-orb-is-the-key
 ---
 You may also like:

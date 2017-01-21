@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: scp-093-recovered-materials
+permalink: Xscp-093-recovered-materials
 title: scp-093-recovered-materials
 ---
 You may also like:

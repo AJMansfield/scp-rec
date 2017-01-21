@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: business-as-usual
+permalink: Xbusiness-as-usual
 title: business-as-usual
 ---
 You may also like:

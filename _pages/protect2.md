@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: protect2
+permalink: Xprotect2
 title: protect2
 ---
 You may also like:

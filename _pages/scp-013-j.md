@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: scp-013-j
+permalink: Xscp-013-j
 title: scp-013-j
 ---
 You may also like:

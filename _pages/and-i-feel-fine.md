@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: and-i-feel-fine
+permalink: Xand-i-feel-fine
 title: and-i-feel-fine
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: spectral-files
+permalink: Xspectral-files
 title: spectral-files
 ---
 You may also like:

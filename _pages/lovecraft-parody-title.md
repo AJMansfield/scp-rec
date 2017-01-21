@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: lovecraft-parody-title
+permalink: Xlovecraft-parody-title
 title: lovecraft-parody-title
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: issue-100
+permalink: Xissue-100
 title: issue-100
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-lingering-lark-of-leviathan-square
+permalink: Xthe-lingering-lark-of-leviathan-square
 title: the-lingering-lark-of-leviathan-square
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: medical-seminar
+permalink: Xmedical-seminar
 title: medical-seminar
 ---
 You may also like:

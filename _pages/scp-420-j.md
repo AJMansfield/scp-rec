@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: scp-420-j
+permalink: Xscp-420-j
 title: scp-420-j
 ---
 You may also like:

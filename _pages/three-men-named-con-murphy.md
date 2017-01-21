@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: three-men-named-con-murphy
+permalink: Xthree-men-named-con-murphy
 title: three-men-named-con-murphy
 ---
 You may also like:

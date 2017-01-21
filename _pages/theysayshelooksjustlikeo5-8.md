@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: theysayshelooksjustlikeo5-8
+permalink: Xtheysayshelooksjustlikeo5-8
 title: theysayshelooksjustlikeo5-8
 ---
 You may also like:

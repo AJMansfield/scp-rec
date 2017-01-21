@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: and-this-one-explains-humes
+permalink: Xand-this-one-explains-humes
 title: and-this-one-explains-humes
 ---
 You may also like:

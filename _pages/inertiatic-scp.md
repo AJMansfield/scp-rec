@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: inertiatic-scp
+permalink: Xinertiatic-scp
 title: inertiatic-scp
 ---
 You may also like:

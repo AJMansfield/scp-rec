@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: stepping-out
+permalink: Xstepping-out
 title: stepping-out
 ---
 You may also like:

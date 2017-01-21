@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: 9-mr-clumsy
+permalink: X9-mr-clumsy
 title: 9-mr-clumsy
 ---
 You may also like:

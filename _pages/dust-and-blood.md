@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: dust-and-blood
+permalink: Xdust-and-blood
 title: dust-and-blood
 ---
 You may also like:

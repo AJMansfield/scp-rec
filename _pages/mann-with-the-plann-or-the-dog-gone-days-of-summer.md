@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: mann-with-the-plann-or-the-dog-gone-days-of-summer
+permalink: Xmann-with-the-plann-or-the-dog-gone-days-of-summer
 title: mann-with-the-plann-or-the-dog-gone-days-of-summer
 ---
 You may also like:

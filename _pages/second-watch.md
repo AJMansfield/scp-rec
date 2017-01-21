@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: second-watch
+permalink: Xsecond-watch
 title: second-watch
 ---
 You may also like:

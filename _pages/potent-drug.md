@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: potent-drug
+permalink: Xpotent-drug
 title: potent-drug
 ---
 You may also like:

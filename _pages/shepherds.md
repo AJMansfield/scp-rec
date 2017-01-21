@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: shepherds
+permalink: Xshepherds
 title: shepherds
 ---
 You may also like:

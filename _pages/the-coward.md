@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-coward
+permalink: Xthe-coward
 title: the-coward
 ---
 You may also like:

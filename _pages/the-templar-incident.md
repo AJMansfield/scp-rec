@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-templar-incident
+permalink: Xthe-templar-incident
 title: the-templar-incident
 ---
 You may also like:

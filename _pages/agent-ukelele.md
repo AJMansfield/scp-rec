@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: agent-ukelele
+permalink: Xagent-ukelele
 title: agent-ukelele
 ---
 You may also like:

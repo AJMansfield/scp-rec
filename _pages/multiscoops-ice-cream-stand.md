@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: multiscoops-ice-cream-stand
+permalink: Xmultiscoops-ice-cream-stand
 title: multiscoops-ice-cream-stand
 ---
 You may also like:

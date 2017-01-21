@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-bard-of-ambrose
+permalink: Xthe-bard-of-ambrose
 title: the-bard-of-ambrose
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: smothering-dreams
+permalink: Xsmothering-dreams
 title: smothering-dreams
 ---
 You may also like:

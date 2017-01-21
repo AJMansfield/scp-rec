@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: christmas
+permalink: Xchristmas
 title: christmas
 ---
 You may also like:

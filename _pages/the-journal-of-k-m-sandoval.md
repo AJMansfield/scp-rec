@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-journal-of-k-m-sandoval
+permalink: Xthe-journal-of-k-m-sandoval
 title: the-journal-of-k-m-sandoval
 ---
 You may also like:

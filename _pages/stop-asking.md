@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: stop-asking
+permalink: Xstop-asking
 title: stop-asking
 ---
 You may also like:

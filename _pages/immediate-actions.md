@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: immediate-actions
+permalink: Ximmediate-actions
 title: immediate-actions
 ---
 You may also like:

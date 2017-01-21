@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: his-kind-eyes
+permalink: Xhis-kind-eyes
 title: his-kind-eyes
 ---
 You may also like:

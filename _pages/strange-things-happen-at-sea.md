@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: strange-things-happen-at-sea
+permalink: Xstrange-things-happen-at-sea
 title: strange-things-happen-at-sea
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: incursion
+permalink: Xincursion
 title: incursion
 ---
 You may also like:

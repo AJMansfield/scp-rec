@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: game-day-1-smilers
+permalink: Xgame-day-1-smilers
 title: game-day-1-smilers
 ---
 You may also like:

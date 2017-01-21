@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-killer
+permalink: Xthe-killer
 title: the-killer
 ---
 You may also like:

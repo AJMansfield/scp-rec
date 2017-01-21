@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: special-assets
+permalink: Xspecial-assets
 title: special-assets
 ---
 You may also like:

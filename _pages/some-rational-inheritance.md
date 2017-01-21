@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: some-rational-inheritance
+permalink: Xsome-rational-inheritance
 title: some-rational-inheritance
 ---
 You may also like:

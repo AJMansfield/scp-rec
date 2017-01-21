@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: text-of-a-condolence-letter-federal-bureau-of-investigation
+permalink: Xtext-of-a-condolence-letter-federal-bureau-of-investigation
 title: text-of-a-condolence-letter-federal-bureau-of-investigation
 ---
 You may also like:

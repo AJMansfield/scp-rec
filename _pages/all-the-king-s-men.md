@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: all-the-king-s-men
+permalink: Xall-the-king-s-men
 title: all-the-king-s-men
 ---
 You may also like:

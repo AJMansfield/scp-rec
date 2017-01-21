@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-karcist-and-the-mekhanite
+permalink: Xthe-karcist-and-the-mekhanite
 title: the-karcist-and-the-mekhanite
 ---
 You may also like:

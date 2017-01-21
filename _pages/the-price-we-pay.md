@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-price-we-pay
+permalink: Xthe-price-we-pay
 title: the-price-we-pay
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: law-and-order
+permalink: Xlaw-and-order
 title: law-and-order
 ---
 You may also like:

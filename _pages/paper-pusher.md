@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: paper-pusher
+permalink: Xpaper-pusher
 title: paper-pusher
 ---
 You may also like:

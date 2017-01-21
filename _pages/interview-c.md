@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: interview-c
+permalink: Xinterview-c
 title: interview-c
 ---
 You may also like:

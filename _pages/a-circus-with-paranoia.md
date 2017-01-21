@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: a-circus-with-paranoia
+permalink: Xa-circus-with-paranoia
 title: a-circus-with-paranoia
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: d-class-orientation
+permalink: Xd-class-orientation
 title: d-class-orientation
 ---
 You may also like:

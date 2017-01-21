@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-cool-war-hub
+permalink: Xthe-cool-war-hub
 title: the-cool-war-hub
 ---
 You may also like:

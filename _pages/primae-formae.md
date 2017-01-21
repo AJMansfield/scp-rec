@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: primae-formae
+permalink: Xprimae-formae
 title: primae-formae
 ---
 You may also like:

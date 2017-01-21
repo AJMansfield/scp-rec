@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: experiment-log-531
+permalink: Xexperiment-log-531
 title: experiment-log-531
 ---
 You may also like:

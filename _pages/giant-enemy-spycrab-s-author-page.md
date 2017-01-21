@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: giant-enemy-spycrab-s-author-page
+permalink: Xgiant-enemy-spycrab-s-author-page
 title: giant-enemy-spycrab-s-author-page
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: i-wish-to-be-an-asteroid-burning-to-nothing
+permalink: Xi-wish-to-be-an-asteroid-burning-to-nothing
 title: i-wish-to-be-an-asteroid-burning-to-nothing
 ---
 You may also like:

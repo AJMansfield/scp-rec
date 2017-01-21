@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: immolation
+permalink: Ximmolation
 title: immolation
 ---
 You may also like:

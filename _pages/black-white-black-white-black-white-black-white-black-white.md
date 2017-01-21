@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: black-white-black-white-black-white-black-white-black-white
+permalink: Xblack-white-black-white-black-white-black-white-black-white
 title: black-white-black-white-black-white-black-white-black-white
 ---
 You may also like:

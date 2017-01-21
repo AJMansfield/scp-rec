@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-man-who-wasnt-there-hub
+permalink: Xthe-man-who-wasnt-there-hub
 title: the-man-who-wasnt-there-hub
 ---
 You may also like:

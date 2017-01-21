@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: learning-the-alphabet-hub
+permalink: Xlearning-the-alphabet-hub
 title: learning-the-alphabet-hub
 ---
 You may also like:

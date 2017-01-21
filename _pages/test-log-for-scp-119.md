@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: test-log-for-scp-119
+permalink: Xtest-log-for-scp-119
 title: test-log-for-scp-119
 ---
 You may also like:

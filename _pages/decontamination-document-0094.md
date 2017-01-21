@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: decontamination-document-0094
+permalink: Xdecontamination-document-0094
 title: decontamination-document-0094
 ---
 You may also like:

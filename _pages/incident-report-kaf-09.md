@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: incident-report-kaf-09
+permalink: Xincident-report-kaf-09
 title: incident-report-kaf-09
 ---
 You may also like:

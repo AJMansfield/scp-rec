@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: agent-strelnikov-s-personnel-file
+permalink: Xagent-strelnikov-s-personnel-file
 title: agent-strelnikov-s-personnel-file
 ---
 You may also like:

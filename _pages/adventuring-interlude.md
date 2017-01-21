@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: adventuring-interlude
+permalink: Xadventuring-interlude
 title: adventuring-interlude
 ---
 You may also like:

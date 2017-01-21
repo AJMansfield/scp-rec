@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: why-is-five-afraid-of-seven
+permalink: Xwhy-is-five-afraid-of-seven
 title: why-is-five-afraid-of-seven
 ---
 You may also like:

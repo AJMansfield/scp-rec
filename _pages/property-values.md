@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: property-values
+permalink: Xproperty-values
 title: property-values
 ---
 You may also like:

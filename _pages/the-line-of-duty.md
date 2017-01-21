@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-line-of-duty
+permalink: Xthe-line-of-duty
 title: the-line-of-duty
 ---
 You may also like:

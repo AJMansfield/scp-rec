@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: test-log-scp-926-1
+permalink: Xtest-log-scp-926-1
 title: test-log-scp-926-1
 ---
 You may also like:

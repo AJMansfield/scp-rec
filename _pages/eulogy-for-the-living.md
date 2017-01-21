@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: eulogy-for-the-living
+permalink: Xeulogy-for-the-living
 title: eulogy-for-the-living
 ---
 You may also like:

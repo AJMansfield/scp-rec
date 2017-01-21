@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: brink-dangerguts-chapter-3
+permalink: Xbrink-dangerguts-chapter-3
 title: brink-dangerguts-chapter-3
 ---
 You may also like:

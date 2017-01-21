@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-death-of-alto-clef-etc
+permalink: Xthe-death-of-alto-clef-etc
 title: the-death-of-alto-clef-etc
 ---
 You may also like:

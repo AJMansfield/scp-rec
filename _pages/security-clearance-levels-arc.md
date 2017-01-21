@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: security-clearance-levels-arc
+permalink: Xsecurity-clearance-levels-arc
 title: security-clearance-levels-arc
 ---
 You may also like:

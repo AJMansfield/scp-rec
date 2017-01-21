@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-one-thousand-deaths-of-pastor-lewis-robinson-the-ethics
+permalink: Xthe-one-thousand-deaths-of-pastor-lewis-robinson-the-ethics
 title: the-one-thousand-deaths-of-pastor-lewis-robinson-the-ethics
 ---
 You may also like:

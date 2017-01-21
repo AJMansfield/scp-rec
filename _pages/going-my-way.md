@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: going-my-way
+permalink: Xgoing-my-way
 title: going-my-way
 ---
 You may also like:

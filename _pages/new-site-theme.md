@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: new-site-theme
+permalink: Xnew-site-theme
 title: new-site-theme
 ---
 You may also like:

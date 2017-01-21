@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: lycan-therapy-s-personnel-file
+permalink: Xlycan-therapy-s-personnel-file
 title: lycan-therapy-s-personnel-file
 ---
 You may also like:

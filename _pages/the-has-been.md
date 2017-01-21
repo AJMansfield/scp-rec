@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-has-been
+permalink: Xthe-has-been
 title: the-has-been
 ---
 You may also like:

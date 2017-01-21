@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: cat-in-a-box
+permalink: Xcat-in-a-box
 title: cat-in-a-box
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: letting-it-go
+permalink: Xletting-it-go
 title: letting-it-go
 ---
 You may also like:

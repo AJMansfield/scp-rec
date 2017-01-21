@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: experiment-log-914-theta
+permalink: Xexperiment-log-914-theta
 title: experiment-log-914-theta
 ---
 You may also like:

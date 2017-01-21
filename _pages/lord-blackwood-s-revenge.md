@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: lord-blackwood-s-revenge
+permalink: Xlord-blackwood-s-revenge
 title: lord-blackwood-s-revenge
 ---
 You may also like:

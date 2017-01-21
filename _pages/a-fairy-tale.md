@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: a-fairy-tale
+permalink: Xa-fairy-tale
 title: a-fairy-tale
 ---
 You may also like:

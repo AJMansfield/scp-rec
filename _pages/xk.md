@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: xk
+permalink: Xxk
 title: xk
 ---
 You may also like:

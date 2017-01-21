@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: document-2013-lucius
+permalink: Xdocument-2013-lucius
 title: document-2013-lucius
 ---
 You may also like:

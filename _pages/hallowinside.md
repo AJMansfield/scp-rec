@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: hallowinside
+permalink: Xhallowinside
 title: hallowinside
 ---
 You may also like:

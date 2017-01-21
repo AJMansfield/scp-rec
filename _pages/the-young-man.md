@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-young-man
+permalink: Xthe-young-man
 title: the-young-man
 ---
 You may also like:

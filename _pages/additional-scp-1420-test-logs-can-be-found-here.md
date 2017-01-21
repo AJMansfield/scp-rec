@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: additional-scp-1420-test-logs-can-be-found-here
+permalink: Xadditional-scp-1420-test-logs-can-be-found-here
 title: additional-scp-1420-test-logs-can-be-found-here
 ---
 You may also like:

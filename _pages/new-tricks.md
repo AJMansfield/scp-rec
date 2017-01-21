@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: new-tricks
+permalink: Xnew-tricks
 title: new-tricks
 ---
 You may also like:

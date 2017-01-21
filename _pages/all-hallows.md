@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: all-hallows
+permalink: Xall-hallows
 title: all-hallows
 ---
 You may also like:

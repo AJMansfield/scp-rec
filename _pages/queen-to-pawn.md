@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: queen-to-pawn
+permalink: Xqueen-to-pawn
 title: queen-to-pawn
 ---
 You may also like:

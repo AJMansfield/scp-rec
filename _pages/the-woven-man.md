@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-woven-man
+permalink: Xthe-woven-man
 title: the-woven-man
 ---
 You may also like:

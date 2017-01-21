@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: metafiction
+permalink: Xmetafiction
 title: metafiction
 ---
 You may also like:

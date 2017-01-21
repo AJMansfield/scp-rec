@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: sunny-art-series-3
+permalink: Xsunny-art-series-3
 title: sunny-art-series-3
 ---
 You may also like:

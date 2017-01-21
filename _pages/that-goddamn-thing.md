@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: that-goddamn-thing
+permalink: Xthat-goddamn-thing
 title: that-goddamn-thing
 ---
 You may also like:

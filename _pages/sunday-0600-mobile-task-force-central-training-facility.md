@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: sunday-0600-mobile-task-force-central-training-facility
+permalink: Xsunday-0600-mobile-task-force-central-training-facility
 title: sunday-0600-mobile-task-force-central-training-facility
 ---
 You may also like:

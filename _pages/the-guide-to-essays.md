@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-guide-to-essays
+permalink: Xthe-guide-to-essays
 title: the-guide-to-essays
 ---
 You may also like:

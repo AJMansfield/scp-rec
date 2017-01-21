@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: skipping-time
+permalink: Xskipping-time
 title: skipping-time
 ---
 You may also like:

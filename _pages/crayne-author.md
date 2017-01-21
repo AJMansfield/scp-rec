@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: crayne-author
+permalink: Xcrayne-author
 title: crayne-author
 ---
 You may also like:

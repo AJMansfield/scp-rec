@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: tuomey-author-page
+permalink: Xtuomey-author-page
 title: tuomey-author-page
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: body-bags
+permalink: Xbody-bags
 title: body-bags
 ---
 You may also like:

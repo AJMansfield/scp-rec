@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: death-and-the-doctors-hub
+permalink: Xdeath-and-the-doctors-hub
 title: death-and-the-doctors-hub
 ---
 You may also like:

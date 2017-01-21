@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: little-hurley-lost-in-meatspace
+permalink: Xlittle-hurley-lost-in-meatspace
 title: little-hurley-lost-in-meatspace
 ---
 You may also like:

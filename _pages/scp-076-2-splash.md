@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: scp-076-2-splash
+permalink: Xscp-076-2-splash
 title: scp-076-2-splash
 ---
 You may also like:

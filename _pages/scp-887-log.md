@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: scp-887-log
+permalink: Xscp-887-log
 title: scp-887-log
 ---
 You may also like:

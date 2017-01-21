@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: neutralized-arc
+permalink: Xneutralized-arc
 title: neutralized-arc
 ---
 You may also like:

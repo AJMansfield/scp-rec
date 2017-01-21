@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-word
+permalink: Xthe-word
 title: the-word
 ---
 You may also like:

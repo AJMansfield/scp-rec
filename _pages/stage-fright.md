@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: stage-fright
+permalink: Xstage-fright
 title: stage-fright
 ---
 You may also like:

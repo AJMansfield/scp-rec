@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: dr-mackenzie
+permalink: Xdr-mackenzie
 title: dr-mackenzie
 ---
 You may also like:

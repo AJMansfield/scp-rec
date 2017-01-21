@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: in-all-honesty
+permalink: Xin-all-honesty
 title: in-all-honesty
 ---
 You may also like:

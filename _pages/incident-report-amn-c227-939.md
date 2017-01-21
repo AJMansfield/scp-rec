@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: incident-report-amn-c227-939
+permalink: Xincident-report-amn-c227-939
 title: incident-report-amn-c227-939
 ---
 You may also like:

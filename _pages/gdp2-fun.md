@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: gdp2-fun
+permalink: Xgdp2-fun
 title: gdp2-fun
 ---
 You may also like:

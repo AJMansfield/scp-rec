@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-price-of-knowledge
+permalink: Xthe-price-of-knowledge
 title: the-price-of-knowledge
 ---
 You may also like:

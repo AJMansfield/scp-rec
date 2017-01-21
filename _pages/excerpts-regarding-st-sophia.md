@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: excerpts-regarding-st-sophia
+permalink: Xexcerpts-regarding-st-sophia
 title: excerpts-regarding-st-sophia
 ---
 You may also like:

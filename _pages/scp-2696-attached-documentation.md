@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: scp-2696-attached-documentation
+permalink: Xscp-2696-attached-documentation
 title: scp-2696-attached-documentation
 ---
 You may also like:

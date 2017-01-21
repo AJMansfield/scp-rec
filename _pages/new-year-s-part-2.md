@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: new-year-s-part-2
+permalink: Xnew-year-s-part-2
 title: new-year-s-part-2
 ---
 You may also like:

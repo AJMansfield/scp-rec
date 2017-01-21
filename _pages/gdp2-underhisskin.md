@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: gdp2-underhisskin
+permalink: Xgdp2-underhisskin
 title: gdp2-underhisskin
 ---
 You may also like:

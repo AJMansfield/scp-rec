@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: new-kid-on-the-block
+permalink: Xnew-kid-on-the-block
 title: new-kid-on-the-block
 ---
 You may also like:

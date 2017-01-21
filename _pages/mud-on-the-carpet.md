@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: mud-on-the-carpet
+permalink: Xmud-on-the-carpet
 title: mud-on-the-carpet
 ---
 You may also like:

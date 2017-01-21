@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: amnestic-orientation-manual
+permalink: Xamnestic-orientation-manual
 title: amnestic-orientation-manual
 ---
 You may also like:

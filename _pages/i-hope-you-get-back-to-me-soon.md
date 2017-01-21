@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: i-hope-you-get-back-to-me-soon
+permalink: Xi-hope-you-get-back-to-me-soon
 title: i-hope-you-get-back-to-me-soon
 ---
 You may also like:

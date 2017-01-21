@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: what-s-real
+permalink: Xwhat-s-real
 title: what-s-real
 ---
 You may also like:

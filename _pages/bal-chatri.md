@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: bal-chatri
+permalink: Xbal-chatri
 title: bal-chatri
 ---
 You may also like:

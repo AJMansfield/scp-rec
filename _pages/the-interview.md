@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-interview
+permalink: Xthe-interview
 title: the-interview
 ---
 You may also like:

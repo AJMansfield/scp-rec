@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: a-fitting-end
+permalink: Xa-fitting-end
 title: a-fitting-end
 ---
 You may also like:

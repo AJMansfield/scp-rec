@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: scp-682-j-james-coloring-book
+permalink: Xscp-682-j-james-coloring-book
 title: scp-682-j-james-coloring-book
 ---
 You may also like:

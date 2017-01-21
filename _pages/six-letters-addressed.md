@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: six-letters-addressed
+permalink: Xsix-letters-addressed
 title: six-letters-addressed
 ---
 You may also like:

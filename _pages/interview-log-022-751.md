@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: interview-log-022-751
+permalink: Xinterview-log-022-751
 title: interview-log-022-751
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: local-legends
+permalink: Xlocal-legends
 title: local-legends
 ---
 You may also like:

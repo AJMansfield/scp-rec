@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: sisters
+permalink: Xsisters
 title: sisters
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: tryingtofleshoutanidea
+permalink: Xtryingtofleshoutanidea
 title: tryingtofleshoutanidea
 ---
 You may also like:

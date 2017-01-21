@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: goc-supplemental-humanoid-guide
+permalink: Xgoc-supplemental-humanoid-guide
 title: goc-supplemental-humanoid-guide
 ---
 You may also like:

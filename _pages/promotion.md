@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: promotion
+permalink: Xpromotion
 title: promotion
 ---
 You may also like:

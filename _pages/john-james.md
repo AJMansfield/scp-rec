@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: john-james
+permalink: Xjohn-james
 title: john-james
 ---
 You may also like:

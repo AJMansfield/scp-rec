@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: what-is-wrong-with-you
+permalink: Xwhat-is-wrong-with-you
 title: what-is-wrong-with-you
 ---
 You may also like:

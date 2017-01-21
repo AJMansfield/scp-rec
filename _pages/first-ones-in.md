@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: first-ones-in
+permalink: Xfirst-ones-in
 title: first-ones-in
 ---
 You may also like:

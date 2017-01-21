@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: in-god-s-name
+permalink: Xin-god-s-name
 title: in-god-s-name
 ---
 You may also like:

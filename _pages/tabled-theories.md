@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: tabled-theories
+permalink: Xtabled-theories
 title: tabled-theories
 ---
 You may also like:

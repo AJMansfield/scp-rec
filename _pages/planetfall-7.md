@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: planetfall-7
+permalink: Xplanetfall-7
 title: planetfall-7
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: scp-1049-j-extended-test-logs
+permalink: Xscp-1049-j-extended-test-logs
 title: scp-1049-j-extended-test-logs
 ---
 You may also like:

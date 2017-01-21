@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: candy
+permalink: Xcandy
 title: candy
 ---
 You may also like:

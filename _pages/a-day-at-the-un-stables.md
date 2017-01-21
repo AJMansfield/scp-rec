@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: a-day-at-the-un-stables
+permalink: Xa-day-at-the-un-stables
 title: a-day-at-the-un-stables
 ---
 You may also like:

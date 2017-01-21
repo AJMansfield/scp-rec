@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: sparkle-spectacular
+permalink: Xsparkle-spectacular
 title: sparkle-spectacular
 ---
 You may also like:

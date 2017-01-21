@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: those-thin-penultimate-hours
+permalink: Xthose-thin-penultimate-hours
 title: those-thin-penultimate-hours
 ---
 You may also like:

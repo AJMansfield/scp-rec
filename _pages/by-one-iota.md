@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: by-one-iota
+permalink: Xby-one-iota
 title: by-one-iota
 ---
 You may also like:

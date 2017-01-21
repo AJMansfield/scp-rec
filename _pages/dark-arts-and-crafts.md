@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: dark-arts-and-crafts
+permalink: Xdark-arts-and-crafts
 title: dark-arts-and-crafts
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: transcript-epsilon-12-1555
+permalink: Xtranscript-epsilon-12-1555
 title: transcript-epsilon-12-1555
 ---
 You may also like:

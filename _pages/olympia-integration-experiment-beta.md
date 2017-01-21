@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: olympia-integration-experiment-beta
+permalink: Xolympia-integration-experiment-beta
 title: olympia-integration-experiment-beta
 ---
 You may also like:

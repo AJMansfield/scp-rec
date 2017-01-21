@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: history
+permalink: Xhistory
 title: history
 ---
 You may also like:

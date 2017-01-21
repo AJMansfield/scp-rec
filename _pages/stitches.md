@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: stitches
+permalink: Xstitches
 title: stitches
 ---
 You may also like:

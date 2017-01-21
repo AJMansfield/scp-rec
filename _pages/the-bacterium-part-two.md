@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-bacterium-part-two
+permalink: Xthe-bacterium-part-two
 title: the-bacterium-part-two
 ---
 You may also like:

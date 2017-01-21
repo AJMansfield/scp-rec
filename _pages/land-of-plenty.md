@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: land-of-plenty
+permalink: Xland-of-plenty
 title: land-of-plenty
 ---
 You may also like:

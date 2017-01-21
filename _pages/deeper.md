@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: deeper
+permalink: Xdeeper
 title: deeper
 ---
 You may also like:

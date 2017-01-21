@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: a-brief-history-of-scp-ru
+permalink: Xa-brief-history-of-scp-ru
 title: a-brief-history-of-scp-ru
 ---
 You may also like:

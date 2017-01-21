@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: 1231-warning
+permalink: X1231-warning
 title: 1231-warning
 ---
 You may also like:

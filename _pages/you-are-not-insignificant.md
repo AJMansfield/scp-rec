@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: you-are-not-insignificant
+permalink: Xyou-are-not-insignificant
 title: you-are-not-insignificant
 ---
 You may also like:

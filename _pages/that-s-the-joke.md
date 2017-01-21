@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: that-s-the-joke
+permalink: Xthat-s-the-joke
 title: that-s-the-joke
 ---
 You may also like:

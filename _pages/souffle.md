@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: souffle
+permalink: Xsouffle
 title: souffle
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: faceless
+permalink: Xfaceless
 title: faceless
 ---
 You may also like:

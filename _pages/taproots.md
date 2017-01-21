@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: taproots
+permalink: Xtaproots
 title: taproots
 ---
 You may also like:

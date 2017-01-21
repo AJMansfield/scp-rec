@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-musical-suspects
+permalink: Xthe-musical-suspects
 title: the-musical-suspects
 ---
 You may also like:

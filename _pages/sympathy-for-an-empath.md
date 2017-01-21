@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: sympathy-for-an-empath
+permalink: Xsympathy-for-an-empath
 title: sympathy-for-an-empath
 ---
 You may also like:

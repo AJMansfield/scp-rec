@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: skeeve-online
+permalink: Xskeeve-online
 title: skeeve-online
 ---
 You may also like:

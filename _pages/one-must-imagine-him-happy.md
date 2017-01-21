@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: one-must-imagine-him-happy
+permalink: Xone-must-imagine-him-happy
 title: one-must-imagine-him-happy
 ---
 You may also like:

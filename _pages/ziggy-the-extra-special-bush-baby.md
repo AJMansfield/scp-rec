@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: ziggy-the-extra-special-bush-baby
+permalink: Xziggy-the-extra-special-bush-baby
 title: ziggy-the-extra-special-bush-baby
 ---
 You may also like:

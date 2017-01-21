@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: a-canticle-for-bright
+permalink: Xa-canticle-for-bright
 title: a-canticle-for-bright
 ---
 You may also like:

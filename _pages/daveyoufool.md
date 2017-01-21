@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: daveyoufool
+permalink: Xdaveyoufool
 title: daveyoufool
 ---
 You may also like:

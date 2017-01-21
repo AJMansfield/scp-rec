@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: send-in-the-clowns
+permalink: Xsend-in-the-clowns
 title: send-in-the-clowns
 ---
 You may also like:

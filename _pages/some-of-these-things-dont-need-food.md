@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: some-of-these-things-dont-need-food
+permalink: Xsome-of-these-things-dont-need-food
 title: some-of-these-things-dont-need-food
 ---
 You may also like:

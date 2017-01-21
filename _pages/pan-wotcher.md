@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: pan-wotcher
+permalink: Xpan-wotcher
 title: pan-wotcher
 ---
 You may also like:

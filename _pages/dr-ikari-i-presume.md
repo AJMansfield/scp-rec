@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: dr-ikari-i-presume
+permalink: Xdr-ikari-i-presume
 title: dr-ikari-i-presume
 ---
 You may also like:

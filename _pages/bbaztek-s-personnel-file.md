@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: bbaztek-s-personnel-file
+permalink: Xbbaztek-s-personnel-file
 title: bbaztek-s-personnel-file
 ---
 You may also like:

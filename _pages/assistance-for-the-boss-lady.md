@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: assistance-for-the-boss-lady
+permalink: Xassistance-for-the-boss-lady
 title: assistance-for-the-boss-lady
 ---
 You may also like:

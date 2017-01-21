@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: exit-interview
+permalink: Xexit-interview
 title: exit-interview
 ---
 You may also like:

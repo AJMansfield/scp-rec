@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: cyrus013-s-obituary
+permalink: Xcyrus013-s-obituary
 title: cyrus013-s-obituary
 ---
 You may also like:

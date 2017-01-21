@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: about-tree-fiddy
+permalink: Xabout-tree-fiddy
 title: about-tree-fiddy
 ---
 You may also like:

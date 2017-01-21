@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: reach-s-blueprint-folder
+permalink: Xreach-s-blueprint-folder
 title: reach-s-blueprint-folder
 ---
 You may also like:

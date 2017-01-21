@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: document-1780-wl
+permalink: Xdocument-1780-wl
 title: document-1780-wl
 ---
 You may also like:

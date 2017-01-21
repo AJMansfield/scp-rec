@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: pooling-our-resources
+permalink: Xpooling-our-resources
 title: pooling-our-resources
 ---
 You may also like:

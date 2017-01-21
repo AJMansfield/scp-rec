@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-settling-ash
+permalink: Xthe-settling-ash
 title: the-settling-ash
 ---
 You may also like:

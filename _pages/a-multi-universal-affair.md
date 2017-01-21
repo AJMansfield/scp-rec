@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: a-multi-universal-affair
+permalink: Xa-multi-universal-affair
 title: a-multi-universal-affair
 ---
 You may also like:

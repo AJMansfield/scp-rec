@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: a-merry-fellow
+permalink: Xa-merry-fellow
 title: a-merry-fellow
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: lonwood
+permalink: Xlonwood
 title: lonwood
 ---
 You may also like:

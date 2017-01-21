@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: diary-573
+permalink: Xdiary-573
 title: diary-573
 ---
 You may also like:

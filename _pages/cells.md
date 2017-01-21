@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: cells
+permalink: Xcells
 title: cells
 ---
 You may also like:

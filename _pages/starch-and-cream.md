@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: starch-and-cream
+permalink: Xstarch-and-cream
 title: starch-and-cream
 ---
 You may also like:

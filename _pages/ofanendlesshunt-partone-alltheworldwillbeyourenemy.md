@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: ofanendlesshunt-partone-alltheworldwillbeyourenemy
+permalink: Xofanendlesshunt-partone-alltheworldwillbeyourenemy
 title: ofanendlesshunt-partone-alltheworldwillbeyourenemy
 ---
 You may also like:

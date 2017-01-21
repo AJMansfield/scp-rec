@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: bridges-burnt
+permalink: Xbridges-burnt
 title: bridges-burnt
 ---
 You may also like:

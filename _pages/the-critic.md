@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-critic
+permalink: Xthe-critic
 title: the-critic
 ---
 You may also like:

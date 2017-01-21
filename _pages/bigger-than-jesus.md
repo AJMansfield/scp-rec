@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: bigger-than-jesus
+permalink: Xbigger-than-jesus
 title: bigger-than-jesus
 ---
 You may also like:

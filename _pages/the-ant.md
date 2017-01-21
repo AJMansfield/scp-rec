@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-ant
+permalink: Xthe-ant
 title: the-ant
 ---
 You may also like:

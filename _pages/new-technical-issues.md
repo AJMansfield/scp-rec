@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: new-technical-issues
+permalink: Xnew-technical-issues
 title: new-technical-issues
 ---
 You may also like:

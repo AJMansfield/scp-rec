@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-meaning-of-fear
+permalink: Xthe-meaning-of-fear
 title: the-meaning-of-fear
 ---
 You may also like:

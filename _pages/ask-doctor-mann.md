@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: ask-doctor-mann
+permalink: Xask-doctor-mann
 title: ask-doctor-mann
 ---
 You may also like:

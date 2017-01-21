@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: gfc
+permalink: Xgfc
 title: gfc
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: materials-recovered
+permalink: Xmaterials-recovered
 title: materials-recovered
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: preaching-to-the-choir
+permalink: Xpreaching-to-the-choir
 title: preaching-to-the-choir
 ---
 You may also like:

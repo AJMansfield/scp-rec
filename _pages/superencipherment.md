@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: superencipherment
+permalink: Xsuperencipherment
 title: superencipherment
 ---
 You may also like:

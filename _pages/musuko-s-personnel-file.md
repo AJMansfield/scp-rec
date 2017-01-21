@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: musuko-s-personnel-file
+permalink: Xmusuko-s-personnel-file
 title: musuko-s-personnel-file
 ---
 You may also like:

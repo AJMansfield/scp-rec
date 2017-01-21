@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: ideation
+permalink: Xideation
 title: ideation
 ---
 You may also like:

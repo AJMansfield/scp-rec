@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: to-catch-a-witch
+permalink: Xto-catch-a-witch
 title: to-catch-a-witch
 ---
 You may also like:

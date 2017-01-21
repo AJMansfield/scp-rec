@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: no-more-dull-days
+permalink: Xno-more-dull-days
 title: no-more-dull-days
 ---
 You may also like:

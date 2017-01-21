@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: star-bound
+permalink: Xstar-bound
 title: star-bound
 ---
 You may also like:

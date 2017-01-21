@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: mf99k-author-page
+permalink: Xmf99k-author-page
 title: mf99k-author-page
 ---
 You may also like:

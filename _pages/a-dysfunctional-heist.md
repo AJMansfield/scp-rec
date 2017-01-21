@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: a-dysfunctional-heist
+permalink: Xa-dysfunctional-heist
 title: a-dysfunctional-heist
 ---
 You may also like:

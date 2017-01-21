@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: reversed-engineering
+permalink: Xreversed-engineering
 title: reversed-engineering
 ---
 You may also like:

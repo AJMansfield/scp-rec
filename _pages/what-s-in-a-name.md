@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: what-s-in-a-name
+permalink: Xwhat-s-in-a-name
 title: what-s-in-a-name
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: skin-deep
+permalink: Xskin-deep
 title: skin-deep
 ---
 You may also like:

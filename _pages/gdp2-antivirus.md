@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: gdp2-antivirus
+permalink: Xgdp2-antivirus
 title: gdp2-antivirus
 ---
 You may also like:

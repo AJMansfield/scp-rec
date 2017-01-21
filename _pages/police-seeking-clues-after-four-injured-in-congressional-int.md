@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: police-seeking-clues-after-four-injured-in-congressional-int
+permalink: Xpolice-seeking-clues-after-four-injured-in-congressional-int
 title: police-seeking-clues-after-four-injured-in-congressional-int
 ---
 You may also like:

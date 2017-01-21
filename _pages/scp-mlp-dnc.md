@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: scp-mlp-dnc
+permalink: Xscp-mlp-dnc
 title: scp-mlp-dnc
 ---
 You may also like:

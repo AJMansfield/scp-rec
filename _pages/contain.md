@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: contain
+permalink: Xcontain
 title: contain
 ---
 You may also like:

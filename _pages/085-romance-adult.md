@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: 085-romance-adult
+permalink: X085-romance-adult
 title: 085-romance-adult
 ---
 You may also like:

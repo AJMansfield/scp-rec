@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: application-to-form-mtf-mu3-cover-letter
+permalink: Xapplication-to-form-mtf-mu3-cover-letter
 title: application-to-form-mtf-mu3-cover-letter
 ---
 You may also like:

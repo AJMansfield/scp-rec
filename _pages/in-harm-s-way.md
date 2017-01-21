@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: in-harm-s-way
+permalink: Xin-harm-s-way
 title: in-harm-s-way
 ---
 You may also like:

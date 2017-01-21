@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: secure-facility-dossier-research-site-45
+permalink: Xsecure-facility-dossier-research-site-45
 title: secure-facility-dossier-research-site-45
 ---
 You may also like:

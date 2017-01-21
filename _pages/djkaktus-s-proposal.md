@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: djkaktus-s-proposal
+permalink: Xdjkaktus-s-proposal
 title: djkaktus-s-proposal
 ---
 You may also like:

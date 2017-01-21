@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: funerals-are-fun
+permalink: Xfunerals-are-fun
 title: funerals-are-fun
 ---
 You may also like:

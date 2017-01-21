@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: incident-239-b-clef-kondraki
+permalink: Xincident-239-b-clef-kondraki
 title: incident-239-b-clef-kondraki
 ---
 You may also like:

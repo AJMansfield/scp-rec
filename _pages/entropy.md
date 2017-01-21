@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: entropy
+permalink: Xentropy
 title: entropy
 ---
 You may also like:

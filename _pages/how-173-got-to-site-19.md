@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: how-173-got-to-site-19
+permalink: Xhow-173-got-to-site-19
 title: how-173-got-to-site-19
 ---
 You may also like:

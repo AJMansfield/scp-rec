@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: envying-the-dead
+permalink: Xenvying-the-dead
 title: envying-the-dead
 ---
 You may also like:

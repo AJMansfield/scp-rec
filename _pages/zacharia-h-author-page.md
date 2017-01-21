@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: zacharia-h-author-page
+permalink: Xzacharia-h-author-page
 title: zacharia-h-author-page
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: scp-spooky-j
+permalink: Xscp-spooky-j
 title: scp-spooky-j
 ---
 You may also like:

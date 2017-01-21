@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-north-pole
+permalink: Xthe-north-pole
 title: the-north-pole
 ---
 You may also like:

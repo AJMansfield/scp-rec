@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: thank-you-for-your-time
+permalink: Xthank-you-for-your-time
 title: thank-you-for-your-time
 ---
 You may also like:

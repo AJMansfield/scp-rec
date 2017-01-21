@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: undated-im-correspondence
+permalink: Xundated-im-correspondence
 title: undated-im-correspondence
 ---
 You may also like:

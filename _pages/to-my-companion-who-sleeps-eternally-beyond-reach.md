@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: to-my-companion-who-sleeps-eternally-beyond-reach
+permalink: Xto-my-companion-who-sleeps-eternally-beyond-reach
 title: to-my-companion-who-sleeps-eternally-beyond-reach
 ---
 You may also like:

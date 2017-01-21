@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: and-so-the-crows-laughed
+permalink: Xand-so-the-crows-laughed
 title: and-so-the-crows-laughed
 ---
 You may also like:

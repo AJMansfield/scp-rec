@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: top-rated-pages
+permalink: Xtop-rated-pages
 title: top-rated-pages
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: to-be-noir-not-to-be
+permalink: Xto-be-noir-not-to-be
 title: to-be-noir-not-to-be
 ---
 You may also like:

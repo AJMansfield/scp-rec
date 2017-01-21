@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: sunny-art-pitch-haven
+permalink: Xsunny-art-pitch-haven
 title: sunny-art-pitch-haven
 ---
 You may also like:

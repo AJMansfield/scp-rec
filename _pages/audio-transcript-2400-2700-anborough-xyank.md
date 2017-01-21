@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: audio-transcript-2400-2700-anborough-xyank
+permalink: Xaudio-transcript-2400-2700-anborough-xyank
 title: audio-transcript-2400-2700-anborough-xyank
 ---
 You may also like:

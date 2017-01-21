@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: divine-demands
+permalink: Xdivine-demands
 title: divine-demands
 ---
 You may also like:

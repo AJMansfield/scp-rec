@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-super-cool-road-trip-adventure
+permalink: Xthe-super-cool-road-trip-adventure
 title: the-super-cool-road-trip-adventure
 ---
 You may also like:

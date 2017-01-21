@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: research-notes-of-rj-tellar
+permalink: Xresearch-notes-of-rj-tellar
 title: research-notes-of-rj-tellar
 ---
 You may also like:

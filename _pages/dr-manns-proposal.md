@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: dr-manns-proposal
+permalink: Xdr-manns-proposal
 title: dr-manns-proposal
 ---
 You may also like:

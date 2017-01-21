@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: experiment-log-t-98816-oc108-682
+permalink: Xexperiment-log-t-98816-oc108-682
 title: experiment-log-t-98816-oc108-682
 ---
 You may also like:

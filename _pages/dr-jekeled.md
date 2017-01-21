@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: dr-jekeled
+permalink: Xdr-jekeled
 title: dr-jekeled
 ---
 You may also like:

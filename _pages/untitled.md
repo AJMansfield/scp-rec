@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: untitled
+permalink: Xuntitled
 title: untitled
 ---
 You may also like:

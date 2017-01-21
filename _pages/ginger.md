@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: ginger
+permalink: Xginger
 title: ginger
 ---
 You may also like:

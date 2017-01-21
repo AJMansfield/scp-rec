@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: dr-gerald-s-personnel-file
+permalink: Xdr-gerald-s-personnel-file
 title: dr-gerald-s-personnel-file
 ---
 You may also like:

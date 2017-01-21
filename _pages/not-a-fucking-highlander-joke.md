@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: not-a-fucking-highlander-joke
+permalink: Xnot-a-fucking-highlander-joke
 title: not-a-fucking-highlander-joke
 ---
 You may also like:

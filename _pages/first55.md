@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: first55
+permalink: Xfirst55
 title: first55
 ---
 You may also like:

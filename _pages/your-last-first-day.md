@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: your-last-first-day
+permalink: Xyour-last-first-day
 title: your-last-first-day
 ---
 You may also like:

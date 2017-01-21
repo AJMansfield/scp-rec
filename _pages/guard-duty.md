@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: guard-duty
+permalink: Xguard-duty
 title: guard-duty
 ---
 You may also like:

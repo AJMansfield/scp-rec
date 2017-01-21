@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: navarro-saves-christmas-for-some-people-he-barely-knows
+permalink: Xnavarro-saves-christmas-for-some-people-he-barely-knows
 title: navarro-saves-christmas-for-some-people-he-barely-knows
 ---
 You may also like:

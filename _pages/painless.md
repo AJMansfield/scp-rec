@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: painless
+permalink: Xpainless
 title: painless
 ---
 You may also like:

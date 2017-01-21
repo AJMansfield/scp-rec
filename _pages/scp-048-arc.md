@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: scp-048-arc
+permalink: Xscp-048-arc
 title: scp-048-arc
 ---
 You may also like:

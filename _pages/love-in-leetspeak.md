@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: love-in-leetspeak
+permalink: Xlove-in-leetspeak
 title: love-in-leetspeak
 ---
 You may also like:

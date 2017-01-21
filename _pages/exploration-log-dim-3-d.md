@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: exploration-log-dim-3-d
+permalink: Xexploration-log-dim-3-d
 title: exploration-log-dim-3-d
 ---
 You may also like:

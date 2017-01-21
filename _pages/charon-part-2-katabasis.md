@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: charon-part-2-katabasis
+permalink: Xcharon-part-2-katabasis
 title: charon-part-2-katabasis
 ---
 You may also like:

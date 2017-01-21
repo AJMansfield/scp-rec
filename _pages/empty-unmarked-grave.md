@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: empty-unmarked-grave
+permalink: Xempty-unmarked-grave
 title: empty-unmarked-grave
 ---
 You may also like:

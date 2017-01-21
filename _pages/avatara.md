@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: avatara
+permalink: Xavatara
 title: avatara
 ---
 You may also like:

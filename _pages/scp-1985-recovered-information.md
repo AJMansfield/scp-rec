@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: scp-1985-recovered-information
+permalink: Xscp-1985-recovered-information
 title: scp-1985-recovered-information
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: cut-up-while-thinking
+permalink: Xcut-up-while-thinking
 title: cut-up-while-thinking
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: wayward-denouement
+permalink: Xwayward-denouement
 title: wayward-denouement
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: watching-corpses
+permalink: Xwatching-corpses
 title: watching-corpses
 ---
 You may also like:

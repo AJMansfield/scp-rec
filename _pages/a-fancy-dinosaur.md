@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: a-fancy-dinosaur
+permalink: Xa-fancy-dinosaur
 title: a-fancy-dinosaur
 ---
 You may also like:

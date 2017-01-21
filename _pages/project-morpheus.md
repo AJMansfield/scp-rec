@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: project-morpheus
+permalink: Xproject-morpheus
 title: project-morpheus
 ---
 You may also like:

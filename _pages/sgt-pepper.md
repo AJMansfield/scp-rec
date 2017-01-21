@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: sgt-pepper
+permalink: Xsgt-pepper
 title: sgt-pepper
 ---
 You may also like:

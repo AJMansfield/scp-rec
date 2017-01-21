@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: scp-foundation-the-movie-2
+permalink: Xscp-foundation-the-movie-2
 title: scp-foundation-the-movie-2
 ---
 You may also like:

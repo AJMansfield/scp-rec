@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: technical-words
+permalink: Xtechnical-words
 title: technical-words
 ---
 You may also like:

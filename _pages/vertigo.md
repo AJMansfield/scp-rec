@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: vertigo
+permalink: Xvertigo
 title: vertigo
 ---
 You may also like:

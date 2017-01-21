@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: excitement
+permalink: Xexcitement
 title: excitement
 ---
 You may also like:

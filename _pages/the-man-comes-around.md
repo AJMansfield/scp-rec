@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-man-comes-around
+permalink: Xthe-man-comes-around
 title: the-man-comes-around
 ---
 You may also like:

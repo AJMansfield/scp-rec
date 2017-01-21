@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: look-at-me-im-inventing-a-new-group-of-interest
+permalink: Xlook-at-me-im-inventing-a-new-group-of-interest
 title: look-at-me-im-inventing-a-new-group-of-interest
 ---
 You may also like:

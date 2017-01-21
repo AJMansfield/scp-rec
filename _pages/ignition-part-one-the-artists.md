@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: ignition-part-one-the-artists
+permalink: Xignition-part-one-the-artists
 title: ignition-part-one-the-artists
 ---
 You may also like:

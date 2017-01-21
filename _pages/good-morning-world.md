@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: good-morning-world
+permalink: Xgood-morning-world
 title: good-morning-world
 ---
 You may also like:

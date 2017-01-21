@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: april-fools-2014
+permalink: Xapril-fools-2014
 title: april-fools-2014
 ---
 You may also like:

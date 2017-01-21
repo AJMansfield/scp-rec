@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: satyr-s-reign
+permalink: Xsatyr-s-reign
 title: satyr-s-reign
 ---
 You may also like:

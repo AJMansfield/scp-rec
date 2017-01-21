@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: welcome-to-the-future
+permalink: Xwelcome-to-the-future
 title: welcome-to-the-future
 ---
 You may also like:

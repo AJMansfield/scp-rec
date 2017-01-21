@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-person-in-rags
+permalink: Xthe-person-in-rags
 title: the-person-in-rags
 ---
 You may also like:

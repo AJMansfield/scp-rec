@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: hellomuddah
+permalink: Xhellomuddah
 title: hellomuddah
 ---
 You may also like:

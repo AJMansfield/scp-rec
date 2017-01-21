@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: unusual-music
+permalink: Xunusual-music
 title: unusual-music
 ---
 You may also like:

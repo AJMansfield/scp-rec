@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-flesh-that-mates
+permalink: Xthe-flesh-that-mates
 title: the-flesh-that-mates
 ---
 You may also like:

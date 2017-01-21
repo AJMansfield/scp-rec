@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: qntm-s-proposal
+permalink: Xqntm-s-proposal
 title: qntm-s-proposal
 ---
 You may also like:

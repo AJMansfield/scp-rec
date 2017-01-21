@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-cage
+permalink: Xthe-cage
 title: the-cage
 ---
 You may also like:

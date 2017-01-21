@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: kingdom-of-stone-a-monolithic-species
+permalink: Xkingdom-of-stone-a-monolithic-species
 title: kingdom-of-stone-a-monolithic-species
 ---
 You may also like:

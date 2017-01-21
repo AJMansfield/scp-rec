@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: a-memorandum
+permalink: Xa-memorandum
 title: a-memorandum
 ---
 You may also like:

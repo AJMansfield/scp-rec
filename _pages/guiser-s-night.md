@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: guiser-s-night
+permalink: Xguiser-s-night
 title: guiser-s-night
 ---
 You may also like:

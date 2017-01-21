@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: too-slow
+permalink: Xtoo-slow
 title: too-slow
 ---
 You may also like:

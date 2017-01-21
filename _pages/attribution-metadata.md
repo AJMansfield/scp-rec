@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: attribution-metadata
+permalink: Xattribution-metadata
 title: attribution-metadata
 ---
 You may also like:

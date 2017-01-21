@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: sperling-computer-protection-services-i
+permalink: Xsperling-computer-protection-services-i
 title: sperling-computer-protection-services-i
 ---
 You may also like:

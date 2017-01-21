@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: scp-481-test-log
+permalink: Xscp-481-test-log
 title: scp-481-test-log
 ---
 You may also like:

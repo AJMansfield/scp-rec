@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: life-saver
+permalink: Xlife-saver
 title: life-saver
 ---
 You may also like:

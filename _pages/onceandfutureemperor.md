@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: onceandfutureemperor
+permalink: Xonceandfutureemperor
 title: onceandfutureemperor
 ---
 You may also like:

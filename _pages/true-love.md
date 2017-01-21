@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: true-love
+permalink: Xtrue-love
 title: true-love
 ---
 You may also like:

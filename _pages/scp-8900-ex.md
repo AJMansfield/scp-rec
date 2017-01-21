@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: scp-8900-ex
+permalink: Xscp-8900-ex
 title: scp-8900-ex
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: 4-mr-lie
+permalink: X4-mr-lie
 title: 4-mr-lie
 ---
 You may also like:

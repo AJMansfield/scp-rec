@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: sunny-art-personnel
+permalink: Xsunny-art-personnel
 title: sunny-art-personnel
 ---
 You may also like:

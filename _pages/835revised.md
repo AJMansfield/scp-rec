@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: 835revised
+permalink: X835revised
 title: 835revised
 ---
 You may also like:

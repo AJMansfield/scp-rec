@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: empire-of-dirt-part-2
+permalink: Xempire-of-dirt-part-2
 title: empire-of-dirt-part-2
 ---
 You may also like:

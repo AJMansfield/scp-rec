@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: opportunity-knocks
+permalink: Xopportunity-knocks
 title: opportunity-knocks
 ---
 You may also like:

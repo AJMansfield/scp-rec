@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: ganymede
+permalink: Xganymede
 title: ganymede
 ---
 You may also like:

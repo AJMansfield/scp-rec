@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: colors-part-ii
+permalink: Xcolors-part-ii
 title: colors-part-ii
 ---
 You may also like:

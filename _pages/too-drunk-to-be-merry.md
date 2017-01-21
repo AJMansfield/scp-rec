@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: too-drunk-to-be-merry
+permalink: Xtoo-drunk-to-be-merry
 title: too-drunk-to-be-merry
 ---
 You may also like:

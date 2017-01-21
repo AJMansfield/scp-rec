@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: alone
+permalink: Xalone
 title: alone
 ---
 You may also like:

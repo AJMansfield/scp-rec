@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: foreign-aid
+permalink: Xforeign-aid
 title: foreign-aid
 ---
 You may also like:

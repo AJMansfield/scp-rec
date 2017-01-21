@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: people-are-not-wearing-enough-hats
+permalink: Xpeople-are-not-wearing-enough-hats
 title: people-are-not-wearing-enough-hats
 ---
 You may also like:

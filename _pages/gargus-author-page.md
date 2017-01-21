@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: gargus-author-page
+permalink: Xgargus-author-page
 title: gargus-author-page
 ---
 You may also like:

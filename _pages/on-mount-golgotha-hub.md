@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: on-mount-golgotha-hub
+permalink: Xon-mount-golgotha-hub
 title: on-mount-golgotha-hub
 ---
 You may also like:

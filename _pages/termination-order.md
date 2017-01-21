@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: termination-order
+permalink: Xtermination-order
 title: termination-order
 ---
 You may also like:

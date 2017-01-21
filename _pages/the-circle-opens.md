@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-circle-opens
+permalink: Xthe-circle-opens
 title: the-circle-opens
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: 2274-interview-1
+permalink: X2274-interview-1
 title: 2274-interview-1
 ---
 You may also like:

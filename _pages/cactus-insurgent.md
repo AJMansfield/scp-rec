@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: cactus-insurgent
+permalink: Xcactus-insurgent
 title: cactus-insurgent
 ---
 You may also like:

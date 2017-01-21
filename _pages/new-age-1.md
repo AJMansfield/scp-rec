@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: new-age-1
+permalink: Xnew-age-1
 title: new-age-1
 ---
 You may also like:

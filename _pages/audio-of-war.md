@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: audio-of-war
+permalink: Xaudio-of-war
 title: audio-of-war
 ---
 You may also like:

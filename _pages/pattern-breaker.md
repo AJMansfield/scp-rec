@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: pattern-breaker
+permalink: Xpattern-breaker
 title: pattern-breaker
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: quid-est-non-scitum
+permalink: Xquid-est-non-scitum
 title: quid-est-non-scitum
 ---
 You may also like:

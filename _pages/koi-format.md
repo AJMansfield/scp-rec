@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: koi-format
+permalink: Xkoi-format
 title: koi-format
 ---
 You may also like:

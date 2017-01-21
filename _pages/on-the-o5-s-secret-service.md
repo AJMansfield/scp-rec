@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: on-the-o5-s-secret-service
+permalink: Xon-the-o5-s-secret-service
 title: on-the-o5-s-secret-service
 ---
 You may also like:

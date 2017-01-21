@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: acquisition-log-scp
+permalink: Xacquisition-log-scp
 title: acquisition-log-scp
 ---
 You may also like:

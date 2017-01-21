@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: game-day-1-dr-mause
+permalink: Xgame-day-1-dr-mause
 title: game-day-1-dr-mause
 ---
 You may also like:

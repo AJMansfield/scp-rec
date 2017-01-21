@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: sweetness
+permalink: Xsweetness
 title: sweetness
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: letters-from-benares
+permalink: Xletters-from-benares
 title: letters-from-benares
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: 13-mr-purple
+permalink: X13-mr-purple
 title: 13-mr-purple
 ---
 You may also like:

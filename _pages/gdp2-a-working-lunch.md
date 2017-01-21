@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: gdp2-a-working-lunch
+permalink: Xgdp2-a-working-lunch
 title: gdp2-a-working-lunch
 ---
 You may also like:

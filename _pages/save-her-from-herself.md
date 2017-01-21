@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: save-her-from-herself
+permalink: Xsave-her-from-herself
 title: save-her-from-herself
 ---
 You may also like:

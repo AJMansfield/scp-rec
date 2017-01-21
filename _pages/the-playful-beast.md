@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-playful-beast
+permalink: Xthe-playful-beast
 title: the-playful-beast
 ---
 You may also like:

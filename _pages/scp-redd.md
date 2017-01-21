@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: scp-redd
+permalink: Xscp-redd
 title: scp-redd
 ---
 You may also like:

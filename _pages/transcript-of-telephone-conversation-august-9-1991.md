@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: transcript-of-telephone-conversation-august-9-1991
+permalink: Xtranscript-of-telephone-conversation-august-9-1991
 title: transcript-of-telephone-conversation-august-9-1991
 ---
 You may also like:

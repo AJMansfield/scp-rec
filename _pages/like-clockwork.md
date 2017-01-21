@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: like-clockwork
+permalink: Xlike-clockwork
 title: like-clockwork
 ---
 You may also like:

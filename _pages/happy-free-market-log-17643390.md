@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: happy-free-market-log-17643390
+permalink: Xhappy-free-market-log-17643390
 title: happy-free-market-log-17643390
 ---
 You may also like:

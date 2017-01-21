@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: a-sunny-day-at-the-clockwork-gallery
+permalink: Xa-sunny-day-at-the-clockwork-gallery
 title: a-sunny-day-at-the-clockwork-gallery
 ---
 You may also like:

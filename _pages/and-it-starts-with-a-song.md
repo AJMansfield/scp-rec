@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: and-it-starts-with-a-song
+permalink: Xand-it-starts-with-a-song
 title: and-it-starts-with-a-song
 ---
 You may also like:

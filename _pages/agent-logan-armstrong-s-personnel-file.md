@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: agent-logan-armstrong-s-personnel-file
+permalink: Xagent-logan-armstrong-s-personnel-file
 title: agent-logan-armstrong-s-personnel-file
 ---
 You may also like:

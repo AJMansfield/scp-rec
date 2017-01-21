@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: manualsearch
+permalink: Xmanualsearch
 title: manualsearch
 ---
 You may also like:

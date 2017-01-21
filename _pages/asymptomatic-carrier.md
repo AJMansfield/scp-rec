@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: asymptomatic-carrier
+permalink: Xasymptomatic-carrier
 title: asymptomatic-carrier
 ---
 You may also like:

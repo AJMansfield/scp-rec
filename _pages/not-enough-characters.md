@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: not-enough-characters
+permalink: Xnot-enough-characters
 title: not-enough-characters
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: most-recently-created
+permalink: Xmost-recently-created
 title: most-recently-created
 ---
 You may also like:

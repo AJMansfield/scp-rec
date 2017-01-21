@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: oxidation
+permalink: Xoxidation
 title: oxidation
 ---
 You may also like:

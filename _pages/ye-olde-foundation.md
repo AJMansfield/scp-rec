@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: ye-olde-foundation
+permalink: Xye-olde-foundation
 title: ye-olde-foundation
 ---
 You may also like:

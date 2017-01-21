@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: nazi-nonsense
+permalink: Xnazi-nonsense
 title: nazi-nonsense
 ---
 You may also like:

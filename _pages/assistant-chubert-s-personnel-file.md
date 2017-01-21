@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: assistant-chubert-s-personnel-file
+permalink: Xassistant-chubert-s-personnel-file
 title: assistant-chubert-s-personnel-file
 ---
 You may also like:

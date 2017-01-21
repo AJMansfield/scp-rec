@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: scratches
+permalink: Xscratches
 title: scratches
 ---
 You may also like:

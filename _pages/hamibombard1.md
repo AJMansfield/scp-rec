@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: hamibombard1
+permalink: Xhamibombard1
 title: hamibombard1
 ---
 You may also like:

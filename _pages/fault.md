@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: fault
+permalink: Xfault
 title: fault
 ---
 You may also like:

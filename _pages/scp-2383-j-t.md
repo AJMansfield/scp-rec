@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: scp-2383-j-t
+permalink: Xscp-2383-j-t
 title: scp-2383-j-t
 ---
 You may also like:

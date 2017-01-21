@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: nobody-dies
+permalink: Xnobody-dies
 title: nobody-dies
 ---
 You may also like:

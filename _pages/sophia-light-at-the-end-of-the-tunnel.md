@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: sophia-light-at-the-end-of-the-tunnel
+permalink: Xsophia-light-at-the-end-of-the-tunnel
 title: sophia-light-at-the-end-of-the-tunnel
 ---
 You may also like:

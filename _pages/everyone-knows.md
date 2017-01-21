@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: everyone-knows
+permalink: Xeveryone-knows
 title: everyone-knows
 ---
 You may also like:

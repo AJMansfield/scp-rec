@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: come-back-kid
+permalink: Xcome-back-kid
 title: come-back-kid
 ---
 You may also like:

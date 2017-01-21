@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: ball-gags-and-scrambled-eggs
+permalink: Xball-gags-and-scrambled-eggs
 title: ball-gags-and-scrambled-eggs
 ---
 You may also like:

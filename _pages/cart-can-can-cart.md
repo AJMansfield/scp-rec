@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: cart-can-can-cart
+permalink: Xcart-can-can-cart
 title: cart-can-can-cart
 ---
 You may also like:

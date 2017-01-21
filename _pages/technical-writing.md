@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: technical-writing
+permalink: Xtechnical-writing
 title: technical-writing
 ---
 You may also like:

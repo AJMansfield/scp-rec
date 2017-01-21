@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: job-opportunities
+permalink: Xjob-opportunities
 title: job-opportunities
 ---
 You may also like:

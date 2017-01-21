@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: i-not-i
+permalink: Xi-not-i
 title: i-not-i
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: kaktuskast-hub
+permalink: Xkaktuskast-hub
 title: kaktuskast-hub
 ---
 You may also like:

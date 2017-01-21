@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: are-we-christmas-yet
+permalink: Xare-we-christmas-yet
 title: are-we-christmas-yet
 ---
 You may also like:

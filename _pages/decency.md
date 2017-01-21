@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: decency
+permalink: Xdecency
 title: decency
 ---
 You may also like:

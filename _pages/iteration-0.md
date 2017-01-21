@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: iteration-0
+permalink: Xiteration-0
 title: iteration-0
 ---
 You may also like:

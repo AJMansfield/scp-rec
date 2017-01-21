@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: dr-manns-personnel-file
+permalink: Xdr-manns-personnel-file
 title: dr-manns-personnel-file
 ---
 You may also like:

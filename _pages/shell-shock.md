@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: shell-shock
+permalink: Xshell-shock
 title: shell-shock
 ---
 You may also like:

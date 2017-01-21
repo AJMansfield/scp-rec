@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-day-the-clown-cried
+permalink: Xthe-day-the-clown-cried
 title: the-day-the-clown-cried
 ---
 You may also like:

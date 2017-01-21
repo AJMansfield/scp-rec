@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: document-096-1
+permalink: Xdocument-096-1
 title: document-096-1
 ---
 You may also like:

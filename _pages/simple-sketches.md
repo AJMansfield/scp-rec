@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: simple-sketches
+permalink: Xsimple-sketches
 title: simple-sketches
 ---
 You may also like:

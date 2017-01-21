@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: payday
+permalink: Xpayday
 title: payday
 ---
 You may also like:

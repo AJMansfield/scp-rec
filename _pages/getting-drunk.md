@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: getting-drunk
+permalink: Xgetting-drunk
 title: getting-drunk
 ---
 You may also like:

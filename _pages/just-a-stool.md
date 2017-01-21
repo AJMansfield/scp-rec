@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: just-a-stool
+permalink: Xjust-a-stool
 title: just-a-stool
 ---
 You may also like:

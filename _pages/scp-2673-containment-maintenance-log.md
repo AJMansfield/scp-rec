@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: scp-2673-containment-maintenance-log
+permalink: Xscp-2673-containment-maintenance-log
 title: scp-2673-containment-maintenance-log
 ---
 You may also like:

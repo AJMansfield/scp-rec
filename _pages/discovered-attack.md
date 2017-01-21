@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: discovered-attack
+permalink: Xdiscovered-attack
 title: discovered-attack
 ---
 You may also like:

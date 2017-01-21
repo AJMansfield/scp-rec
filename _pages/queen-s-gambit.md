@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: queen-s-gambit
+permalink: Xqueen-s-gambit
 title: queen-s-gambit
 ---
 You may also like:

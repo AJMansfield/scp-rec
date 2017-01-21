@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: lessons-learned
+permalink: Xlessons-learned
 title: lessons-learned
 ---
 You may also like:

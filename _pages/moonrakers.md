@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: moonrakers
+permalink: Xmoonrakers
 title: moonrakers
 ---
 You may also like:

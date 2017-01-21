@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-bloody-autumn
+permalink: Xthe-bloody-autumn
 title: the-bloody-autumn
 ---
 You may also like:

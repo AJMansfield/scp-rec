@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: i-m-not-sure
+permalink: Xi-m-not-sure
 title: i-m-not-sure
 ---
 You may also like:

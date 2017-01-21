@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: portrait-of-the-artist
+permalink: Xportrait-of-the-artist
 title: portrait-of-the-artist
 ---
 You may also like:

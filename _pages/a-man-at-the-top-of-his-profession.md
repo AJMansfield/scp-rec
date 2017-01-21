@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: a-man-at-the-top-of-his-profession
+permalink: Xa-man-at-the-top-of-his-profession
 title: a-man-at-the-top-of-his-profession
 ---
 You may also like:

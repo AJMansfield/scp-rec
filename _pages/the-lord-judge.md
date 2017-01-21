@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-lord-judge
+permalink: Xthe-lord-judge
 title: the-lord-judge
 ---
 You may also like:

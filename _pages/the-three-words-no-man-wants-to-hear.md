@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-three-words-no-man-wants-to-hear
+permalink: Xthe-three-words-no-man-wants-to-hear
 title: the-three-words-no-man-wants-to-hear
 ---
 You may also like:

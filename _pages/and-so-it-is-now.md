@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: and-so-it-is-now
+permalink: Xand-so-it-is-now
 title: and-so-it-is-now
 ---
 You may also like:

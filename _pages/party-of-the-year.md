@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: party-of-the-year
+permalink: Xparty-of-the-year
 title: party-of-the-year
 ---
 You may also like:

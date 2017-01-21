@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: into-that-good-night
+permalink: Xinto-that-good-night
 title: into-that-good-night
 ---
 You may also like:

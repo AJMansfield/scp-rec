@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: relationskips
+permalink: Xrelationskips
 title: relationskips
 ---
 You may also like:

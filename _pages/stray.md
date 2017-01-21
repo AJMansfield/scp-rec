@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: stray
+permalink: Xstray
 title: stray
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: making-a-scene
+permalink: Xmaking-a-scene
 title: making-a-scene
 ---
 You may also like:

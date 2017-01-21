@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: nobody-knows
+permalink: Xnobody-knows
 title: nobody-knows
 ---
 You may also like:

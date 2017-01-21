@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: all-things-considered
+permalink: Xall-things-considered
 title: all-things-considered
 ---
 You may also like:

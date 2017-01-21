@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: monsters
+permalink: Xmonsters
 title: monsters
 ---
 You may also like:

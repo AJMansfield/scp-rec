@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: audience-of-crowns
+permalink: Xaudience-of-crowns
 title: audience-of-crowns
 ---
 You may also like:

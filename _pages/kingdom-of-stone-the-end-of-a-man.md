@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: kingdom-of-stone-the-end-of-a-man
+permalink: Xkingdom-of-stone-the-end-of-a-man
 title: kingdom-of-stone-the-end-of-a-man
 ---
 You may also like:

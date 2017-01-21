@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: for-old-time-s-sake
+permalink: Xfor-old-time-s-sake
 title: for-old-time-s-sake
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: adventures-in-capitalism-hub
+permalink: Xadventures-in-capitalism-hub
 title: adventures-in-capitalism-hub
 ---
 You may also like:

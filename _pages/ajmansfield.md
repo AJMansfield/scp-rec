@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: ajmansfield
+permalink: Xajmansfield
 title: ajmansfield
 ---
 You may also like:

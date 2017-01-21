@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: fantem-s-poi-file
+permalink: Xfantem-s-poi-file
 title: fantem-s-poi-file
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: our-mutual-guide
+permalink: Xour-mutual-guide
 title: our-mutual-guide
 ---
 You may also like:

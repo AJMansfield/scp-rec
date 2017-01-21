@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: dr-robinsons-statement
+permalink: Xdr-robinsons-statement
 title: dr-robinsons-statement
 ---
 You may also like:

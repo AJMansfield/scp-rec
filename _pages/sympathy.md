@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: sympathy
+permalink: Xsympathy
 title: sympathy
 ---
 You may also like:

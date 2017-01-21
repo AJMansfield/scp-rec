@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: chaos-insurgency-hub
+permalink: Xchaos-insurgency-hub
 title: chaos-insurgency-hub
 ---
 You may also like:

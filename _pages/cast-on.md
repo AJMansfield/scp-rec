@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: cast-on
+permalink: Xcast-on
 title: cast-on
 ---
 You may also like:

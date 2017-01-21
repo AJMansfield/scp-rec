@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: dr-rioghail-s-personnel-file
+permalink: Xdr-rioghail-s-personnel-file
 title: dr-rioghail-s-personnel-file
 ---
 You may also like:

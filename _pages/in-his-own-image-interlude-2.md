@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: in-his-own-image-interlude-2
+permalink: Xin-his-own-image-interlude-2
 title: in-his-own-image-interlude-2
 ---
 You may also like:

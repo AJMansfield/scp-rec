@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: it-s-a-bad-bad-world
+permalink: Xit-s-a-bad-bad-world
 title: it-s-a-bad-bad-world
 ---
 You may also like:

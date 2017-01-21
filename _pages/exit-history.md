@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: exit-history
+permalink: Xexit-history
 title: exit-history
 ---
 You may also like:

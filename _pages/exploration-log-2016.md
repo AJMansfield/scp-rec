@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: exploration-log-2016
+permalink: Xexploration-log-2016
 title: exploration-log-2016
 ---
 You may also like:

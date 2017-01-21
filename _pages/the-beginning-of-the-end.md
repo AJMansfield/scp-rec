@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-beginning-of-the-end
+permalink: Xthe-beginning-of-the-end
 title: the-beginning-of-the-end
 ---
 You may also like:

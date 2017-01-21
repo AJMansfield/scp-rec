@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: snail-tale
+permalink: Xsnail-tale
 title: snail-tale
 ---
 You may also like:

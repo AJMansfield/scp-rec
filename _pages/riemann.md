@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: riemann
+permalink: Xriemann
 title: riemann
 ---
 You may also like:

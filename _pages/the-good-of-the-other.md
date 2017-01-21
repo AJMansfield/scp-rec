@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-good-of-the-other
+permalink: Xthe-good-of-the-other
 title: the-good-of-the-other
 ---
 You may also like:

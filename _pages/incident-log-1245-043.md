@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: incident-log-1245-043
+permalink: Xincident-log-1245-043
 title: incident-log-1245-043
 ---
 You may also like:

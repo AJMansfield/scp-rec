@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: redzone-sa-43647822
+permalink: Xredzone-sa-43647822
 title: redzone-sa-43647822
 ---
 You may also like:

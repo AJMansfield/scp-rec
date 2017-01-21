@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: remembrance-of-walking
+permalink: Xremembrance-of-walking
 title: remembrance-of-walking
 ---
 You may also like:

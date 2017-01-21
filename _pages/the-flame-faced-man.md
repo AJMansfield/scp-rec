@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-flame-faced-man
+permalink: Xthe-flame-faced-man
 title: the-flame-faced-man
 ---
 You may also like:

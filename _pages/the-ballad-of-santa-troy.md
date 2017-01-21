@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-ballad-of-santa-troy
+permalink: Xthe-ballad-of-santa-troy
 title: the-ballad-of-santa-troy
 ---
 You may also like:

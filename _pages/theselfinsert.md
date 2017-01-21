@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: theselfinsert
+permalink: Xtheselfinsert
 title: theselfinsert
 ---
 You may also like:

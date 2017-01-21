@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: a-suicide-note
+permalink: Xa-suicide-note
 title: a-suicide-note
 ---
 You may also like:

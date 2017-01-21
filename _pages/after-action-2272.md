@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: after-action-2272
+permalink: Xafter-action-2272
 title: after-action-2272
 ---
 You may also like:

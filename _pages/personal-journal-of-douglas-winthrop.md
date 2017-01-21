@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: personal-journal-of-douglas-winthrop
+permalink: Xpersonal-journal-of-douglas-winthrop
 title: personal-journal-of-douglas-winthrop
 ---
 You may also like:

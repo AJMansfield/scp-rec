@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: smapti-s-personnel-file
+permalink: Xsmapti-s-personnel-file
 title: smapti-s-personnel-file
 ---
 You may also like:

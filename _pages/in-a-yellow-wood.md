@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: in-a-yellow-wood
+permalink: Xin-a-yellow-wood
 title: in-a-yellow-wood
 ---
 You may also like:

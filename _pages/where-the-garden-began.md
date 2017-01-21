@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: where-the-garden-began
+permalink: Xwhere-the-garden-began
 title: where-the-garden-began
 ---
 You may also like:

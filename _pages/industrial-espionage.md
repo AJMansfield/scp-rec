@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: industrial-espionage
+permalink: Xindustrial-espionage
 title: industrial-espionage
 ---
 You may also like:

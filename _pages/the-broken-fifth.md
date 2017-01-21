@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-broken-fifth
+permalink: Xthe-broken-fifth
 title: the-broken-fifth
 ---
 You may also like:

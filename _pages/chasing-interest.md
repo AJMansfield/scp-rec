@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: chasing-interest
+permalink: Xchasing-interest
 title: chasing-interest
 ---
 You may also like:

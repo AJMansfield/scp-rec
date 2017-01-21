@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: how-to-become-a-better-critic
+permalink: Xhow-to-become-a-better-critic
 title: how-to-become-a-better-critic
 ---
 You may also like:

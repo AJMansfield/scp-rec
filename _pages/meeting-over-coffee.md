@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: meeting-over-coffee
+permalink: Xmeeting-over-coffee
 title: meeting-over-coffee
 ---
 You may also like:

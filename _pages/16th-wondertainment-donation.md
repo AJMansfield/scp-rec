@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: 16th-wondertainment-donation
+permalink: X16th-wondertainment-donation
 title: 16th-wondertainment-donation
 ---
 You may also like:

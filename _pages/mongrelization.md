@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: mongrelization
+permalink: Xmongrelization
 title: mongrelization
 ---
 You may also like:

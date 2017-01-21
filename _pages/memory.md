@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: memory
+permalink: Xmemory
 title: memory
 ---
 You may also like:

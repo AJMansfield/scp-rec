@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: delia
+permalink: Xdelia
 title: delia
 ---
 You may also like:

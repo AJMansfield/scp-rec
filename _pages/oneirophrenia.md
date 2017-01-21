@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: oneirophrenia
+permalink: Xoneirophrenia
 title: oneirophrenia
 ---
 You may also like:

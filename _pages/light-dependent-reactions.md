@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: light-dependent-reactions
+permalink: Xlight-dependent-reactions
 title: light-dependent-reactions
 ---
 You may also like:

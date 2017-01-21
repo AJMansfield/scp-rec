@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: what-happened-beneath-cronos
+permalink: Xwhat-happened-beneath-cronos
 title: what-happened-beneath-cronos
 ---
 You may also like:

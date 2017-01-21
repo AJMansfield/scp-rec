@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: interference
+permalink: Xinterference
 title: interference
 ---
 You may also like:

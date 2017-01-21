@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: ebooks
+permalink: Xebooks
 title: ebooks
 ---
 You may also like:

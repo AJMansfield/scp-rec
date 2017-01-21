@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: sunday-service
+permalink: Xsunday-service
 title: sunday-service
 ---
 You may also like:

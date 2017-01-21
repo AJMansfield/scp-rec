@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: sa-jin-photo
+permalink: Xsa-jin-photo
 title: sa-jin-photo
 ---
 You may also like:

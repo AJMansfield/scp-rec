@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: zolder
+permalink: Xzolder
 title: zolder
 ---
 You may also like:

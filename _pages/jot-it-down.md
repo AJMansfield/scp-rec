@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: jot-it-down
+permalink: Xjot-it-down
 title: jot-it-down
 ---
 You may also like:

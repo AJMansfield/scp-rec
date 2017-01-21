@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-fountain-of-lamneth
+permalink: Xthe-fountain-of-lamneth
 title: the-fountain-of-lamneth
 ---
 You may also like:

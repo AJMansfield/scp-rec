@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-loft
+permalink: Xthe-loft
 title: the-loft
 ---
 You may also like:

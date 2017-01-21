@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: essays-on-style
+permalink: Xessays-on-style
 title: essays-on-style
 ---
 You may also like:

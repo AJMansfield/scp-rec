@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: personal-log-of-paul-martin
+permalink: Xpersonal-log-of-paul-martin
 title: personal-log-of-paul-martin
 ---
 You may also like:

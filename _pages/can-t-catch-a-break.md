@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: can-t-catch-a-break
+permalink: Xcan-t-catch-a-break
 title: can-t-catch-a-break
 ---
 You may also like:

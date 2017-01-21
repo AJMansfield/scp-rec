@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: walterg
+permalink: Xwalterg
 title: walterg
 ---
 You may also like:

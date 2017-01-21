@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: spring-cleaning
+permalink: Xspring-cleaning
 title: spring-cleaning
 ---
 You may also like:

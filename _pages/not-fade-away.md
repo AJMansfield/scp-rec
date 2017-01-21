@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: not-fade-away
+permalink: Xnot-fade-away
 title: not-fade-away
 ---
 You may also like:

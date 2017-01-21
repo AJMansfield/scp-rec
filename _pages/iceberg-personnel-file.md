@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: iceberg-personnel-file
+permalink: Xiceberg-personnel-file
 title: iceberg-personnel-file
 ---
 You may also like:

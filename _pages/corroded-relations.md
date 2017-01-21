@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: corroded-relations
+permalink: Xcorroded-relations
 title: corroded-relations
 ---
 You may also like:

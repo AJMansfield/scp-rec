@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: unscience
+permalink: Xunscience
 title: unscience
 ---
 You may also like:

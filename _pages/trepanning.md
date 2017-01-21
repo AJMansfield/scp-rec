@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: trepanning
+permalink: Xtrepanning
 title: trepanning
 ---
 You may also like:

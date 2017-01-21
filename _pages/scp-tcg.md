@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: scp-tcg
+permalink: Xscp-tcg
 title: scp-tcg
 ---
 You may also like:

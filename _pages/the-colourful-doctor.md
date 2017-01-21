@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-colourful-doctor
+permalink: Xthe-colourful-doctor
 title: the-colourful-doctor
 ---
 You may also like:

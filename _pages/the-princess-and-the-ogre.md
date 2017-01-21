@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-princess-and-the-ogre
+permalink: Xthe-princess-and-the-ogre
 title: the-princess-and-the-ogre
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: number-one-with-a-bullet
+permalink: Xnumber-one-with-a-bullet
 title: number-one-with-a-bullet
 ---
 You may also like:

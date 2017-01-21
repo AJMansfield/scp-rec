@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: johnnys-wild-ride
+permalink: Xjohnnys-wild-ride
 title: johnnys-wild-ride
 ---
 You may also like:

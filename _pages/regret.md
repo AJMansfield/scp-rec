@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: regret
+permalink: Xregret
 title: regret
 ---
 You may also like:

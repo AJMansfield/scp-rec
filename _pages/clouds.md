@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: clouds
+permalink: Xclouds
 title: clouds
 ---
 You may also like:

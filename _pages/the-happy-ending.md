@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-happy-ending
+permalink: Xthe-happy-ending
 title: the-happy-ending
 ---
 You may also like:

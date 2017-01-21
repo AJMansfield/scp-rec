@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: introductory-antimemetics
+permalink: Xintroductory-antimemetics
 title: introductory-antimemetics
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: skip-jam-part-one
+permalink: Xskip-jam-part-one
 title: skip-jam-part-one
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: monday-6am-escherville-facility-two
+permalink: Xmonday-6am-escherville-facility-two
 title: monday-6am-escherville-facility-two
 ---
 You may also like:

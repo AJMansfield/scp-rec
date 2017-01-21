@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: rot
+permalink: Xrot
 title: rot
 ---
 You may also like:

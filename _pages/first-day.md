@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: first-day
+permalink: Xfirst-day
 title: first-day
 ---
 You may also like:

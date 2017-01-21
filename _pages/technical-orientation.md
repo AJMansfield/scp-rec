@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: technical-orientation
+permalink: Xtechnical-orientation
 title: technical-orientation
 ---
 You may also like:

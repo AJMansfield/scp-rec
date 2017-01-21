@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: daveyoufools-art
+permalink: Xdaveyoufools-art
 title: daveyoufools-art
 ---
 You may also like:

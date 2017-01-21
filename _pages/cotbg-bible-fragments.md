@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: cotbg-bible-fragments
+permalink: Xcotbg-bible-fragments
 title: cotbg-bible-fragments
 ---
 You may also like:

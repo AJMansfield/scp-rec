@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: compromised
+permalink: Xcompromised
 title: compromised
 ---
 You may also like:

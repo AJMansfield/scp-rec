@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: recorded
+permalink: Xrecorded
 title: recorded
 ---
 You may also like:

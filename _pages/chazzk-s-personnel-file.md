@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: chazzk-s-personnel-file
+permalink: Xchazzk-s-personnel-file
 title: chazzk-s-personnel-file
 ---
 You may also like:

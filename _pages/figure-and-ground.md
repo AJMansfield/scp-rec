@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: figure-and-ground
+permalink: Xfigure-and-ground
 title: figure-and-ground
 ---
 You may also like:

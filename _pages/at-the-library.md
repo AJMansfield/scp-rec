@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: at-the-library
+permalink: Xat-the-library
 title: at-the-library
 ---
 You may also like:

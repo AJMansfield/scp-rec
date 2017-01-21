@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: clavis
+permalink: Xclavis
 title: clavis
 ---
 You may also like:

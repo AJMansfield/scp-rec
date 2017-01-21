@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-birthday
+permalink: Xthe-birthday
 title: the-birthday
 ---
 You may also like:

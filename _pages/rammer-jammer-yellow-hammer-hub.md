@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: rammer-jammer-yellow-hammer-hub
+permalink: Xrammer-jammer-yellow-hammer-hub
 title: rammer-jammer-yellow-hammer-hub
 ---
 You may also like:

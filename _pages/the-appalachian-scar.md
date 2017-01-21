@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-appalachian-scar
+permalink: Xthe-appalachian-scar
 title: the-appalachian-scar
 ---
 You may also like:

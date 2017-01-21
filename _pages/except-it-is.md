@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: except-it-is
+permalink: Xexcept-it-is
 title: except-it-is
 ---
 You may also like:

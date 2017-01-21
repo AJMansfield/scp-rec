@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: alternate-hypotheses
+permalink: Xalternate-hypotheses
 title: alternate-hypotheses
 ---
 You may also like:

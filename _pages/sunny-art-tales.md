@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: sunny-art-tales
+permalink: Xsunny-art-tales
 title: sunny-art-tales
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: sic-transit-gloria-mundi
+permalink: Xsic-transit-gloria-mundi
 title: sic-transit-gloria-mundi
 ---
 You may also like:

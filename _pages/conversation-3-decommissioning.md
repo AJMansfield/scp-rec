@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: conversation-3-decommissioning
+permalink: Xconversation-3-decommissioning
 title: conversation-3-decommissioning
 ---
 You may also like:

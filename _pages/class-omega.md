@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: class-omega
+permalink: Xclass-omega
 title: class-omega
 ---
 You may also like:

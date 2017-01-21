@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: arcibi-s-file
+permalink: Xarcibi-s-file
 title: arcibi-s-file
 ---
 You may also like:

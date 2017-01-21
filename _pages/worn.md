@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: worn
+permalink: Xworn
 title: worn
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: attack-of-the-keter-skeeters
+permalink: Xattack-of-the-keter-skeeters
 title: attack-of-the-keter-skeeters
 ---
 You may also like:

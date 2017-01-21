@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: dr-blast-s-personnel-file
+permalink: Xdr-blast-s-personnel-file
 title: dr-blast-s-personnel-file
 ---
 You may also like:

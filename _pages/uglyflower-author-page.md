@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: uglyflower-author-page
+permalink: Xuglyflower-author-page
 title: uglyflower-author-page
 ---
 You may also like:

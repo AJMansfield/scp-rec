@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: grant-request-for-the-manufacture-of-devices-to-regulate
+permalink: Xgrant-request-for-the-manufacture-of-devices-to-regulate
 title: grant-request-for-the-manufacture-of-devices-to-regulate
 ---
 You may also like:

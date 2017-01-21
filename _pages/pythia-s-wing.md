@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: pythia-s-wing
+permalink: Xpythia-s-wing
 title: pythia-s-wing
 ---
 You may also like:

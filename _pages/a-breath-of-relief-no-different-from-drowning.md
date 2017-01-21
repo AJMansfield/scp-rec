@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: a-breath-of-relief-no-different-from-drowning
+permalink: Xa-breath-of-relief-no-different-from-drowning
 title: a-breath-of-relief-no-different-from-drowning
 ---
 You may also like:

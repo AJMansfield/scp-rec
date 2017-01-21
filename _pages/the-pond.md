@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-pond
+permalink: Xthe-pond
 title: the-pond
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: unfounded-hub
+permalink: Xunfounded-hub
 title: unfounded-hub
 ---
 You may also like:

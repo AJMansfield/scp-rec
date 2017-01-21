@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: three-short-scenes-about-death
+permalink: Xthree-short-scenes-about-death
 title: three-short-scenes-about-death
 ---
 You may also like:

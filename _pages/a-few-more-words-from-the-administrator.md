@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: a-few-more-words-from-the-administrator
+permalink: Xa-few-more-words-from-the-administrator
 title: a-few-more-words-from-the-administrator
 ---
 You may also like:

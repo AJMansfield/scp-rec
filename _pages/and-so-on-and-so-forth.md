@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: and-so-on-and-so-forth
+permalink: Xand-so-on-and-so-forth
 title: and-so-on-and-so-forth
 ---
 You may also like:

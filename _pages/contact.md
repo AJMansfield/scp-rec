@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: contact
+permalink: Xcontact
 title: contact
 ---
 You may also like:

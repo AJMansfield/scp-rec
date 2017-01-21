@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-bold-and-the-dutiful-pt1
+permalink: Xthe-bold-and-the-dutiful-pt1
 title: the-bold-and-the-dutiful-pt1
 ---
 You may also like:

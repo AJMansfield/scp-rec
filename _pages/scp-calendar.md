@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: scp-calendar
+permalink: Xscp-calendar
 title: scp-calendar
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: pretty-magic-gaiden-mecha-tokyo-mon-demon-ninja-sailor-clef
+permalink: Xpretty-magic-gaiden-mecha-tokyo-mon-demon-ninja-sailor-clef
 title: pretty-magic-gaiden-mecha-tokyo-mon-demon-ninja-sailor-clef
 ---
 You may also like:

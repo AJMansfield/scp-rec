@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: antarctic-exchange-hub
+permalink: Xantarctic-exchange-hub
 title: antarctic-exchange-hub
 ---
 You may also like:

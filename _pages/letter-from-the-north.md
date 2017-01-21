@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: letter-from-the-north
+permalink: Xletter-from-the-north
 title: letter-from-the-north
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: scp-ttku-j
+permalink: Xscp-ttku-j
 title: scp-ttku-j
 ---
 You may also like:

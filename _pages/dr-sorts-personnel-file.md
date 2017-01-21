@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: dr-sorts-personnel-file
+permalink: Xdr-sorts-personnel-file
 title: dr-sorts-personnel-file
 ---
 You may also like:

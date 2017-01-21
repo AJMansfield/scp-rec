@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: founding
+permalink: Xfounding
 title: founding
 ---
 You may also like:

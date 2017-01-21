@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: daydreamin
+permalink: Xdaydreamin
 title: daydreamin
 ---
 You may also like:

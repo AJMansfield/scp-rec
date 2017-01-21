@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: vision-at-betar
+permalink: Xvision-at-betar
 title: vision-at-betar
 ---
 You may also like:

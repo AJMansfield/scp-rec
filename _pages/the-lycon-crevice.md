@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-lycon-crevice
+permalink: Xthe-lycon-crevice
 title: the-lycon-crevice
 ---
 You may also like:

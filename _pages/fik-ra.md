@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: fik-ra
+permalink: Xfik-ra
 title: fik-ra
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: incidence-report-log-567-4012
+permalink: Xincidence-report-log-567-4012
 title: incidence-report-log-567-4012
 ---
 You may also like:

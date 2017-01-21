@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: experiment-log-scp-482
+permalink: Xexperiment-log-scp-482
 title: experiment-log-scp-482
 ---
 You may also like:

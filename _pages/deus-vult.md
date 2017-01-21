@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: deus-vult
+permalink: Xdeus-vult
 title: deus-vult
 ---
 You may also like:

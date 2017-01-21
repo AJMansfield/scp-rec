@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: a-long-time-past
+permalink: Xa-long-time-past
 title: a-long-time-past
 ---
 You may also like:

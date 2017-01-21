@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: leisure-time
+permalink: Xleisure-time
 title: leisure-time
 ---
 You may also like:

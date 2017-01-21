@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: deadalive-deadalive
+permalink: Xdeadalive-deadalive
 title: deadalive-deadalive
 ---
 You may also like:

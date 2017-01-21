@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-reassembled-one
+permalink: Xthe-reassembled-one
 title: the-reassembled-one
 ---
 You may also like:

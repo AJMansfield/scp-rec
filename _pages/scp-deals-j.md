@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: scp-deals-j
+permalink: Xscp-deals-j
 title: scp-deals-j
 ---
 You may also like:

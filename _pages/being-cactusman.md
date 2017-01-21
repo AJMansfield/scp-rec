@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: being-cactusman
+permalink: Xbeing-cactusman
 title: being-cactusman
 ---
 You may also like:

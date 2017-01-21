@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: test-log-433-031
+permalink: Xtest-log-433-031
 title: test-log-433-031
 ---
 You may also like:

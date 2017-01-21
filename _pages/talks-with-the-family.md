@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: talks-with-the-family
+permalink: Xtalks-with-the-family
 title: talks-with-the-family
 ---
 You may also like:

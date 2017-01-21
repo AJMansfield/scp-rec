@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: about-the-scp-foundation
+permalink: Xabout-the-scp-foundation
 title: about-the-scp-foundation
 ---
 You may also like:

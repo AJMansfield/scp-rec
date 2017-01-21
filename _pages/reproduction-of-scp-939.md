@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: reproduction-of-scp-939
+permalink: Xreproduction-of-scp-939
 title: reproduction-of-scp-939
 ---
 You may also like:

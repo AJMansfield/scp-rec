@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: beneath-the-council
+permalink: Xbeneath-the-council
 title: beneath-the-council
 ---
 You may also like:

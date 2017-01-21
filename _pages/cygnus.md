@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: cygnus
+permalink: Xcygnus
 title: cygnus
 ---
 You may also like:

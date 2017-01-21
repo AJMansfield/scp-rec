@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: sunday-funnies
+permalink: Xsunday-funnies
 title: sunday-funnies
 ---
 You may also like:

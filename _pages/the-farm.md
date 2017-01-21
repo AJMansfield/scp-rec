@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-farm
+permalink: Xthe-farm
 title: the-farm
 ---
 You may also like:

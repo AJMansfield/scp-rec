@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: a-greater-darkness
+permalink: Xa-greater-darkness
 title: a-greater-darkness
 ---
 You may also like:

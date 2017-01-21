@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: ailier
+permalink: Xailier
 title: ailier
 ---
 You may also like:

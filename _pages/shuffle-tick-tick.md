@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: shuffle-tick-tick
+permalink: Xshuffle-tick-tick
 title: shuffle-tick-tick
 ---
 You may also like:

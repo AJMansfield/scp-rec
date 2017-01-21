@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: incidentreportnullpleaseseeasupervisor
+permalink: Xincidentreportnullpleaseseeasupervisor
 title: incidentreportnullpleaseseeasupervisor
 ---
 You may also like:

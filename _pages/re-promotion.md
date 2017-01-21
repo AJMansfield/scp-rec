@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: re-promotion
+permalink: Xre-promotion
 title: re-promotion
 ---
 You may also like:

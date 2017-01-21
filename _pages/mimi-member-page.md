@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: mimi-member-page
+permalink: Xmimi-member-page
 title: mimi-member-page
 ---
 You may also like:

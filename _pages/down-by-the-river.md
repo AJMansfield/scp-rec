@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: down-by-the-river
+permalink: Xdown-by-the-river
 title: down-by-the-river
 ---
 You may also like:

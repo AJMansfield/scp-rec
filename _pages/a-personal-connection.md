@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: a-personal-connection
+permalink: Xa-personal-connection
 title: a-personal-connection
 ---
 You may also like:

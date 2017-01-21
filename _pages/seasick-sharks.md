@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: seasick-sharks
+permalink: Xseasick-sharks
 title: seasick-sharks
 ---
 You may also like:

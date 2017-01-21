@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: individuality
+permalink: Xindividuality
 title: individuality
 ---
 You may also like:

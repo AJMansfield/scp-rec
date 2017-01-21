@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: jargon
+permalink: Xjargon
 title: jargon
 ---
 You may also like:

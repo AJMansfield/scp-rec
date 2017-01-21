@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: spark-of-creation
+permalink: Xspark-of-creation
 title: spark-of-creation
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: alias-personnel-file
+permalink: Xalias-personnel-file
 title: alias-personnel-file
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: drclef-member-page
+permalink: Xdrclef-member-page
 title: drclef-member-page
 ---
 You may also like:

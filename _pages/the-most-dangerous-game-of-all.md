@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-most-dangerous-game-of-all
+permalink: Xthe-most-dangerous-game-of-all
 title: the-most-dangerous-game-of-all
 ---
 You may also like:

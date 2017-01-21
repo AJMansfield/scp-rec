@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: midnight-parade
+permalink: Xmidnight-parade
 title: midnight-parade
 ---
 You may also like:

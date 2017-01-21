@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-vault
+permalink: Xthe-vault
 title: the-vault
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: gamedaypart2index
+permalink: Xgamedaypart2index
 title: gamedaypart2index
 ---
 You may also like:

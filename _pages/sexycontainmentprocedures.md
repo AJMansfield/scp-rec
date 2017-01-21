@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: sexycontainmentprocedures
+permalink: Xsexycontainmentprocedures
 title: sexycontainmentprocedures
 ---
 You may also like:

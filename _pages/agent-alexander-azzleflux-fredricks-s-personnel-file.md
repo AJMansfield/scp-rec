@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: agent-alexander-azzleflux-fredricks-s-personnel-file
+permalink: Xagent-alexander-azzleflux-fredricks-s-personnel-file
 title: agent-alexander-azzleflux-fredricks-s-personnel-file
 ---
 You may also like:

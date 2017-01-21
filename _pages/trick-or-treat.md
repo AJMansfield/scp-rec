@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: trick-or-treat
+permalink: Xtrick-or-treat
 title: trick-or-treat
 ---
 You may also like:

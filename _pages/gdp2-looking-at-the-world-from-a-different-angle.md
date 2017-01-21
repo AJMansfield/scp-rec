@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: gdp2-looking-at-the-world-from-a-different-angle
+permalink: Xgdp2-looking-at-the-world-from-a-different-angle
 title: gdp2-looking-at-the-world-from-a-different-angle
 ---
 You may also like:

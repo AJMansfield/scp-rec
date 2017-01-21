@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: intheendmonkeybusiness
+permalink: Xintheendmonkeybusiness
 title: intheendmonkeybusiness
 ---
 You may also like:

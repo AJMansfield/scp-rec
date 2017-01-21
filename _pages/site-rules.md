@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: site-rules
+permalink: Xsite-rules
 title: site-rules
 ---
 You may also like:

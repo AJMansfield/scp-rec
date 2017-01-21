@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: freudian
+permalink: Xfreudian
 title: freudian
 ---
 You may also like:

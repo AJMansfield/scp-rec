@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-deadly-moose-personnel-file
+permalink: Xthe-deadly-moose-personnel-file
 title: the-deadly-moose-personnel-file
 ---
 You may also like:

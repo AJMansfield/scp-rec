@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: cliches-and-you-an-educational-film
+permalink: Xcliches-and-you-an-educational-film
 title: cliches-and-you-an-educational-film
 ---
 You may also like:

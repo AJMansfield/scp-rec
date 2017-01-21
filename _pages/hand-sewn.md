@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: hand-sewn
+permalink: Xhand-sewn
 title: hand-sewn
 ---
 You may also like:

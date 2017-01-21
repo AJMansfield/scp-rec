@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: of-meetings-and-meals
+permalink: Xof-meetings-and-meals
 title: of-meetings-and-meals
 ---
 You may also like:

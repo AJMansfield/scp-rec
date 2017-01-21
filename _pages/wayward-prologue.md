@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: wayward-prologue
+permalink: Xwayward-prologue
 title: wayward-prologue
 ---
 You may also like:

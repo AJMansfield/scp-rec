@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: four-tines-blind
+permalink: Xfour-tines-blind
 title: four-tines-blind
 ---
 You may also like:

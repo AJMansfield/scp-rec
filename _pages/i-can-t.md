@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: i-can-t
+permalink: Xi-can-t
 title: i-can-t
 ---
 You may also like:

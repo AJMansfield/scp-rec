@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: over-the-bonfire
+permalink: Xover-the-bonfire
 title: over-the-bonfire
 ---
 You may also like:

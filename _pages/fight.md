@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: fight
+permalink: Xfight
 title: fight
 ---
 You may also like:

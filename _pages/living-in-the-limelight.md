@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: living-in-the-limelight
+permalink: Xliving-in-the-limelight
 title: living-in-the-limelight
 ---
 You may also like:

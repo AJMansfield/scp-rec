@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: petro-derinsky-s-personnel-file
+permalink: Xpetro-derinsky-s-personnel-file
 title: petro-derinsky-s-personnel-file
 ---
 You may also like:

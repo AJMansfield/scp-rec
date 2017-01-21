@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: field-man
+permalink: Xfield-man
 title: field-man
 ---
 You may also like:

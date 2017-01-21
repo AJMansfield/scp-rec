@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: house-of-gears-part-one
+permalink: Xhouse-of-gears-part-one
 title: house-of-gears-part-one
 ---
 You may also like:

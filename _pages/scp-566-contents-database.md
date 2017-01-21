@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: scp-566-contents-database
+permalink: Xscp-566-contents-database
 title: scp-566-contents-database
 ---
 You may also like:

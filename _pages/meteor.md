@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: meteor
+permalink: Xmeteor
 title: meteor
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: from-unknown-admirer-to-unknown-admiree
+permalink: Xfrom-unknown-admirer-to-unknown-admiree
 title: from-unknown-admirer-to-unknown-admiree
 ---
 You may also like:

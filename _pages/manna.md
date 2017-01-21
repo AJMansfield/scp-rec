@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: manna
+permalink: Xmanna
 title: manna
 ---
 You may also like:

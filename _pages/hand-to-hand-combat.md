@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: hand-to-hand-combat
+permalink: Xhand-to-hand-combat
 title: hand-to-hand-combat
 ---
 You may also like:

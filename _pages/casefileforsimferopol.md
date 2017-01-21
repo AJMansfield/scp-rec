@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: casefileforsimferopol
+permalink: Xcasefileforsimferopol
 title: casefileforsimferopol
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: chilly-the-space-trucker
+permalink: Xchilly-the-space-trucker
 title: chilly-the-space-trucker
 ---
 You may also like:

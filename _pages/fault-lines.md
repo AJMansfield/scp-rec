@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: fault-lines
+permalink: Xfault-lines
 title: fault-lines
 ---
 You may also like:

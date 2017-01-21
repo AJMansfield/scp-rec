@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: incident-report-wp-1
+permalink: Xincident-report-wp-1
 title: incident-report-wp-1
 ---
 You may also like:

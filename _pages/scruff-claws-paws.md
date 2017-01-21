@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: scruff-claws-paws
+permalink: Xscruff-claws-paws
 title: scruff-claws-paws
 ---
 You may also like:

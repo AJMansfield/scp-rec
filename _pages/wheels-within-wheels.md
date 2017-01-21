@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: wheels-within-wheels
+permalink: Xwheels-within-wheels
 title: wheels-within-wheels
 ---
 You may also like:

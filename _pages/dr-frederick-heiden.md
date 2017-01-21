@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: dr-frederick-heiden
+permalink: Xdr-frederick-heiden
 title: dr-frederick-heiden
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: oneirochemy
+permalink: Xoneirochemy
 title: oneirochemy
 ---
 You may also like:

@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: scp-why-are-you-reading-a-url-go-be-productive-j
+permalink: Xscp-why-are-you-reading-a-url-go-be-productive-j
 title: scp-why-are-you-reading-a-url-go-be-productive-j
 ---
 You may also like:

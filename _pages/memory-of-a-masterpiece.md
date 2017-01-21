@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: memory-of-a-masterpiece
+permalink: Xmemory-of-a-masterpiece
 title: memory-of-a-masterpiece
 ---
 You may also like:

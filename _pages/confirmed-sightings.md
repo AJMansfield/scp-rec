@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: confirmed-sightings
+permalink: Xconfirmed-sightings
 title: confirmed-sightings
 ---
 You may also like:

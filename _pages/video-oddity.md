@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: video-oddity
+permalink: Xvideo-oddity
 title: video-oddity
 ---
 You may also like:

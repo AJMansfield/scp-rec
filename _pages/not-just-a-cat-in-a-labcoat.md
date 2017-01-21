@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: not-just-a-cat-in-a-labcoat
+permalink: Xnot-just-a-cat-in-a-labcoat
 title: not-just-a-cat-in-a-labcoat
 ---
 You may also like:

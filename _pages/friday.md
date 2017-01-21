@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: friday
+permalink: Xfriday
 title: friday
 ---
 You may also like:

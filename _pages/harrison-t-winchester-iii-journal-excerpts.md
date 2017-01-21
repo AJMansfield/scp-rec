@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: harrison-t-winchester-iii-journal-excerpts
+permalink: Xharrison-t-winchester-iii-journal-excerpts
 title: harrison-t-winchester-iii-journal-excerpts
 ---
 You may also like:

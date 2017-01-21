@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: recovered-data-file
+permalink: Xrecovered-data-file
 title: recovered-data-file
 ---
 You may also like:

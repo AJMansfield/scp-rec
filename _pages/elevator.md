@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: elevator
+permalink: Xelevator
 title: elevator
 ---
 You may also like:

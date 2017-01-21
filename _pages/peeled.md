@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: peeled
+permalink: Xpeeled
 title: peeled
 ---
 You may also like:

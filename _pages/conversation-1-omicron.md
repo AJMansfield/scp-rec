@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: conversation-1-omicron
+permalink: Xconversation-1-omicron
 title: conversation-1-omicron
 ---
 You may also like:

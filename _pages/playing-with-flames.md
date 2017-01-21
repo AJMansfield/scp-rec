@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: playing-with-flames
+permalink: Xplaying-with-flames
 title: playing-with-flames
 ---
 You may also like:

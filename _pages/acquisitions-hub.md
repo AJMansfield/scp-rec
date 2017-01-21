@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: acquisitions-hub
+permalink: Xacquisitions-hub
 title: acquisitions-hub
 ---
 You may also like:

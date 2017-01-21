@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: lord-blackwood-and-the-great-tarasque-hunt-of-83
+permalink: Xlord-blackwood-and-the-great-tarasque-hunt-of-83
 title: lord-blackwood-and-the-great-tarasque-hunt-of-83
 ---
 You may also like:

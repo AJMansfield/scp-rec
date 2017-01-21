@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: additional-documentation-for-scp-1663-personnel
+permalink: Xadditional-documentation-for-scp-1663-personnel
 title: additional-documentation-for-scp-1663-personnel
 ---
 You may also like:

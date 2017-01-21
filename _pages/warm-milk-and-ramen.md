@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: warm-milk-and-ramen
+permalink: Xwarm-milk-and-ramen
 title: warm-milk-and-ramen
 ---
 You may also like:

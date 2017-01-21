@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: letters-to-a-prophet-2-scry-harder
+permalink: Xletters-to-a-prophet-2-scry-harder
 title: letters-to-a-prophet-2-scry-harder
 ---
 You may also like:

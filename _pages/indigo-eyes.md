@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: indigo-eyes
+permalink: Xindigo-eyes
 title: indigo-eyes
 ---
 You may also like:

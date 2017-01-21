@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: we-interrupt-this-program
+permalink: Xwe-interrupt-this-program
 title: we-interrupt-this-program
 ---
 You may also like:

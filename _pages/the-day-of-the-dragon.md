@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: the-day-of-the-dragon
+permalink: Xthe-day-of-the-dragon
 title: the-day-of-the-dragon
 ---
 You may also like:

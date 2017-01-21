@@ -1,6 +1,6 @@
 ---
 style: default
-permalink: patina
+permalink: Xpatina
 title: patina
 ---
 You may also like:
