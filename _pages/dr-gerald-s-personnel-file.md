@@ -5,6 +5,6 @@ title: dr-gerald-s-personnel-file
 ---
 You may also like:
 
-[SCP-2801](http://scp-wiki.net/scp-2801)
+[Incident 2770-C](http://scp-wiki.net/incidentreportnullpleaseseeasupervisor)
 
-[SCP-491](http://scp-wiki.net/scp-491)
+[SCP-1640: Lunar Leporine](http://scp-wiki.net/scp-1640)

@@ -5,6 +5,6 @@ title: fortunate-son
 ---
 You may also like:
 
-[SCP-2617](http://scp-wiki.net/scp-2617)
+[SCP-619-J: Championship Belt](http://scp-wiki.net/scp-619-j)
 
-[Housework](http://scp-wiki.net/housework)
+[Some Rational Inheritance](http://scp-wiki.net/some-rational-inheritance)

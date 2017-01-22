@@ -5,6 +5,6 @@ title: we-have-dismissed-that-claim
 ---
 You may also like:
 
-[SCP-2152](http://scp-wiki.net/scp-2152)
+[Empire of Dirt (Part 1)](http://scp-wiki.net/empire-of-dirt-part-1)
 
-[Second Watch](http://scp-wiki.net/second-watch)
+[Corner Pocket](http://scp-wiki.net/corner-pocket)

@@ -5,6 +5,6 @@ title: highest-rated-scps
 ---
 You may also like:
 
-[Keeping With The Times](http://scp-wiki.net/keeping-with-the-times)
+[SCP-764: The Obscene Show](http://scp-wiki.net/scp-764)
 
-[SCP-1997](http://scp-wiki.net/scp-1997)
+[SCP-361-ARC: Self-Adjusting Tarot](http://scp-wiki.net/scp-361-arc)

@@ -5,6 +5,6 @@ title: send-in-the-clowns
 ---
 You may also like:
 
-[A Question Which, When Asked, Answers Itself](http://scp-wiki.net/stop-asking)
+[Sudden Thoughts](http://scp-wiki.net/sudden-thoughts)
 
-[SCP-1918](http://scp-wiki.net/scp-1918)
+[SCP-1708: The Hollowed](http://scp-wiki.net/scp-1708)

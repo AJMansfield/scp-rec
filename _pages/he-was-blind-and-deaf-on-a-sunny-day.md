@@ -5,6 +5,6 @@ title: he-was-blind-and-deaf-on-a-sunny-day
 ---
 You may also like:
 
-[Cubes On A Slope](http://scp-wiki.net/cubes-on-a-slope)
+[SCP-888: Memory Stones](http://scp-wiki.net/scp-888)
 
-[Rough Beast](http://scp-wiki.net/rough-beast)
+[Eta-5 and the Terrible, Horrible, No Good, Very Bad Origamizilla](http://scp-wiki.net/eta-5-and-the-terrible-horrible-no-good-very-bad-oragamizill)

@@ -5,6 +5,6 @@ title: grant-request-for-the-construction-of-an-interstellar-scienc
 ---
 You may also like:
 
-[Spark of Creation](http://scp-wiki.net/spark-of-creation)
+[SCP-2972: Somebody Else's Parking Lot In Sebastopol](http://scp-wiki.net/scp-2972)
 
-[Operation LLEWYN DARK](http://scp-wiki.net/operation-llewyn-dark)
+[SCP-1640: Lunar Leporine](http://scp-wiki.net/scp-1640)

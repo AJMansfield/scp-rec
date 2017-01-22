@@ -5,6 +5,6 @@ title: welcome-aboard
 ---
 You may also like:
 
-[Time Keeps On Slippin'](http://scp-wiki.net/n)
+[SCP-2780: Temporal Anomaly, 618 Evergreen St.](http://scp-wiki.net/scp-2780)
 
 [Learning Shit](http://scp-wiki.net/learning-shit)

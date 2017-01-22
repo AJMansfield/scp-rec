@@ -5,6 +5,6 @@ title: experiment-log-444-7
 ---
 You may also like:
 
-[DOCUMENT-SCP-1734-E9](http://scp-wiki.net/document-scp-1734-e9)
+[Matterminded](http://scp-wiki.net/matterminded)
 
-[SCP-2765](http://scp-wiki.net/scp-2765)
+[In the Big League](http://scp-wiki.net/in-the-big-league)

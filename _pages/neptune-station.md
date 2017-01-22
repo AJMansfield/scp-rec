@@ -5,6 +5,6 @@ title: neptune-station
 ---
 You may also like:
 
-[SCP-1839](http://scp-wiki.net/scp-1839)
+[SCP-1880: Gem of Aspects](http://scp-wiki.net/scp-1880)
 
-[SCP-2135](http://scp-wiki.net/scp-2135)
+[SCP-1738: Phobia Sampler](http://scp-wiki.net/scp-1738)

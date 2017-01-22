@@ -5,6 +5,6 @@ title: lord-blackwood-astro-naut
 ---
 You may also like:
 
-[Artificial Dragons Gate](http://scp-wiki.net/artificial-dragons-gate)
+[A Very Bailey Christmas](http://scp-wiki.net/a-very-bailey-christmas)
 
-[SCP-2192](http://scp-wiki.net/scp-2192)
+[SCP-2969: In Your Own Words](http://scp-wiki.net/scp-2969)

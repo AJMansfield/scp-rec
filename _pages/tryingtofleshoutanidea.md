@@ -5,6 +5,6 @@ title: tryingtofleshoutanidea
 ---
 You may also like:
 
-[Old Man in the Sea Hub](http://scp-wiki.net/old-man-in-the-sea-hub)
+[SCP-2467: A Sum Greater Than Its Parts](http://scp-wiki.net/scp-2467)
 
-[Teeth, Dearie](http://scp-wiki.net/teeth-dearie)
+[Anabasis Hub](http://scp-wiki.net/anabasis-hub)

@@ -5,6 +5,6 @@ title: hallowinside
 ---
 You may also like:
 
-[SCP-713](http://scp-wiki.net/scp-713)
+[SCP-WTF-J: The Worst](http://scp-wiki.net/scp-wtf-j)
 
-[Medical Seminar](http://scp-wiki.net/medical-seminar)
+[SCP-932: Night Feeder](http://scp-wiki.net/scp-932)

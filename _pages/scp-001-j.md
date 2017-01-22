@@ -5,6 +5,6 @@ title: scp-001-j
 ---
 You may also like:
 
-[SCP-1330](http://scp-wiki.net/scp-1330)
+[A Fitting End](http://scp-wiki.net/a-fitting-end)
 
-[Harbinger](http://scp-wiki.net/harbinger)
+[Supplemental Report 239-B-192](http://scp-wiki.net/supplemental-report-239-b-192)

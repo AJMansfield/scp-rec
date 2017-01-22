@@ -5,6 +5,6 @@ title: incident-report-amn-c227-939
 ---
 You may also like:
 
-[SCP-2721](http://scp-wiki.net/scp-2721)
+[SCP-1929: Down To Earth](http://scp-wiki.net/scp-1929)
 
-[Existential Crisis](http://scp-wiki.net/existential-crisis)
+[SCP-1537: The Words of Akul'hil](http://scp-wiki.net/scp-1537)

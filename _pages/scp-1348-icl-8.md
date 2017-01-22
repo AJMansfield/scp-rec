@@ -5,6 +5,6 @@ title: scp-1348-icl-8
 ---
 You may also like:
 
-[SCP-1434](http://scp-wiki.net/scp-1434)
+[Upswing of Disorder](http://scp-wiki.net/upswing-of-disorder)
 
-[SCP-1641](http://scp-wiki.net/scp-1641)
+[Dr Kens' Personnel File](http://scp-wiki.net/dr-kens-personnel-file)

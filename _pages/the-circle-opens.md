@@ -5,6 +5,6 @@ title: the-circle-opens
 ---
 You may also like:
 
-[Fik'ra](http://scp-wiki.net/fik-ra)
+[SCP-1433: The Sound of Silence](http://scp-wiki.net/scp-1433)
 
-[Entropy](http://scp-wiki.net/entropy)
+[Interlude: An Exhibition](http://scp-wiki.net/library-gallery-exhibition)

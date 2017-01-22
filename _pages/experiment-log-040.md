@@ -5,6 +5,6 @@ title: experiment-log-040
 ---
 You may also like:
 
-[Teeth, Dearie](http://scp-wiki.net/teeth-dearie)
+[SCP-1150-J: Budget Hole](http://scp-wiki.net/scp-1150-j)
 
-[SCP-2540](http://scp-wiki.net/scp-2540)
+[Incident Log 1245-043](http://scp-wiki.net/incident-log-1245-043)

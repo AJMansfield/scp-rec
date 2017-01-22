@@ -5,6 +5,6 @@ title: zen-and-the-art-of-data-expunged
 ---
 You may also like:
 
-[1914](http://scp-wiki.net/1914)
+[SCP-2605: Caretaker](http://scp-wiki.net/scp-2605)
 
-[The Improbable Bibs](http://scp-wiki.net/the-improbable-bibs)
+[The Lady in  the Tower](http://scp-wiki.net/the-lady-in-the-tower)

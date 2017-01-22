@@ -5,6 +5,6 @@ title: ofanendlesshunt-partsix-trueplacesneverare
 ---
 You may also like:
 
-[Endless Hunt Part Three: Riddles From the Dark](http://scp-wiki.net/ofanendlesshunt-partthree-riddlesfromthedark)
+[Strangers of Site-17: 105](http://scp-wiki.net/strangers-of-site-17)
 
-[Endless Hunt Part Two: Rites of Passage](http://scp-wiki.net/ofanendlesshunt-parttwo-rites-of-passage)
+[SCP-2304: Automatron](http://scp-wiki.net/scp-2304)

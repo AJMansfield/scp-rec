@@ -5,6 +5,6 @@ title: gargus-author-page
 ---
 You may also like:
 
-[SCP-092 test log](http://scp-wiki.net/experiment-log-092)
+[Costume Change](http://scp-wiki.net/costume-change)
 
-[A Long Ways from Home](http://scp-wiki.net/a-long-ways-from-home)
+[Vision At Betar](http://scp-wiki.net/vision-at-betar)

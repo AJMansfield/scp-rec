@@ -5,6 +5,6 @@ title: end-of-olympians-hub
 ---
 You may also like:
 
-[Last Meetings](http://scp-wiki.net/last-meetings)
+[SCP-097: Old Fairgrounds](http://scp-wiki.net/scp-097)
 
-[Just a Word to Me](http://scp-wiki.net/just-a-word-to-me)
+[SCP-1009: The Beautiful World](http://scp-wiki.net/scp-1009)

@@ -5,6 +5,6 @@ title: cogwork
 ---
 You may also like:
 
-[Incident Zero - Part 1](http://scp-wiki.net/incident-zero-part-1)
+[Green-Gray](http://scp-wiki.net/green-gray)
 
-[Twisted Together](http://scp-wiki.net/twisted-together)
+[Smapti's Personnel File](http://scp-wiki.net/smapti-s-personnel-file)

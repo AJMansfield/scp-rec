@@ -5,6 +5,6 @@ title: video-oddity
 ---
 You may also like:
 
-[SCP-261](http://scp-wiki.net/scp-261)
+[SCP-1517: Candy Critters](http://scp-wiki.net/scp-1517)
 
-[SCP-2438](http://scp-wiki.net/scp-2438)
+[SCP-1457: Mourning Cloak](http://scp-wiki.net/scp-1457)

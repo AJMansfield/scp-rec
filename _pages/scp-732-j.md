@@ -5,6 +5,6 @@ title: scp-732-j
 ---
 You may also like:
 
-[SCP-335](http://scp-wiki.net/scp-335)
+[Vescatur Perago](http://scp-wiki.net/vescatur-perago)
 
-[SCP-1000](http://scp-wiki.net/scp-1000)
+[Secure Facility Dossier: Site-81](http://scp-wiki.net/secure-facility-dossier-site-81)

@@ -5,6 +5,6 @@ title: summer-s-exile
 ---
 You may also like:
 
-[Random But Useful](http://scp-wiki.net/random-but-useful)
+[UIU File: 1998-017](http://scp-wiki.net/uiu-file-1998-017)
 
-[The Lucky Dinosaur](http://scp-wiki.net/lucky-dinosaur)
+[SCP-2647: Premium](http://scp-wiki.net/scp-2647)

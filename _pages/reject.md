@@ -5,6 +5,6 @@ title: reject
 ---
 You may also like:
 
-[SCP-828](http://scp-wiki.net/scp-828)
+[An Evening With Bright](http://scp-wiki.net/an-evening-with-bright)
 
-[How Tightly The Coils Squeeze](http://scp-wiki.net/how-tightly-the-coils-squeeze)
+[Dr.Bleeps Author Page](http://scp-wiki.net/dr-bleeps-author-page)

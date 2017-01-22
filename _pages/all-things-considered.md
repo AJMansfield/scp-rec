@@ -5,6 +5,6 @@ title: all-things-considered
 ---
 You may also like:
 
-[Interlude: A Special Letter](http://scp-wiki.net/wondertainment-special-letter)
+[SCP-1489: A "Ghost Train"](http://scp-wiki.net/scp-1489)
 
-[Storm Front](http://scp-wiki.net/stormfront)
+[Audio Log From December 24th, 2010](http://scp-wiki.net/audio-log-from-december-24th-2010)

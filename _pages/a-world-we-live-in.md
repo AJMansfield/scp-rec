@@ -5,6 +5,6 @@ title: a-world-we-live-in
 ---
 You may also like:
 
-[Recording Stuff Or Whatever](http://scp-wiki.net/recording-stuff-or-whatever)
+[File #178-E](http://scp-wiki.net/scp-178-log)
 
-[SCP-427](http://scp-wiki.net/scp-427)
+[SCP-677: Unpredictable Pogo Stick](http://scp-wiki.net/scp-677)

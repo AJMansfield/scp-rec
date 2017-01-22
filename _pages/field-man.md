@@ -5,6 +5,6 @@ title: field-man
 ---
 You may also like:
 
-[SCP-239's Spell Book](http://scp-wiki.net/scp-239-s-spell-book)
+[SCP-136: Naked Doll](http://scp-wiki.net/scp-136)
 
-[SCP-2868](http://scp-wiki.net/scp-2868)
+[The Bacterium  (Part Two)](http://scp-wiki.net/the-bacterium-part-two)

@@ -5,6 +5,6 @@ title: document-507-3b
 ---
 You may also like:
 
-[Remembrance: Part One](http://scp-wiki.net/in-symphony)
+[SCP-2251: The Prince](http://scp-wiki.net/scp-2251)
 
-[Document 451-A](http://scp-wiki.net/document-451-a)
+[Operation AZURE PEREGRINE](http://scp-wiki.net/operation-azure-peregrine)

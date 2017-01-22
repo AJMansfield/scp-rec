@@ -5,6 +5,6 @@ title: a-child-to-teach
 ---
 You may also like:
 
-[We Who Poke With Sticks](http://scp-wiki.net/when-in-doubt-poke-it-with-a-stick)
+[Three Men Named Con Murphy](http://scp-wiki.net/three-men-named-con-murphy)
 
-[What if they weren't...](http://scp-wiki.net/what-if-they-weren-t)
+[SCP-442: On-Time Piece](http://scp-wiki.net/scp-442)

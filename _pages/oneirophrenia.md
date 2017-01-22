@@ -5,6 +5,6 @@ title: oneirophrenia
 ---
 You may also like:
 
-[SCP-2720](http://scp-wiki.net/scp-2720)
+[Arbitrary Darkness](http://scp-wiki.net/arbitrary-darkness)
 
-[SCP-1955](http://scp-wiki.net/scp-1955)
+[Island Story](http://scp-wiki.net/island-story)

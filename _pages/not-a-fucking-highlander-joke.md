@@ -5,6 +5,6 @@ title: not-a-fucking-highlander-joke
 ---
 You may also like:
 
-[Housework](http://scp-wiki.net/housework)
+[SCP-2624: Laika's Sweetheart Space-Beacon](http://scp-wiki.net/scp-2624)
 
-[Many Happy Regards](http://scp-wiki.net/many-happy-regards)
+[Incident Reports, Eye Witness Interviews, and Personal Logs](http://scp-wiki.net/incident-reports-eye-witness-interviews-and-personal-logs)

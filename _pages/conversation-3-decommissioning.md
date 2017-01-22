@@ -5,6 +5,6 @@ title: conversation-3-decommissioning
 ---
 You may also like:
 
-[A Waking Nightmare](http://scp-wiki.net/a-waking-nightmare)
+[Eberstrom's Proposal-ARC: Site-19](http://scp-wiki.net/eberstrom-s-proposal-arc)
 
-[Rollover Hours](http://scp-wiki.net/rollover-hours)
+[SCP-1980: Alien Invasion](http://scp-wiki.net/scp-1980)

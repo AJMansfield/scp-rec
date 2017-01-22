@@ -5,6 +5,6 @@ title: revenants
 ---
 You may also like:
 
-[Daylight Come](http://scp-wiki.net/daylight-come)
+[SCP-1454: Sibling Rivalry](http://scp-wiki.net/scp-1454)
 
-[SCP-1076](http://scp-wiki.net/scp-1076)
+[A Convincing Lyre](http://scp-wiki.net/a-convincing-lyre)

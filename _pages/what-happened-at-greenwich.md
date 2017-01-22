@@ -5,6 +5,6 @@ title: what-happened-at-greenwich
 ---
 You may also like:
 
-[Smothering Dreams](http://scp-wiki.net/smothering-dreams)
+[SCP-2938: Unpredictably Reactive Substance](http://scp-wiki.net/scp-2938)
 
-[A Burial In The Woods](http://scp-wiki.net/a-burial-in-the-woods)
+[Personnel File - Noaqiyeum](http://scp-wiki.net/personnel-file-noaqiyeum)

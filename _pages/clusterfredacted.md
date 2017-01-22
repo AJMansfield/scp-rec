@@ -5,6 +5,6 @@ title: clusterfredacted
 ---
 You may also like:
 
-[We Interrupt this Program](http://scp-wiki.net/we-interrupt-this-program)
+[How to Contribute](http://scp-wiki.net/contribute)
 
-[SCP-1612](http://scp-wiki.net/scp-1612)
+[Care for You](http://scp-wiki.net/care-for-you)

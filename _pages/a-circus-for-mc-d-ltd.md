@@ -5,6 +5,6 @@ title: a-circus-for-mc-d-ltd
 ---
 You may also like:
 
-[Document 130-1](http://scp-wiki.net/document-130-1)
+[SCP-1882: MC&D Television](http://scp-wiki.net/scp-1882)
 
-[SCP-1229](http://scp-wiki.net/scp-1229)
+[SCP-026: Afterschool Retention](http://scp-wiki.net/scp-026)

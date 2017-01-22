@@ -5,6 +5,6 @@ title: her-masterpiece
 ---
 You may also like:
 
-[SCP-077](http://scp-wiki.net/scp-077)
+[SCP-876: Element-Switching Pills](http://scp-wiki.net/scp-876)
 
-[SCP-363](http://scp-wiki.net/scp-363)
+[Sympathy for an Empath](http://scp-wiki.net/sympathy-for-an-empath)

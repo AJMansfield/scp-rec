@@ -5,6 +5,6 @@ title: being-cactusman
 ---
 You may also like:
 
-[SCP-2617](http://scp-wiki.net/scp-2617)
+[SCP-704: Dangerous Curves](http://scp-wiki.net/scp-704)
 
-[Challenge Accepted!](http://scp-wiki.net/challenge-accepted)
+[Who We Are](http://scp-wiki.net/who-we-are)

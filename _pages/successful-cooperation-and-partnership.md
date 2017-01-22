@@ -5,6 +5,6 @@ title: successful-cooperation-and-partnership
 ---
 You may also like:
 
-[SCP-244-ARC](http://scp-wiki.net/scp-244-arc)
+[Incident 096-1-A](http://scp-wiki.net/incident-096-1-a)
 
-[SCP-1915](http://scp-wiki.net/scp-1915)
+[So It Was](http://scp-wiki.net/so-it-was)

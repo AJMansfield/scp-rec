@@ -5,6 +5,6 @@ title: 12talesaboutafactory
 ---
 You may also like:
 
-[SCP-2091](http://scp-wiki.net/scp-2091)
+[A Holiday Appeal](http://scp-wiki.net/a-holiday-appeal)
 
-[Senescence, Consumption, Persecution](http://scp-wiki.net/senescence-consumption-persecution)
+[SCP-1705: A Collection of Bones](http://scp-wiki.net/scp-1705)

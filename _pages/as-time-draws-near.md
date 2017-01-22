@@ -5,6 +5,6 @@ title: as-time-draws-near
 ---
 You may also like:
 
-[This is Always a Horrible Idea](http://scp-wiki.net/this-is-always-a-horrible-idea)
+[SCP-648: The Labyrinth](http://scp-wiki.net/scp-648)
 
-[Learning Shit](http://scp-wiki.net/learning-shit)
+[SCP-2037: Dust Bunnies](http://scp-wiki.net/scp-2037)

@@ -5,6 +5,6 @@ title: experiment-log-151-d
 ---
 You may also like:
 
-[What Love Is, Part One](http://scp-wiki.net/what-love-is-pt-1)
+[Sam](http://scp-wiki.net/sam)
 
-[The Last Redcoat](http://scp-wiki.net/the-last-redcoat)
+[SCP-2784: My friends have made a net](http://scp-wiki.net/scp-2784)

@@ -5,6 +5,6 @@ title: holder-of-the-foundation
 ---
 You may also like:
 
-[SCP-2158](http://scp-wiki.net/scp-2158)
+[Preparation](http://scp-wiki.net/preparation)
 
-[SCP-682-J](http://scp-wiki.net/scp-682-j)
+[Dr Magnus Personnel File](http://scp-wiki.net/dr-magnus-personnel-file)

@@ -5,6 +5,6 @@ title: daddy
 ---
 You may also like:
 
-[SCP-1177](http://scp-wiki.net/scp-1177)
+[SCP-1125: Answer Dice](http://scp-wiki.net/scp-1125)
 
-[SCP-1130](http://scp-wiki.net/scp-1130)
+[SCP-1647: Log of Extra-Scholastic Events](http://scp-wiki.net/scp-1647)

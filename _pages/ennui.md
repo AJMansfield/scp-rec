@@ -5,6 +5,6 @@ title: ennui
 ---
 You may also like:
 
-[SCP-2855](http://scp-wiki.net/scp-2855)
+[SCP-1403: Electric Goldfish](http://scp-wiki.net/scp-1403)
 
-[SCP-1644](http://scp-wiki.net/scp-1644)
+[SCP-2415: One Half of a Two-Hander](http://scp-wiki.net/scp-2415)

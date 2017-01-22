@@ -5,6 +5,6 @@ title: the-improbable-bibs
 ---
 You may also like:
 
-[Playing the Hand You're Dealt](http://scp-wiki.net/playing-the-hand-youre-dealt)
+[Experiment Log 198-A](http://scp-wiki.net/experiment-log-198-a)
 
-[SCP-476](http://scp-wiki.net/scp-476)
+[SCP-2458: Music Hath Charms](http://scp-wiki.net/scp-2458)

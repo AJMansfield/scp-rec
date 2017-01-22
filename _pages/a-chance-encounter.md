@@ -5,6 +5,6 @@ title: a-chance-encounter
 ---
 You may also like:
 
-[Cold](http://scp-wiki.net/cold)
+[Zekky's Author Page](http://scp-wiki.net/zekky-s-author-page)
 
-[SCP-1199](http://scp-wiki.net/scp-1199)
+[Researcher James "Paladin" Foster's Personnel File](http://scp-wiki.net/researcher-james-paladin-foster-s-personnel-file)

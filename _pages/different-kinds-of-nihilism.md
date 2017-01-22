@@ -5,6 +5,6 @@ title: different-kinds-of-nihilism
 ---
 You may also like:
 
-[SCP-1237](http://scp-wiki.net/scp-1237)
+[SCP-2065: Empty Inside](http://scp-wiki.net/scp-2065)
 
-[SCP-1089](http://scp-wiki.net/scp-1089)
+[Stolen, Gilded, Stolen, Saved](http://scp-wiki.net/stolen-gilded-stolen-saved)

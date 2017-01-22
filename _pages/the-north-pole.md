@@ -5,6 +5,6 @@ title: the-north-pole
 ---
 You may also like:
 
-[SCP-2213](http://scp-wiki.net/scp-2213)
+[SCP-2431: 1000 Prion Cranes](http://scp-wiki.net/scp-2431)
 
-[The Place Where Two Rivers Meet](http://scp-wiki.net/the-place-where-two-rivers-meet)
+[All Work and No Play](http://scp-wiki.net/all-work-and-no-play)

@@ -5,6 +5,6 @@ title: exploration-log-dim-3-d
 ---
 You may also like:
 
-[Recording Hippodrome-045](http://scp-wiki.net/recording-hippodrome-045)
+[SyFy Channel Presents: BEARMAGGEDON!!!](http://scp-wiki.net/syfy-channel-presents-bearmaggedon)
 
-[Two Transcribed Conversations In Very Different Tones](http://scp-wiki.net/two-transcribed-conversations-in-very-different-tones)
+[Mf99k's Fanshy Stuff](http://scp-wiki.net/mf99k-author-page)

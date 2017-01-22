@@ -5,6 +5,6 @@ title: house-of-gears-part-two
 ---
 You may also like:
 
-[SCP-693](http://scp-wiki.net/scp-693)
+[SCP-169: The Leviathan](http://scp-wiki.net/scp-169)
 
-[Last Plane Out of the South](http://scp-wiki.net/last-plane-out-of-the-south)
+[SCP-006: Fountain of Youth](http://scp-wiki.net/scp-006)

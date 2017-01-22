@@ -5,6 +5,6 @@ title: black-queen-hub
 ---
 You may also like:
 
-[Cakework](http://scp-wiki.net/cakework)
+[Euclid](http://scp-wiki.net/euclid-arc)
 
-[Surprise! Happy Birthday!](http://scp-wiki.net/surprise-happy-birthday)
+[Attacking The Darkness](http://scp-wiki.net/gdp2-attacking-the-darkness)

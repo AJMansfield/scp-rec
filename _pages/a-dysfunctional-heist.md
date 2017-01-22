@@ -5,6 +5,6 @@ title: a-dysfunctional-heist
 ---
 You may also like:
 
-[Experiment Log 980-06](http://scp-wiki.net/experiment-log-980-06)
+[SCP-7000-J: Veni, Vidi, [DATA EXPUNGED]](http://scp-wiki.net/scp-7000-j)
 
-[We Boldly Went](http://scp-wiki.net/we-boldly-went)
+[DOCUMENT-SCP-1514-RM4](http://scp-wiki.net/document-scp-1514-rm4)

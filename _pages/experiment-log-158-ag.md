@@ -5,6 +5,6 @@ title: experiment-log-158-ag
 ---
 You may also like:
 
-[SCP-1512](http://scp-wiki.net/scp-1512)
+[SCP-992: Gaia's Emissary](http://scp-wiki.net/scp-992)
 
-[Let's Talk About Character for a Minute](http://scp-wiki.net/not-enough-characters)
+[SCP-006-J: WHAT THE FUCK IS THAT THING](http://scp-wiki.net/scp-006-j)

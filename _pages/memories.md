@@ -5,6 +5,6 @@ title: memories
 ---
 You may also like:
 
-[The Fellowship](http://scp-wiki.net/the-fellowship)
+[Just What We Do](http://scp-wiki.net/just-what-we-do)
 
-[SCP-2246](http://scp-wiki.net/scp-2246)
+[SCP-080: Dark Form](http://scp-wiki.net/scp-080)

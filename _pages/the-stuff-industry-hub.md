@@ -5,6 +5,6 @@ title: the-stuff-industry-hub
 ---
 You may also like:
 
-[Recovered Data File](http://scp-wiki.net/recovered-data-file)
+[SCP-1853: Performance Enhancer](http://scp-wiki.net/scp-1853)
 
-[Unusual Incident Units Case Files - Classified](http://scp-wiki.net/unusual-incident-units-case-files-classified)
+[ADANA Protocol](http://scp-wiki.net/adana-protocol)

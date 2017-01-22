@@ -5,6 +5,6 @@ title: foundation-burger
 ---
 You may also like:
 
-[Experiment Log 784-BETA](http://scp-wiki.net/experiment-log-784-beta)
+[Cleon](http://scp-wiki.net/cleon)
 
-[SCP-395](http://scp-wiki.net/scp-395)
+[Where's The Shadow Government When You Need Them?](http://scp-wiki.net/it-s-a-bad-bad-world)

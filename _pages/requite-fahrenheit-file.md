@@ -5,6 +5,6 @@ title: requite-fahrenheit-file
 ---
 You may also like:
 
-[SCP-1056](http://scp-wiki.net/scp-1056)
+[The Serpent Gambit](http://scp-wiki.net/the-serpent-gambit)
 
-[SCP-1704](http://scp-wiki.net/scp-1704)
+[Laughing Matter](http://scp-wiki.net/laughing-matter)

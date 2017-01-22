@@ -5,6 +5,6 @@ title: experiment-log-624
 ---
 You may also like:
 
-[SCP-2343](http://scp-wiki.net/scp-2343-2)
+[SCP-519: Cheeky Phone Booth](http://scp-wiki.net/scp-519)
 
-[SCP-2181](http://scp-wiki.net/scp-2181)
+[SCP-390: Ancient Death Ray](http://scp-wiki.net/scp-390)

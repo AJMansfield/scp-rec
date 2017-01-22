@@ -5,6 +5,6 @@ title: sarkicism-hub
 ---
 You may also like:
 
-[Mission Statement](http://scp-wiki.net/mission-statement)
+[The Maker and the Beast](http://scp-wiki.net/the-maker-and-the-beast)
 
-[SCP-1214](http://scp-wiki.net/scp-1214)
+[SCP-1610: Testing May Continue](http://scp-wiki.net/scp-1610)

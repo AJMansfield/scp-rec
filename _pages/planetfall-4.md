@@ -5,6 +5,6 @@ title: planetfall-4
 ---
 You may also like:
 
-[Stars Over Misty Veil](http://scp-wiki.net/stars-over-misty-veil)
+[SCP-896: Online Role Playing Game](http://scp-wiki.net/scp-896)
 
-[Old Men, Young Men](http://scp-wiki.net/oldmenyoungmen)
+[SCP-1010: The Green Man](http://scp-wiki.net/scp-1010)

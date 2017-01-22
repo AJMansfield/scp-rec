@@ -5,6 +5,6 @@ title: insertjokeinurlhere
 ---
 You may also like:
 
-[SCP-994](http://scp-wiki.net/scp-994)
+[SCP-358: A "Deserted" Hospital](http://scp-wiki.net/scp-358)
 
-[SCP-532](http://scp-wiki.net/scp-532)
+[Obligations](http://scp-wiki.net/obligations)

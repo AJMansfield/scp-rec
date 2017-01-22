@@ -5,6 +5,6 @@ title: document-alpha-zeta-2
 ---
 You may also like:
 
-[SCP-1196](http://scp-wiki.net/scp-1196)
+[SCP-1487: Beautiful Bones](http://scp-wiki.net/scp-1487)
 
-[Experiment 919-23](http://scp-wiki.net/experiment-919-23)
+[Show You What All That Howl Is For](http://scp-wiki.net/show-you-what-all-that-howl-is-for)

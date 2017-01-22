@@ -5,6 +5,6 @@ title: spirit-dust
 ---
 You may also like:
 
-[Dr. Frederick Heiden](http://scp-wiki.net/dr-frederick-heiden)
+[First Interlude: Old School](http://scp-wiki.net/lonwood)
 
-[We Need To Talk About Fifty-Five](http://scp-wiki.net/we-need-to-talk-about-fifty-five)
+[Track 4: You and Me](http://scp-wiki.net/you-and-me)

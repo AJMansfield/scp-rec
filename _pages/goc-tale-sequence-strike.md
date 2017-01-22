@@ -5,6 +5,6 @@ title: goc-tale-sequence-strike
 ---
 You may also like:
 
-[SCP-135](http://scp-wiki.net/scp-135)
+[The Broken Fifth](http://scp-wiki.net/the-broken-fifth)
 
-[SCP-584](http://scp-wiki.net/scp-584)
+[SCP-154: Offensive Bracelets](http://scp-wiki.net/scp-154)

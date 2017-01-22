@@ -5,6 +5,6 @@ title: scp-666-j
 ---
 You may also like:
 
-[Cactus Insurgent](http://scp-wiki.net/cactus-insurgent)
+[SCP-1861: The Crew of the HMS Wintersheimer](http://scp-wiki.net/scp-1861)
 
-[Show You What All That Howl Is For](http://scp-wiki.net/show-you-what-all-that-howl-is-for)
+[New Site Theme](http://scp-wiki.net/new-site-theme)

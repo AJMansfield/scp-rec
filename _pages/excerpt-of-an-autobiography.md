@@ -5,6 +5,6 @@ title: excerpt-of-an-autobiography
 ---
 You may also like:
 
-[SCP-1263](http://scp-wiki.net/scp-1263)
+[An Evergreen Affair](http://scp-wiki.net/an-evergreen-affair)
 
-[An Excerpt from Goodbye Ghost](http://scp-wiki.net/an-excerpt-from-goodbye-ghost)
+[SCP-999: The Tickle Monster](http://scp-wiki.net/scp-999)

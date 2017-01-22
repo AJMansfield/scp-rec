@@ -5,6 +5,6 @@ title: grant-request-for-genetically-engineering-low-cost-organic-a
 ---
 You may also like:
 
-[SCP-2404](http://scp-wiki.net/scp-2404)
+[SCP-2982: Televon Telefex Secrecy-8](http://scp-wiki.net/scp-2982)
 
-[SCP-2384](http://scp-wiki.net/scp-2384)
+[Deeper](http://scp-wiki.net/deeper)

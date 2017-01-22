@@ -5,6 +5,6 @@ title: attribution-metadata
 ---
 You may also like:
 
-[Vaccination](http://scp-wiki.net/vaccination)
+[Pattern Breaker](http://scp-wiki.net/pattern-breaker)
 
-[Notes From the Great Mare](http://scp-wiki.net/classicalinterlude2)
+[A Word From The Administrator](http://scp-wiki.net/a-word-from-the-administrator)

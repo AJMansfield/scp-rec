@@ -5,6 +5,6 @@ title: diary-of-a-young-girl
 ---
 You may also like:
 
-[SCP-847](http://scp-wiki.net/scp-847)
+[Knives](http://scp-wiki.net/knives)
 
-[2212 Archival Image](http://scp-wiki.net/2212-archival-image)
+[SCP-870: The Maybe There Monsters](http://scp-wiki.net/scp-870)

@@ -5,6 +5,6 @@ title: waking
 ---
 You may also like:
 
-[Loop](http://scp-wiki.net/loop)
+[SCP-725: Parrot Whale](http://scp-wiki.net/scp-725)
 
-[SCP-2465](http://scp-wiki.net/scp-2465)
+[SCP-871: Self-Replacing Cake](http://scp-wiki.net/scp-871)

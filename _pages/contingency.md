@@ -5,6 +5,6 @@ title: contingency
 ---
 You may also like:
 
-[It's Just A Dream](http://scp-wiki.net/it-s-just-a-dream)
+[Da Capo al Fine](http://scp-wiki.net/da-capo-al-fine)
 
-[In Case You've Ever Wondered...](http://scp-wiki.net/theysayshelooksjustlikeo5-8)
+[SCP-675: Shadows Through the Window](http://scp-wiki.net/scp-675)

@@ -5,6 +5,6 @@ title: supplemental-report-239-b-192
 ---
 You may also like:
 
-[Secure Facility Dossier: Site-64](http://scp-wiki.net/secure-facility-dossier-site-64)
+[SyFy Channel Presents: BEARMAGGEDON!!!](http://scp-wiki.net/syfy-channel-presents-bearmaggedon)
 
-[Untitled](http://scp-wiki.net/untitled)
+[SCP-001-J: The Big Red Button](http://scp-wiki.net/scp-001-j)

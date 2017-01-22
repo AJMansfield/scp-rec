@@ -5,6 +5,6 @@ title: incident-report-yersinia-047-01-2010
 ---
 You may also like:
 
-[SUBVERSION](http://scp-wiki.net/subversion-hub)
+[A Well Practiced Introduction](http://scp-wiki.net/part-1-a-well-practiced-introduction)
 
-[SCP-2721](http://scp-wiki.net/scp-2721)
+[SCP-714: The Jaded Ring](http://scp-wiki.net/scp-714)

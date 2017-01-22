@@ -5,6 +5,6 @@ title: dr-major-personnel-file
 ---
 You may also like:
 
-[Dr. Frederick Heiden](http://scp-wiki.net/dr-frederick-heiden)
+[SCP-1760: Casket Garden](http://scp-wiki.net/scp-1760)
 
-[Ell Crailey's Personnel File](http://scp-wiki.net/ell-crailey-s-personnel-file)
+[Agent Lament's Personnel File](http://scp-wiki.net/agent-lament-s-personnel-file)

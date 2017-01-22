@@ -5,6 +5,6 @@ title: uncle-jeff
 ---
 You may also like:
 
-[SCP-1840](http://scp-wiki.net/scp-1840)
+[The Last Good Man in the Foundation](http://scp-wiki.net/the-last-good-man-in-the-foundation)
 
-[SCP-1399](http://scp-wiki.net/scp-1399)
+[Experiment Log 423 A](http://scp-wiki.net/experiment-log-423-a)

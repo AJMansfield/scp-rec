@@ -5,6 +5,6 @@ title: scp-2673-containment-maintenance-log
 ---
 You may also like:
 
-[An Faq Part Two; Or, Your Hume Questions Answered](http://scp-wiki.net/an-faq-part-two-or-your-hume-questions-answered)
+[Family Ties](http://scp-wiki.net/family-ties)
 
-[SCP-:3-J](http://scp-wiki.net/scp-003-j)
+[SCP-2130: Office Furniture](http://scp-wiki.net/scp-2130)

@@ -5,6 +5,6 @@ title: two-transcribed-conversations-in-very-different-tones
 ---
 You may also like:
 
-[John James](http://scp-wiki.net/john-james)
+[Johnny's Wild Ride](http://scp-wiki.net/johnnys-wild-ride)
 
-[Pattern Breaker](http://scp-wiki.net/pattern-breaker)
+[SCP-1457: Mourning Cloak](http://scp-wiki.net/scp-1457)

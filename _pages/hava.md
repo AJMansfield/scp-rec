@@ -5,6 +5,6 @@ title: hava
 ---
 You may also like:
 
-[Fik'ra](http://scp-wiki.net/fik-ra)
+[SCP-1872: Vehicular Lazer Pointer](http://scp-wiki.net/scp-1872)
 
-[Scratches](http://scp-wiki.net/scratches)
+[The 784 Incident: Part 5: Breaking Point](http://scp-wiki.net/784incident5)

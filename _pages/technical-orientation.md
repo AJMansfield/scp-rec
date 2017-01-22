@@ -5,6 +5,6 @@ title: technical-orientation
 ---
 You may also like:
 
-[SCP-1479](http://scp-wiki.net/scp-1479)
+[Interlude: An Internal Memo Regarding a Theft](http://scp-wiki.net/internal-memo-regarding-a-theft)
 
-[SCP-978 Extended Test Logs](http://scp-wiki.net/scp-978-extended-test-logs)
+[News for November 2015](http://scp-wiki.net/news-11-2015)

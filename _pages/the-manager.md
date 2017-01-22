@@ -5,6 +5,6 @@ title: the-manager
 ---
 You may also like:
 
-[Everyone Knows](http://scp-wiki.net/everyone-knows)
+[Funfiction](http://scp-wiki.net/funfiction)
 
-[SCP-1208](http://scp-wiki.net/scp-1208)
+[SCP-1667: Shoe-In](http://scp-wiki.net/scp-1667)

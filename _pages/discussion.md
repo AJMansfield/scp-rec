@@ -5,6 +5,6 @@ title: discussion
 ---
 You may also like:
 
-[Document 860-III and IV](http://scp-wiki.net/document-860-iii-and-iv)
+[Fried Chicken & Lime Jello, the Dr. Bjornsen story](http://scp-wiki.net/ried-chicken-lime-jello-the-dr-bjornsen-story)
 
-[Game Day Part 1: Mastication, Deglutition, Emesis](http://scp-wiki.net/game-day-1-dr-mause)
+[Scroll fragment 13Q29](http://scp-wiki.net/scroll-fragment-13q29)

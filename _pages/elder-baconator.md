@@ -5,6 +5,6 @@ title: elder-baconator
 ---
 You may also like:
 
-[SCP-1162-J](http://scp-wiki.net/scp-1162-j)
+[SCP-885-J: Researcher Jacobs' Inability To Clean Up After Himself](http://scp-wiki.net/scp-885-j)
 
-[SCP-974](http://scp-wiki.net/scp-974)
+[SCP-719: Light-Bringer](http://scp-wiki.net/scp-719)

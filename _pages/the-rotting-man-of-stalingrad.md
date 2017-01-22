@@ -5,6 +5,6 @@ title: the-rotting-man-of-stalingrad
 ---
 You may also like:
 
-[SCP-567](http://scp-wiki.net/scp-567)
+[Casefile for Simferopol](http://scp-wiki.net/casefileforsimferopol)
 
-[SCP-2124](http://scp-wiki.net/scp-2124)
+[Incident 023-27](http://scp-wiki.net/incident-023-27)

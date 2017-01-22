@@ -5,6 +5,6 @@ title: a-chance-at-freedom
 ---
 You may also like:
 
-[Housework](http://scp-wiki.net/housework)
+[SCP-2394: Solitude](http://scp-wiki.net/scp-2394)
 
-[GOI-001: Chicago Spirit](http://scp-wiki.net/chicago-spirit)
+[A Circus With Paranoia](http://scp-wiki.net/a-circus-with-paranoia)

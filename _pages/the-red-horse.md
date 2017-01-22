@@ -5,6 +5,6 @@ title: the-red-horse
 ---
 You may also like:
 
-[Presence](http://scp-wiki.net/presence)
+[It Wasn't a Vacation](http://scp-wiki.net/it-wasn-t-a-vacation)
 
-[SCP-423](http://scp-wiki.net/scp-423)
+[Scrapbooking](http://scp-wiki.net/scrapbooking)

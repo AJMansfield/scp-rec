@@ -5,6 +5,6 @@ title: 1st-cetres-donation
 ---
 You may also like:
 
-[First Locke Donation](http://scp-wiki.net/first-locke-donation)
+[SCP Object Classes](http://scp-wiki.net/scp-object-classes-arc)
 
-[Third Vesta Donation](http://scp-wiki.net/3rd-vesta-donation)
+[SCP-1120: Freeze Tag](http://scp-wiki.net/scp-1120)

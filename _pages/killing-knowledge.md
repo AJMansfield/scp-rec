@@ -5,6 +5,6 @@ title: killing-knowledge
 ---
 You may also like:
 
-[Mental Mazes](http://scp-wiki.net/mental-mazes)
+[Life in the Multiverse](http://scp-wiki.net/life-in-the-multiverse)
 
-[Library Lifeline](http://scp-wiki.net/library-lifeline)
+[SCP-1265: The Mesozoic Preserve](http://scp-wiki.net/scp-1265)

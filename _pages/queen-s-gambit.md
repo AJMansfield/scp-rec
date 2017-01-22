@@ -5,6 +5,6 @@ title: queen-s-gambit
 ---
 You may also like:
 
-[Pawn To E4](http://scp-wiki.net/pawn-to-e4)
+[Matryoshka: Part Eight](http://scp-wiki.net/matryoshka-eight)
 
-[Some Rational Inheritance](http://scp-wiki.net/some-rational-inheritance)
+[Matryoshka: Part Three](http://scp-wiki.net/matryoshka-three)

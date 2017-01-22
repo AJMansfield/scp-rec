@@ -5,6 +5,6 @@ title: matryoshka-seven
 ---
 You may also like:
 
-[Matryoshka: Part Six](http://scp-wiki.net/matryoshka-six)
+[Week 1: Looking for Stuff](http://scp-wiki.net/week-1-looking-for-stuff)
 
-[Matryoshka: Part Five](http://scp-wiki.net/matryoshka-five)
+[SCP-909: Mr. Forgetful](http://scp-wiki.net/scp-909)

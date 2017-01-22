@@ -5,6 +5,6 @@ title: some-rational-inheritance
 ---
 You may also like:
 
-[Merrily, Merrily, Merrily](http://scp-wiki.net/merrily-merrily-merrily)
+[What's Real?](http://scp-wiki.net/what-s-real)
 
-[Queen's Gambit](http://scp-wiki.net/queen-s-gambit)
+[In God's Name](http://scp-wiki.net/in-god-s-name)

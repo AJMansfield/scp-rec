@@ -5,6 +5,6 @@ title: the-fellowship
 ---
 You may also like:
 
-[Memories](http://scp-wiki.net/memories)
+[Triumph](http://scp-wiki.net/triumph)
 
-[Hello World (Part III)](http://scp-wiki.net/hello-world-part-iii)
+[Rights' Birthday Party](http://scp-wiki.net/rights-birthday-party)

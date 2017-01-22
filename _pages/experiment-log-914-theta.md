@@ -5,6 +5,6 @@ title: experiment-log-914-theta
 ---
 You may also like:
 
-[Production Model Changes and Procedures](http://scp-wiki.net/production-model-changes-and-procedures)
+[SCP-944: Mirror Maze](http://scp-wiki.net/scp-944)
 
-[SCP-010](http://scp-wiki.net/scp-010)
+[SCP-180: Identity Thieving Hat](http://scp-wiki.net/scp-180)

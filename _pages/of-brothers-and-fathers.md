@@ -5,6 +5,6 @@ title: of-brothers-and-fathers
 ---
 You may also like:
 
-[SCP-2480](http://scp-wiki.net/scp-2480)
+[SCP-162: Ball of Sharp](http://scp-wiki.net/scp-162)
 
-[Interview SCP-418/3](http://scp-wiki.net/interview-scp-418-3)
+[sex at frigid temperature](http://scp-wiki.net/this-world-is-as-you-would-have-wanted)

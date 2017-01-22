@@ -5,6 +5,6 @@ title: intheendwedarenotgoahunting
 ---
 You may also like:
 
-[Old Roots](http://scp-wiki.net/old-roots)
+[SCP-2994: Interactive Whiteboards](http://scp-wiki.net/scp-2994)
 
-[Draft Proposal For Programme Arduinosis 9001](http://scp-wiki.net/draft-proposal-for-programme-arduinosis-9001)
+[Dr Gibbons Personnel File](http://scp-wiki.net/dr-gibbons-personnel-file)

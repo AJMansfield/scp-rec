@@ -5,6 +5,6 @@ title: decency
 ---
 You may also like:
 
-[Conspiracy, Part XI](http://scp-wiki.net/conspiracy-part-xi)
+[SCP-1780: The Temporal Anomalies Department](http://scp-wiki.net/scp-1780)
 
-[SCP-1132](http://scp-wiki.net/scp-1132)
+[Personnel File: Zolgamax Jones](http://scp-wiki.net/zolgamax)

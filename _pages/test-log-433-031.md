@@ -5,6 +5,6 @@ title: test-log-433-031
 ---
 You may also like:
 
-[October Is Tomorrow](http://scp-wiki.net/october-is-tomorrow)
+[SCP-226: Puzzle Of Terror](http://scp-wiki.net/scp-226)
 
-[SCP-1069](http://scp-wiki.net/scp-1069)
+[SCP-278: A Large Mechanical Spider](http://scp-wiki.net/scp-278)

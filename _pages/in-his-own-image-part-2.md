@@ -5,6 +5,6 @@ title: in-his-own-image-part-2
 ---
 You may also like:
 
-[In His Own Image: Interlude 6](http://scp-wiki.net/in-his-own-image-interlude-6)
-
 [In His Own Image: Interlude 4](http://scp-wiki.net/in-his-own-image-interlude-4)
+
+[In His Own Image: Interlude 1](http://scp-wiki.net/in-his-own-image-interlude-1)

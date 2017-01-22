@@ -7,4 +7,4 @@ You may also like:
 
 [Brotherhood](http://scp-wiki.net/brotherhood)
 
-[SCP-100](http://scp-wiki.net/scp-100)
+[SCP-2566: Evermore](http://scp-wiki.net/scp-2566)

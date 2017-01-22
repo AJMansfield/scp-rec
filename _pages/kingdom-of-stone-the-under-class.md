@@ -5,6 +5,6 @@ title: kingdom-of-stone-the-under-class
 ---
 You may also like:
 
-[SCP-2628](http://scp-wiki.net/scp-2628)
+[SCP-1242: Doppelganger Virus](http://scp-wiki.net/scp-1242)
 
-[SCP-369](http://scp-wiki.net/scp-369)
+[New Site Theme](http://scp-wiki.net/new-site-theme)

@@ -5,6 +5,6 @@ title: scp-885-j
 ---
 You may also like:
 
-[Minerva Lifted](http://scp-wiki.net/minerva-lifted)
+[Elder Baconator](http://scp-wiki.net/elder-baconator)
 
-[Conspiracy, Part II](http://scp-wiki.net/conspiracy-part-ii)
+[SCP-1931: The Bite of Flight](http://scp-wiki.net/scp-1931)

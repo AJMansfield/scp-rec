@@ -5,6 +5,6 @@ title: santa-s-new-home
 ---
 You may also like:
 
-[SCP-1268](http://scp-wiki.net/scp-1268)
+[Bell Weather](http://scp-wiki.net/bell-weather)
 
-[SCP-2194](http://scp-wiki.net/scp-2194)
+[SCP-2067: Shah's Guardian](http://scp-wiki.net/scp-2067)

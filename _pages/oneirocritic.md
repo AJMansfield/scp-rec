@@ -5,6 +5,6 @@ title: oneirocritic
 ---
 You may also like:
 
-[Blood, Sweat, and Beers](http://scp-wiki.net/blood-sweat-and-beers)
+[I Talked With 516 One Day](http://scp-wiki.net/talked-with-516)
 
-[SCUTTLE](http://scp-wiki.net/scuttle)
+[SCP-1632: Better Ring Xing](http://scp-wiki.net/scp-1632)

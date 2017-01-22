@@ -5,6 +5,6 @@ title: sidelines-sarabande
 ---
 You may also like:
 
-[SCP-1993](http://scp-wiki.net/scp-1993)
+[Additional Resources](http://scp-wiki.net/additional-resources)
 
-[Hand-Sewn](http://scp-wiki.net/hand-sewn)
+[It's Just A Dream](http://scp-wiki.net/it-s-just-a-dream)

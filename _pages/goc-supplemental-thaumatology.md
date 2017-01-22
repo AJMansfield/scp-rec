@@ -5,6 +5,6 @@ title: goc-supplemental-thaumatology
 ---
 You may also like:
 
-[SCP-774](http://scp-wiki.net/scp-774)
+[SCP-2017: The Girl with the Made-Up Disease](http://scp-wiki.net/scp-2017)
 
-[Memorandum Dated 6 November 1944](http://scp-wiki.net/memorandum-dated-6-november-1944)
+[SCP-2527: Massy's Big Chance](http://scp-wiki.net/scp-2527)

@@ -5,6 +5,6 @@ title: gamedaypart2index
 ---
 You may also like:
 
-[Game Day](http://scp-wiki.net/gamedayindex)
+[SCP-226: Puzzle Of Terror](http://scp-wiki.net/scp-226)
 
-[Game Day, Phase 3: Protect](http://scp-wiki.net/gamedaypart3index)
+[SCP-180: Identity Thieving Hat](http://scp-wiki.net/scp-180)

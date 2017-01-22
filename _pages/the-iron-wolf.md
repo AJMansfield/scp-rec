@@ -5,6 +5,6 @@ title: the-iron-wolf
 ---
 You may also like:
 
-[Interview 616 Am](http://scp-wiki.net/interview-616-am)
+[SCP-1269: Stalker Mailbox](http://scp-wiki.net/scp-1269)
 
-[Regret](http://scp-wiki.net/regret)
+[The Executions of Doctor Bright](http://scp-wiki.net/the-executions-of-doctor-bright)

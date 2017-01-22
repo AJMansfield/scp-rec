@@ -5,6 +5,6 @@ title: dragon-s-fall
 ---
 You may also like:
 
-[SCP-1691](http://scp-wiki.net/scp-1691)
+[Be a Dali and Help a Mann Out, or The Lamentable State of Modern Art](http://scp-wiki.net/be-a-dali-and-help-a-mann-out-or-the-lamentable-state-of-mod)
 
-[SCP-299](http://scp-wiki.net/scp-299)
+[SUBVERSION](http://scp-wiki.net/subversion-hub)

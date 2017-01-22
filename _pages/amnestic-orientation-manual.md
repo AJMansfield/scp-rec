@@ -5,6 +5,6 @@ title: amnestic-orientation-manual
 ---
 You may also like:
 
-[SCP-1572](http://scp-wiki.net/scp-1572)
+[Cleaning Larry](http://scp-wiki.net/cleaning-larry)
 
-[SCP-1307](http://scp-wiki.net/scp-1307)
+[SCP-1694: The Ghosts of Venus](http://scp-wiki.net/scp-1694)

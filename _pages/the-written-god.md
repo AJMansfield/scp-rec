@@ -5,6 +5,6 @@ title: the-written-god
 ---
 You may also like:
 
-[The Settling Ash](http://scp-wiki.net/the-settling-ash)
+[Lamb In A Lions Den](http://scp-wiki.net/lamb-in-a-lions-den)
 
-[The Man Comes Around](http://scp-wiki.net/the-man-comes-around)
+[Lord Blackwood and the Great Tarasque Hunt of '83](http://scp-wiki.net/lord-blackwood-and-the-great-tarasque-hunt-of-83)

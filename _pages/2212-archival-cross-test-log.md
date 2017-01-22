@@ -5,6 +5,6 @@ title: 2212-archival-cross-test-log
 ---
 You may also like:
 
-[2212 Archival Interview](http://scp-wiki.net/2212-archival-interview)
+[New Year's (Part 1)](http://scp-wiki.net/new-year-s-part-1)
 
-[2212 Archival Containment Procedures](http://scp-wiki.net/2212-archival-containment-procedures)
+[What's New](http://scp-wiki.net/what-s-new)

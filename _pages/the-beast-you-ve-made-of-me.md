@@ -5,6 +5,6 @@ title: the-beast-you-ve-made-of-me
 ---
 You may also like:
 
-[Of Politics](http://scp-wiki.net/of-politics)
+[Chasing Interest](http://scp-wiki.net/chasing-interest)
 
-[Old Kansas Sector ~ 9: Retribution](http://scp-wiki.net/old-kansas-sector-part-9)
+[Realtime Chat](http://scp-wiki.net/realtime-chat)

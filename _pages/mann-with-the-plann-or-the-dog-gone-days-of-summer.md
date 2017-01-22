@@ -5,6 +5,6 @@ title: mann-with-the-plann-or-the-dog-gone-days-of-summer
 ---
 You may also like:
 
-[Ye Olde Foundation](http://scp-wiki.net/ye-olde-foundation)
+[SCP-1864: The Lonely Liar](http://scp-wiki.net/scp-1864)
 
-[SCP-1534](http://scp-wiki.net/scp-1534)
+[Sophia Light At The End Of The Tunnel](http://scp-wiki.net/sophia-light-at-the-end-of-the-tunnel)

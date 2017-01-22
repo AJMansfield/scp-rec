@@ -5,6 +5,6 @@ title: innocence
 ---
 You may also like:
 
-[SCP-576](http://scp-wiki.net/scp-576)
+[SCP-656: Home Edition](http://scp-wiki.net/scp-656)
 
-[Excerpts from PHYSICS Division Threat Entity Database](http://scp-wiki.net/goc-supplemental-threat-entities)
+[SCP-1153: Programmable Patients](http://scp-wiki.net/scp-1153)

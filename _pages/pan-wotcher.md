@@ -5,6 +5,6 @@ title: pan-wotcher
 ---
 You may also like:
 
-[Monday, 6am, Escherville Facility Two](http://scp-wiki.net/monday-6am-escherville-facility-two)
+[Taking out the Trash](http://scp-wiki.net/taking-out-the-trash)
 
-[SCP-2373](http://scp-wiki.net/scp-2373)
+[SCP-1785: A Rose By Any Other Name](http://scp-wiki.net/scp-1785)

@@ -5,6 +5,6 @@ title: ofanendlesshunt-partone-alltheworldwillbeyourenemy
 ---
 You may also like:
 
-[In His Own Image: Part 7](http://scp-wiki.net/in-his-own-image-part-7)
+[SCP-1590: The Book of Tamlin](http://scp-wiki.net/scp-1590)
 
-[Experiment 919-23](http://scp-wiki.net/experiment-919-23)
+[SCP-1672: Thinking Inside the Box](http://scp-wiki.net/scp-1672)

@@ -5,6 +5,6 @@ title: fantem-s-poi-file
 ---
 You may also like:
 
-[spikebrennan's Personnel File](http://scp-wiki.net/spikebrennan-s-personnel-file)
+[Letters to a Prophet](http://scp-wiki.net/letters-to-a-prophet)
 
-[HexaDon's: Arthur Page](http://scp-wiki.net/hexadon-s-arthur-page)
+[SCP-2240: Young Floridian Couple](http://scp-wiki.net/scp-2240)

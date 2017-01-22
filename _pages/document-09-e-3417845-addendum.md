@@ -5,6 +5,6 @@ title: document-09-e-3417845-addendum
 ---
 You may also like:
 
-[SCP-808](http://scp-wiki.net/scp-808)
+[Assistant Chubert's Personnel File](http://scp-wiki.net/assistant-chubert-s-personnel-file)
 
-[Murder Mystery](http://scp-wiki.net/murder-mystery)
+[SCP-1291: Football Gods](http://scp-wiki.net/scp-1291)

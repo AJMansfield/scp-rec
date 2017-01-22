@@ -5,6 +5,6 @@ title: scp-517-arc
 ---
 You may also like:
 
-[SCP-869](http://scp-wiki.net/scp-869)
+[Termination Procedure: SCP-809](http://scp-wiki.net/scp809termination)
 
-[SCP-2949](http://scp-wiki.net/scp-2949)
+[Old Kansas Sector ~ 2: Tabloid](http://scp-wiki.net/old-kansas-sector-part-2)

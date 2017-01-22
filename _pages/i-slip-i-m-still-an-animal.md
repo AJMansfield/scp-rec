@@ -5,6 +5,6 @@ title: i-slip-i-m-still-an-animal
 ---
 You may also like:
 
-[John James](http://scp-wiki.net/john-james)
+[SCP-1578: Standers](http://scp-wiki.net/scp-1578)
 
-[SCP-2437](http://scp-wiki.net/scp-2437)
+[Cat's in the Cradle](http://scp-wiki.net/cat-s-in-the-cradle)

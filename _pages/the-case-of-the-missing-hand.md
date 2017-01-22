@@ -5,6 +5,6 @@ title: the-case-of-the-missing-hand
 ---
 You may also like:
 
-[Footsteps](http://scp-wiki.net/footsteps)
+[SCP-511: Basement Cat](http://scp-wiki.net/scp-511)
 
-[Hello World (Part III)](http://scp-wiki.net/hello-world-part-iii)
+[Letter of the Day](http://scp-wiki.net/letter-of-the-day)

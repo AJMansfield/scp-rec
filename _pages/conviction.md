@@ -5,6 +5,6 @@ title: conviction
 ---
 You may also like:
 
-[Love In Leetspeak](http://scp-wiki.net/love-in-leetspeak)
+[SCP-695: Eels](http://scp-wiki.net/scp-695)
 
-[SCP-2505](http://scp-wiki.net/scp-2505)
+[SCP-667: Fairy Kudzu](http://scp-wiki.net/scp-667)

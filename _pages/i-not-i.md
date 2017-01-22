@@ -5,6 +5,6 @@ title: i-not-i
 ---
 You may also like:
 
-[SCP-2762](http://scp-wiki.net/scp-2762)
+[No Good Deed](http://scp-wiki.net/no-good-deed)
 
-[Cassandra](http://scp-wiki.net/cassandra)
+[SCP-009-J: Where Is It?](http://scp-wiki.net/scp-009-j)

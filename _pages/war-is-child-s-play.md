@@ -5,6 +5,6 @@ title: war-is-child-s-play
 ---
 You may also like:
 
-[C-Sharp](http://scp-wiki.net/c-sharp)
+[SCP-1066: Instant Education](http://scp-wiki.net/scp-1066)
 
-[I Forget Myself in This Wondrous Night](http://scp-wiki.net/i-forget-myself-in-this-wondrous-night)
+[SCP-1513: Potted Pets](http://scp-wiki.net/scp-1513)

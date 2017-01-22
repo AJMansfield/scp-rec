@@ -5,6 +5,6 @@ title: lte-2712-bosch
 ---
 You may also like:
 
-[SCP-2405](http://scp-wiki.net/scp-2405)
+[SCP-1395: Cave Apparition](http://scp-wiki.net/scp-1395)
 
-[SCP-481](http://scp-wiki.net/scp-481)
+[SCP-2827: Probably a Lobster](http://scp-wiki.net/scp-2827)

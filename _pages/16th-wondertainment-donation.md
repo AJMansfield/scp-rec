@@ -5,6 +5,6 @@ title: 16th-wondertainment-donation
 ---
 You may also like:
 
-[SCP-2764](http://scp-wiki.net/scp-2764)
+[SCP-1000: Bigfoot](http://scp-wiki.net/scp-1000)
 
-[SCP-494](http://scp-wiki.net/scp-494)
+[SCP Foundation: The Movie](http://scp-wiki.net/scp-foundation-the-movie)

@@ -5,6 +5,6 @@ title: scp-938-j
 ---
 You may also like:
 
-[SCP-1049](http://scp-wiki.net/scp-1049)
+[Another Star On The Wall](http://scp-wiki.net/another-star-on-the-wall)
 
-[I Keep The Wolf From The Door](http://scp-wiki.net/i-keep-the-wolf-from-the-door)
+[SCP-1648: The Hunch and The Huzzard](http://scp-wiki.net/scp-1648)

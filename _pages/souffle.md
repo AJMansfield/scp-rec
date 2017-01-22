@@ -5,6 +5,6 @@ title: souffle
 ---
 You may also like:
 
-[Naptime](http://scp-wiki.net/naptime)
+[SCP-1220: Logos](http://scp-wiki.net/scp-1220)
 
-[The Designer](http://scp-wiki.net/the-designer)
+[Dog Eat Dog, Part 1](http://scp-wiki.net/dog-eat-dog-part-1)

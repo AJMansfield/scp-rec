@@ -5,6 +5,6 @@ title: the-killer
 ---
 You may also like:
 
-[Over The Bonfire](http://scp-wiki.net/over-the-bonfire)
+[Cavalcade (Hub)](http://scp-wiki.net/cavalcade-hub)
 
-[SCP-1939](http://scp-wiki.net/scp-1939)
+[SCP-2270: An Unnecessary Utilization of Excessive Force](http://scp-wiki.net/scp-2270)

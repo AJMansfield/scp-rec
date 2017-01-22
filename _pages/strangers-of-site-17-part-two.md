@@ -5,6 +5,6 @@ title: strangers-of-site-17-part-two
 ---
 You may also like:
 
-[CryogenChaos' Comment Tales](http://scp-wiki.net/cryogenchaos-comment-tales)
+[Business as Usual](http://scp-wiki.net/a-normal-week)
 
-[SCP-2846](http://scp-wiki.net/scp-2846)
+[SCP-1430: The Orator's Staff](http://scp-wiki.net/scp-1430)

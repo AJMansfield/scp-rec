@@ -5,6 +5,6 @@ title: to-what-purpose-an-invasion
 ---
 You may also like:
 
-[SCP-2957](http://scp-wiki.net/scp-2957)
+[Crunch](http://scp-wiki.net/crunch)
 
-[SCP-2232](http://scp-wiki.net/scp-2232)
+[SCP-926: Guqin](http://scp-wiki.net/scp-926)

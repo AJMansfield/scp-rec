@@ -5,6 +5,6 @@ title: the-best-and-the-wisest
 ---
 You may also like:
 
-[Chapter Three: Corn Starch](http://scp-wiki.net/corn-starch)
+[Pythia's Wing](http://scp-wiki.net/pythia-s-wing)
 
-[Bloody](http://scp-wiki.net/bloody)
+[Protocol GATTAI](http://scp-wiki.net/protocol-gattai)

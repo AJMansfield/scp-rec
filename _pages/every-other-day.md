@@ -5,6 +5,6 @@ title: every-other-day
 ---
 You may also like:
 
-[Dr. Robinson's Statement](http://scp-wiki.net/dr-robinsons-statement)
+[Faith](http://scp-wiki.net/faith)
 
-[The Harold Maine Fan Club](http://scp-wiki.net/the-harold-maine-fan-club)
+[SCP-One Million](http://scp-wiki.net/scp-one-million)

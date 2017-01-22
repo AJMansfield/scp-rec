@@ -5,6 +5,6 @@ title: what-xenophon-saw-in-the-jungle
 ---
 You may also like:
 
-[SCP-2282](http://scp-wiki.net/scp-2282)
+[SCP-1099: Spawn-Water](http://scp-wiki.net/scp-1099)
 
-[Epitaph](http://scp-wiki.net/epitaph)
+[Thekit S Personnel File](http://scp-wiki.net/thekit-s-personnel-file)

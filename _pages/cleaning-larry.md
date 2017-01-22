@@ -5,6 +5,6 @@ title: cleaning-larry
 ---
 You may also like:
 
-[SCP-1966](http://scp-wiki.net/scp-1966)
+[SCP-1967: Shortcuts](http://scp-wiki.net/scp-1967)
 
-[SCP-523](http://scp-wiki.net/scp-523)
+[Amnestic Use Guide](http://scp-wiki.net/amnestic-orientation-manual)

@@ -5,6 +5,6 @@ title: it-s-a-bird-it-s-a-plane-it-s
 ---
 You may also like:
 
-[Transmissions](http://scp-wiki.net/transmissions)
+[SCP-1661: Gremlins](http://scp-wiki.net/scp-1661)
 
-[SCP-006](http://scp-wiki.net/scp-006)
+[SCP-1052: Ana](http://scp-wiki.net/scp-1052)

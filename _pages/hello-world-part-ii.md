@@ -5,6 +5,6 @@ title: hello-world-part-ii
 ---
 You may also like:
 
-[SCP-2618](http://scp-wiki.net/scp-2618)
+[SCP-2058: Smith Jim](http://scp-wiki.net/scp-2058)
 
-[Them](http://scp-wiki.net/them)
+["Joint Venture"](http://scp-wiki.net/goc-tale-sequence-joint-venture)

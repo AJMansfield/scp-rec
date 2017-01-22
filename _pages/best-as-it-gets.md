@@ -5,6 +5,6 @@ title: best-as-it-gets
 ---
 You may also like:
 
-[Mongrelization](http://scp-wiki.net/mongrelization)
+[SCP-2501: The Claw](http://scp-wiki.net/scp-2501)
 
-[Rigged from the Start](http://scp-wiki.net/rigged-from-the-start)
+[Mobile Task Force Omega 7 Incident Log](http://scp-wiki.net/scp-076-2)

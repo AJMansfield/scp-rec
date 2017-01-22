@@ -5,6 +5,6 @@ title: delia
 ---
 You may also like:
 
-[SCP-005-J-EX](http://scp-wiki.net/scp-005-j-ex)
+[SCP-1591: Fallen Star](http://scp-wiki.net/scp-1591)
 
-[Bugbears](http://scp-wiki.net/bugbears)
+[SCP-588: A Voracious Coin](http://scp-wiki.net/scp-588)

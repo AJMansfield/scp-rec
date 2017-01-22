@@ -5,6 +5,6 @@ title: posology
 ---
 You may also like:
 
-[SCP-2585 Exploration Log C](http://scp-wiki.net/scp-2585-exploration-log-c)
+[Matryoshka: Part Three](http://scp-wiki.net/matryoshka-three)
 
-[SCP-1944](http://scp-wiki.net/scp-1944)
+[SCP-2475: Culinary Deduction](http://scp-wiki.net/scp-2475)

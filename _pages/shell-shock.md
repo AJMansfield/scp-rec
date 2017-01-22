@@ -5,6 +5,6 @@ title: shell-shock
 ---
 You may also like:
 
-[The Word](http://scp-wiki.net/the-word)
+[Interview SCP-418/3](http://scp-wiki.net/interview-scp-418-3)
 
-[SCP-2247](http://scp-wiki.net/scp-2247)
+[SCP-2584: Loop Snakes](http://scp-wiki.net/scp-2584)

@@ -5,6 +5,6 @@ title: you-are-not-insignificant
 ---
 You may also like:
 
-[SCP-1725](http://scp-wiki.net/scp-1725)
+[Don't Blink](http://scp-wiki.net/don-t-blink)
 
-[SCP-2151](http://scp-wiki.net/scp-2151)
+[SCP-2851: Red](http://scp-wiki.net/scp-2851)

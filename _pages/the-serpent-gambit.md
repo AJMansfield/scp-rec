@@ -5,6 +5,6 @@ title: the-serpent-gambit
 ---
 You may also like:
 
-[Document 860-I and II](http://scp-wiki.net/document-860-i-and-ii)
+[RequiteFahrenheit's File](http://scp-wiki.net/requite-fahrenheit-file)
 
-[Document 860-III and IV](http://scp-wiki.net/document-860-iii-and-iv)
+[SCP-1739: Obsolete Laptop](http://scp-wiki.net/scp-1739)

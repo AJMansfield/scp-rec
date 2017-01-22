@@ -5,6 +5,6 @@ title: the-real-monsters
 ---
 You may also like:
 
-[Jack Of Diamonds](http://scp-wiki.net/jackofdiamonds)
+[Dixieland Nightmare Magic Hub](http://scp-wiki.net/dixieland-nightmare-magic-hub)
 
-[8. Mr. Moon](http://scp-wiki.net/8-mr-moon)
+[SCP-1596: House Fire](http://scp-wiki.net/scp-1596)

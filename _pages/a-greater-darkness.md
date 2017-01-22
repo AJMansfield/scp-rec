@@ -5,6 +5,6 @@ title: a-greater-darkness
 ---
 You may also like:
 
-[Your Last First Day](http://scp-wiki.net/your-last-first-day)
+[The Lesser of Two Evils](http://scp-wiki.net/the-lesser-of-two-evils)
 
-[Wayfarers Hub](http://scp-wiki.net/wayfarers-hub)
+[SCP-266: Will o' the Wisp](http://scp-wiki.net/scp-266)

@@ -5,6 +5,6 @@ title: the-orb-is-the-key
 ---
 You may also like:
 
-[SCP-528](http://scp-wiki.net/scp-528)
+[Dr Kamen's Personnel File](http://scp-wiki.net/dr-kamen-s-personnel-file)
 
-[Angle of Attack](http://scp-wiki.net/gdp2-angle-of-attack)
+[Olympia Integration Experiment-OMEGA](http://scp-wiki.net/olympia-integration-experiment-omega)

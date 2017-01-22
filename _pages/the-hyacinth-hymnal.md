@@ -5,6 +5,6 @@ title: the-hyacinth-hymnal
 ---
 You may also like:
 
-[Final Attack Orders](http://scp-wiki.net/final-attack-orders)
+[SCP-2015: Anart Mechas](http://scp-wiki.net/scp-2015)
 
-[SCP-2540](http://scp-wiki.net/scp-2540)
+[SCP-2766: Aqua Caligula](http://scp-wiki.net/scp-2766)

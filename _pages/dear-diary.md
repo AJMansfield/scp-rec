@@ -5,6 +5,6 @@ title: dear-diary
 ---
 You may also like:
 
-[Chasing Tails](http://scp-wiki.net/chasing-tails)
+[SCP-2492: Soul Beacon](http://scp-wiki.net/scp-2492)
 
-[Wednesday - 4](http://scp-wiki.net/wednesday-4)
+[Parable of the Wayward Prince](http://scp-wiki.net/wayward)

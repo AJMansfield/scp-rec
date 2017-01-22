@@ -5,6 +5,6 @@ title: scp-2213-automatedsuccess
 ---
 You may also like:
 
-[SCP-1913](http://scp-wiki.net/scp-1913)
+[SCP-641: The Pacifier](http://scp-wiki.net/scp-641)
 
-[Prologue: Water Coalesces And Descends As Rain](http://scp-wiki.net/prologue-water-coalesces-and-descends-as-rain)
+[SCP-377: Accurate Fortune Cookies](http://scp-wiki.net/scp-377)

@@ -5,6 +5,6 @@ title: goc-tale-sequence-vigil
 ---
 You may also like:
 
-[SCP-1730](http://scp-wiki.net/scp-1730)
+[Of Multiverses and Dandelion Wine](http://scp-wiki.net/dandelions)
 
-[SCP-184](http://scp-wiki.net/scp-184)
+[It's Just A Dream](http://scp-wiki.net/it-s-just-a-dream)

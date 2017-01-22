@@ -5,6 +5,6 @@ title: fading
 ---
 You may also like:
 
-[SCP-2737](http://scp-wiki.net/scp-2737)
+[SCP-2987: Invictus](http://scp-wiki.net/scp-2987)
 
-[Incident Report WP-1](http://scp-wiki.net/incident-report-wp-1)
+[A Brief Explanation of Demonics](http://scp-wiki.net/a-brief-explanation-on-demonics)

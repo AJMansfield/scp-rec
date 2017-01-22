@@ -5,6 +5,6 @@ title: out-of-your-element
 ---
 You may also like:
 
-[SCP-2130](http://scp-wiki.net/scp-2130)
+[SCP-1192: "Timmy"](http://scp-wiki.net/scp-1192)
 
-[Transcript of telephone conversation, August 9, 1991](http://scp-wiki.net/transcript-of-telephone-conversation-august-9-1991)
+[Recovered Documents (Translated into English from Russian)](http://scp-wiki.net/doc-491)

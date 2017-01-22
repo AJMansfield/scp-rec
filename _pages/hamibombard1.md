@@ -5,6 +5,6 @@ title: hamibombard1
 ---
 You may also like:
 
-[SCP-1557](http://scp-wiki.net/scp-1557)
+[Poopstick McGee and the Flying Walruses](http://scp-wiki.net/poopstick-mcgee-and-the-flying-walruses)
 
-[Little Hurley Lost in Meatspace](http://scp-wiki.net/little-hurley-lost-in-meatspace)
+[Clinical Tone: Declassified](http://scp-wiki.net/clinical-tone-declassified)

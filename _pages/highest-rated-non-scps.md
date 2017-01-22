@@ -5,6 +5,6 @@ title: highest-rated-non-scps
 ---
 You may also like:
 
-[SCP-2969](http://scp-wiki.net/scp-2969)
+[TF Alpha-440](http://scp-wiki.net/tf-alpha-440)
 
-[SCP-1588](http://scp-wiki.net/scp-1588)
+[SCP-511: Basement Cat](http://scp-wiki.net/scp-511)

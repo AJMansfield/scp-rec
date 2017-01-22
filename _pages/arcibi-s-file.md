@@ -5,6 +5,6 @@ title: arcibi-s-file
 ---
 You may also like:
 
-[Researcher Robert Sandler](http://scp-wiki.net/personnel-file-of-robert-sandler)
+[SCP-1679: Post-Mortem Peoples' Choice](http://scp-wiki.net/scp-1679)
 
-[Research Assistant Corbette's Personnel File](http://scp-wiki.net/salman-corbette-personnel-file)
+[Cleaning Larry](http://scp-wiki.net/cleaning-larry)

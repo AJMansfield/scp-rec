@@ -5,6 +5,6 @@ title: matryoshka-epilogue
 ---
 You may also like:
 
-[Matryoshka: Part Nine](http://scp-wiki.net/matryoshka-nine)
+[SCP-012-J: Special Comedy Procedures](http://scp-wiki.net/scp-012-j)
 
-[SCP-1408](http://scp-wiki.net/scp-1408)
+[SCP-489: 1-555-BUG-BASH](http://scp-wiki.net/scp-489)

@@ -5,6 +5,6 @@ title: the-meaning-of-fear
 ---
 You may also like:
 
-[Of Politics](http://scp-wiki.net/of-politics)
+[Tales By Author](http://scp-wiki.net/tales-by-author)
 
-[Monday, 6am, Escherville Facility Two](http://scp-wiki.net/monday-6am-escherville-facility-two)
+[Dr. Salvia's Personnel File](http://scp-wiki.net/dr-salvia-s-personnel-file)

@@ -5,6 +5,6 @@ title: understanding-memetics
 ---
 You may also like:
 
-[History Of The Universe: Part One](http://scp-wiki.net/history-of-the-universe-part-one)
+[AJMansfield's Author Page](http://scp-wiki.net/ajmansfield)
 
-[Conservation Of WTF, or Why Does the Rabbit Need Two Brains?](http://scp-wiki.net/conservation-of-wtf)
+[SCP-468: The Abacus](http://scp-wiki.net/scp-468)

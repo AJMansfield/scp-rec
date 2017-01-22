@@ -5,6 +5,6 @@ title: your-dream-is-not-terribly-marketable
 ---
 You may also like:
 
-[Leeway](http://scp-wiki.net/leeway)
+[The Long Con](http://scp-wiki.net/the-long-con)
 
-[Pawn To E4](http://scp-wiki.net/pawn-to-e4)
+[SCP-708: The Big Orange Forklift](http://scp-wiki.net/scp-708)

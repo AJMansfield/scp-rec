@@ -5,6 +5,6 @@ title: the-queen-of-site-18
 ---
 You may also like:
 
-[SCP-1147](http://scp-wiki.net/scp-1147)
+[SCP-1140: Gurgles](http://scp-wiki.net/scp-1140)
 
-[Visions of a Better World](http://scp-wiki.net/visionsofabetterworld)
+[SCP-1658: Textual Mold](http://scp-wiki.net/scp-1658)

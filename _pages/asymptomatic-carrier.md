@@ -5,6 +5,6 @@ title: asymptomatic-carrier
 ---
 You may also like:
 
-[Target Practice](http://scp-wiki.net/target-practice)
+[Awakenings](http://scp-wiki.net/awakenings)
 
-[We've Got A Runner](http://scp-wiki.net/we-ve-got-a-runner)
+[SCP-1480: Bus #64](http://scp-wiki.net/scp-1480)

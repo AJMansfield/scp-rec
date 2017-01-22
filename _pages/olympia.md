@@ -5,6 +5,6 @@ title: olympia
 ---
 You may also like:
 
-[SCP-143 Testing Log](http://scp-wiki.net/scp-143-testing-log)
+['Imperfectly Fossilized Eggs' (M4RHO/EDOPE/FO5LE)](http://scp-wiki.net/imperfectly-fossilized-eggs-m4rho-edope-fo5le)
 
-[A Keter Kinda Christmas](http://scp-wiki.net/a-keter-kinda-christmas)
+[Moonlighting](http://scp-wiki.net/moonlighting)

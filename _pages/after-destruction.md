@@ -5,6 +5,6 @@ title: after-destruction
 ---
 You may also like:
 
-[SCP-2075](http://scp-wiki.net/scp-2075)
+[SCP-1622-J: Class-Action Lawfruit](http://scp-wiki.net/scp-1622-j)
 
-[The Friday Exhibition](http://scp-wiki.net/the-friday-exhibition)
+[The End of History](http://scp-wiki.net/the-end-of-history)

@@ -5,6 +5,6 @@ title: typo-positive
 ---
 You may also like:
 
-[Remembrance: Part One](http://scp-wiki.net/in-symphony)
+[SCP-2801: A Dress-Up Box](http://scp-wiki.net/scp-2801)
 
-[History Of The Universe: Part Two](http://scp-wiki.net/history-of-the-universe-part-two)
+[A Billion Brilliant Colors and a Spirit Less Than Human](http://scp-wiki.net/the-fine-print-ii)

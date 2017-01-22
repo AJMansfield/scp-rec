@@ -5,6 +5,6 @@ title: document-1201
 ---
 You may also like:
 
-[SCP-179](http://scp-wiki.net/scp-179)
+[SCP-1006: Spider Proletariat](http://scp-wiki.net/scp-1006)
 
-[SCP-1387](http://scp-wiki.net/scp-1387)
+[SCP-2446-B4 Interview](http://scp-wiki.net/scp-2446-interview)

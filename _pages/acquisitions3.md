@@ -5,6 +5,6 @@ title: acquisitions3
 ---
 You may also like:
 
-[Acquisitions - a Marshall, Carter & Dark Tale Act I](http://scp-wiki.net/acquisitions1)
+[Expanded Biography of "The Administrator"](http://scp-wiki.net/expanded-biography-of-the-administrator)
 
-[Dr. Robinson's Statement](http://scp-wiki.net/dr-robinsons-statement)
+[Dr. "Aura"'s Personnel File](http://scp-wiki.net/dr-auras-personnel-file)

@@ -5,6 +5,6 @@ title: ears
 ---
 You may also like:
 
-[Clean Sweep](http://scp-wiki.net/clean-sweep)
+[Christmas](http://scp-wiki.net/christmas)
 
-[Inside-Out](http://scp-wiki.net/inside-out)
+[What Happened Beneath Cronos](http://scp-wiki.net/what-happened-beneath-cronos)

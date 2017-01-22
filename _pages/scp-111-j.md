@@ -5,6 +5,6 @@ title: scp-111-j
 ---
 You may also like:
 
-[Termination_Order](http://scp-wiki.net/termination-order)
+["Assessment"](http://scp-wiki.net/goc-tale-sequence-assessment)
 
-[Interview 277-A](http://scp-wiki.net/277interview)
+[Incident Mike Echo Seven Alpha](http://scp-wiki.net/incident-mike-echo-seven-alpha)

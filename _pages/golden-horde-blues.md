@@ -5,6 +5,6 @@ title: golden-horde-blues
 ---
 You may also like:
 
-[Life Saver](http://scp-wiki.net/life-saver)
+[SCP-1868: Speaks For Her](http://scp-wiki.net/scp-1868)
 
-[The O5 Orientation](http://scp-wiki.net/the-o5-orientation)
+[SCP-1406: An Old Entity](http://scp-wiki.net/scp-1406)

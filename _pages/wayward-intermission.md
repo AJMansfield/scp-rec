@@ -5,6 +5,6 @@ title: wayward-intermission
 ---
 You may also like:
 
-[Follow The Keter](http://scp-wiki.net/follow-the-keter)
+[Snippets From The Serpent](http://scp-wiki.net/snippetsfromtheserpent)
 
-[The Assassination of Beleaguered Normalcy by the Coward Gamers Against Weed](http://scp-wiki.net/the-assassination-of-beleaguered-normalcy-by-the-coward-game)
+[SCP-1499: The Gas Mask](http://scp-wiki.net/scp-1499)

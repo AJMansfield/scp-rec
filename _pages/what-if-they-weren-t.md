@@ -5,6 +5,6 @@ title: what-if-they-weren-t
 ---
 You may also like:
 
-[SCP-2978](http://scp-wiki.net/scp-2978)
+[SCP-1346: Phobia Induction Corridor](http://scp-wiki.net/scp-1346)
 
-[The Lingering Lark of Leviathan Square](http://scp-wiki.net/the-lingering-lark-of-leviathan-square)
+[SCP-2453: Pregnancy Test](http://scp-wiki.net/scp-2453)

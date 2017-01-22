@@ -5,6 +5,6 @@ title: advent-calendar-2015
 ---
 You may also like:
 
-[Acidverse](http://scp-wiki.net/acidverse)
+[SCP-1893: The Minotaur's Tale](http://scp-wiki.net/scp-1893)
 
-[A Discussion with L. E. T.](http://scp-wiki.net/a-discussion-with-l-e-t)
+[GoHW > Chapter_5.js](http://scp-wiki.net/gohw-chapter-5-dot-js)

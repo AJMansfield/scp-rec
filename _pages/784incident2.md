@@ -5,6 +5,6 @@ title: 784incident2
 ---
 You may also like:
 
-[Matryoshka: Part Eight](http://scp-wiki.net/matryoshka-eight)
+[People Are Not Wearing Enough Hats](http://scp-wiki.net/people-are-not-wearing-enough-hats)
 
-[SCP-2285](http://scp-wiki.net/scp-2285)
+[I Wish To Be An Asteroid, Burning To Nothing](http://scp-wiki.net/i-wish-to-be-an-asteroid-burning-to-nothing)

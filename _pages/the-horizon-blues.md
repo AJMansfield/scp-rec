@@ -5,6 +5,6 @@ title: the-horizon-blues
 ---
 You may also like:
 
-[We Have Dismissed That Claim](http://scp-wiki.net/we-have-dismissed-that-claim)
+[The Man Comes Around](http://scp-wiki.net/the-man-comes-around)
 
-[Ignition, Part One- The Artists](http://scp-wiki.net/ignition-part-one-the-artists)
+[SCP-1417-J: Passive-Aggressive Meteorite](http://scp-wiki.net/scp-1417-j)

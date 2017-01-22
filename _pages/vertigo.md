@@ -5,6 +5,6 @@ title: vertigo
 ---
 You may also like:
 
-[Bluesoul's Author Page](http://scp-wiki.net/bluesoul-s-author-page)
+[Planetfall: 8](http://scp-wiki.net/planetfall-8)
 
-[Right?](http://scp-wiki.net/right)
+[SCP-2832: Hubris](http://scp-wiki.net/scp-2832)

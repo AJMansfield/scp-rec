@@ -5,6 +5,6 @@ title: tuomey-author-page
 ---
 You may also like:
 
-[Personnel File: Zolgamax Jones](http://scp-wiki.net/zolgamax)
+[SCP-679: Eyerot](http://scp-wiki.net/scp-679)
 
-["Iceberg" Personnel File](http://scp-wiki.net/iceberg-personnel-file)
+[spikebrennan's Personnel File](http://scp-wiki.net/spikebrennan-s-personnel-file)

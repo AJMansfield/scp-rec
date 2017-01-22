@@ -5,6 +5,6 @@ title: documents-recovered-from-the-residence-of-agent-waters
 ---
 You may also like:
 
-[SCP-580](http://scp-wiki.net/scp-580)
+[SCP-733: A Pair of Scissors](http://scp-wiki.net/scp-733)
 
-[SCP-2246](http://scp-wiki.net/scp-2246)
+[SCP-1432: Doll DVD](http://scp-wiki.net/scp-1432)

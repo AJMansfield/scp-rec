@@ -5,6 +5,6 @@ title: light-dependent-reactions
 ---
 You may also like:
 
-[We Got A Good Thing Here](http://scp-wiki.net/we-got-a-good-thing-here)
+[Tinker Tailor Soldier Huntsman](http://scp-wiki.net/tinker-tailor-soldier-huntsman)
 
-[Girls' Night Out: Raising Hell](http://scp-wiki.net/raising-hell)
+[Image Use Policy](http://scp-wiki.net/image-use-policy)

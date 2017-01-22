@@ -5,6 +5,6 @@ title: scp-2383-j-t
 ---
 You may also like:
 
-[SCP-1418](http://scp-wiki.net/scp-1418)
+[SCP-2445: Wondertainment Logistics](http://scp-wiki.net/scp-2445)
 
-[What Ever Happened?](http://scp-wiki.net/what-ever-happened)
+[SCP-1358: Northern Lights](http://scp-wiki.net/scp-1358)

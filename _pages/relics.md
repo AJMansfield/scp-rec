@@ -5,6 +5,6 @@ title: relics
 ---
 You may also like:
 
-[King Greenshield: A Fairy Tale](http://scp-wiki.net/king-greenshield-a-fairy-tale)
+[SCP-980: An Absence of Detail](http://scp-wiki.net/scp-980)
 
-[269](http://scp-wiki.net/269)
+[SCP-287: Spectral Manifestation Sword](http://scp-wiki.net/scp-287)

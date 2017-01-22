@@ -5,6 +5,6 @@ title: a-simple-paradigm-shift
 ---
 You may also like:
 
-[A Day at the Call Center](http://scp-wiki.net/a-day-at-the-call-center)
+[Memorandum Dated 6 November 1944](http://scp-wiki.net/memorandum-dated-6-november-1944)
 
-[SCP-341](http://scp-wiki.net/scp-341)
+[SCP-1348: Inner Sanctum](http://scp-wiki.net/scp-1348)

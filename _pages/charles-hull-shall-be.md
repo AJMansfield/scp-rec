@@ -5,6 +5,6 @@ title: charles-hull-shall-be
 ---
 You may also like:
 
-[I Have a Patron](http://scp-wiki.net/i-have-a-patron)
+[Existential Crisis](http://scp-wiki.net/existential-crisis)
 
-[Stealing Solidarity: Phase 4](http://scp-wiki.net/stealingsolidarityphase4)
+[SCP-5308-J: The Collection](http://scp-wiki.net/scp-5308-j)

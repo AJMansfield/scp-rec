@@ -5,6 +5,6 @@ title: draft-proposal-for-programme-arduinosis-9001
 ---
 You may also like:
 
-[In The End: We Dare Not Go A Hunting](http://scp-wiki.net/intheendwedarenotgoahunting)
+[SCP-1469: Cookie Cutters](http://scp-wiki.net/scp-1469)
 
-[Third Vesta Donation](http://scp-wiki.net/3rd-vesta-donation)
+[SCP-2189: Clockwork Fruit](http://scp-wiki.net/scp-2189)

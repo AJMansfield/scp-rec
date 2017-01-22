@@ -5,6 +5,6 @@ title: don-tworryaboutit
 ---
 You may also like:
 
-[Hugo Hijinks](http://scp-wiki.net/hugo-hijinks)
+[Denouement and Epilogue](http://scp-wiki.net/wayward-denouement)
 
-[SCP-2290](http://scp-wiki.net/scp-2290)
+[SCP-618: Smoky Cigars](http://scp-wiki.net/scp-618)

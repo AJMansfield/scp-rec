@@ -5,6 +5,6 @@ title: game-day-1-smilers
 ---
 You may also like:
 
-[Tunneling Between Worlds](http://scp-wiki.net/gdp2-tunneling-between-worlds)
+[Dwagon's Anomalous Art Den](http://scp-wiki.net/dwagon-s-anomalous-art-den)
 
-[The World From a Different Angle](http://scp-wiki.net/gdp2-looking-at-the-world-from-a-different-angle)
+[People Look East](http://scp-wiki.net/people-look-east)

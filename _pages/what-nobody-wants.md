@@ -5,6 +5,6 @@ title: what-nobody-wants
 ---
 You may also like:
 
-[SCP-2755](http://scp-wiki.net/scp-2755)
+[SCP-093 'Violet' Test](http://scp-wiki.net/scp-093-violet-test)
 
-[What You Are In the Dark](http://scp-wiki.net/what-you-are-in-the-dark)
+[SCP-2204: Triple Threat: Intracommunal Men of Obscurity](http://scp-wiki.net/scp-2204)

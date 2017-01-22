@@ -5,6 +5,6 @@ title: canola-oil-panic
 ---
 You may also like:
 
-[Shellfish For Breakfast](http://scp-wiki.net/shellfish-for-breakfast)
+[Cool War 2: Ruiz From Your Grave](http://scp-wiki.net/cool-war-2-hub)
 
-[Going Straight To Hell In A Lincoln Continental](http://scp-wiki.net/going-straight-to-hell-in-a-lincoln-continental)
+[SCP-248: 110%](http://scp-wiki.net/scp-248)

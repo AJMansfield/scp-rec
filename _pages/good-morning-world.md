@@ -5,6 +5,6 @@ title: good-morning-world
 ---
 You may also like:
 
-[SCP-2123](http://scp-wiki.net/scp-2123)
+[SunnyClockwork's Artwork - Personnel](http://scp-wiki.net/sunny-art-personnel)
 
-[SCP-2686](http://scp-wiki.net/scp-2686)
+[Pain](http://scp-wiki.net/the-rotting-man-of-stalingrad)

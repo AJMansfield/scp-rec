@@ -5,6 +5,6 @@ title: no-more
 ---
 You may also like:
 
-[The Bacterium  (Part Two)](http://scp-wiki.net/the-bacterium-part-two)
+[SCP-442: On-Time Piece](http://scp-wiki.net/scp-442)
 
-[SCP-173](http://scp-wiki.net/scp-173)
+[Now... This](http://scp-wiki.net/now-this)

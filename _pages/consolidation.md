@@ -5,6 +5,6 @@ title: consolidation
 ---
 You may also like:
 
-[Realignment](http://scp-wiki.net/realignment)
+[The Deep End](http://scp-wiki.net/the-deep-end)
 
-[J. T. H.](http://scp-wiki.net/jth)
+[Through the Out-Land, and What David and Tim Found There](http://scp-wiki.net/through-the-out-land-and-what-david-and-tim-found-there)

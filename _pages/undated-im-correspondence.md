@@ -5,6 +5,6 @@ title: undated-im-correspondence
 ---
 You may also like:
 
-[SCP-2080](http://scp-wiki.net/scp-2080)
+[Ad Majorem Bonum](http://scp-wiki.net/ad-majorem-bonum)
 
-[SCP-2032](http://scp-wiki.net/scp-2032)
+[The Man Who Wasn't There Hub](http://scp-wiki.net/the-man-who-wasnt-there-hub)

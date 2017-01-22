@@ -5,6 +5,6 @@ title: 9-mr-clumsy
 ---
 You may also like:
 
-[5. Mr. Mad](http://scp-wiki.net/5-mr-mad)
+[SCP-639: Distorted Man](http://scp-wiki.net/scp-639)
 
-[SCP-2529](http://scp-wiki.net/scp-2529)
+[SCP-1145: Nagasaki Teddy](http://scp-wiki.net/scp-1145)

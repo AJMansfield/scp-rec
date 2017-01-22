@@ -5,6 +5,6 @@ title: no-joke
 ---
 You may also like:
 
-[Lending a Hand](http://scp-wiki.net/lending-a-hand)
+[SCP-1811: Shelf Life](http://scp-wiki.net/scp-1811)
 
-[Interference](http://scp-wiki.net/interference)
+[History](http://scp-wiki.net/history)

@@ -5,6 +5,6 @@ title: stop-me-if-youve-heard-this-one-before
 ---
 You may also like:
 
-[So It Was](http://scp-wiki.net/so-it-was)
+[SCP-127: The Living Gun](http://scp-wiki.net/scp-127)
 
-[Year Of The Many](http://scp-wiki.net/year-of-the-many)
+[Decommissioned](http://scp-wiki.net/decommissioned)

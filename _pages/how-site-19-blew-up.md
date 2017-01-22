@@ -5,6 +5,6 @@ title: how-site-19-blew-up
 ---
 You may also like:
 
-[SCP-341](http://scp-wiki.net/scp-341)
+[Operation AZURE PEREGRINE](http://scp-wiki.net/operation-azure-peregrine)
 
-[SCP-078-J](http://scp-wiki.net/scp-078-j)
+[The Day the Clown Cried](http://scp-wiki.net/the-day-the-clown-cried)

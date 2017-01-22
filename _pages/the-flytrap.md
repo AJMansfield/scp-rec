@@ -5,6 +5,6 @@ title: the-flytrap
 ---
 You may also like:
 
-[RUN AWAY FOREVURRR](http://scp-wiki.net/run-away-forevurrr)
+[F U B A R](http://scp-wiki.net/f-u-b-a-r)
 
-[GOIng My Way](http://scp-wiki.net/going-my-way)
+[SCP-885: Living Vacuum](http://scp-wiki.net/scp-885)

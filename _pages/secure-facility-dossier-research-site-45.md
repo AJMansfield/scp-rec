@@ -5,6 +5,6 @@ title: secure-facility-dossier-research-site-45
 ---
 You may also like:
 
-[SCP-1014](http://scp-wiki.net/scp-1014)
+[Experiment Log 158 Aa](http://scp-wiki.net/experiment-log-158-aa)
 
-[Amnestic](http://scp-wiki.net/amnestic)
+[SCP-1482: Mutilated Animal House](http://scp-wiki.net/scp-1482)

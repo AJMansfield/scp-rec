@@ -5,6 +5,6 @@ title: skeeve-online
 ---
 You may also like:
 
-[SCP-2103-J](http://scp-wiki.net/scp-2103-j)
+[Test log 1825-01](http://scp-wiki.net/test-log-1825-01)
 
-[SCP-985](http://scp-wiki.net/scp-985)
+[SCP-2157: The Human Forest](http://scp-wiki.net/scp-2157)

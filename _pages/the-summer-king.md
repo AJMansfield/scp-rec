@@ -5,6 +5,6 @@ title: the-summer-king
 ---
 You may also like:
 
-[SCP-793](http://scp-wiki.net/scp-793)
+[14. Mr. Brass](http://scp-wiki.net/14-mr-brass)
 
-[The Word](http://scp-wiki.net/the-word)
+[Immolation](http://scp-wiki.net/immolation)

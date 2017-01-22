@@ -5,6 +5,6 @@ title: dontcallitacomebackbecauseidontknowifillstay
 ---
 You may also like:
 
-[SCP-2303](http://scp-wiki.net/scp-2303)
+[Absolute Self-Control](http://scp-wiki.net/absolute-self-control)
 
-[SCP-715](http://scp-wiki.net/scp-715)
+[SCP-2722: SCPS Solidarity](http://scp-wiki.net/scp-2722)

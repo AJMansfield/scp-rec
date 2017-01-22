@@ -5,6 +5,6 @@ title: nope-not-typing-all-that
 ---
 You may also like:
 
-[SCP-1321](http://scp-wiki.net/scp-1321)
+[New Year's (Part 2)](http://scp-wiki.net/new-year-s-part-2)
 
-[His Kind Eyes](http://scp-wiki.net/his-kind-eyes)
+[Despair Rage Envy Aye Mak Sicur](http://scp-wiki.net/dreams)

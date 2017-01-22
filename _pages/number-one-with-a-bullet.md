@@ -5,6 +5,6 @@ title: number-one-with-a-bullet
 ---
 You may also like:
 
-[When One Reaches the End](http://scp-wiki.net/when-one-reaches-the-end)
+[SCP-1106: "Grow Your Own Child" Kit](http://scp-wiki.net/scp-1106)
 
-[Operation "Camp Granada"](http://scp-wiki.net/hellomuddah)
+[The Shark, Pt.1](http://scp-wiki.net/the-shark-pt-1)

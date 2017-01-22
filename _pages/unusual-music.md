@@ -5,6 +5,6 @@ title: unusual-music
 ---
 You may also like:
 
-[Dr. Robinson's Statement](http://scp-wiki.net/dr-robinsons-statement)
+[Remembrance: Part One](http://scp-wiki.net/in-symphony)
 
-[SCP-2420](http://scp-wiki.net/scp-2420)
+[Wheels within Wheels](http://scp-wiki.net/wheels-within-wheels)

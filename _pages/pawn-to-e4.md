@@ -5,6 +5,6 @@ title: pawn-to-e4
 ---
 You may also like:
 
-[Queen's Gambit](http://scp-wiki.net/queen-s-gambit)
+[Mad Love](http://scp-wiki.net/mad-love)
 
-[SCP-2614](http://scp-wiki.net/scp-2614)
+[Security Clearance Levels](http://scp-wiki.net/security-clearance-levels-arc)

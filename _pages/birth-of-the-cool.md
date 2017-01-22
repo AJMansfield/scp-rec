@@ -5,6 +5,6 @@ title: birth-of-the-cool
 ---
 You may also like:
 
-[Living in the Limelight](http://scp-wiki.net/living-in-the-limelight)
+["Petro" Derinsky's Personnel File](http://scp-wiki.net/petro-derinsky-s-personnel-file)
 
-[Harrison T. Winchester III Journal Excerpts](http://scp-wiki.net/harrison-t-winchester-iii-journal-excerpts)
+[Researcher Wei Zhong's Personnel File](http://scp-wiki.net/weizhong)

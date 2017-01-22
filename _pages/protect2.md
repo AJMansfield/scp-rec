@@ -5,6 +5,6 @@ title: protect2
 ---
 You may also like:
 
-[CONTAIN](http://scp-wiki.net/contain)
+[Dr. Desai's Personnel File](http://scp-wiki.net/dr-arvind-desais-personnel-file)
 
-[SCP-710](http://scp-wiki.net/scp-710)
+[SCP-1392: Functioning Scarificator](http://scp-wiki.net/scp-1392)

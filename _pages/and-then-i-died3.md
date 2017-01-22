@@ -5,6 +5,6 @@ title: and-then-i-died3
 ---
 You may also like:
 
-[Progress](http://scp-wiki.net/progress)
+[Spirit Staff of Eastern Avian Shaman](http://scp-wiki.net/spirit-staff-of-eastern-avian-shaman)
 
-[16. Mr. Fish](http://scp-wiki.net/mr-fish)
+[SCP-914: The Clockworks](http://scp-wiki.net/scp-914)

@@ -7,4 +7,4 @@ You may also like:
 
 [Standard Dream Report 66-Y 990.1](http://scp-wiki.net/dream-report-990-1)
 
-[Harbinger](http://scp-wiki.net/harbinger)
+[Continued Deliberations](http://scp-wiki.net/continued-deliberations)

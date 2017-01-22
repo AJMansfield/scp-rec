@@ -5,6 +5,6 @@ title: and-he-will-crash-upon-the-rocks
 ---
 You may also like:
 
-[Researcher Conwell's Personnel File](http://scp-wiki.net/researcher-conwell-s-personnel-file)
+[SCP-1674: Camera Obscura](http://scp-wiki.net/scp-1674)
 
-[Experiment Log 393](http://scp-wiki.net/experiment-log-393)
+[When Moses Goes Wrong](http://scp-wiki.net/when-moses-goes-wrong)

@@ -5,6 +5,6 @@ title: waterfire
 ---
 You may also like:
 
-[Univine's Author Page](http://scp-wiki.net/univine-s-author-page)
+[SCP-001: Awaiting De-classification [Blocked]](http://scp-wiki.net/scp-001)
 
-[WrongJohnSilver's Author Page](http://scp-wiki.net/wrongjohnsilver-s-author-page)
+[SCP-1913: The Furies](http://scp-wiki.net/scp-1913)

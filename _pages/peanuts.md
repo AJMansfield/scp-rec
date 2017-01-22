@@ -5,6 +5,6 @@ title: peanuts
 ---
 You may also like:
 
-[SCP-135](http://scp-wiki.net/scp-135)
+[SCP-1438: Invaders](http://scp-wiki.net/scp-1438)
 
-[Sex, Success, and Targeted Advertising](http://scp-wiki.net/sex-success-and-targeted-advertising)
+[Jaywalk](http://scp-wiki.net/jaywalk)

@@ -5,6 +5,6 @@ title: personal-log-of-paul-martin
 ---
 You may also like:
 
-[SCP-2815](http://scp-wiki.net/scp-2815)
+[SCP-368: Paper Crane](http://scp-wiki.net/scp-368)
 
-[Deals with the Devil](http://scp-wiki.net/deals-with-the-devil)
+[SCP-459: Interplanetary Thermostat](http://scp-wiki.net/scp-459)

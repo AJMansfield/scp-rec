@@ -5,6 +5,6 @@ title: finding-the-machine
 ---
 You may also like:
 
-[Game Day, Phase 2: Contain](http://scp-wiki.net/gamedaypart2index)
+[SCP-1008: Exile Stone](http://scp-wiki.net/scp-1008)
 
-[SCP-1305](http://scp-wiki.net/scp-1305)
+[SCP-1185: Self-Supplying Gasoline Pump](http://scp-wiki.net/scp-1185)

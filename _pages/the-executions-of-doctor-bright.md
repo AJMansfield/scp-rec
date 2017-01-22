@@ -5,6 +5,6 @@ title: the-executions-of-doctor-bright
 ---
 You may also like:
 
-[The Truth Is Out There](http://scp-wiki.net/the-truth-is-out-there)
+[The Iron Wolf](http://scp-wiki.net/the-iron-wolf)
 
-[For Elise](http://scp-wiki.net/for-elise)
+[SCP-1269: Stalker Mailbox](http://scp-wiki.net/scp-1269)

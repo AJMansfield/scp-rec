@@ -5,6 +5,6 @@ title: news
 ---
 You may also like:
 
-[SCP-2746](http://scp-wiki.net/scp-2746)
+[SCP-2307: The Pen Is Mightier](http://scp-wiki.net/scp-2307)
 
-[Black Lotus](http://scp-wiki.net/black-lotus)
+[Document #087-III](http://scp-wiki.net/document-087-iii)

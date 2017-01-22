@@ -5,6 +5,6 @@ title: chaos-insurgency-hub
 ---
 You may also like:
 
-[SCP-348](http://scp-wiki.net/scp-348)
+[SCP-064: Flawed von Neumann Structure](http://scp-wiki.net/scp-064)
 
-[Shoulda' Stayed in Dubai](http://scp-wiki.net/shoulda-stayed-in-dubai)
+[The Longest Ride](http://scp-wiki.net/the-longest-ride)

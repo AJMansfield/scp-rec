@@ -5,6 +5,6 @@ title: happy-howlidays
 ---
 You may also like:
 
-[Orgy 5 Counsel 9: XXXK End of Virginity Scenario](http://scp-wiki.net/orgy-5-counsel-9)
+[SCP-1147: Adaptive Plum Tree](http://scp-wiki.net/scp-1147)
 
-[SCP-2547](http://scp-wiki.net/scp-2547)
+[The One Thousand Deaths of Pastor Lewis Robinson: The Ethics of Repeatedly Drowning Baptists](http://scp-wiki.net/the-one-thousand-deaths-of-pastor-lewis-robinson-the-ethics)

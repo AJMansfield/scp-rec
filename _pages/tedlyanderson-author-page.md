@@ -5,6 +5,6 @@ title: tedlyanderson-author-page
 ---
 You may also like:
 
-[The Stars Do Not Wait For You](http://scp-wiki.net/the-stars-do-not-wait-for-you)
+[SCP-314: Motion-Seeking Blade](http://scp-wiki.net/scp-314)
 
-[History Of The Universe: Part Four](http://scp-wiki.net/history-of-the-universe-part-four)
+[SCP-1530: A Bender's Friends](http://scp-wiki.net/scp-1530)

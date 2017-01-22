@@ -5,6 +5,6 @@ title: touchdown
 ---
 You may also like:
 
-[Where's The Shadow Government When You Need Them?](http://scp-wiki.net/it-s-a-bad-bad-world)
+[TwistedGears-Kaktus Proposal: The Broken God](http://scp-wiki.net/twistedgears-kaktus-proposal)
 
-[ORIA Hub](http://scp-wiki.net/oria-hub)
+[Wils' Personnel File](http://scp-wiki.net/wils-s-personnel-file)

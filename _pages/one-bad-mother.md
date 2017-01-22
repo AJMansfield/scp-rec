@@ -5,6 +5,6 @@ title: one-bad-mother
 ---
 You may also like:
 
-[SCP-1048](http://scp-wiki.net/scp-1048)
+[New Years Contest!](http://scp-wiki.net/new-years-contest)
 
-[SCP-552](http://scp-wiki.net/scp-552)
+[SCP-252: Humboldt Squid](http://scp-wiki.net/scp-252)

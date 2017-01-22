@@ -5,6 +5,6 @@ title: account-of-a-hiking-trip
 ---
 You may also like:
 
-[Addressing the Second](http://scp-wiki.net/addressing-the-second)
+[The Good Captain Pt. 3: The Cyclical Child](http://scp-wiki.net/the-cyclical-child)
 
-[SCP-1449](http://scp-wiki.net/scp-1449)
+[Dr. Zara's Personnel File](http://scp-wiki.net/dr-zara-s-personnel-file)

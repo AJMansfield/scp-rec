@@ -5,6 +5,6 @@ title: whatcha-doing
 ---
 You may also like:
 
-[It's Not Spelled Like That!](http://scp-wiki.net/it-s-not-spelled-like-that)
+[SCP-2374: Transporting Washing Machines](http://scp-wiki.net/scp-2374)
 
-[Matryoshka: Part Eight](http://scp-wiki.net/matryoshka-eight)
+[SCP-1494: Terminal Castaways](http://scp-wiki.net/scp-1494)

@@ -5,6 +5,6 @@ title: for-elise
 ---
 You may also like:
 
-[The Executions of Doctor Bright](http://scp-wiki.net/the-executions-of-doctor-bright)
+[SCP-2885: Window to Another You](http://scp-wiki.net/scp-2885)
 
-[Research Notes Of RJ Tellar](http://scp-wiki.net/research-notes-of-rj-tellar)
+[Self-Congratulation Page (Look, It's Even SCP)](http://scp-wiki.net/aiden-eldritch)

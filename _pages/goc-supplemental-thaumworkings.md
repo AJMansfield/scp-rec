@@ -5,6 +5,6 @@ title: goc-supplemental-thaumworkings
 ---
 You may also like:
 
-[Experiment Log 778](http://scp-wiki.net/experiment-log-778)
+[Dr. Zara's Personnel File](http://scp-wiki.net/dr-zara-s-personnel-file)
 
-[Nx-33](http://scp-wiki.net/nx-33)
+[SCP-2299: Cephalensis-9](http://scp-wiki.net/scp-2299)

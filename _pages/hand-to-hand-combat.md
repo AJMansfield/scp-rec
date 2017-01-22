@@ -5,6 +5,6 @@ title: hand-to-hand-combat
 ---
 You may also like:
 
-[SCP-2508](http://scp-wiki.net/scp-2508)
+[SCP-2006-J: Metamorphic Eldritch Entity](http://scp-wiki.net/scp-2006-j)
 
-[The Journal Of J S Junior Technician](http://scp-wiki.net/the-journal-of-j-s-junior-technician)
+[A Matter Of Faith](http://scp-wiki.net/a-matter-of-faith)

@@ -5,6 +5,6 @@ title: 5th-global-occult-coalition-donation
 ---
 You may also like:
 
-[SCP-2656](http://scp-wiki.net/scp-2656)
-
 [Learning Shit](http://scp-wiki.net/learning-shit)
+
+[Welcome Aboard](http://scp-wiki.net/welcome-aboard)

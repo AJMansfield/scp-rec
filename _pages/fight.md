@@ -5,6 +5,6 @@ title: fight
 ---
 You may also like:
 
-[SCP-2713](http://scp-wiki.net/scp-2713)
+[SCP-300: "A World in a Bottle"](http://scp-wiki.net/scp-300)
 
-[The Bold and the Dutiful (Part One)](http://scp-wiki.net/the-bold-and-the-dutiful-pt1)
+[SCP-2072: Prime Ministerial Pet Cemetery](http://scp-wiki.net/scp-2072)

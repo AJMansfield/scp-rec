@@ -5,6 +5,6 @@ title: constipation-so-bad-you-ll-need-a-shot-of-pitocin
 ---
 You may also like:
 
-[Hello World (Part III)](http://scp-wiki.net/hello-world-part-iii)
+[SCP-890: The Rocket Surgeon](http://scp-wiki.net/scp-890)
 
-[Individuality](http://scp-wiki.net/individuality)
+[SCP-2698: O Great One Communing Human via Computer](http://scp-wiki.net/scp-2698)

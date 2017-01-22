@@ -5,6 +5,6 @@ title: winding-down
 ---
 You may also like:
 
-[SCP-2347](http://scp-wiki.net/scp-2347)
+[Tales By Title](http://scp-wiki.net/tales-by-title)
 
-[SCP-2176](http://scp-wiki.net/scp-2176)
+[UIU File: 1948-019](http://scp-wiki.net/uiu-file-1948-019)

@@ -5,6 +5,6 @@ title: all-hallows
 ---
 You may also like:
 
-[SCP-138-ARC](http://scp-wiki.net/scp-138-arc)
+[Bloodletting](http://scp-wiki.net/bloodletting)
 
-[Fear Alone](http://scp-wiki.net/fear-alone)
+[SCP-067-EX: "Rurik Inn"](http://scp-wiki.net/scp-067-ex)

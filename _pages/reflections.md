@@ -5,6 +5,6 @@ title: reflections
 ---
 You may also like:
 
-[In a Yellow Wood](http://scp-wiki.net/in-a-yellow-wood)
+[SCP-900-J: Modern Major Keter-Class](http://scp-wiki.net/scp-900-j)
 
-[Ouroboric Tango](http://scp-wiki.net/cav-004)
+[SCP-1657: MAN EGG](http://scp-wiki.net/scp-1657)

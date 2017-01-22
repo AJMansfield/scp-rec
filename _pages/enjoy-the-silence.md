@@ -5,6 +5,6 @@ title: enjoy-the-silence
 ---
 You may also like:
 
-[SCP-173-J](http://scp-wiki.net/scp-173-j)
+[The Last Redcoat](http://scp-wiki.net/the-last-redcoat)
 
-[SCP-1545](http://scp-wiki.net/scp-1545)
+[SCP-2334: Every Possible Photograph](http://scp-wiki.net/scp-2334)

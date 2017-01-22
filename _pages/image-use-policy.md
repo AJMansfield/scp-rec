@@ -5,6 +5,6 @@ title: image-use-policy
 ---
 You may also like:
 
-[Strangers of Site-17: 105](http://scp-wiki.net/strangers-of-site-17)
+[Troy Lament and the Terror Ferrets of Darkling Lane](http://scp-wiki.net/troy-lament-and-the-terror-ferrets-of-darkling-lane)
 
-[ClusterfREDACTED](http://scp-wiki.net/clusterfredacted)
+[Light-Dependent Reactions](http://scp-wiki.net/light-dependent-reactions)

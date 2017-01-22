@@ -5,6 +5,6 @@ title: implanting-god
 ---
 You may also like:
 
-[SCP-184-J](http://scp-wiki.net/scp-184-j)
+[SCP-4357-J: Cooperative Demon](http://scp-wiki.net/scp-4357-j)
 
-[Solvin' Center of Problems](http://scp-wiki.net/solvin-center-of-problems)
+[Tasers & Thermite](http://scp-wiki.net/tasers-thermite)

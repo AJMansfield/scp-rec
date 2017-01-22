@@ -5,6 +5,6 @@ title: dark-arts-and-crafts
 ---
 You may also like:
 
-["Farpoint"](http://scp-wiki.net/goc-tale-sequence-farpoint)
+[SCP-1079: Dr Wondertainment's Bubblebath Bonbons](http://scp-wiki.net/scp-1079)
 
-[Between Shelves](http://scp-wiki.net/between-shelves)
+[Chapter Two: The Island Murder Mystery Show](http://scp-wiki.net/the-island-murder-mystery-show)

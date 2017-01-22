@@ -5,6 +5,6 @@ title: whatislove
 ---
 You may also like:
 
-[Nothing and Five and Five](http://scp-wiki.net/nothing-and-five-and-five)
+[SCP-654: Thunderhorn](http://scp-wiki.net/scp-654)
 
-[Strangers of Site-17: Hayakawa](http://scp-wiki.net/strangers-of-site-17-part-three)
+[Potty](http://scp-wiki.net/potty)

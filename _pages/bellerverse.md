@@ -5,6 +5,6 @@ title: bellerverse
 ---
 You may also like:
 
-[Multiscoop's Ice Cream Stand](http://scp-wiki.net/multiscoops-ice-cream-stand)
+[SCP-797: Curious Poltergeist](http://scp-wiki.net/scp-797)
 
-[SCP-1780](http://scp-wiki.net/scp-1780)
+[SCP-333: City in a Symphony](http://scp-wiki.net/scp-333)

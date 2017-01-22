@@ -5,6 +5,6 @@ title: wednesday-6
 ---
 You may also like:
 
-[SCP-2213](http://scp-wiki.net/scp-2213)
+[SCP-1881: Arcade Machine](http://scp-wiki.net/scp-1881)
 
-[Production Model Changes and Procedures](http://scp-wiki.net/production-model-changes-and-procedures)
+[I Remember My Heroes](http://scp-wiki.net/i-remember-my-heroes)

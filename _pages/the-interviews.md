@@ -5,6 +5,6 @@ title: the-interviews
 ---
 You may also like:
 
-[The Clock Shall Strike Again](http://scp-wiki.net/the-clock-shall-strike-again)
+[SCP-2695: Lucibelle Perhacs](http://scp-wiki.net/scp-2695)
 
-[SCP-1664](http://scp-wiki.net/scp-1664)
+[Zyn: kaiju butterfly ninja master](http://scp-wiki.net/zyn-kaiju-butterfly-ninja-master)

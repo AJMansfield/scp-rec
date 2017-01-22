@@ -5,6 +5,6 @@ title: a-suicide-note
 ---
 You may also like:
 
-[In a Yellow Wood](http://scp-wiki.net/in-a-yellow-wood)
+[Crayne's Workbench](http://scp-wiki.net/crayne-wb)
 
-[SCP-884: Original Collection](http://scp-wiki.net/scp-884-original-collection)
+[Paris Massacre](http://scp-wiki.net/paris-massacre)

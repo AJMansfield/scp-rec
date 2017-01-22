@@ -5,6 +5,6 @@ title: stealingsolidarityhub
 ---
 You may also like:
 
-[SCP-1297](http://scp-wiki.net/scp-1297)
+[SCP-2525: Extraterrestrial Broadcaster](http://scp-wiki.net/scp-2525)
 
-[SCP-2329](http://scp-wiki.net/scp-2329)
+[SCP-1610: Testing May Continue](http://scp-wiki.net/scp-1610)

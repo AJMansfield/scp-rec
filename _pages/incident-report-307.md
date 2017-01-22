@@ -5,6 +5,6 @@ title: incident-report-307
 ---
 You may also like:
 
-[Game Day, Phase 1: Secure](http://scp-wiki.net/gamedaypart1index)
+[SCP-522: Blood-draining Carpet](http://scp-wiki.net/scp-522)
 
-[SCP-1473](http://scp-wiki.net/scp-1473)
+[SCP-006: Fountain of Youth](http://scp-wiki.net/scp-006)

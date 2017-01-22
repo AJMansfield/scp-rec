@@ -5,6 +5,6 @@ title: labyrinths-end
 ---
 You may also like:
 
-[SCP-2506](http://scp-wiki.net/scp-2506)
+[SCP-206: The Voyager](http://scp-wiki.net/scp-206)
 
-[Conspiracy, Part III](http://scp-wiki.net/conspiracy-part-iii)
+[SCP-723-J: Sad Roach](http://scp-wiki.net/scp-723-j)

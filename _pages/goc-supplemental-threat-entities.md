@@ -5,6 +5,6 @@ title: goc-supplemental-threat-entities
 ---
 You may also like:
 
-[Innocence](http://scp-wiki.net/innocence)
+[SCP+MLP=DNC](http://scp-wiki.net/scp-mlp-dnc)
 
-[Badges And Scorecards](http://scp-wiki.net/badges-and-scorecards)
+[SCP-745: The Headlights](http://scp-wiki.net/scp-745)

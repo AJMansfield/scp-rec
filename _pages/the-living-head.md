@@ -5,6 +5,6 @@ title: the-living-head
 ---
 You may also like:
 
-[SCP-672](http://scp-wiki.net/scp-672)
+[SCP-025: A Well-Worn Wardrobe](http://scp-wiki.net/scp-025)
 
-[This is Only a Test](http://scp-wiki.net/this-is-only-a-test)
+[SCP-915: The Mechanotesseractic Computer](http://scp-wiki.net/scp-915)

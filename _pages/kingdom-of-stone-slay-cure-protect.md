@@ -5,6 +5,6 @@ title: kingdom-of-stone-slay-cure-protect
 ---
 You may also like:
 
-[The Cage](http://scp-wiki.net/the-cage)
+[SCP-000-J: "The Official SCP Sales Catalogue"](http://scp-wiki.net/scp-000-j)
 
-[SCP-2842](http://scp-wiki.net/scp-2842)
+[Iterations](http://scp-wiki.net/iterations)

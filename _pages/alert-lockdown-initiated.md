@@ -5,6 +5,6 @@ title: alert-lockdown-initiated
 ---
 You may also like:
 
-[Variations on a Schema](http://scp-wiki.net/variations-on-a-schema)
+[Library Lifeline](http://scp-wiki.net/library-lifeline)
 
-[Eulogies](http://scp-wiki.net/eulogies)
+[SCP-2983: Capel Celyn](http://scp-wiki.net/scp-2983)

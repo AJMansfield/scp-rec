@@ -5,6 +5,6 @@ title: deus-vult
 ---
 You may also like:
 
-[When One Reaches the End](http://scp-wiki.net/when-one-reaches-the-end)
+[Broker-Bailer-Grifter-THIEF](http://scp-wiki.net/broker-bailer-grifter-thief)
 
-[John James](http://scp-wiki.net/john-james)
+[SCP-1202: Lost Voice](http://scp-wiki.net/scp-1202)

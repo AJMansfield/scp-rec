@@ -5,6 +5,6 @@ title: down-the-silver-river
 ---
 You may also like:
 
-[The Farm](http://scp-wiki.net/the-farm)
+[SCP-916: Man's Best Friend](http://scp-wiki.net/scp-916)
 
-[SCP-2496](http://scp-wiki.net/scp-2496)
+[The High Court With The Magic Army](http://scp-wiki.net/the-high-court-with-the-magic-army)

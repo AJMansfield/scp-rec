@@ -5,6 +5,6 @@ title: agent-alexander-azzleflux-fredricks-s-personnel-file
 ---
 You may also like:
 
-[SCP-808-J](http://scp-wiki.net/scp-808-j)
+[SCP-876: Element-Switching Pills](http://scp-wiki.net/scp-876)
 
-[CONTAIN](http://scp-wiki.net/contain)
+[SCP-2341: Welcome Home](http://scp-wiki.net/scp-2341)

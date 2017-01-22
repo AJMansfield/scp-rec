@@ -5,6 +5,6 @@ title: recovered-document-4761-cotbg-82
 ---
 You may also like:
 
-[Excerpts From The Medical Tragedy of Dr. Bartholomew Artz, Author Unknown](http://scp-wiki.net/excerpts-from-the-medical-tragedy-of-dr-bartholomew-artz-aut)
+[SCP-923: A Useful Tool](http://scp-wiki.net/scp-923)
 
-[SCP-1118](http://scp-wiki.net/scp-1118)
+[SCP-2682: The Blind Idiot](http://scp-wiki.net/scp-2682)

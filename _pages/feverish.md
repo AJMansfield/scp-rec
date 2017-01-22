@@ -5,6 +5,6 @@ title: feverish
 ---
 You may also like:
 
-[Sweetness](http://scp-wiki.net/sweetness)
+[We've Got A Runner](http://scp-wiki.net/we-ve-got-a-runner)
 
-[December 24th, 2011 Hub](http://scp-wiki.net/december-24th-2011-hub)
+[Experiment Log 137](http://scp-wiki.net/experiment-log-137)

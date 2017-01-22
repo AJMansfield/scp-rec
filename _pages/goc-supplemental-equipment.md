@@ -5,6 +5,6 @@ title: goc-supplemental-equipment
 ---
 You may also like:
 
-[SCP-711-EX](http://scp-wiki.net/scp-711-ex)
+[History Of The Universe: Part Four](http://scp-wiki.net/history-of-the-universe-part-four)
 
-[Surprise! Happy Birthday!](http://scp-wiki.net/surprise-happy-birthday)
+[SCP-2439: [SLOT UNALLOCATED]](http://scp-wiki.net/scp-2439)

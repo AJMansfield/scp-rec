@@ -5,6 +5,6 @@ title: empire-of-dirt-part-2
 ---
 You may also like:
 
-[The Tick Tock Gospel](http://scp-wiki.net/the-tick-tock-gospel)
+[SCP-1475: 100% Brainpower](http://scp-wiki.net/scp-1475)
 
-[The Settling Ash](http://scp-wiki.net/the-settling-ash)
+[SCP-1213: Orphaned Catapult](http://scp-wiki.net/scp-1213)

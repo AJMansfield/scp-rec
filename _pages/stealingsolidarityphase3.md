@@ -5,6 +5,6 @@ title: stealingsolidarityphase3
 ---
 You may also like:
 
-[SCP-1778](http://scp-wiki.net/scp-1778)
+[Rain Leaking Through A Vendor's Roof](http://scp-wiki.net/the-rain-spills-to-a-torrent-can-you-hear-it)
 
-[SCP-1371](http://scp-wiki.net/scp-1371)
+[When We Came Home](http://scp-wiki.net/when-we-came-home)

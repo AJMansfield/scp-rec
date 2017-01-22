@@ -5,6 +5,6 @@ title: bigfoot-s-eulogy
 ---
 You may also like:
 
-[thinking/knowing/living](http://scp-wiki.net/thinking-knowing-living)
+[Laughter](http://scp-wiki.net/laughter)
 
-[SCP-1719](http://scp-wiki.net/scp-1719)
+[SCP-022-J: Memetic Metal](http://scp-wiki.net/scp-022-j)

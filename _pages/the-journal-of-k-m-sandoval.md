@@ -5,6 +5,6 @@ title: the-journal-of-k-m-sandoval
 ---
 You may also like:
 
-[SCP-2372](http://scp-wiki.net/scp-2372)
+[Reality Check](http://scp-wiki.net/reality-check)
 
-[SCP-2343](http://scp-wiki.net/scp-2343)
+[Excerpts from PHYSICS Division Threat Entity Database](http://scp-wiki.net/goc-supplemental-threat-entities)

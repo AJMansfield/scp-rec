@@ -5,6 +5,6 @@ title: mud-on-the-carpet
 ---
 You may also like:
 
-[Nor Gloom Of Night Shall Stay](http://scp-wiki.net/nor-gloom-of-night-shall-stay)
+[2015 Community Survey Results](http://scp-wiki.net/2015-survey-results)
 
-[Queen's Gambit](http://scp-wiki.net/queen-s-gambit)
+[The Hydra's Spine](http://scp-wiki.net/the-hydra-s-spine)

@@ -5,6 +5,6 @@ title: letters-to-a-prophet
 ---
 You may also like:
 
-[Siren's Song](http://scp-wiki.net/could-find-my-way-to-mariana)
+[Fantem's POI File](http://scp-wiki.net/fantem-s-poi-file)
 
-[Don't Call Us, We'll Find You](http://scp-wiki.net/don-t-call-us-we-ll-find-you)
+[SCP-1478: Inconveniently Stereotypical Cacti](http://scp-wiki.net/scp-1478)

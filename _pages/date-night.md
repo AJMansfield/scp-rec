@@ -5,6 +5,6 @@ title: date-night
 ---
 You may also like:
 
-[Old Kansas Sector ~ 7: The Stairwell](http://scp-wiki.net/old-kansas-sector-part-7)
+[History Of The Universe: Part Five](http://scp-wiki.net/history-of-the-universe-part-five)
 
-[Bluesoul's Author Page](http://scp-wiki.net/bluesoul-s-author-page)
+[SCP-2483: Sad Swingset](http://scp-wiki.net/scp-2483)

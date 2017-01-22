@@ -5,6 +5,6 @@ title: pila
 ---
 You may also like:
 
-[SPC-1764](http://scp-wiki.net/scp-1764)
+[SCP-2527: Massy's Big Chance](http://scp-wiki.net/scp-2527)
 
-[Retrieval log db/503-b](http://scp-wiki.net/retrieval-log-db-503-b)
+[SCP-1152: A Common Raccoon](http://scp-wiki.net/scp-1152)

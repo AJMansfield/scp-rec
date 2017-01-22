@@ -5,6 +5,6 @@ title: the-price-we-pay
 ---
 You may also like:
 
-[Eta-5 and the Terrible, Horrible, No Good, Very Bad Origamizilla](http://scp-wiki.net/eta-5-and-the-terrible-horrible-no-good-very-bad-oragamizill)
+[SCP-2385: Somewhere In The Between](http://scp-wiki.net/scp-2385)
 
-[Serpent's Hand Hub](http://scp-wiki.net/serpent-s-hand-hub)
+[djkaktus' Workbench](http://scp-wiki.net/djkaktus-workbench)

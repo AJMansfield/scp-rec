@@ -5,6 +5,6 @@ title: can-t-catch-a-break
 ---
 You may also like:
 
-[SCP-1703](http://scp-wiki.net/scp-1703)
+[Djoric's Author Page](http://scp-wiki.net/djoric-s-author-page)
 
-[Exploration Log 1689-I](http://scp-wiki.net/exploration-log-1689-i)
+[Treats](http://scp-wiki.net/treats)

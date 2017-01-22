@@ -5,6 +5,6 @@ title: my-hell
 ---
 You may also like:
 
-[In all Honesty,](http://scp-wiki.net/in-all-honesty)
+[December 24th, 2011 Hub](http://scp-wiki.net/december-24th-2011-hub)
 
-[What Is Wrong With You](http://scp-wiki.net/what-is-wrong-with-you)
+[Conspiracy](http://scp-wiki.net/conspiracy)

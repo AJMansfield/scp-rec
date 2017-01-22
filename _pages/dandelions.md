@@ -5,6 +5,6 @@ title: dandelions
 ---
 You may also like:
 
-[Incursion](http://scp-wiki.net/incursion)
+[Week 2: Only Sane Man](http://scp-wiki.net/week-2-only-sane-man)
 
-[Recurrence](http://scp-wiki.net/recurrence)
+["Vigil"](http://scp-wiki.net/goc-tale-sequence-vigil)

@@ -5,6 +5,6 @@ title: the-surfside-beat
 ---
 You may also like:
 
-[Cavalcade (Hub)](http://scp-wiki.net/cavalcade-hub)
+[SCP-755: "Watch for the white bird"](http://scp-wiki.net/scp-755)
 
-[Serpent's Hand Hub](http://scp-wiki.net/serpent-s-hand-hub)
+[Toby's Personnel File](http://scp-wiki.net/toby-s-personnel-file)

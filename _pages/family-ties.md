@@ -5,6 +5,6 @@ title: family-ties
 ---
 You may also like:
 
-[SCP-2601](http://scp-wiki.net/scp-2601)
+[SCP-2130: Office Furniture](http://scp-wiki.net/scp-2130)
 
-[SCP-2136](http://scp-wiki.net/scp-2136)
+[Prometheans](http://scp-wiki.net/prometheans)

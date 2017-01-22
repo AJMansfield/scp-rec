@@ -5,6 +5,6 @@ title: it-might-have-been
 ---
 You may also like:
 
-[New Frontiers](http://scp-wiki.net/new-frontiers)
+[SCP-1019: Anartist's Folly](http://scp-wiki.net/scp-1019)
 
-[SCP-431](http://scp-wiki.net/scp-431)
+[SCP-2535: Printers that Eat, and Eaters that Print](http://scp-wiki.net/scp-2535)

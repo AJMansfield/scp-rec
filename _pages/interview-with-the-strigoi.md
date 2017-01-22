@@ -5,6 +5,6 @@ title: interview-with-the-strigoi
 ---
 You may also like:
 
-[SCP-2842](http://scp-wiki.net/scp-2842)
+[SCP-1957: Cleanliness](http://scp-wiki.net/scp-1957)
 
-[Guard Duty](http://scp-wiki.net/guard-duty)
+[The Price We Pay](http://scp-wiki.net/the-price-we-pay)

@@ -5,6 +5,6 @@ title: scp-543-j
 ---
 You may also like:
 
-[SCP-1939](http://scp-wiki.net/scp-1939)
+[SCP-589: The Price of Obsession](http://scp-wiki.net/scp-589)
 
-[SCP-382](http://scp-wiki.net/scp-382)
+[SCP-2394: Solitude](http://scp-wiki.net/scp-2394)

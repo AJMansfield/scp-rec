@@ -5,6 +5,6 @@ title: cells
 ---
 You may also like:
 
-[SCP-483](http://scp-wiki.net/scp-483)
+[Personnel Director Bright's Personnel File](http://scp-wiki.net/dr-bright-s-personnel-file)
 
-[Nx-58](http://scp-wiki.net/nx-58)
+[SCP-2896: To Sleep, Perchance to Dream (of Freedom)](http://scp-wiki.net/scp-2896)

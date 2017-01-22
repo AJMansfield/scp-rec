@@ -5,6 +5,6 @@ title: the-keterlord
 ---
 You may also like:
 
-[Basic Observations](http://scp-wiki.net/basic-observations)
+[SCP-2383: A Different Kind of Light](http://scp-wiki.net/scp-2383)
 
-[AIAD Homescreen](http://scp-wiki.net/aiad-homescreen)
+[SCP-2965: A Pony Express](http://scp-wiki.net/scp-2965)

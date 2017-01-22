@@ -5,6 +5,6 @@ title: dr-manns-personnel-file
 ---
 You may also like:
 
-[RUN AWAY FOREVURRR](http://scp-wiki.net/run-away-forevurrr)
+[Old Kansas Sector ~ 2: Tabloid](http://scp-wiki.net/old-kansas-sector-part-2)
 
-[SCP-481](http://scp-wiki.net/scp-481)
+[Activity Documentation File 11-A](http://scp-wiki.net/activity-documentation-file-11-a)

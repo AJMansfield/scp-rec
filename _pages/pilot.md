@@ -5,6 +5,6 @@ title: pilot
 ---
 You may also like:
 
-[SCP-068](http://scp-wiki.net/scp-068)
+[Surgery](http://scp-wiki.net/surgery)
 
-[From Vagrants, to Gentlemen](http://scp-wiki.net/from-vagrants-to-gentlemen)
+[SCP-1535: Purgatory](http://scp-wiki.net/scp-1535)

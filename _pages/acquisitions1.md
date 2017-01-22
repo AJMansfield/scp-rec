@@ -5,6 +5,6 @@ title: acquisitions1
 ---
 You may also like:
 
-[Dr. Tilda David Moose's Personnel File](http://scp-wiki.net/the-deadly-moose-personnel-file)
+[Teeth, Dearie](http://scp-wiki.net/teeth-dearie)
 
-[Love Hate](http://scp-wiki.net/love-hate)
+[SCP-1087: White Tarsier](http://scp-wiki.net/scp-1087)

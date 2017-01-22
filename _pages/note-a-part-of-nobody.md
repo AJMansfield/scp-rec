@@ -5,6 +5,6 @@ title: note-a-part-of-nobody
 ---
 You may also like:
 
-[S Andrew Swann's Proposal](http://scp-wiki.net/sandrewswann-s-proposal)
+[SCP-1998: Concentration Enhancer, Standard](http://scp-wiki.net/scp-1998)
 
-[What I'm Here For](http://scp-wiki.net/what-i-m-here-for)
+[SCP-1041: Multiple Pasts Disorder](http://scp-wiki.net/scp-1041)

@@ -5,6 +5,6 @@ title: contact
 ---
 You may also like:
 
-[SCP-1907](http://scp-wiki.net/scp-1907)
+[SCP Foundation: The Movie](http://scp-wiki.net/scp-foundation-the-movie)
 
-[SCP-164-J](http://scp-wiki.net/scp-164-j)
+[SCP-2249: The Failed Dreamland](http://scp-wiki.net/scp-2249)

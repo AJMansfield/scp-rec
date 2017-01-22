@@ -5,6 +5,6 @@ title: the-wolves-at-the-door
 ---
 You may also like:
 
-[Spark of Creation](http://scp-wiki.net/spark-of-creation)
+[SCP-1191: Criminal Past](http://scp-wiki.net/scp-1191)
 
-[The Analog Kid](http://scp-wiki.net/the-analog-kid)
+[Enkidu](http://scp-wiki.net/enkidu)

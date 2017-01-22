@@ -5,6 +5,6 @@ title: at-the-library
 ---
 You may also like:
 
-[SCP-1661](http://scp-wiki.net/scp-1661)
+[SCP-1825: The Wrecking Pinball](http://scp-wiki.net/scp-1825)
 
-[SCP-2231](http://scp-wiki.net/scp-2231)
+[SCP-2468: Wounded Child](http://scp-wiki.net/scp-2468)

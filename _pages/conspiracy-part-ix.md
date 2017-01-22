@@ -5,6 +5,6 @@ title: conspiracy-part-ix
 ---
 You may also like:
 
-[Conspiracy, Part X](http://scp-wiki.net/conspiracy-part-x)
+[SCP-1499: The Gas Mask](http://scp-wiki.net/scp-1499)
 
-[Conspiracy, Part XII](http://scp-wiki.net/conspiracy-part-xii)
+[Compromised](http://scp-wiki.net/compromised)

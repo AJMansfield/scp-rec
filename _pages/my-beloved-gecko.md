@@ -5,6 +5,6 @@ title: my-beloved-gecko
 ---
 You may also like:
 
-[SCP-2054](http://scp-wiki.net/scp-2054)
+[Lullaby](http://scp-wiki.net/lullaby)
 
-[SCP-2440](http://scp-wiki.net/scp-2440)
+[SCP-2246: You Set the Scene](http://scp-wiki.net/scp-2246)

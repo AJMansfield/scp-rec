@@ -5,6 +5,6 @@ title: memorandum-10-31
 ---
 You may also like:
 
-[SCP-353](http://scp-wiki.net/scp-353)
+[SCP-397: A Hominidae](http://scp-wiki.net/scp-397)
 
-[SCP-177](http://scp-wiki.net/scp-177)
+[SCP-613: "Wonder Bread!"](http://scp-wiki.net/scp-613)

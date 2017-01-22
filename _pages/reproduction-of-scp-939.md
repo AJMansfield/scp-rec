@@ -5,6 +5,6 @@ title: reproduction-of-scp-939
 ---
 You may also like:
 
-[Ecce Perago](http://scp-wiki.net/ecceperago)
+[SCP-1367: Party Balloon](http://scp-wiki.net/scp-1367)
 
-[Roget's Proposal](http://scp-wiki.net/roget-s-proposal)
+[On the Other Side of the Coin](http://scp-wiki.net/on-the-other-side-of-the-coin)

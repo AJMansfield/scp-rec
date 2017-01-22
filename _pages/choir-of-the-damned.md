@@ -5,6 +5,6 @@ title: choir-of-the-damned
 ---
 You may also like:
 
-[SCP-725](http://scp-wiki.net/scp-725)
+[SCP-2229: Legate of Ursa Major to the Senate and People of Rome](http://scp-wiki.net/scp-2229)
 
-[The First Fifty-Five](http://scp-wiki.net/first55)
+[SCP-2943: In Case Of Emergency, Break Glass](http://scp-wiki.net/scp-2943)

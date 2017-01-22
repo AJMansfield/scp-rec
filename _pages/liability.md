@@ -5,6 +5,6 @@ title: liability
 ---
 You may also like:
 
-[SCP-2132](http://scp-wiki.net/scp-2132)
+[SCP-1735: Kind of Impenetrable Barrier](http://scp-wiki.net/scp-1735)
 
-[No One Else Will Protect Us](http://scp-wiki.net/no-one-else-will-protect-us)
+[Agent Dossier: Zacharia H](http://scp-wiki.net/zacharia-h-author-page)

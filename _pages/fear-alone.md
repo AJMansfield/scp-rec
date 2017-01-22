@@ -5,6 +5,6 @@ title: fear-alone
 ---
 You may also like:
 
-[In His Own Image: Interlude 3](http://scp-wiki.net/in-his-own-image-interlude-3)
+[SCP-2933: Mr. Scary](http://scp-wiki.net/scp-2933)
 
-[Delia](http://scp-wiki.net/delia)
+[SCP-1872: Vehicular Lazer Pointer](http://scp-wiki.net/scp-1872)

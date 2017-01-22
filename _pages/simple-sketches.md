@@ -5,6 +5,6 @@ title: simple-sketches
 ---
 You may also like:
 
-[Building Up](http://scp-wiki.net/building-up)
+[The Warrior And The Dragon](http://scp-wiki.net/the-warrior-and-the-dragon)
 
-[SCP-1144](http://scp-wiki.net/scp-1144)
+[Building Up](http://scp-wiki.net/building-up)

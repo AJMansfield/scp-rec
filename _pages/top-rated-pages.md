@@ -5,6 +5,6 @@ title: top-rated-pages
 ---
 You may also like:
 
-[The Last Good Man in the Foundation](http://scp-wiki.net/the-last-good-man-in-the-foundation)
+[Dr. Severe's Personnel File](http://scp-wiki.net/dr-severe-s-personnel-file)
 
-[SCP-349](http://scp-wiki.net/scp-349)
+[SCP-1886: The More The Merrier](http://scp-wiki.net/scp-1886)

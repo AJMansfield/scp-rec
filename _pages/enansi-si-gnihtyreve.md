@@ -5,6 +5,6 @@ title: enansi-si-gnihtyreve
 ---
 You may also like:
 
-[SCP-2297](http://scp-wiki.net/scp-2297)
+[The Rain](http://scp-wiki.net/the-rain)
 
-[Playing God](http://scp-wiki.net/playing-god)
+[Climber](http://scp-wiki.net/climber)

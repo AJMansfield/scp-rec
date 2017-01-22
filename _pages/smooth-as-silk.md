@@ -5,6 +5,6 @@ title: smooth-as-silk
 ---
 You may also like:
 
-[Incident Report KAF-09](http://scp-wiki.net/incident-report-kaf-09)
+[SCP-2932: Titania's Prison](http://scp-wiki.net/scp-2932)
 
-[SCP-684](http://scp-wiki.net/scp-684)
+[Prelude: First Bell](http://scp-wiki.net/days-gone-by)

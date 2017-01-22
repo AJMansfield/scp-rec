@@ -5,6 +5,6 @@ title: tempting-fate
 ---
 You may also like:
 
-[SCP-2800](http://scp-wiki.net/scp-2800)
+[Games Reality Benders Play](http://scp-wiki.net/games-reality-benders-play)
 
-[SCP-2013](http://scp-wiki.net/scp-2013)
+[SCP-069-J: "Sisters of Cheyenne Point"](http://scp-wiki.net/scp-069-j)

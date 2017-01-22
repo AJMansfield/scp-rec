@@ -5,6 +5,6 @@ title: project-proposal-1964-238
 ---
 You may also like:
 
-[SCP-4263-J](http://scp-wiki.net/scp-4263-j)
+[SCP "Choose Your Own Adventure" Game Project](http://scp-wiki.net/scp-game-project)
 
-[SCP-1015](http://scp-wiki.net/scp-1015)
+[Video Log 1743-26](http://scp-wiki.net/video-log-1743-26)

@@ -5,6 +5,6 @@ title: the-worm
 ---
 You may also like:
 
-[Happy Free Market Log 17643390](http://scp-wiki.net/happy-free-market-log-17643390)
+[Facts Concerning Team 15 of Chapterhouse 4 and the Black Book](http://scp-wiki.net/lovecraft-parody-title)
 
-[Clippings](http://scp-wiki.net/clippings)
+[Official Anti-Harassment Policy](http://scp-wiki.net/harassment-policy)

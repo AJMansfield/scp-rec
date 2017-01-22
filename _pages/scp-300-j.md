@@ -5,6 +5,6 @@ title: scp-300-j
 ---
 You may also like:
 
-[SCP-2978](http://scp-wiki.net/scp-2978)
+[SCP-2036: Fire Rabbits](http://scp-wiki.net/scp-2036)
 
-[SCP-2615](http://scp-wiki.net/scp-2615)
+[The Keysmith's Bootstrap](http://scp-wiki.net/the-keysmith-s-bootstrap)

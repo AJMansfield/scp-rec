@@ -5,6 +5,6 @@ title: hello-world-part-iii
 ---
 You may also like:
 
-[Constipation So Bad, You'll Need a Shot of Pitocin](http://scp-wiki.net/constipation-so-bad-you-ll-need-a-shot-of-pitocin)
+[Founding](http://scp-wiki.net/founding)
 
-[SCP-2227](http://scp-wiki.net/scp-2227)
+[SCP-1202: Lost Voice](http://scp-wiki.net/scp-1202)

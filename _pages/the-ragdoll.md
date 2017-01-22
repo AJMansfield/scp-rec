@@ -5,6 +5,6 @@ title: the-ragdoll
 ---
 You may also like:
 
-[Don Ferreiro's Lie-Katana](http://scp-wiki.net/don-ferreiros-lie-katana)
+[SCP-768: Long-Range Alarm Clock](http://scp-wiki.net/scp-768)
 
-[Love In Leetspeak](http://scp-wiki.net/love-in-leetspeak)
+[SCP-837-ARC: Weather Bug](http://scp-wiki.net/scp-837-arc)

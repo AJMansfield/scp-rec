@@ -5,6 +5,6 @@ title: most-recently-created
 ---
 You may also like:
 
-[Interview-214](http://scp-wiki.net/interview-214)
+[SCP-053: Young Girl](http://scp-wiki.net/scp-053)
 
-[Disseminated Documentation 1985-Alpha](http://scp-wiki.net/disseminated-documentation-1985-alpha)
+[SCP-2212: [MASSIVE DATABASE CORRUPTION]](http://scp-wiki.net/scp-2212)

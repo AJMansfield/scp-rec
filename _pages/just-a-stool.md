@@ -5,6 +5,6 @@ title: just-a-stool
 ---
 You may also like:
 
-[SCP-2203](http://scp-wiki.net/scp-2203)
+[The Urge that Betrays](http://scp-wiki.net/the-urge-that-betrays)
 
-[SCP-2918](http://scp-wiki.net/scp-2918)
+[Meeting Of The Minds](http://scp-wiki.net/meeting-of-the-minds)

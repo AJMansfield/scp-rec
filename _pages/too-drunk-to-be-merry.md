@@ -5,6 +5,6 @@ title: too-drunk-to-be-merry
 ---
 You may also like:
 
-[Matryoshka: Part Four](http://scp-wiki.net/matryoshka-four)
+[An FAQ; Or, What The Hell Is A Hume?](http://scp-wiki.net/and-this-one-explains-humes)
 
-[SCP-2496](http://scp-wiki.net/scp-2496)
+[Conspiracy, Part VII](http://scp-wiki.net/conspiracy-part-vii)

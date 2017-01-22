@@ -5,6 +5,6 @@ title: gdp2-basking-in-the-light
 ---
 You may also like:
 
-[Cygnus](http://scp-wiki.net/cygnus)
+[GRANT REQUEST FOR THE CONSTRUCTION OF AN INTERSTELLAR SCIENCE VESSEL](http://scp-wiki.net/grant-request-for-the-construction-of-an-interstellar-scienc)
 
-[Relationskips](http://scp-wiki.net/relationskips)
+["UHEC"](http://scp-wiki.net/goc-tale-sequence-uhec)

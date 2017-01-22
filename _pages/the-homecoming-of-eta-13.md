@@ -5,6 +5,6 @@ title: the-homecoming-of-eta-13
 ---
 You may also like:
 
-[Those Who Lived On](http://scp-wiki.net/those-who-lived-on-hub)
+[The Rain](http://scp-wiki.net/the-rain)
 
-[SCP-1608](http://scp-wiki.net/scp-1608)
+[Boxes](http://scp-wiki.net/boxes)

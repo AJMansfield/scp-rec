@@ -5,6 +5,6 @@ title: another-boring-day
 ---
 You may also like:
 
-[SCP-458](http://scp-wiki.net/scp-458)
+[Serpent's Hand Hub](http://scp-wiki.net/serpent-s-hand-hub)
 
-[SCP-167](http://scp-wiki.net/scp-167)
+[SCP-1786: A Rowboat](http://scp-wiki.net/scp-1786)

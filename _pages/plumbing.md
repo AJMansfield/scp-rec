@@ -5,6 +5,6 @@ title: plumbing
 ---
 You may also like:
 
-[SCP-902](http://scp-wiki.net/scp-902)
+[SCP-1326: The Lexicon](http://scp-wiki.net/scp-1326)
 
-[Containing Creation](http://scp-wiki.net/containingcreation)
+[SCP-2563: Bones of Contention](http://scp-wiki.net/scp-2563)

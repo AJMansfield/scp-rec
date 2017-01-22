@@ -5,6 +5,6 @@ title: the-root-of-knowledge
 ---
 You may also like:
 
-[RE:](http://scp-wiki.net/this-memorandum-does-not-exist)
+[SCP-2005: Predicting the Past](http://scp-wiki.net/scp-2005)
 
-[SCP-2584](http://scp-wiki.net/scp-2584)
+[SCP-1674: Camera Obscura](http://scp-wiki.net/scp-1674)

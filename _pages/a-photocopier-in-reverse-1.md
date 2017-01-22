@@ -5,6 +5,6 @@ title: a-photocopier-in-reverse-1
 ---
 You may also like:
 
-[SCP-599](http://scp-wiki.net/scp-599)
+[SCP-268: Cap of Neglect](http://scp-wiki.net/scp-268)
 
-[SCP-2928](http://scp-wiki.net/scp-2928)
+[Personal Log Of Dr Gears](http://scp-wiki.net/personal-log-of-dr-gears)

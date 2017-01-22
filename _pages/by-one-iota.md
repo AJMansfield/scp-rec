@@ -5,6 +5,6 @@ title: by-one-iota
 ---
 You may also like:
 
-[SCP-316](http://scp-wiki.net/scp-316)
+[For Want of a Nail...](http://scp-wiki.net/for-want-of-a-nail)
 
-[SCP-1283](http://scp-wiki.net/scp-1283)
+[Talks With the Family](http://scp-wiki.net/talks-with-the-family)

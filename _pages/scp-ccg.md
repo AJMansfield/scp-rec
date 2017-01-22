@@ -5,6 +5,6 @@ title: scp-ccg
 ---
 You may also like:
 
-[SCP-1393](http://scp-wiki.net/scp-1393)
+[SCP-118-J: The Saltiest Doctor Alive](http://scp-wiki.net/scp-118-j)
 
-[Interlude: An Internal Memo Regarding a Theft](http://scp-wiki.net/internal-memo-regarding-a-theft)
+[The Clock Shall Strike Again](http://scp-wiki.net/the-clock-shall-strike-again)

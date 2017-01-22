@@ -5,6 +5,6 @@ title: goi-contest-2014
 ---
 You may also like:
 
-[SCP-2004](http://scp-wiki.net/scp-2004)
+[Pretty Magic Gaiden Mecha Tokyo-Mon Demon Ninja Sailor Clef](http://scp-wiki.net/pretty-magic-gaiden-mecha-tokyo-mon-demon-ninja-sailor-clef)
 
-[Djoric-Dmatix Proposal](http://scp-wiki.net/djoric-dmatix-proposal)
+[SCP Series 2](http://scp-wiki.net/scp-series-2)

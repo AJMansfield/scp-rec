@@ -5,6 +5,6 @@ title: kate-mctiriss-s-personnel-file
 ---
 You may also like:
 
-[Researcher Conwell's Personnel File](http://scp-wiki.net/researcher-conwell-s-personnel-file)
+[Audio/Telemetry Log Epsilon-12-1555](http://scp-wiki.net/transcript-epsilon-12-1555)
 
-[Three Short Scenes About Death](http://scp-wiki.net/three-short-scenes-about-death)
+[The Lonely Road](http://scp-wiki.net/the-lonely-road)

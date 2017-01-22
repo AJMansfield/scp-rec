@@ -5,6 +5,6 @@ title: corner-pocket
 ---
 You may also like:
 
-[Fortunate Son](http://scp-wiki.net/fortunate-son)
+[SCP-1425: Star Signals](http://scp-wiki.net/scp-1425)
 
-[SCP-2807](http://scp-wiki.net/scp-2807)
+[We Have Dismissed That Claim](http://scp-wiki.net/we-have-dismissed-that-claim)

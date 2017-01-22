@@ -5,6 +5,6 @@ title: stick-the-landing
 ---
 You may also like:
 
-[Labyrinth's End](http://scp-wiki.net/labyrinths-end)
+[SCP-1102: The Blue Ridge Phenomenon](http://scp-wiki.net/scp-1102)
 
-[Planetfall](http://scp-wiki.net/planetfall)
+[SCP-2717: Fatberg](http://scp-wiki.net/scp-2717)

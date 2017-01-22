@@ -5,6 +5,6 @@ title: experiment-log-191
 ---
 You may also like:
 
-[Matryoshka: Part Seven](http://scp-wiki.net/matryoshka-seven)
+[Skippy](http://scp-wiki.net/skippy)
 
-[Experiment Logs 2105](http://scp-wiki.net/experiment-logs-2105)
+[SCP-2542: Grinds Exceeding Small](http://scp-wiki.net/scp-2542)

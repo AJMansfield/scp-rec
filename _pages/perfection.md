@@ -5,6 +5,6 @@ title: perfection
 ---
 You may also like:
 
-[Personal Log of Agent AA](http://scp-wiki.net/log-of-agent-aa)
+[SCP-406: Sleepwalker's Tunnel](http://scp-wiki.net/scp-406)
 
-[Olympia Integration Experiment-OMEGA](http://scp-wiki.net/olympia-integration-experiment-omega)
+[SCP-089-ARC: "The Littlest Browbeater"](http://scp-wiki.net/scp-089-arc)

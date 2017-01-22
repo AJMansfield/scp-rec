@@ -5,6 +5,6 @@ title: blue-team
 ---
 You may also like:
 
-[SCP-2339](http://scp-wiki.net/scp-2339)
+[Bell Weather](http://scp-wiki.net/bell-weather)
 
-[A Fitting End](http://scp-wiki.net/a-fitting-end)
+[SCP-1458: The Tired Mother](http://scp-wiki.net/scp-1458)

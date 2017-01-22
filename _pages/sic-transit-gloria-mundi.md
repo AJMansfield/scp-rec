@@ -5,6 +5,6 @@ title: sic-transit-gloria-mundi
 ---
 You may also like:
 
-[Sparks Of Creativity](http://scp-wiki.net/sparks-of-creativity)
+[SCP-899: Lost Children](http://scp-wiki.net/scp-899)
 
-[Jot It Down](http://scp-wiki.net/jot-it-down)
+[Wednesday - 4](http://scp-wiki.net/wednesday-4)

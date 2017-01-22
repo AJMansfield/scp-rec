@@ -5,6 +5,6 @@ title: lonely
 ---
 You may also like:
 
-[Olympia Integration Experiment GAMMA](http://scp-wiki.net/olympia-integration-experiment-gamma)
+[S. Andrew Swann's Member Page](http://scp-wiki.net/sandrewswann-member-page)
 
-[SCP-2855](http://scp-wiki.net/scp-2855)
+[SCP-1256: Bees Are Smarter Than You Think](http://scp-wiki.net/scp-1256)

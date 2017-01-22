@@ -5,6 +5,6 @@ title: dr-ikari-i-presume
 ---
 You may also like:
 
-[SCP-1664](http://scp-wiki.net/scp-1664)
+[SCP-488: Meteor Attractor](http://scp-wiki.net/scp-488)
 
-[Reversed Engineering](http://scp-wiki.net/reversed-engineering)
+[One Last Punch For The Road](http://scp-wiki.net/one-last-punch-for-the-road)

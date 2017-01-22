@@ -5,6 +5,6 @@ title: folly
 ---
 You may also like:
 
-[maybe god will forgive you if we both beg](http://scp-wiki.net/i-thought-you-would-come-back-if-i-made-it-well)
+[SCP-2340: Homesick Hills](http://scp-wiki.net/scp-2340)
 
-[Introductory Antimemetics](http://scp-wiki.net/introductory-antimemetics)
+[SCP-885: Living Vacuum](http://scp-wiki.net/scp-885)

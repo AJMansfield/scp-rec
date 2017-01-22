@@ -5,6 +5,6 @@ title: a-day-in-the-life
 ---
 You may also like:
 
-[SCP-2630](http://scp-wiki.net/scp-2630)
+[SCP-747: Children and Dolls](http://scp-wiki.net/scp-747)
 
-[Talks With the Family](http://scp-wiki.net/talks-with-the-family)
+[SCP-2094: Motormouth](http://scp-wiki.net/scp-2094)

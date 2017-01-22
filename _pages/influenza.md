@@ -5,6 +5,6 @@ title: influenza
 ---
 You may also like:
 
-[I Thought You Died Alone](http://scp-wiki.net/i-thought-you-died-alone)
+[SCP-2064: Mayhem Dressed in a Suit](http://scp-wiki.net/scp-2064)
 
-[I Am Ready](http://scp-wiki.net/i-am-ready)
+[Placere Non Trinus](http://scp-wiki.net/placere-non-trinus)

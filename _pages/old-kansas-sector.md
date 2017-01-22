@@ -5,6 +5,6 @@ title: old-kansas-sector
 ---
 You may also like:
 
-[Old Kansas Sector ~ 3: Walking Sticks](http://scp-wiki.net/old-kansas-sector-part-3)
+[SCP-478: Tooth Fairies](http://scp-wiki.net/scp-478)
 
-[Old Kansas Sector ~ 6: The SCP Foundation](http://scp-wiki.net/old-kansas-sector-part-6)
+[SCP-1369: Feelers](http://scp-wiki.net/scp-1369)

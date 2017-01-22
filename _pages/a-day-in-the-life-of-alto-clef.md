@@ -5,6 +5,6 @@ title: a-day-in-the-life-of-alto-clef
 ---
 You may also like:
 
-[SCP-1224-J](http://scp-wiki.net/scp-1224-j)
+[In His Own Image](http://scp-wiki.net/in-his-own-image)
 
-[KaktusKast Hub](http://scp-wiki.net/kaktuskast-hub)
+[Experiment Log 1128](http://scp-wiki.net/experiment-log-1128)

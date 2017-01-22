@@ -5,6 +5,6 @@ title: scp-123-j
 ---
 You may also like:
 
-[Chowderclef](http://scp-wiki.net/chowderclef)
+[Experiment Log 731](http://scp-wiki.net/experiment-log-731)
 
-[The God And World](http://scp-wiki.net/the-god-and-world)
+[SCP-067: The Artist's Pen](http://scp-wiki.net/scp-067)

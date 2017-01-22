@@ -5,6 +5,6 @@ title: vaeisenberg-personnel-file
 ---
 You may also like:
 
-[SCP-1762](http://scp-wiki.net/scp-1762)
+[To Settle All Accounts of the Heart](http://scp-wiki.net/to-settle-all-accounts-of-the-heart)
 
-[Sam](http://scp-wiki.net/sam)
+[Bloodletting](http://scp-wiki.net/bloodletting)

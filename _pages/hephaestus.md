@@ -5,6 +5,6 @@ title: hephaestus
 ---
 You may also like:
 
-[Interlude 1: Patches](http://scp-wiki.net/classicalinterlude)
+[Excerpts from PHYSICS Division Field Manual 13: Special Circumstances, Humanoid Threat Entities](http://scp-wiki.net/goc-supplemental-humanoid-guide)
 
-[SCP-2010](http://scp-wiki.net/scp-2010)
+[SCP-1491: Camera man](http://scp-wiki.net/scp-1491)

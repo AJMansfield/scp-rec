@@ -5,6 +5,6 @@ title: intheendrawhide
 ---
 You may also like:
 
-[SCP-1498](http://scp-wiki.net/scp-1498)
+[Los Recuerdos de los Muertos](http://scp-wiki.net/recuerdos)
 
-[Interlude: New Toys](http://scp-wiki.net/interlude-new-toys)
+[SCP-1690: Sentimental Sushi Man with a Wasabi Sculpture](http://scp-wiki.net/scp-1690)

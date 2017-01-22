@@ -5,6 +5,6 @@ title: talked-with-516
 ---
 You may also like:
 
-[SECURE](http://scp-wiki.net/secure)
+[Contest Archive](http://scp-wiki.net/contest-archive)
 
-[CONTAIN](http://scp-wiki.net/contain)
+[Series Archive](http://scp-wiki.net/series-archive)

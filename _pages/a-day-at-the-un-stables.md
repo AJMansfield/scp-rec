@@ -5,6 +5,6 @@ title: a-day-at-the-un-stables
 ---
 You may also like:
 
-[SCP-257](http://scp-wiki.net/scp-257)
+[SCP-1956: The Gnomes](http://scp-wiki.net/scp-1956)
 
-[SCP-757](http://scp-wiki.net/scp-757)
+[The Lingering Lark of Leviathan Square](http://scp-wiki.net/the-lingering-lark-of-leviathan-square)

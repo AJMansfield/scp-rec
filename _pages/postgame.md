@@ -5,6 +5,6 @@ title: postgame
 ---
 You may also like:
 
-[Stray](http://scp-wiki.net/stray)
+[Wayfarers](http://scp-wiki.net/wayfarers)
 
-[SCP-080](http://scp-wiki.net/scp-080)
+[SCP-1133: Intravenous Sin](http://scp-wiki.net/scp-1133)

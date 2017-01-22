@@ -5,6 +5,6 @@ title: the-day-the-clown-cried
 ---
 You may also like:
 
-[Catch Your Death](http://scp-wiki.net/catch-your-death)
+[SCP-1736: Voice of the Light](http://scp-wiki.net/scp-1736)
 
-[Ghost](http://scp-wiki.net/ghost)
+[How Site-19 Blew Up](http://scp-wiki.net/how-site-19-blew-up)

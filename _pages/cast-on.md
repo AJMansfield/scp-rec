@@ -5,6 +5,6 @@ title: cast-on
 ---
 You may also like:
 
-[SCP-2072](http://scp-wiki.net/scp-2072)
+[Visual Archive 12-5022A-JHP](http://scp-wiki.net/document-12-e-5022a)
 
-[Rising Tide](http://scp-wiki.net/rising-tide)
+[SCP-1974-EX: Hallucinogenic Dice](http://scp-wiki.net/scp-1974-ex)

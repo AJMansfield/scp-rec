@@ -5,6 +5,6 @@ title: satyr-s-reign
 ---
 You may also like:
 
-[SCP-920](http://scp-wiki.net/scp-920)
+[Project Crossover](http://scp-wiki.net/crossoverprojectindex)
 
-[Four Seconds, Low Pitched](http://scp-wiki.net/four-seconds-low-pitched)
+[Whoa, Here She Comes](http://scp-wiki.net/whoa-here-she-comes)

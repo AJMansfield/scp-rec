@@ -5,6 +5,6 @@ title: kingdom-of-stone-the-end-of-a-man
 ---
 You may also like:
 
-[Sympathy](http://scp-wiki.net/sympathy)
+[SCP-2526: Autophantotrophic](http://scp-wiki.net/scp-2526)
 
-[SCP-2926](http://scp-wiki.net/scp-2926)
+[SCP-277: Chalkland](http://scp-wiki.net/scp-277)

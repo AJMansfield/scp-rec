@@ -5,6 +5,6 @@ title: work-journal-2
 ---
 You may also like:
 
-[Work Journal 2 Cont](http://scp-wiki.net/work-journal-2-cont)
+[Week 3 Day 3: End of Line](http://scp-wiki.net/week-3-day-3-end-of-line)
 
-[Splinters](http://scp-wiki.net/splinters)
+[Prisoners](http://scp-wiki.net/prisoners)

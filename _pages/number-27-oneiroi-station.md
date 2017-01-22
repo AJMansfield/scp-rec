@@ -5,6 +5,6 @@ title: number-27-oneiroi-station
 ---
 You may also like:
 
-[The Elusive Anderson](http://scp-wiki.net/the-elusive-anderson)
+[SCP-604-J](http://scp-wiki.net/scp-604-j)
 
-[Closure](http://scp-wiki.net/dontcallitacomebackbecauseidontknowifillstay)
+[The Under-Appreciated SCPs Contest](http://scp-wiki.net/under-appreciated-contest)

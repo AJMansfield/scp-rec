@@ -5,6 +5,6 @@ title: active-projects
 ---
 You may also like:
 
-[SCP-100](http://scp-wiki.net/scp-100)
+[Log 084 A4](http://scp-wiki.net/log-084-a4)
 
-[Hello World (Part IV)](http://scp-wiki.net/hello-world-part-iv)
+[SCP-1875: Antique Chess Computer](http://scp-wiki.net/scp-1875)

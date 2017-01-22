@@ -5,6 +5,6 @@ title: securitycameralog
 ---
 You may also like:
 
-[Catalysis](http://scp-wiki.net/catalysis)
+[SCP-7560-J: Deccadence, Being the Writings of Wisest RESEARCHER Frank Gene Decray](http://scp-wiki.net/scp-7560-j)
 
-[In His Own Image: Part 4](http://scp-wiki.net/in-his-own-image-part-4)
+[SCP-936: Fruit of Man](http://scp-wiki.net/scp-936)

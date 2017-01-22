@@ -5,6 +5,6 @@ title: are-we-cool-yet-hub
 ---
 You may also like:
 
-[Opening Moves](http://scp-wiki.net/opening-moves)
+[Snip Snip Snip](http://scp-wiki.net/snip-snip-snip)
 
-[Narcissus](http://scp-wiki.net/narcissus)
+[Puzzle](http://scp-wiki.net/puzzle)

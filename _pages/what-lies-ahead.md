@@ -5,6 +5,6 @@ title: what-lies-ahead
 ---
 You may also like:
 
-[Loyal to the Cause](http://scp-wiki.net/loyal-to-the-cause)
+[Home](http://scp-wiki.net/home)
 
-[SCP-1782](http://scp-wiki.net/scp-1782)
+[SCP-462: The Getaway Car](http://scp-wiki.net/scp-462)

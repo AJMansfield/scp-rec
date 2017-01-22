@@ -5,6 +5,6 @@ title: hiding-beauty
 ---
 You may also like:
 
-[Ginger](http://scp-wiki.net/ginger)
+[SCP-1662: Paupers' Post](http://scp-wiki.net/scp-1662)
 
-[SCP-495](http://scp-wiki.net/scp-495)
+[Reversed Engineering](http://scp-wiki.net/reversed-engineering)

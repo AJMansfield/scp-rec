@@ -5,6 +5,6 @@ title: theres-no-place-like
 ---
 You may also like:
 
-[Adventuring Interlude](http://scp-wiki.net/adventuring-interlude)
+[Whoa, Here She Comes](http://scp-wiki.net/whoa-here-she-comes)
 
-[SCP-1695](http://scp-wiki.net/scp-1695)
+[Right?](http://scp-wiki.net/right)

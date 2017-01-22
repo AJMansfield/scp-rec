@@ -5,6 +5,6 @@ title: laughter
 ---
 You may also like:
 
-[Strung Out in Heavens High](http://scp-wiki.net/strung-out-in-heavens-high)
+[SCP-2995: Radiant Son](http://scp-wiki.net/scp-2995)
 
-[SCP-2076](http://scp-wiki.net/scp-2076)
+[Dr. Grom's Ambassador-Workbench](http://scp-wiki.net/dr-groms-ambassador-workbench)

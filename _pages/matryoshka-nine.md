@@ -5,6 +5,6 @@ title: matryoshka-nine
 ---
 You may also like:
 
-[Matryoshka: Epilogue](http://scp-wiki.net/matryoshka-epilogue)
+[SCP-851: Lullabugs](http://scp-wiki.net/scp-851)
 
-[Matryoshka: Part One](http://scp-wiki.net/matryoshka-one)
+[Crow's Notes and "To Do List"](http://scp-wiki.net/crow-s-note-s-and-to-do-list)

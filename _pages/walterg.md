@@ -5,6 +5,6 @@ title: walterg
 ---
 You may also like:
 
-[UnScience](http://scp-wiki.net/unscience)
+[Tale of 13](http://scp-wiki.net/taleof13)
 
-[Family Business](http://scp-wiki.net/family-business)
+[A Sort of Challenge](http://scp-wiki.net/a-sort-of-challenge)

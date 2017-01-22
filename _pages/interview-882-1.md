@@ -5,6 +5,6 @@ title: interview-882-1
 ---
 You may also like:
 
-[jacob-001.txt](http://scp-wiki.net/jacob-001-txt)
+[Eberstrom's Proposal-ARC: Site-19](http://scp-wiki.net/eberstrom-s-proposal-arc)
 
-[The Surfside Beat](http://scp-wiki.net/the-surfside-beat)
+[Conversation 3: Decommissioning](http://scp-wiki.net/conversation-3-decommissioning)

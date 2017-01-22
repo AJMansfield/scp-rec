@@ -5,6 +5,6 @@ title: contrast
 ---
 You may also like:
 
-[SCP-1551](http://scp-wiki.net/scp-1551)
+[Peeled](http://scp-wiki.net/peeled)
 
-[SCP-1518](http://scp-wiki.net/scp-1518)
+[SCP-1417-J: Passive-Aggressive Meteorite](http://scp-wiki.net/scp-1417-j)

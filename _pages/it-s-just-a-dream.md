@@ -5,6 +5,6 @@ title: it-s-just-a-dream
 ---
 You may also like:
 
-[Dr. Mackenzie's Glossary of Terms](http://scp-wiki.net/mackenzie-glossary)
+[Revelation](http://scp-wiki.net/revelation)
 
-[Contingency](http://scp-wiki.net/contingency)
+[Sidelines' Sarabande](http://scp-wiki.net/sidelines-sarabande)

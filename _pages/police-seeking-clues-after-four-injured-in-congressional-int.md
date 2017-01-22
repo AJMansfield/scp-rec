@@ -5,6 +5,6 @@ title: police-seeking-clues-after-four-injured-in-congressional-int
 ---
 You may also like:
 
-[Odd Corners](http://scp-wiki.net/odd-corners)
+[Green Thumb Hub](http://scp-wiki.net/green-thumb)
 
-[We Need To Talk About Fifty-Five](http://scp-wiki.net/we-need-to-talk-about-fifty-five)
+[Another Boring Night](http://scp-wiki.net/do-you-remember-these-guys)

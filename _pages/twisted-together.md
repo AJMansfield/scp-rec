@@ -5,6 +5,6 @@ title: twisted-together
 ---
 You may also like:
 
-[SCP-2346](http://scp-wiki.net/scp-2346)
+[SCP-2355: 'They Grow up so Fast'](http://scp-wiki.net/scp-2355)
 
-[Incident Zero - Part 1](http://scp-wiki.net/incident-zero-part-1)
+[SCP-9005-2](http://scp-wiki.net/scp-9005-2)

@@ -5,6 +5,6 @@ title: mtf-theta-90-hub-page
 ---
 You may also like:
 
-[Burnt Bridges](http://scp-wiki.net/burnt-bridges)
+[SCP-2762: Moon Snakes](http://scp-wiki.net/scp-2762)
 
-[Those Who Lived On](http://scp-wiki.net/those-who-lived-on-hub)
+[Dr. Rights' Personnel File](http://scp-wiki.net/dr-rights-personnel-file)

@@ -5,6 +5,6 @@ title: heretherebe
 ---
 You may also like:
 
-[Guard Duty](http://scp-wiki.net/guard-duty)
+[SCP-1224: Li'l Chemist Kit](http://scp-wiki.net/scp-1224)
 
-[Nazi Nonsense](http://scp-wiki.net/nazi-nonsense)
+[SCP-1316: Lucy the Kitten Feline Espionage Device](http://scp-wiki.net/scp-1316)

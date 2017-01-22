@@ -5,6 +5,6 @@ title: the-broken-fifth
 ---
 You may also like:
 
-[SCP-728-ARC](http://scp-wiki.net/scp-728-arc)
+[SCP-158: Soul Extractor](http://scp-wiki.net/scp-158)
 
-[The Administrator's Biography](http://scp-wiki.net/the-administrator-s-biography)
+[SCP-1050: Obsidian Obelisk of Warning](http://scp-wiki.net/scp-1050)

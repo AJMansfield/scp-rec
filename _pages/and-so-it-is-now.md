@@ -5,6 +5,6 @@ title: and-so-it-is-now
 ---
 You may also like:
 
-[SCP-1739](http://scp-wiki.net/scp-1739)
+[Eulogies](http://scp-wiki.net/eulogies)
 
-[SCP-1915](http://scp-wiki.net/scp-1915)
+[Shuffle Tick Tick](http://scp-wiki.net/shuffle-tick-tick)

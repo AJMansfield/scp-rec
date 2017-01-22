@@ -5,6 +5,6 @@ title: scp-2305-collab
 ---
 You may also like:
 
-[Happy Howlidays](http://scp-wiki.net/happy-howlidays)
+[Ketergrams](http://scp-wiki.net/ketergrams)
 
-[SCP-539](http://scp-wiki.net/scp-539)
+[SCP-2998](http://scp-wiki.net/scp-2998-1)

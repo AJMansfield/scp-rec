@@ -5,6 +5,6 @@ title: total-recall
 ---
 You may also like:
 
-[SCP-1667](http://scp-wiki.net/scp-1667)
+[SCP-2172: This Light Never Turns Green](http://scp-wiki.net/scp-2172)
 
-[Tasers & Thermite](http://scp-wiki.net/tasers-thermite)
+[SCP-065-J: Singing Cacti Amigos](http://scp-wiki.net/scp-065-j)

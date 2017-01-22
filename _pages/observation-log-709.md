@@ -5,6 +5,6 @@ title: observation-log-709
 ---
 You may also like:
 
-[SCP-564](http://scp-wiki.net/scp-564)
+[SCP-1746: Anomalous Weather Pattern](http://scp-wiki.net/scp-1746)
 
-[SCP-1895](http://scp-wiki.net/scp-1895)
+[SCP-2013: The Reptilian Meme](http://scp-wiki.net/scp-2013)

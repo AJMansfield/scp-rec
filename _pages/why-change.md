@@ -5,6 +5,6 @@ title: why-change
 ---
 You may also like:
 
-[Dial S For SCP](http://scp-wiki.net/dial-s-for-scp)
+[SCP-1627: Mushroom Wars](http://scp-wiki.net/scp-1627)
 
-[Antediluvian](http://scp-wiki.net/antediluvian)
+[SCP-923: A Useful Tool](http://scp-wiki.net/scp-923)

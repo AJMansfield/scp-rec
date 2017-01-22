@@ -5,6 +5,6 @@ title: personal-log-of-iceberg
 ---
 You may also like:
 
-[SCP-325](http://scp-wiki.net/scp-325)
+[Sailing To Gallipoli](http://scp-wiki.net/sailing-to-gallipoli)
 
-[SCP-478](http://scp-wiki.net/scp-478)
+[SCP-925: The Mushroom Cultist](http://scp-wiki.net/scp-925)

@@ -5,6 +5,6 @@ title: factory-finding-mission
 ---
 You may also like:
 
-[Cat In A Box](http://scp-wiki.net/cat-in-a-box)
+[News Update 01](http://scp-wiki.net/news-update-01)
 
-[SCP-1212](http://scp-wiki.net/scp-1212)
+[SCP-2234: Great Deals on Pineal Removal](http://scp-wiki.net/scp-2234)

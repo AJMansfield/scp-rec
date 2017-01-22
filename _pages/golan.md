@@ -5,6 +5,6 @@ title: golan
 ---
 You may also like:
 
-[The Asylum](http://scp-wiki.net/the-asylum)
+[Impressions](http://scp-wiki.net/impression)
 
-[Eulogies](http://scp-wiki.net/eulogies)
+[Experiment Log 1250](http://scp-wiki.net/experiment-log-1250)

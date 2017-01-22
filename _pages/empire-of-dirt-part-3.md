@@ -5,6 +5,6 @@ title: empire-of-dirt-part-3
 ---
 You may also like:
 
-[Breakfast For Dinner](http://scp-wiki.net/breakfast-for-dinner)
+[Cubes On A Slope](http://scp-wiki.net/cubes-on-a-slope)
 
-[Empire of Dirt (Part 1)](http://scp-wiki.net/empire-of-dirt-part-1)
+[SCP-1534: A Leafy Lammergeier](http://scp-wiki.net/scp-1534)

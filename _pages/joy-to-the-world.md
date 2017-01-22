@@ -5,6 +5,6 @@ title: joy-to-the-world
 ---
 You may also like:
 
-[SCP-315](http://scp-wiki.net/scp-315)
+[SCP-2998](http://scp-wiki.net/scp-2998-1)
 
-[King Greenshield: A Fairy Tale](http://scp-wiki.net/king-greenshield-a-fairy-tale)
+[603-FT-2012](http://scp-wiki.net/603-ft-2012)

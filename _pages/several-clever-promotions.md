@@ -5,6 +5,6 @@ title: several-clever-promotions
 ---
 You may also like:
 
-[Out of Time](http://scp-wiki.net/clock-is-ticking)
+[Incident 239-Abridged](http://scp-wiki.net/incident-239-abridged)
 
-[Peeled](http://scp-wiki.net/peeled)
+[SCP-2113: Haunted Liopleurodon Skull](http://scp-wiki.net/scp-2113)

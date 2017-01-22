@@ -5,6 +5,6 @@ title: in-all-honesty
 ---
 You may also like:
 
-[What Is Wrong With You](http://scp-wiki.net/what-is-wrong-with-you)
+[An Unconventional Tail](http://scp-wiki.net/an-unconventional-tail)
 
-[SCP-2506](http://scp-wiki.net/scp-2506)
+[I Thought You Died Alone](http://scp-wiki.net/i-thought-you-died-alone)

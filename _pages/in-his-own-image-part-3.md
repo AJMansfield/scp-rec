@@ -5,6 +5,6 @@ title: in-his-own-image-part-3
 ---
 You may also like:
 
-[In His Own Image: Interlude 2](http://scp-wiki.net/in-his-own-image-interlude-2)
+[SCP-920-EX: Evil Workgroup Printer](http://scp-wiki.net/scp-920-ex)
 
-[In His Own Image: Epilogue](http://scp-wiki.net/in-his-own-image-epilogue)
+[SCP-987-ARC: A Window](http://scp-wiki.net/scp-987-arc)

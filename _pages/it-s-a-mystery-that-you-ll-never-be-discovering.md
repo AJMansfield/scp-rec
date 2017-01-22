@@ -5,6 +5,6 @@ title: it-s-a-mystery-that-you-ll-never-be-discovering
 ---
 You may also like:
 
-[SCP-912](http://scp-wiki.net/scp-912)
+[SCP-2999: The Black Cat and the White Rabbit](http://scp-wiki.net/scp-2999)
 
-[Cut Up While Thinking](http://scp-wiki.net/cut-up-while-thinking)
+[SCP-1788: The Adults](http://scp-wiki.net/scp-1788)

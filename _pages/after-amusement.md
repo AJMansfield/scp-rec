@@ -5,6 +5,6 @@ title: after-amusement
 ---
 You may also like:
 
-[SCP-2008](http://scp-wiki.net/scp-2008)
+[SCP-2676: For S](http://scp-wiki.net/scp-2676)
 
-[SCP-1062](http://scp-wiki.net/scp-1062)
+[SCP-1495: Karmic Musth](http://scp-wiki.net/scp-1495)

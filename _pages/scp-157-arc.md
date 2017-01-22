@@ -5,6 +5,6 @@ title: scp-157-arc
 ---
 You may also like:
 
-[Termination_Order](http://scp-wiki.net/termination-order)
+[SCP-657: Death-predicting Man](http://scp-wiki.net/scp-657)
 
-[From Vagrants, to Gentlemen](http://scp-wiki.net/from-vagrants-to-gentlemen)
+[SCP-744-ARC: Rust Monster](http://scp-wiki.net/scp-744-arc)

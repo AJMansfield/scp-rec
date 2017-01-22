@@ -5,6 +5,6 @@ title: a-shift-at-the-factory
 ---
 You may also like:
 
-[SCP-1500](http://scp-wiki.net/scp-1500)
+[Show You What All That Howl Is For](http://scp-wiki.net/show-you-what-all-that-howl-is-for)
 
-[The Last Best Hope](http://scp-wiki.net/the-last-best-hope)
+[The Old Ice](http://scp-wiki.net/the-old-ice)

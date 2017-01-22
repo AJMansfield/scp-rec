@@ -5,6 +5,6 @@ title: narcissus
 ---
 You may also like:
 
-[SCP-2613](http://scp-wiki.net/scp-2613)
+[Going Straight To Hell In A Lincoln Continental](http://scp-wiki.net/going-straight-to-hell-in-a-lincoln-continental)
 
-[SCP-1992-J](http://scp-wiki.net/scp-1992-j)
+[SCP-1128: Aquatic Horror](http://scp-wiki.net/scp-1128)

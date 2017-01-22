@@ -5,6 +5,6 @@ title: it-just-shattered
 ---
 You may also like:
 
-[Snipped From The Same Cloth](http://scp-wiki.net/snipped-from-the-same-cloth)
+[SCP Foundation Rewrite Policy](http://scp-wiki.net/rewrite-guide)
 
-[SCP-2413](http://scp-wiki.net/scp-2413)
+[Swing Shift](http://scp-wiki.net/swing-shift)

@@ -5,6 +5,6 @@ title: what-is-wrong-with-you
 ---
 You may also like:
 
-[In all Honesty,](http://scp-wiki.net/in-all-honesty)
+[SCP-576: Sleep Well](http://scp-wiki.net/scp-576)
 
-[SCP-2537](http://scp-wiki.net/scp-2537)
+[Every Other Day](http://scp-wiki.net/every-other-day)

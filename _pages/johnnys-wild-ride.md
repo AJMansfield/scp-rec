@@ -5,6 +5,6 @@ title: johnnys-wild-ride
 ---
 You may also like:
 
-[Dreaming](http://scp-wiki.net/dreaming)
+[Two Transcribed Conversations In Very Different Tones](http://scp-wiki.net/two-transcribed-conversations-in-very-different-tones)
 
-[SCP-1100](http://scp-wiki.net/scp-1100)
+[Life in the Multiverse](http://scp-wiki.net/life-in-the-multiverse)

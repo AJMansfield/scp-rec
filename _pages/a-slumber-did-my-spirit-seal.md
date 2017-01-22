@@ -5,6 +5,6 @@ title: a-slumber-did-my-spirit-seal
 ---
 You may also like:
 
-[The End of History](http://scp-wiki.net/the-end-of-history)
+[Rabbit Hole In Time Lapse](http://scp-wiki.net/rabbit-hole-in-time-lapse)
 
-[SCP-857-D](http://scp-wiki.net/scp-857-d)
+[Meeting Over Coffee](http://scp-wiki.net/meeting-over-coffee)

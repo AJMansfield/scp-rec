@@ -5,6 +5,6 @@ title: thank-you-for-your-time
 ---
 You may also like:
 
-[Only Game In Town Hub](http://scp-wiki.net/only-game-in-town-hub)
+[SCP-1834: Uriel Fishbones](http://scp-wiki.net/scp-1834)
 
-[Supply and Demand](http://scp-wiki.net/supply-and-demand)
+[SCP-432 Materials Recovered](http://scp-wiki.net/materials-recovered)

@@ -5,6 +5,6 @@ title: eden
 ---
 You may also like:
 
-[A Breath of Fresh Air: Holding It](http://scp-wiki.net/gdp2-freshbreath-holding)
+[Children Of Doubt](http://scp-wiki.net/children-of-doubt)
 
-[DOCUMENT-SCP-1514-RM27](http://scp-wiki.net/document-scp-1514-rm27)
+[GRANT REQUEST FOR UTILIZATION OF ELECTRO-THAUMIC COMPUTERS TO PERFORM EXORCISMS OF DEMONIC ENTITIES](http://scp-wiki.net/grant-request-for-utilization-of-electro-thaumic-computers-t)

@@ -5,6 +5,6 @@ title: run-away-forevurrr
 ---
 You may also like:
 
-[Stratagem](http://scp-wiki.net/stratagem)
+[Stage Fright](http://scp-wiki.net/stage-fright)
 
-[The Flytrap](http://scp-wiki.net/the-flytrap)
+[Incident Report 307](http://scp-wiki.net/incident-report-307)

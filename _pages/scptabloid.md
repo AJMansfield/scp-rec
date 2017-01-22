@@ -5,6 +5,6 @@ title: scptabloid
 ---
 You may also like:
 
-[SCP-242](http://scp-wiki.net/scp-242)
+[SCP-249: The Random Door](http://scp-wiki.net/scp-249)
 
-[Confirmed Sightings](http://scp-wiki.net/confirmed-sightings)
+[SCP-295: Cauterpillers](http://scp-wiki.net/scp-295)

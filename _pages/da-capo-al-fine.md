@@ -5,6 +5,6 @@ title: da-capo-al-fine
 ---
 You may also like:
 
-[Ganymede](http://scp-wiki.net/ganymede)
+[Contingency](http://scp-wiki.net/contingency)
 
-[SCP-089](http://scp-wiki.net/scp-089)
+[SCP-132-ARC: Sufferer of the World's Sorrow](http://scp-wiki.net/scp-132-arc)

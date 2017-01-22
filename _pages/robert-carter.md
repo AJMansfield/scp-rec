@@ -5,6 +5,6 @@ title: robert-carter
 ---
 You may also like:
 
-[SCP-671](http://scp-wiki.net/scp-671)
+[Dr Mann's Personnel File](http://scp-wiki.net/dr-manns-personnel-file)
 
-[SCP-956](http://scp-wiki.net/scp-956)
+[Clinical Tone: Declassified](http://scp-wiki.net/clinical-tone-declassified)

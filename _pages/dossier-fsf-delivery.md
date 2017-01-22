@@ -5,6 +5,6 @@ title: dossier-fsf-delivery
 ---
 You may also like:
 
-[Resale Value](http://scp-wiki.net/resale-value)
+[Nobody Dies](http://scp-wiki.net/nobody-dies)
 
-[SCP-2165](http://scp-wiki.net/scp-2165)
+[Back Into Hell](http://scp-wiki.net/back-into-hell)

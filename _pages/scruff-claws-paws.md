@@ -5,6 +5,6 @@ title: scruff-claws-paws
 ---
 You may also like:
 
-[Annon](http://scp-wiki.net/annon)
+[SCP-2347: Maxwell's Phoenix](http://scp-wiki.net/scp-2347)
 
-[SCP-1375](http://scp-wiki.net/scp-1375)
+[Zekky's Author Page](http://scp-wiki.net/zekky-s-author-page)

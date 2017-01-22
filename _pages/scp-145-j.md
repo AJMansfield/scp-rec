@@ -5,6 +5,6 @@ title: scp-145-j
 ---
 You may also like:
 
-[SCP-050](http://scp-wiki.net/scp-050)
+[Covert Cursing](http://scp-wiki.net/covert-cursing)
 
-[Old Kansas Sector ~ 8: Gersha](http://scp-wiki.net/old-kansas-sector-part-8)
+[First Seed](http://scp-wiki.net/first-seed)

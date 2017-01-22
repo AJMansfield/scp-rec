@@ -5,6 +5,6 @@ title: in-his-own-image-interlude-5
 ---
 You may also like:
 
-[Endless Hunt Part One: All the World Will be Your Enemy...](http://scp-wiki.net/ofanendlesshunt-partone-alltheworldwillbeyourenemy)
+[SCP-971: Exotic Fast Food Delivery](http://scp-wiki.net/scp-971)
 
-[Sweetness](http://scp-wiki.net/sweetness)
+[SCP-1083: University Skull](http://scp-wiki.net/scp-1083)

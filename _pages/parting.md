@@ -5,6 +5,6 @@ title: parting
 ---
 You may also like:
 
-[Ethical?](http://scp-wiki.net/ethical)
+[Dr Glass' Personnel File](http://scp-wiki.net/dr-glass-personnel-file)
 
-[SCP-2295](http://scp-wiki.net/scp-2295)
+[Acquisitions - a Marshall, Carter & Dark Tale](http://scp-wiki.net/acquisitions-hub)

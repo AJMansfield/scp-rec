@@ -5,6 +5,6 @@ title: i-am-the-very-model
 ---
 You may also like:
 
-[To Sleep, Perchance to Dream](http://scp-wiki.net/to-sleep-perchance-to-dream)
+[The Sicilian Defence](http://scp-wiki.net/the-sicilian-defence)
 
-[Clean Sweep](http://scp-wiki.net/clean-sweep)
+[Another Star On The Wall](http://scp-wiki.net/another-star-on-the-wall)

@@ -5,6 +5,6 @@ title: hands
 ---
 You may also like:
 
-[The Good of the Other](http://scp-wiki.net/the-good-of-the-other)
+[SCP-929: The Cuckoo](http://scp-wiki.net/scp-929)
 
-[SCP-2614](http://scp-wiki.net/scp-2614)
+[SCP-937: Walking Sticks](http://scp-wiki.net/scp-937)

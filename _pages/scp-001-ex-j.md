@@ -5,6 +5,6 @@ title: scp-001-ex-j
 ---
 You may also like:
 
-[Kinchtheknifeblade's Author Page](http://scp-wiki.net/kinchtheknifeblade-s-author-page)
+[Deontic](http://scp-wiki.net/wayward-deontic)
 
-[SCP-2747](http://scp-wiki.net/scp-2747)
+[An Excerpt from Goodbye Ghost](http://scp-wiki.net/an-excerpt-from-goodbye-ghost)

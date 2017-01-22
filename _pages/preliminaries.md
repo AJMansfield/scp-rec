@@ -5,6 +5,6 @@ title: preliminaries
 ---
 You may also like:
 
-[SCPokemon](http://scp-wiki.net/i-wanna-be-the-very-best)
+[Game Day Part 1: Smilers](http://scp-wiki.net/game-day-1-smilers)
 
-[A Working Lunch](http://scp-wiki.net/gdp2-a-working-lunch)
+[News for November 2015](http://scp-wiki.net/news-11-2015)

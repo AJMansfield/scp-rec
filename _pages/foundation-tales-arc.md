@@ -5,6 +5,6 @@ title: foundation-tales-arc
 ---
 You may also like:
 
-[SCP-579](http://scp-wiki.net/scp-579)
+[SCP-934: Inland Lighthouse](http://scp-wiki.net/scp-934)
 
-[Local Legends](http://scp-wiki.net/local-legends)
+[SCP-1138: Book of Letters](http://scp-wiki.net/scp-1138)

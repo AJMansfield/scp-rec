@@ -5,6 +5,6 @@ title: ghost
 ---
 You may also like:
 
-[Envying the Dead](http://scp-wiki.net/envying-the-dead)
+[SCP-2319: Mirrored Shipwreck](http://scp-wiki.net/scp-2319)
 
-[The Last Redcoat](http://scp-wiki.net/the-last-redcoat)
+[Enjoy the Silence](http://scp-wiki.net/enjoy-the-silence)

@@ -5,6 +5,6 @@ title: ethics-committee-orientation
 ---
 You may also like:
 
-[SCP-1608](http://scp-wiki.net/scp-1608)
+[A Site-19 Christmas Carol](http://scp-wiki.net/a-site-19-christmas-carol)
 
-[SCP-2900](http://scp-wiki.net/scp-2900)
+[Finding The Machine](http://scp-wiki.net/finding-the-machine)

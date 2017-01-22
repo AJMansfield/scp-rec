@@ -5,6 +5,6 @@ title: dr-l-goose-personnel-file
 ---
 You may also like:
 
-[SCP-604](http://scp-wiki.net/scp-604)
+[SwamplessThing's Personnel File](http://scp-wiki.net/swamplessthing-s-personnal-file)
 
-[SCP-2075](http://scp-wiki.net/scp-2075)
+[SCP-2318: Country Club Nuisance](http://scp-wiki.net/scp-2318)

@@ -5,6 +5,6 @@ title: shuffle-tick-tick
 ---
 You may also like:
 
-[SCP-1082](http://scp-wiki.net/scp-1082)
+[And So It Is Now](http://scp-wiki.net/and-so-it-is-now)
 
-[Flow](http://scp-wiki.net/flow)
+[Lord Blackwood in the Land of the Unclean](http://scp-wiki.net/lord-blackwood-and-the-land-of-the-unclean)

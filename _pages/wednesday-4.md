@@ -5,6 +5,6 @@ title: wednesday-4
 ---
 You may also like:
 
-[In His Own Image: Interlude 3](http://scp-wiki.net/in-his-own-image-interlude-3)
+[SCP-691: A Coward's Way Out](http://scp-wiki.net/scp-691)
 
-[In His Own Image: Part 7](http://scp-wiki.net/in-his-own-image-part-7)
+[Painted Lips, Unblinking Eyes](http://scp-wiki.net/vibeo-james)

@@ -5,6 +5,6 @@ title: wednesday-3
 ---
 You may also like:
 
-[Interview C](http://scp-wiki.net/interview-c)
+[The Pattern (Interlude)](http://scp-wiki.net/the-pattern-interlude)
 
-[Mad Love](http://scp-wiki.net/mad-love)
+[Cool War 2: Ruiz From Your Grave](http://scp-wiki.net/cool-war-2-hub)

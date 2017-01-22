@@ -5,6 +5,6 @@ title: duke-till-dawn
 ---
 You may also like:
 
-[SCP-1736](http://scp-wiki.net/scp-1736)
+[SCP-464: The Foundry](http://scp-wiki.net/scp-464)
 
-[Experiment Log 423 A](http://scp-wiki.net/experiment-log-423-a)
+[SCP-1023-ARC: A Broken Telekill Sword](http://scp-wiki.net/scp-1023-arc)

@@ -5,6 +5,6 @@ title: hellomuddah
 ---
 You may also like:
 
-[Back Alley Deals](http://scp-wiki.net/back-alley-deals)
+[Incident Zero - Part 1](http://scp-wiki.net/incident-zero-part-1)
 
-[Number One With A Bullet](http://scp-wiki.net/number-one-with-a-bullet)
+[SCP-1141: Entrepreneurial Spirit](http://scp-wiki.net/scp-1141)

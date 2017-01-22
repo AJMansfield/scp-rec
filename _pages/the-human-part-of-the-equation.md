@@ -5,6 +5,6 @@ title: the-human-part-of-the-equation
 ---
 You may also like:
 
-[SCP-408](http://scp-wiki.net/scp-408)
+[Devotion](http://scp-wiki.net/devotion)
 
-[SCP-1106](http://scp-wiki.net/scp-1106)
+[Swing Shift](http://scp-wiki.net/swing-shift)

@@ -5,6 +5,6 @@ title: leafers
 ---
 You may also like:
 
-[SCP-1440](http://scp-wiki.net/scp-1440)
+[News for February 2016](http://scp-wiki.net/news-02-2016)
 
-[SCP-920](http://scp-wiki.net/scp-920)
+[Halloween Contest!](http://scp-wiki.net/halloween-contest)

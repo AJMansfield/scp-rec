@@ -5,6 +5,6 @@ title: unusual
 ---
 You may also like:
 
-[SCP-1755](http://scp-wiki.net/scp-1755)
+[Crunch](http://scp-wiki.net/crunch)
 
-[SCP-2437](http://scp-wiki.net/scp-2437)
+[To What Purpose an Invasion?](http://scp-wiki.net/to-what-purpose-an-invasion)

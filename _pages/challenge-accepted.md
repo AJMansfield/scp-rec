@@ -5,6 +5,6 @@ title: challenge-accepted
 ---
 You may also like:
 
-[Being Cactusman](http://scp-wiki.net/being-cactusman)
+[SCP Calendar](http://scp-wiki.net/scp-calendar)
 
-[SCP-2636](http://scp-wiki.net/scp-2636)
+[SCP-1196: Chairopractors](http://scp-wiki.net/scp-1196)

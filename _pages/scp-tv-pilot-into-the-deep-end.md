@@ -5,6 +5,6 @@ title: scp-tv-pilot-into-the-deep-end
 ---
 You may also like:
 
-[SCP-1772](http://scp-wiki.net/scp-1772)
+[Chapter Three: Corn Starch](http://scp-wiki.net/corn-starch)
 
-[SCP-922-ARC](http://scp-wiki.net/scp-922-arc)
+[Experiment Log 777 A](http://scp-wiki.net/experiment-log-777-a)

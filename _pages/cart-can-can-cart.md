@@ -5,6 +5,6 @@ title: cart-can-can-cart
 ---
 You may also like:
 
-[Time](http://scp-wiki.net/time)
+[Incident 096-1-A](http://scp-wiki.net/incident-096-1-a)
 
-[Every Other Day](http://scp-wiki.net/every-other-day)
+[SCP-1716: Imperfect Life Extender](http://scp-wiki.net/scp-1716)

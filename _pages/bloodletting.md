@@ -5,6 +5,6 @@ title: bloodletting
 ---
 You may also like:
 
-[SCP-1609](http://scp-wiki.net/scp-1609)
+[To Settle All Accounts of the Heart](http://scp-wiki.net/to-settle-all-accounts-of-the-heart)
 
-[A Kind Of Christmas](http://scp-wiki.net/a-kind-of-christmas)
+[Researcher Eisenberg's Personnel File](http://scp-wiki.net/vaeisenberg-personnel-file)

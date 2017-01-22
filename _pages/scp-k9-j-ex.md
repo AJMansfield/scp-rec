@@ -5,6 +5,6 @@ title: scp-k9-j-ex
 ---
 You may also like:
 
-[SCP-1424](http://scp-wiki.net/scp-1424)
+[SCP-2259: Survival of the Foetest](http://scp-wiki.net/scp-2259)
 
-[SCP-737](http://scp-wiki.net/scp-737)
+[Groups Of Interest](http://scp-wiki.net/groups-of-interest)

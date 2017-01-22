@@ -5,6 +5,6 @@ title: skipping-time
 ---
 You may also like:
 
-[SCP-1551](http://scp-wiki.net/scp-1551)
+[A Wandsman in the Court of the Hanged King](http://scp-wiki.net/a-wandsman-in-the-court-of-the-hanged-king)
 
-[Game Day Part 1: Smilers](http://scp-wiki.net/game-day-1-smilers)
+[SCP-2477: Inertial Dampeners](http://scp-wiki.net/scp-2477)

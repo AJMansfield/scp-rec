@@ -5,6 +5,6 @@ title: the-vault
 ---
 You may also like:
 
-[Fault Lines](http://scp-wiki.net/fault-lines)
+[Gate of Janus](http://scp-wiki.net/gate-of-janus)
 
-[Where They All Go](http://scp-wiki.net/where-they-all-go)
+[The Frail](http://scp-wiki.net/the-frail)

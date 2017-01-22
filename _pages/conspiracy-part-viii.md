@@ -5,6 +5,6 @@ title: conspiracy-part-viii
 ---
 You may also like:
 
-[Conspiracy, Part VII](http://scp-wiki.net/conspiracy-part-vii)
+[SCP-1541: The Drunken God](http://scp-wiki.net/scp-1541)
 
-[Conspiracy, Part V](http://scp-wiki.net/conspiracy-part-v)
+[SCP-2925: Sphere of Influence](http://scp-wiki.net/scp-2925)

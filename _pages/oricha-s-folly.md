@@ -5,6 +5,6 @@ title: oricha-s-folly
 ---
 You may also like:
 
-[The Cage](http://scp-wiki.net/the-cage)
+[SCP-724: Procyon stentor](http://scp-wiki.net/scp-724)
 
-[SCP-2115](http://scp-wiki.net/scp-2115)
+[SCP-140: An Incomplete Chronicle](http://scp-wiki.net/scp-140)

@@ -5,6 +5,6 @@ title: playing-the-hand-youre-dealt
 ---
 You may also like:
 
-[Retrieval log db/503-b](http://scp-wiki.net/retrieval-log-db-503-b)
+[SCP-1604: The Ball and Chain](http://scp-wiki.net/scp-1604)
 
-[The Improbable Bibs](http://scp-wiki.net/the-improbable-bibs)
+[SCP-803: Predatory Parasols](http://scp-wiki.net/scp-803)

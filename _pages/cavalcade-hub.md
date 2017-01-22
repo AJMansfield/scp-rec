@@ -5,6 +5,6 @@ title: cavalcade-hub
 ---
 You may also like:
 
-[The Surfside Beat](http://scp-wiki.net/the-surfside-beat)
+[The Killer](http://scp-wiki.net/the-killer)
 
-[Kens' Festive Stories](http://scp-wiki.net/kens-festive-stories)
+[SCP-494: Matter Transference Gloves](http://scp-wiki.net/scp-494)

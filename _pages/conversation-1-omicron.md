@@ -5,6 +5,6 @@ title: conversation-1-omicron
 ---
 You may also like:
 
-[Cast On](http://scp-wiki.net/cast-on)
+[A Holiday Appeal](http://scp-wiki.net/a-holiday-appeal)
 
-[Sparks Of Creativity](http://scp-wiki.net/sparks-of-creativity)
+[The 784 Incident: Part 1: Contact](http://scp-wiki.net/784incident1)

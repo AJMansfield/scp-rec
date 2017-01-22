@@ -5,6 +5,6 @@ title: december-24th-2011-hub
 ---
 You may also like:
 
-[Seasons Pass](http://scp-wiki.net/seasons-pass)
+[My Hell](http://scp-wiki.net/my-hell)
 
-[Not To Disappear - 1](http://scp-wiki.net/not-to-disappear-1)
+[SCP-2221: A Friendly Agreement](http://scp-wiki.net/scp-2221)

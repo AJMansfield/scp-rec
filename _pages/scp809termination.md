@@ -5,6 +5,6 @@ title: scp809termination
 ---
 You may also like:
 
-[SCP-174](http://scp-wiki.net/scp-174)
+[SCP-517-ARC: A Demon Born From War](http://scp-wiki.net/scp-517-arc)
 
-[SCP-1276](http://scp-wiki.net/scp-1276)
+[SCP-234-ARC: Blue Goddess](http://scp-wiki.net/scp-234-arc)

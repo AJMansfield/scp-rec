@@ -5,6 +5,6 @@ title: are-we-there-yet
 ---
 You may also like:
 
-[We Got A Good Thing Here](http://scp-wiki.net/we-got-a-good-thing-here)
+[Technical Writing & You](http://scp-wiki.net/technical-writing)
 
-[Last Days at Camp](http://scp-wiki.net/last-days-at-camp)
+[Mad Love](http://scp-wiki.net/mad-love)

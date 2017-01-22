@@ -5,6 +5,6 @@ title: gdp2-looking-at-the-world-from-a-different-angle
 ---
 You may also like:
 
-[SCP-1987](http://scp-wiki.net/scp-1987)
+[SCP-2368: Across the Water](http://scp-wiki.net/scp-2368)
 
-[Game Day Part 1: Smilers](http://scp-wiki.net/game-day-1-smilers)
+[SCP-2280: Extra Nightly Cow](http://scp-wiki.net/scp-2280)

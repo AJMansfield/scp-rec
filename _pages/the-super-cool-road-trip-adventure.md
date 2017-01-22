@@ -5,6 +5,6 @@ title: the-super-cool-road-trip-adventure
 ---
 You may also like:
 
-[SCP-147](http://scp-wiki.net/scp-147)
+[SCP-1231: The Theoretical Family](http://scp-wiki.net/scp-1231)
 
-[SCP-2806](http://scp-wiki.net/scp-2806)
+[SCP-1739: Obsolete Laptop](http://scp-wiki.net/scp-1739)

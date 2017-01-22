@@ -5,6 +5,6 @@ title: dust
 ---
 You may also like:
 
-[Matryoshka: Part One](http://scp-wiki.net/matryoshka-one)
+[SCP-1062: NS Magazine - Time](http://scp-wiki.net/scp-1062)
 
-[Going Out](http://scp-wiki.net/going-out)
+[SCP-228: Psychiatric Diagnostic Tool](http://scp-wiki.net/scp-228)

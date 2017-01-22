@@ -5,6 +5,6 @@ title: matryoshka-two
 ---
 You may also like:
 
-[Matryoshka: Part Six](http://scp-wiki.net/matryoshka-six)
+[Close of Play](http://scp-wiki.net/close-of-play)
 
-[Matryoshka: Part Five](http://scp-wiki.net/matryoshka-five)
+[SCP-003: Biological Motherboard](http://scp-wiki.net/scp-003)

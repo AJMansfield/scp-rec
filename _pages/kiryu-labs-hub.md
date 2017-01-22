@@ -5,6 +5,6 @@ title: kiryu-labs-hub
 ---
 You may also like:
 
-[Experiment Log 423 A](http://scp-wiki.net/experiment-log-423-a)
+[Domo Arigato](http://scp-wiki.net/domo-arigato)
 
-[Pain](http://scp-wiki.net/the-rotting-man-of-stalingrad)
+[SCP-2168: Progress](http://scp-wiki.net/scp-2168)

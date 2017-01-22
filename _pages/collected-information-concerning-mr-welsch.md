@@ -5,6 +5,6 @@ title: collected-information-concerning-mr-welsch
 ---
 You may also like:
 
-[Personnel File: Zolgamax Jones](http://scp-wiki.net/zolgamax)
+[CapnThatguy's Personnel File](http://scp-wiki.net/capnthatguy-s-personnel-file)
 
-[Agent Logan Armstrong's Personnel File](http://scp-wiki.net/agent-logan-armstrong-s-personnel-file)
+[SCP-2002: A Dead Future](http://scp-wiki.net/scp-2002)

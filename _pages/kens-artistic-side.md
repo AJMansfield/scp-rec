@@ -5,6 +5,6 @@ title: kens-artistic-side
 ---
 You may also like:
 
-[Gingercake's Art Gallery!](http://scp-wiki.net/gingercake-s-art-gallery)
+[Agent Nekochris Personnel File](http://scp-wiki.net/agent-nekochris-personnel-file)
 
-[Cyantreuse's Pit of Despair and SCPhotoshop](http://scp-wiki.net/sexycontainmentprocedures)
+[SCP-2766: Aqua Caligula](http://scp-wiki.net/scp-2766)

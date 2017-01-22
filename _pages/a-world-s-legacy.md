@@ -5,6 +5,6 @@ title: a-world-s-legacy
 ---
 You may also like:
 
-[Locks](http://scp-wiki.net/locks)
+[SCP-424: Nanomimes](http://scp-wiki.net/scp-424)
 
-[SCP-432 Materials Recovered](http://scp-wiki.net/materials-recovered)
+[SCP-1965: A Voice Amidst the Silence](http://scp-wiki.net/scp-1965)

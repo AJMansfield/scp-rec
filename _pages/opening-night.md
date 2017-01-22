@@ -5,6 +5,6 @@ title: opening-night
 ---
 You may also like:
 
-[maybe god will forgive you if we both beg](http://scp-wiki.net/i-thought-you-would-come-back-if-i-made-it-well)
+[SCP-027: The Vermin God](http://scp-wiki.net/scp-027)
 
-[Our Mutual Guide](http://scp-wiki.net/our-mutual-guide)
+[SCP-2001: A Space Oddity](http://scp-wiki.net/scp-2001)

@@ -5,6 +5,6 @@ title: a-love-letter-to-a-lady-mantis
 ---
 You may also like:
 
-[Rota](http://scp-wiki.net/rota)
+[SCP-1859: Life Over Geological Time](http://scp-wiki.net/scp-1859)
 
-[SCP-877](http://scp-wiki.net/scp-877)
+[Keter](http://scp-wiki.net/keter-arc)

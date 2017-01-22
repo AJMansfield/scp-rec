@@ -5,6 +5,6 @@ title: the-peter-paul-parable
 ---
 You may also like:
 
-[Boxes](http://scp-wiki.net/boxes)
+[SCP-013: Blue Lady Cigarettes](http://scp-wiki.net/scp-013)
 
-[History](http://scp-wiki.net/history)
+[Take On Me](http://scp-wiki.net/take-on-me)

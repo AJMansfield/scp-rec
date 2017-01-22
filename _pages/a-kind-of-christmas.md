@@ -5,6 +5,6 @@ title: a-kind-of-christmas
 ---
 You may also like:
 
-[GRU-P casefile "FLY AGARIC"](http://scp-wiki.net/fly-agaric)
+[Dr. Edison's Bargain Bin of Direct-to-Forum Sequels](http://scp-wiki.net/bargain-bin-of-direct-to-forum-sequels)
 
-[Little Hurley Lost in Meatspace](http://scp-wiki.net/little-hurley-lost-in-meatspace)
+[An Inspection](http://scp-wiki.net/cav-003)

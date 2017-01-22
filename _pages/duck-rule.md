@@ -5,6 +5,6 @@ title: duck-rule
 ---
 You may also like:
 
-[Codename: Green King HUB](http://scp-wiki.net/codename-green-king-hub)
+[Into That Good Night](http://scp-wiki.net/into-that-good-night)
 
-[All The King's Men](http://scp-wiki.net/all-the-king-s-men)
+[The Red Woodsman](http://scp-wiki.net/the-red-woodsman)

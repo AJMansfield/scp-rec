@@ -5,6 +5,6 @@ title: in-search-of-lost-antigo
 ---
 You may also like:
 
-[Deadalive Deadalive](http://scp-wiki.net/deadalive-deadalive)
+[GRANT REQUEST FOR THE DEVELOPMENT OF TOOLS FOR MAPPING LOCALES WITH INCONSISTENT SPACETIME](http://scp-wiki.net/grant-request-for-the-development-of-tools-for-mapping-local)
 
-[Convergence](http://scp-wiki.net/convergence)
+[SCP-1321: Cathar Journal](http://scp-wiki.net/scp-1321)

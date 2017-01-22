@@ -5,6 +5,6 @@ title: stop
 ---
 You may also like:
 
-[Wanderer Symbols](http://scp-wiki.net/wanderer-symbols)
+[SCP-1224: Li'l Chemist Kit](http://scp-wiki.net/scp-1224)
 
-[Those Who Lived On](http://scp-wiki.net/those-who-lived-on-hub)
+[SCP-2804: Fire and Forget](http://scp-wiki.net/scp-2804)

@@ -5,6 +5,6 @@ title: settling-tabs
 ---
 You may also like:
 
-[No Joke](http://scp-wiki.net/no-joke)
+[Disinformation Bureau Orientation](http://scp-wiki.net/disinformation-bureau-orientation)
 
-[SCP-1802](http://scp-wiki.net/scp-1802)
+[SCP-5150-J: Think Of The Children](http://scp-wiki.net/scp-5150-j)

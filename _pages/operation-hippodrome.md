@@ -5,6 +5,6 @@ title: operation-hippodrome
 ---
 You may also like:
 
-[MTF Sigma-66 Post-Mission Psychological Evaluation](http://scp-wiki.net/sigma-psych-eval)
+[SCP-2703: For a Good Time Call](http://scp-wiki.net/scp-2703)
 
-[SCP-2862](http://scp-wiki.net/scp-2862)
+[SCP-1390: A Dead Language](http://scp-wiki.net/scp-1390)

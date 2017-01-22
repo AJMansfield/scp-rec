@@ -5,6 +5,6 @@ title: poi-dark
 ---
 You may also like:
 
-[SCP-2443](http://scp-wiki.net/scp-2443)
+[The Lucky Dinosaur](http://scp-wiki.net/lucky-dinosaur)
 
-[SCP-1151](http://scp-wiki.net/scp-1151)
+[Transcript of Dr. Clef's seminar, "Reality Benders and You: How to Survive When Existence Doesn't."](http://scp-wiki.net/clef101)

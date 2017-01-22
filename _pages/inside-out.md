@@ -5,6 +5,6 @@ title: inside-out
 ---
 You may also like:
 
-[Artificial Dragons Gate](http://scp-wiki.net/artificial-dragons-gate)
+[Friends in Dark Places](http://scp-wiki.net/ohnoihavetocomeupwithatitleiambadatthiswhatdoieven)
 
-[Ears](http://scp-wiki.net/ears)
+[Snakes And Ladders](http://scp-wiki.net/snakes-and-ladders)

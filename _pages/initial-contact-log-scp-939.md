@@ -5,6 +5,6 @@ title: initial-contact-log-scp-939
 ---
 You may also like:
 
-[SCP-642](http://scp-wiki.net/scp-642)
+[SCP-1903: Jackie's Secret](http://scp-wiki.net/scp-1903)
 
-[SCP-2705](http://scp-wiki.net/scp-2705)
+[A Circus Milked Dry](http://scp-wiki.net/a-circus-milked-dry)

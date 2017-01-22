@@ -5,6 +5,6 @@ title: stepping-out
 ---
 You may also like:
 
-[Executive Brief Investigative Report Orpheus](http://scp-wiki.net/executive-brief-investigative-report-orpheus)
+[SCP-1943: No Anomalies Detected](http://scp-wiki.net/scp-1943)
 
-[The Avian and The Amphibian](http://scp-wiki.net/the-avian-and-the-amphibian)
+[Endless Hunt Part Four: Living Through Shattered Glass](http://scp-wiki.net/ofanendlesshunt-partfour-livingthroughshatteredglass)

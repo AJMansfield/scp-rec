@@ -5,6 +5,6 @@ title: top-rated-pages-by-month-2016
 ---
 You may also like:
 
-[SCP-2301](http://scp-wiki.net/scp-2301)
+[SCP-1612: Fires of Pangloss](http://scp-wiki.net/scp-1612)
 
-[Application to Form MTF Mu-3: Documents](http://scp-wiki.net/application-to-form-mtf-mu3-supplementary-docs)
+[SCP-1180: A Lovely Bunch of Coconuts](http://scp-wiki.net/scp-1180)

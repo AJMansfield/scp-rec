@@ -5,6 +5,6 @@ title: rising-tide
 ---
 You may also like:
 
-[Cast On](http://scp-wiki.net/cast-on)
+[Litfried's author page](http://scp-wiki.net/litfried-s-author-page)
 
-[I Can't](http://scp-wiki.net/i-can-t)
+[SCP-2005: Predicting the Past](http://scp-wiki.net/scp-2005)

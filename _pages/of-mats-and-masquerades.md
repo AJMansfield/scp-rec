@@ -5,6 +5,6 @@ title: of-mats-and-masquerades
 ---
 You may also like:
 
-[SCP-916](http://scp-wiki.net/scp-916)
+[SCP-2503: Estimated Distance: 9,216 Years](http://scp-wiki.net/scp-2503)
 
-[Of Teachers And Taxicabs](http://scp-wiki.net/of-teachers-and-taxicabs)
+[SCP-47-47-J: Rusty the Wonder Dog](http://scp-wiki.net/scp-47-47-j)

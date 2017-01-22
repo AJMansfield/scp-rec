@@ -5,6 +5,6 @@ title: bones-of-autumn
 ---
 You may also like:
 
-[Deadalive Deadalive](http://scp-wiki.net/deadalive-deadalive)
+[5. Mr. Mad](http://scp-wiki.net/5-mr-mad)
 
-[Your Last First Day](http://scp-wiki.net/your-last-first-day)
+[SCP-2273: Major Alexei Belitrov, of the Red Army's 22nd Armored Infantry Division](http://scp-wiki.net/scp-2273)

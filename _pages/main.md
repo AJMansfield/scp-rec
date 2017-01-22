@@ -5,6 +5,6 @@ title: main
 ---
 You may also like:
 
-[SCP-1317](http://scp-wiki.net/scp-1317)
+[Scroll fragment 13Q29](http://scp-wiki.net/scroll-fragment-13q29)
 
-[Document 860-III and IV](http://scp-wiki.net/document-860-iii-and-iv)
+[SCP-2815: Tree of Life](http://scp-wiki.net/scp-2815)

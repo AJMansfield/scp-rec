@@ -5,6 +5,6 @@ title: clean-sweep
 ---
 You may also like:
 
-[To Sleep, Perchance to Dream](http://scp-wiki.net/to-sleep-perchance-to-dream)
+[SCP-896: Online Role Playing Game](http://scp-wiki.net/scp-896)
 
-[Wednesday - 3](http://scp-wiki.net/wednesday-3)
+[Breaking It Down For Me](http://scp-wiki.net/breaking-it-down-to-me)

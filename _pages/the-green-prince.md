@@ -5,6 +5,6 @@ title: the-green-prince
 ---
 You may also like:
 
-[Beneath Two Trees](http://scp-wiki.net/beneath-two-trees)
+[Log-1251-01](http://scp-wiki.net/log-1251-01)
 
-[Strangers of Site-17: Hayakawa](http://scp-wiki.net/strangers-of-site-17-part-three)
+[SCP-629: Mr. Brass](http://scp-wiki.net/scp-629)

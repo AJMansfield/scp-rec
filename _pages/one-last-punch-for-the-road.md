@@ -5,6 +5,6 @@ title: one-last-punch-for-the-road
 ---
 You may also like:
 
-[Ask Doctor Mann](http://scp-wiki.net/ask-doctor-mann)
+[SCP-752: Altruistic Utopia](http://scp-wiki.net/scp-752)
 
-[Eldritch Application](http://scp-wiki.net/eldritch-application)
+[SCP-2084: Anabasis](http://scp-wiki.net/scp-2084)

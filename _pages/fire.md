@@ -5,6 +5,6 @@ title: fire
 ---
 You may also like:
 
-["Tempering"](http://scp-wiki.net/goc-tale-sequence-tempering)
+[SCP-976: Anomalous Hard Drive](http://scp-wiki.net/scp-976)
 
-[SCP-2595](http://scp-wiki.net/scp-2595)
+[SCP-252: Humboldt Squid](http://scp-wiki.net/scp-252)

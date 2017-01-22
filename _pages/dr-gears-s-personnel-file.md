@@ -5,6 +5,6 @@ title: dr-gears-s-personnel-file
 ---
 You may also like:
 
-[SCP-2458](http://scp-wiki.net/scp-2458)
+[SCP-2374: Transporting Washing Machines](http://scp-wiki.net/scp-2374)
 
-[Flamingos](http://scp-wiki.net/flamingos)
+[SCP-1305: Cat Lure](http://scp-wiki.net/scp-1305)

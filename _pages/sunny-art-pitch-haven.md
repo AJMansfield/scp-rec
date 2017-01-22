@@ -5,6 +5,6 @@ title: sunny-art-pitch-haven
 ---
 You may also like:
 
-[SunnyClockwork's Artwork  - Series I](http://scp-wiki.net/sunny-art-series-1)
+[Stealing Solidarity: Phase 4](http://scp-wiki.net/stealingsolidarityphase4)
 
-[SCP-565](http://scp-wiki.net/scp-565)
+[SCP-772: Giant Parasitoid Wasps](http://scp-wiki.net/scp-772)

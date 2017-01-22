@@ -5,6 +5,6 @@ title: ganymede
 ---
 You may also like:
 
-[Storm Front](http://scp-wiki.net/stormfront)
+[Coming soon to a gallery near you!~](http://scp-wiki.net/look-at-me-im-inventing-a-new-group-of-interest)
 
-[Awakenings](http://scp-wiki.net/awakenings)
+[SCP-050: To The Cleverest](http://scp-wiki.net/scp-050)

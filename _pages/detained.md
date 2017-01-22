@@ -5,6 +5,6 @@ title: detained
 ---
 You may also like:
 
-[SCP-1707](http://scp-wiki.net/scp-1707)
+[Are We Cool Yet? Hub](http://scp-wiki.net/are-we-cool-yet-hub)
 
-[SCP-1481](http://scp-wiki.net/scp-1481)
+[Puzzle](http://scp-wiki.net/puzzle)

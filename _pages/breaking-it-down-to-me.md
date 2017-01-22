@@ -5,6 +5,6 @@ title: breaking-it-down-to-me
 ---
 You may also like:
 
-[The Hammer Falls](http://scp-wiki.net/the-hammer-falls)
+[Clean Sweep](http://scp-wiki.net/clean-sweep)
 
-[Land of Plenty](http://scp-wiki.net/land-of-plenty)
+[Unraveled](http://scp-wiki.net/unraveled)

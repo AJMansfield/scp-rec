@@ -5,6 +5,6 @@ title: free-freaks
 ---
 You may also like:
 
-[Freaky Commodities](http://scp-wiki.net/freaky-commodities)
+[What Ever Happened?](http://scp-wiki.net/what-ever-happened)
 
-[SCP-2126](http://scp-wiki.net/scp-2126)
+[Seven Vignettes From The Life Of Mackenzie Lee-Crook](http://scp-wiki.net/seven-vignettes-from-the-life-of-mackenzie-lee-crook)

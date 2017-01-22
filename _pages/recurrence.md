@@ -5,6 +5,6 @@ title: recurrence
 ---
 You may also like:
 
-[A Calculated Risk](http://scp-wiki.net/a-calculated-risk)
+[SCP-1428: Jinwu](http://scp-wiki.net/scp-1428)
 
-[Once But Not Now](http://scp-wiki.net/once-but-not-now)
+[SCP-2151: The Ties That Bind Us](http://scp-wiki.net/scp-2151)

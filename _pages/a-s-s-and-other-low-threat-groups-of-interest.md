@@ -5,6 +5,6 @@ title: a-s-s-and-other-low-threat-groups-of-interest
 ---
 You may also like:
 
-[SCP-1753](http://scp-wiki.net/scp-1753)
+[CotBG Bible Fragments](http://scp-wiki.net/cotbg-bible-fragments)
 
-[Six Days](http://scp-wiki.net/six-days)
+[TwistedGears-Kaktus Proposal: The Broken God](http://scp-wiki.net/twistedgears-kaktus-proposal)

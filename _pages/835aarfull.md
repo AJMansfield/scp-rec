@@ -5,6 +5,6 @@ title: 835aarfull
 ---
 You may also like:
 
-[SCP-093-Recovered Materials](http://scp-wiki.net/scp-093-recovered-materials)
+[SCP-835, Uncensored](http://scp-wiki.net/835revised)
 
-[SCP-911](http://scp-wiki.net/scp-911)
+[SCP-2254: A Concrete-Lined Dreamboat](http://scp-wiki.net/scp-2254)

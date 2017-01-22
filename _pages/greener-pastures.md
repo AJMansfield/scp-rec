@@ -5,6 +5,6 @@ title: greener-pastures
 ---
 You may also like:
 
-[Document Alpha-Zeta-2](http://scp-wiki.net/document-alpha-zeta-2)
+[Merrily, Merrily, Merrily](http://scp-wiki.net/merrily-merrily-merrily)
 
-[Last Days at Camp](http://scp-wiki.net/last-days-at-camp)
+[A Simple Paradigm Shift](http://scp-wiki.net/a-simple-paradigm-shift)

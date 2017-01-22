@@ -5,6 +5,6 @@ title: autocorrect
 ---
 You may also like:
 
-[Wanderer Symbols](http://scp-wiki.net/wanderer-symbols)
+[New Year's (Part 2)](http://scp-wiki.net/new-year-s-part-2)
 
-[SCP-1686](http://scp-wiki.net/scp-1686)
+[A Dysfunctional Heist](http://scp-wiki.net/a-dysfunctional-heist)

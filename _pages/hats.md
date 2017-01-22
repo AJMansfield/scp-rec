@@ -5,6 +5,6 @@ title: hats
 ---
 You may also like:
 
-[Whatever hysteria exists is inflamed by mystery](http://scp-wiki.net/hysteria)
+[Experiment Log 1128](http://scp-wiki.net/experiment-log-1128)
 
-[SCP-405](http://scp-wiki.net/scp-405)
+[UIU File: 1952-003](http://scp-wiki.net/uiu-file-1952-003)

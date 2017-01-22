@@ -5,6 +5,6 @@ title: ofanendlesshunt-partfive-theprisoner
 ---
 You may also like:
 
-[Remembrance Of Walking](http://scp-wiki.net/remembrance-of-walking)
+[SCP-319: A Curious Device](http://scp-wiki.net/scp-319)
 
-[Friday, 2200, Paul Dimaccio's Personal Quarters](http://scp-wiki.net/friday-2200-paul-dimaccios-personal-quarters)
+[I Wish To Be An Asteroid, Burning To Nothing](http://scp-wiki.net/i-wish-to-be-an-asteroid-burning-to-nothing)

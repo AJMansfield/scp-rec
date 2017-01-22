@@ -5,6 +5,6 @@ title: iteration-0
 ---
 You may also like:
 
-[SCP-006-CU-EX](http://scp-wiki.net/scp-006-cu-ex)
+[I Am The Foundation](http://scp-wiki.net/i-am-the-organisation)
 
-[SCP-1987](http://scp-wiki.net/scp-1987)
+[SCP-2031: Ant farm](http://scp-wiki.net/scp-2031)

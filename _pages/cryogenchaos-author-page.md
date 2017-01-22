@@ -5,6 +5,6 @@ title: cryogenchaos-author-page
 ---
 You may also like:
 
-[Cassandra](http://scp-wiki.net/cassandra)
+[Miss Heir](http://scp-wiki.net/miss-heir)
 
-[Unforgettable, That's What You Are](http://scp-wiki.net/unforgettable-that-s-what-you-are)
+[SCP-001](http://scp-wiki.net/scp001-kln)

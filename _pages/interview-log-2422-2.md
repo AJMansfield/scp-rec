@@ -5,6 +5,6 @@ title: interview-log-2422-2
 ---
 You may also like:
 
-[Interrogation W 2105 001](http://scp-wiki.net/interrogation-w-2105-001)
+[SCP-2095: The Siege of Gyaros](http://scp-wiki.net/scp-2095)
 
-[Interview Log 022-751](http://scp-wiki.net/interview-log-022-751)
+[SCP-2604: Not A Fence](http://scp-wiki.net/scp-2604)

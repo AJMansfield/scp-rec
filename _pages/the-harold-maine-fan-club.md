@@ -5,6 +5,6 @@ title: the-harold-maine-fan-club
 ---
 You may also like:
 
-[A Waking Nightmare](http://scp-wiki.net/a-waking-nightmare)
+[SCP-2023: Aidoneus' Apology](http://scp-wiki.net/scp-2023)
 
-["Tempering"](http://scp-wiki.net/goc-tale-sequence-tempering)
+[SCP-2385: Somewhere In The Between](http://scp-wiki.net/scp-2385)

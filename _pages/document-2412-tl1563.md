@@ -5,6 +5,6 @@ title: document-2412-tl1563
 ---
 You may also like:
 
-[SCP-796](http://scp-wiki.net/scp-796)
+[SCP-2297: The Killer Thermostat](http://scp-wiki.net/scp-2297)
 
-[Last Words From Svalbard](http://scp-wiki.net/last-words-from-svalbard)
+[SCP-637: Viral Cat](http://scp-wiki.net/scp-637)

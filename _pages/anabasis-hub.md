@@ -5,6 +5,6 @@ title: anabasis-hub
 ---
 You may also like:
 
-[SCP-1894](http://scp-wiki.net/scp-1894)
+[Where Do Story Arcs Go When They Die?](http://scp-wiki.net/tryingtofleshoutanidea)
 
-[SCP-1077](http://scp-wiki.net/scp-1077)
+[SCP-2467: A Sum Greater Than Its Parts](http://scp-wiki.net/scp-2467)

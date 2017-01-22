@@ -5,6 +5,6 @@ title: colors
 ---
 You may also like:
 
-[SCP-2361](http://scp-wiki.net/scp-2361)
+[SCP-2613: Never Leave the Fallen](http://scp-wiki.net/scp-2613)
 
-[Re: Promotion](http://scp-wiki.net/re-promotion)
+[SCP-1724: Soul Meter](http://scp-wiki.net/scp-1724)

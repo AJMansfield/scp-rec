@@ -5,6 +5,6 @@ title: jot-it-down
 ---
 You may also like:
 
-[Sic Transit Gloria Mundi](http://scp-wiki.net/sic-transit-gloria-mundi)
+[SCP-1440: The Old Man from Nowhere](http://scp-wiki.net/scp-1440)
 
-[Daylight Come](http://scp-wiki.net/daylight-come)
+[SCP-2881: The Tree You Cannot Climb](http://scp-wiki.net/scp-2881)

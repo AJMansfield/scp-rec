@@ -5,6 +5,6 @@ title: eulogies
 ---
 You may also like:
 
-[Entropy](http://scp-wiki.net/entropy)
+[DOCUMENT-SCP-1514-RM4](http://scp-wiki.net/document-scp-1514-rm4)
 
-[Rain Leaking Through A Vendor's Roof](http://scp-wiki.net/the-rain-spills-to-a-torrent-can-you-hear-it)
+[And So It Is Now](http://scp-wiki.net/and-so-it-is-now)

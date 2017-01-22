@@ -5,6 +5,6 @@ title: bigger-than-jesus
 ---
 You may also like:
 
-[Rights' Birthday Party](http://scp-wiki.net/rights-birthday-party)
+[Slipped Under the Door from Cell 142](http://scp-wiki.net/slipped-under-the-door-from-cell-142)
 
-[A Few Minor Counts of Bookkeeping](http://scp-wiki.net/classicalinterlude3)
+[SCP-WTF-J: The Worst](http://scp-wiki.net/scp-wtf-j)

@@ -5,6 +5,6 @@ title: faith
 ---
 You may also like:
 
-[Reservoir Skips](http://scp-wiki.net/reservoir-skips)
+[Every Other Day](http://scp-wiki.net/every-other-day)
 
-[On The Efficiency Of Various Postal Services](http://scp-wiki.net/on-the-efficiency-of-various-postal-services)
+[And So On And So Forth](http://scp-wiki.net/and-so-on-and-so-forth)

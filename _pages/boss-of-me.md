@@ -5,6 +5,6 @@ title: boss-of-me
 ---
 You may also like:
 
-[SCP-1681](http://scp-wiki.net/scp-1681)
+[Dr deValmont's Personnel File](http://scp-wiki.net/dr-devalmont-s-personnel-file)
 
-[SCP-098](http://scp-wiki.net/scp-098)
+[Friends in Dark Places](http://scp-wiki.net/ohnoihavetocomeupwithatitleiambadatthiswhatdoieven)

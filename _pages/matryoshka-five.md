@@ -5,6 +5,6 @@ title: matryoshka-five
 ---
 You may also like:
 
-[Matryoshka: Part Six](http://scp-wiki.net/matryoshka-six)
+[Making a Scene](http://scp-wiki.net/making-a-scene)
 
-[Matryoshka: Part Two](http://scp-wiki.net/matryoshka-two)
+[The Swift Rise And Fall Of Technical Researcher David Rosen](http://scp-wiki.net/the-swift-rise-and-fall-of-technical-researcher-david-rosen)

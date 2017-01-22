@@ -5,6 +5,6 @@ title: licensing-guide
 ---
 You may also like:
 
-[Time](http://scp-wiki.net/time)
+[History Of The Universe: Part Two](http://scp-wiki.net/history-of-the-universe-part-two)
 
-[What Lies Ahead](http://scp-wiki.net/what-lies-ahead)
+[Lending a Hand](http://scp-wiki.net/lending-a-hand)

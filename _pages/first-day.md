@@ -5,6 +5,6 @@ title: first-day
 ---
 You may also like:
 
-[SCP-2937](http://scp-wiki.net/scp-2937)
+[SCP-1347-1353-J: What a Pestis](http://scp-wiki.net/scp-1347-1353-j)
 
-[SCP-1475](http://scp-wiki.net/scp-1475)
+[Zekky's Author Page](http://scp-wiki.net/zekky-s-author-page)

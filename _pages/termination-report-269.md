@@ -5,6 +5,6 @@ title: termination-report-269
 ---
 You may also like:
 
-[SCP-2073](http://scp-wiki.net/scp-2073)
+[Game Day 1: Die Hardest](http://scp-wiki.net/game-day-1-die-hardest)
 
-[GFC](http://scp-wiki.net/gfc)
+[SCP-387: Living Lego](http://scp-wiki.net/scp-387)

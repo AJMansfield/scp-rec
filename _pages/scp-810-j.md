@@ -5,6 +5,6 @@ title: scp-810-j
 ---
 You may also like:
 
-[SCP-1347-1353-J](http://scp-wiki.net/scp-1347-1353-j)
+[SCP-2157: The Human Forest](http://scp-wiki.net/scp-2157)
 
-[Ball Gags and Scrambled Eggs](http://scp-wiki.net/ball-gags-and-scrambled-eggs)
+[Work Journal 3](http://scp-wiki.net/work-journal-3)

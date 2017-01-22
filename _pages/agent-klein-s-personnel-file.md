@@ -5,6 +5,6 @@ title: agent-klein-s-personnel-file
 ---
 You may also like:
 
-[SCP-450](http://scp-wiki.net/scp-450)
+[Ophite's Personnel File](http://scp-wiki.net/ophite-s-personnel-file)
 
-[SCP-391](http://scp-wiki.net/scp-391)
+[SCP-348: A Gift from Dad](http://scp-wiki.net/scp-348)

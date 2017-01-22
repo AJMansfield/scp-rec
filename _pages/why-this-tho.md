@@ -5,6 +5,6 @@ title: why-this-tho
 ---
 You may also like:
 
-[Document 2216-X1999-1](http://scp-wiki.net/document-2216-x1999-1)
+[Fear Alone](http://scp-wiki.net/fear-alone)
 
-[All Work and No Play](http://scp-wiki.net/all-work-and-no-play)
+[SCP-2556: Indefinitely Suspended Stratojet](http://scp-wiki.net/scp-2556)

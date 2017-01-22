@@ -5,6 +5,6 @@ title: dr-manns-proposal
 ---
 You may also like:
 
-[The Black Horse (The Crawling Sea)](http://scp-wiki.net/the-black-horse)
+[SCP-250: Most of an Allosaurus](http://scp-wiki.net/scp-250)
 
-[SCP-039](http://scp-wiki.net/scp-039)
+[SCP-1204: Clingy Transient](http://scp-wiki.net/scp-1204)

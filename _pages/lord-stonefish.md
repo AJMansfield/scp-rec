@@ -5,6 +5,6 @@ title: lord-stonefish
 ---
 You may also like:
 
-[Excitement](http://scp-wiki.net/excitement)
+[Lust in the Time of Anomalous Cholera](http://scp-wiki.net/lust-in-the-time-of-anomalous-cholera)
 
-[Black Lotus](http://scp-wiki.net/black-lotus)
+[Splinters](http://scp-wiki.net/splinters)

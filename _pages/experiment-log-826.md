@@ -5,6 +5,6 @@ title: experiment-log-826
 ---
 You may also like:
 
-[SCP-1417-J](http://scp-wiki.net/scp-1417-j)
+[Dr Rights' Draft Box](http://scp-wiki.net/dr-rights-draft-box)
 
-[SCP-2509](http://scp-wiki.net/scp-2509)
+[Secure Facility Dossier: Containment Site-88](http://scp-wiki.net/secure-facility-dossier-site-88)

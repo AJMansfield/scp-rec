@@ -5,6 +5,6 @@ title: land-of-plenty
 ---
 You may also like:
 
-[Breaking It Down For Me](http://scp-wiki.net/breaking-it-down-to-me)
+[Covert Cursing](http://scp-wiki.net/covert-cursing)
 
-[Taking a Break from All your Worries](http://scp-wiki.net/taking-a-break-from-all-your-worries)
+[SCP-656: Home Edition](http://scp-wiki.net/scp-656)

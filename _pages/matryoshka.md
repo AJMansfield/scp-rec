@@ -5,6 +5,6 @@ title: matryoshka
 ---
 You may also like:
 
-[Why is Five afraid of Seven?](http://scp-wiki.net/why-is-five-afraid-of-seven)
+[SCP-329: The Cancer Garden](http://scp-wiki.net/scp-329)
 
-[SCP-2788](http://scp-wiki.net/scp-2788)
+[SCP-2825: Jacob Perhacs](http://scp-wiki.net/scp-2825)

@@ -5,6 +5,6 @@ title: nor-gloom-of-night-shall-stay
 ---
 You may also like:
 
-[Breakfast For Dinner](http://scp-wiki.net/breakfast-for-dinner)
+[Peeled](http://scp-wiki.net/peeled)
 
-[The Settling Ash](http://scp-wiki.net/the-settling-ash)
+[We Have Dismissed That Claim](http://scp-wiki.net/we-have-dismissed-that-claim)

@@ -5,6 +5,6 @@ title: divine-demands
 ---
 You may also like:
 
-[7 Degrees of Separation](http://scp-wiki.net/7-degrees-of-separation)
+[SCP-1447: Tulpa](http://scp-wiki.net/scp-1447)
 
-[My Loever, the Dog: The Incredibly True Story of Kain Pathos Crow](http://scp-wiki.net/my-loever-the-dog)
+[SCP-1914: Refurbished Infantry Personnel](http://scp-wiki.net/scp-1914)

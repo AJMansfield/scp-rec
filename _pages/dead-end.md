@@ -5,6 +5,6 @@ title: dead-end
 ---
 You may also like:
 
-[Eberstrom's Proposal-ARC](http://scp-wiki.net/eberstrom-s-proposal-arc)
+[Preparation](http://scp-wiki.net/preparation)
 
-[SCP-2270](http://scp-wiki.net/scp-2270)
+[Riptide](http://scp-wiki.net/way-out-in-the-water)

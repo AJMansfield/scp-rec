@@ -5,6 +5,6 @@ title: scp-1162-log
 ---
 You may also like:
 
-[SCP-100000-J](http://scp-wiki.net/scp-100000-j)
+[Incident 239-Abridged](http://scp-wiki.net/incident-239-abridged)
 
-[For Want of a Nail...](http://scp-wiki.net/for-want-of-a-nail)
+[SCP-396: And Suddenly, Chair](http://scp-wiki.net/scp-396)

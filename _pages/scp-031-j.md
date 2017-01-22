@@ -5,6 +5,6 @@ title: scp-031-j
 ---
 You may also like:
 
-[SCP-1876](http://scp-wiki.net/scp-1876)
+[Personnel And Character Dossier](http://scp-wiki.net/personnel-and-character-dossier)
 
-[Excerpts Regarding St. Sophia](http://scp-wiki.net/excerpts-regarding-st-sophia)
+[Incident Log 1245-043](http://scp-wiki.net/incident-log-1245-043)

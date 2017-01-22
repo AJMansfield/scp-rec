@@ -5,6 +5,6 @@ title: cold
 ---
 You may also like:
 
-[Cloudy With A Chance Of Showers](http://scp-wiki.net/cloudy-with-a-chance-of-showers)
+[SCP-1145: Nagasaki Teddy](http://scp-wiki.net/scp-1145)
 
-[A Canticle For Bright](http://scp-wiki.net/a-canticle-for-bright)
+[SCP-639: Distorted Man](http://scp-wiki.net/scp-639)

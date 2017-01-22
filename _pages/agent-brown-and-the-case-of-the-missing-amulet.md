@@ -5,6 +5,6 @@ title: agent-brown-and-the-case-of-the-missing-amulet
 ---
 You may also like:
 
-[Those Thin, Penultimate Hours](http://scp-wiki.net/those-thin-penultimate-hours)
+[SCP-711: Paradoxical Insurance Policy](http://scp-wiki.net/scp-711)
 
-[SCP-517](http://scp-wiki.net/scp-517)
+[Eric_H's Author Page](http://scp-wiki.net/eric-h-s-author-page)

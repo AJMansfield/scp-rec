@@ -5,6 +5,6 @@ title: week-2-only-sane-man
 ---
 You may also like:
 
-[Week 1: Looking for Stuff](http://scp-wiki.net/week-1-looking-for-stuff)
+[Tales From The Bright Side 1](http://scp-wiki.net/tales-from-the-bright-side-chapter-one)
 
-[SCP-1623](http://scp-wiki.net/scp-1623)
+[SCP-020: Unseen Mold](http://scp-wiki.net/scp-020)

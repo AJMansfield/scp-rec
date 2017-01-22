@@ -5,6 +5,6 @@ title: watching-corpses
 ---
 You may also like:
 
-[SCP-091-ARC](http://scp-wiki.net/scp-091-arc)
+[SCP-2002: A Dead Future](http://scp-wiki.net/scp-2002)
 
-[SCP-2139](http://scp-wiki.net/scp-2139)
+[SCP-493: Replicant](http://scp-wiki.net/scp-493)

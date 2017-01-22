@@ -5,6 +5,6 @@ title: djoric-dmatix-proposal
 ---
 You may also like:
 
-[I Can't](http://scp-wiki.net/i-can-t)
+[CirclesAndSquares Author Page](http://scp-wiki.net/circlesandsquares-author-page)
 
-[Puzzle](http://scp-wiki.net/puzzle)
+[Dr. D.H. Aeslinger, Psy.D.](http://scp-wiki.net/crayne-author)

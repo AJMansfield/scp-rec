@@ -5,6 +5,6 @@ title: interview-log-2422-1
 ---
 You may also like:
 
-[SCP-232](http://scp-wiki.net/scp-232)
+[The Slow Asphyxiation Of Undiluted Ardor](http://scp-wiki.net/the-slow-asphyxiation-of-undiluted-ardor)
 
-[SCP-1127](http://scp-wiki.net/scp-1127)
+[Gourmet](http://scp-wiki.net/gourmet)

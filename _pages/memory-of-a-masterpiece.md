@@ -5,6 +5,6 @@ title: memory-of-a-masterpiece
 ---
 You may also like:
 
-[The Glorious Revolution](http://scp-wiki.net/the-glorious-revolution)
+[SCP-2618: This Is How Confidentiality Works, Right?](http://scp-wiki.net/scp-2618)
 
-[Sacrifice](http://scp-wiki.net/sacrifice)
+[SCP-2301: Slayer's Song](http://scp-wiki.net/scp-2301)

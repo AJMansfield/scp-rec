@@ -5,6 +5,6 @@ title: save-her-from-herself
 ---
 You may also like:
 
-[S Andrew Swann's Proposal](http://scp-wiki.net/sandrewswann-s-proposal)
+[SCP-2100: Tripwire](http://scp-wiki.net/scp-2100)
 
-[SCP-1595](http://scp-wiki.net/scp-1595)
+[SCP-1509: The Blade of Rebirth](http://scp-wiki.net/scp-1509)

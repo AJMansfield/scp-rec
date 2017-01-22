@@ -5,6 +5,6 @@ title: foundation-rhymes
 ---
 You may also like:
 
-[SCP-1153](http://scp-wiki.net/scp-1153)
+[SCP-2833: Lineage of Vaski](http://scp-wiki.net/scp-2833)
 
-[Have A Heart](http://scp-wiki.net/have-a-heart)
+[In His Own Image: Interlude 2](http://scp-wiki.net/in-his-own-image-interlude-2)

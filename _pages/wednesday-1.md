@@ -5,6 +5,6 @@ title: wednesday-1
 ---
 You may also like:
 
-[Interview C](http://scp-wiki.net/interview-c)
+[SCP-284: The Twins](http://scp-wiki.net/scp-284)
 
-[Wednesday - 3](http://scp-wiki.net/wednesday-3)
+[I Am Ready](http://scp-wiki.net/i-am-ready)

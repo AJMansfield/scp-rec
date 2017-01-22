@@ -5,6 +5,6 @@ title: fields-of-green
 ---
 You may also like:
 
-[SCP-184](http://scp-wiki.net/scp-184)
+[SCP-636: Elevator to Nowhere](http://scp-wiki.net/scp-636)
 
-[The Beginning Of The End](http://scp-wiki.net/the-beginning-of-the-end)
+[SCP-1277: Thirsty Cactus](http://scp-wiki.net/scp-1277)

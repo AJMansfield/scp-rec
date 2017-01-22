@@ -5,6 +5,6 @@ title: task-forces-arc
 ---
 You may also like:
 
-[sex at frigid temperature](http://scp-wiki.net/this-world-is-as-you-would-have-wanted)
+[Document 2041-J](http://scp-wiki.net/document-2041-j)
 
-[Experiment Log 295-1-b](http://scp-wiki.net/experiment-log-295-b)
+[SCP-776-ARC: A Slightly Unlucky Die](http://scp-wiki.net/scp-776-arc)

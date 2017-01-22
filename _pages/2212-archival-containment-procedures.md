@@ -5,6 +5,6 @@ title: 2212-archival-containment-procedures
 ---
 You may also like:
 
-[2212 Archival Cross-Test Log](http://scp-wiki.net/2212-archival-cross-test-log)
+[2212 Archival Image](http://scp-wiki.net/2212-archival-image)
 
-[SCP-026-J](http://scp-wiki.net/scp-026-j)
+[Uncle Teddy](http://scp-wiki.net/uncle-teddy)

@@ -5,6 +5,6 @@ title: performance-anxiety
 ---
 You may also like:
 
-[The Clock Shall Strike Again](http://scp-wiki.net/the-clock-shall-strike-again)
+[SCP-DEALS-J: ANOMALOUSLY LOW PRICES ON USED AUTOMOBILES](http://scp-wiki.net/scp-deals-j)
 
-[SCP-1203](http://scp-wiki.net/scp-1203)
+[Operation Hippodrome](http://scp-wiki.net/operation-hippodrome)

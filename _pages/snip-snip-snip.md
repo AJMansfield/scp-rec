@@ -5,6 +5,6 @@ title: snip-snip-snip
 ---
 You may also like:
 
-[Shady Meetings](http://scp-wiki.net/shady-meetings)
+[Are We Cool Yet? Hub](http://scp-wiki.net/are-we-cool-yet-hub)
 
-[A Cooler Manifesto](http://scp-wiki.net/a-cooler-manifesto)
+[Shady Meetings](http://scp-wiki.net/shady-meetings)

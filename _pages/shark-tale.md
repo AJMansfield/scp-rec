@@ -5,6 +5,6 @@ title: shark-tale
 ---
 You may also like:
 
-[SCP-610-L4](http://scp-wiki.net/scp-610-l4)
+[SCP-112-ARC: Sex-Hating Sphere](http://scp-wiki.net/scp-112-arc)
 
-[New Year's (Part 1)](http://scp-wiki.net/new-year-s-part-1)
+[Third Death](http://scp-wiki.net/third-death)

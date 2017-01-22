@@ -5,6 +5,6 @@ title: daydreamin
 ---
 You may also like:
 
-[SCP-1960](http://scp-wiki.net/scp-1960)
+[Tenebrae](http://scp-wiki.net/tenebrae)
 
-[SCP-1930](http://scp-wiki.net/scp-1930)
+[Another Good Dream, Another Strange Dream](http://scp-wiki.net/another-good-dream-another-strange-dream)

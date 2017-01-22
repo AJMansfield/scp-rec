@@ -5,6 +5,6 @@ title: researcher-voct-s-personnel-file
 ---
 You may also like:
 
-[SCP-197](http://scp-wiki.net/scp-197)
+[Dr Magnus Personnel File](http://scp-wiki.net/dr-magnus-personnel-file)
 
-[SCP-400-ARC](http://scp-wiki.net/scp-400-arc)
+[Kain Pathos Crow's Author Page](http://scp-wiki.net/kain-pathos-crow-s-author-page)

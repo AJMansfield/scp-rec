@@ -5,6 +5,6 @@ title: it-grows-on-trees
 ---
 You may also like:
 
-[SCP-1424](http://scp-wiki.net/scp-1424)
+[Interlude - Drift](http://scp-wiki.net/interlude-drift)
 
-[SCP-1976](http://scp-wiki.net/scp-1976)
+[Units](http://scp-wiki.net/units)

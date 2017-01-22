@@ -5,6 +5,6 @@ title: interview-c
 ---
 You may also like:
 
-[Wednesday - 1](http://scp-wiki.net/wednesday-1)
+[SCP-1159: The Wind Harp](http://scp-wiki.net/scp-1159)
 
-[Alone](http://scp-wiki.net/alone)
+[SCP-547: The Cartesian Business Card](http://scp-wiki.net/scp-547)

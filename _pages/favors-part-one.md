@@ -5,6 +5,6 @@ title: favors-part-one
 ---
 You may also like:
 
-[That'll Do Pig. That'll Do.](http://scp-wiki.net/that-ll-do-pig-that-ll-do)
+[I Keep The Wolf From The Door](http://scp-wiki.net/i-keep-the-wolf-from-the-door)
 
-[SCP-1440](http://scp-wiki.net/scp-1440)
+[CryogenChaos' Comment Tales](http://scp-wiki.net/cryogenchaos-comment-tales)

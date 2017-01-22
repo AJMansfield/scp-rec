@@ -5,6 +5,6 @@ title: house-of-gears-part-one
 ---
 You may also like:
 
-[Between Shelves](http://scp-wiki.net/between-shelves)
+[SCP-1945: A Slow-Scan Signal](http://scp-wiki.net/scp-1945)
 
-[To Sleep, Perchance to Dream](http://scp-wiki.net/to-sleep-perchance-to-dream)
+[SCP-1484: Murder Diary](http://scp-wiki.net/scp-1484)

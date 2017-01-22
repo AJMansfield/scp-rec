@@ -5,6 +5,6 @@ title: hysteria
 ---
 You may also like:
 
-["Iceberg" Personnel File](http://scp-wiki.net/iceberg-personnel-file)
+[SCP-931: A Rice Bowl](http://scp-wiki.net/scp-931)
 
-[Tuomey Author Page](http://scp-wiki.net/tuomey-author-page)
+[SCP-1710: Life as a Tree](http://scp-wiki.net/scp-1710)

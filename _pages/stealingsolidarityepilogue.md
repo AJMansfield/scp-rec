@@ -5,6 +5,6 @@ title: stealingsolidarityepilogue
 ---
 You may also like:
 
-[SCP-1545](http://scp-wiki.net/scp-1545)
+[SCP Series 3](http://scp-wiki.net/scp-series-3)
 
-[SCP-704](http://scp-wiki.net/scp-704)
+[Researcher Wei Zhong's Personnel File](http://scp-wiki.net/weizhong)

@@ -5,6 +5,6 @@ title: avatara
 ---
 You may also like:
 
-[The Lord Of Endowments](http://scp-wiki.net/the-lord-of-endowments)
+[Fields Of Green](http://scp-wiki.net/fields-of-green)
 
-[A Memorandum](http://scp-wiki.net/a-memorandum)
+[SCP-2000-J: Dunky the Funky Werecat 2000: Werecat Strikes Back](http://scp-wiki.net/scp-2000-j)

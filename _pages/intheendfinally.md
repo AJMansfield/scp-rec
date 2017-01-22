@@ -5,6 +5,6 @@ title: intheendfinally
 ---
 You may also like:
 
-[SCP-014-J](http://scp-wiki.net/scp-014-j)
+[Payday](http://scp-wiki.net/payday)
 
-[SCP-5308-J](http://scp-wiki.net/scp-5308-j)
+[SCP-004: The 12 Rusty Keys and the Door](http://scp-wiki.net/scp-004)

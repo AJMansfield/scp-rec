@@ -5,6 +5,6 @@ title: anime-is-art-too-guys
 ---
 You may also like:
 
-[SCP-2323](http://scp-wiki.net/scp-2323)
+[Annon](http://scp-wiki.net/annon)
 
-[SCP-114](http://scp-wiki.net/scp-114)
+[Out of Time](http://scp-wiki.net/clock-is-ticking)

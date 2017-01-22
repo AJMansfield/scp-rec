@@ -5,6 +5,6 @@ title: back-alley-deals
 ---
 You may also like:
 
-[Operation "Camp Granada"](http://scp-wiki.net/hellomuddah)
+[SCP-846: Robo-Dude](http://scp-wiki.net/scp-846)
 
-[Light-Dependent Reactions](http://scp-wiki.net/light-dependent-reactions)
+[A Crossing](http://scp-wiki.net/cav-007)

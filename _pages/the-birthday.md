@@ -5,6 +5,6 @@ title: the-birthday
 ---
 You may also like:
 
-[SCP-1702](http://scp-wiki.net/scp-1702)
+[SCP-819: Vital Suckers](http://scp-wiki.net/scp-819)
 
-[SCP-664](http://scp-wiki.net/scp-664)
+[12. Mr. Laugh](http://scp-wiki.net/mr-laugh)

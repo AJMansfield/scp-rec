@@ -5,6 +5,6 @@ title: little-ones
 ---
 You may also like:
 
-[Conspiracy, Part I](http://scp-wiki.net/conspiracy-part-i)
+[Friday, 2200, Paul Dimaccio's Personal Quarters](http://scp-wiki.net/friday-2200-paul-dimaccios-personal-quarters)
 
-[An Interview With Francis Lepage](http://scp-wiki.net/an-interview-with-francis-lepage)
+[A Very Bailey Christmas](http://scp-wiki.net/a-very-bailey-christmas)

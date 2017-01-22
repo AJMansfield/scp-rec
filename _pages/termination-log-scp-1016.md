@@ -5,6 +5,6 @@ title: termination-log-scp-1016
 ---
 You may also like:
 
-[Incident 517-1997-M](http://scp-wiki.net/incident-517-1997-m)
+[DOCUMENT: 2424-009-G](http://scp-wiki.net/blast-processing)
 
-[Document SCP-701-1640-B-1](http://scp-wiki.net/scp7011640b1)
+[SCP-1851: Doll House](http://scp-wiki.net/scp-1851)

@@ -5,6 +5,6 @@ title: right
 ---
 You may also like:
 
-[She's Angry and Going South](http://scp-wiki.net/she-s-angry-and-going-south)
+[Termination_Order](http://scp-wiki.net/termination-order)
 
-[SCP-765](http://scp-wiki.net/scp-765)
+[Home for the Holidays](http://scp-wiki.net/theres-no-place-like)

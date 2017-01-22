@@ -5,6 +5,6 @@ title: new-year-s-part-2
 ---
 You may also like:
 
-[Lessons](http://scp-wiki.net/lessons)
+[Site 11, Conference Room K, 8:58 AM, July 12, 1982](http://scp-wiki.net/nope-not-typing-all-that)
 
-[Origination](http://scp-wiki.net/origination)
+[New Year's (Part 1)](http://scp-wiki.net/new-year-s-part-1)

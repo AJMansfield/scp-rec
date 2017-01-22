@@ -5,6 +5,6 @@ title: experiment-log-777-a
 ---
 You may also like:
 
-[SCP-1684](http://scp-wiki.net/scp-1684)
+[Chapter Three: Corn Starch](http://scp-wiki.net/corn-starch)
 
-[In other news,](http://scp-wiki.net/in-other-news)
+[SCP TV Pilot: Into the Deep End](http://scp-wiki.net/scp-tv-pilot-into-the-deep-end)

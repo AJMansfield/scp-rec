@@ -5,6 +5,6 @@ title: exit-interview
 ---
 You may also like:
 
-[The Journal of K. M. Sandoval](http://scp-wiki.net/the-journal-of-k-m-sandoval)
+[SCP-1892: Psychiatry Chair](http://scp-wiki.net/scp-1892)
 
-[The Little Buck-Toothed Boy: A Fairy Tale](http://scp-wiki.net/a-fairy-tale)
+[Spark of Creation](http://scp-wiki.net/spark-of-creation)

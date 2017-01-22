@@ -5,6 +5,6 @@ title: lana-neal-sings-the-blues
 ---
 You may also like:
 
-[Memory Of Days Long Past](http://scp-wiki.net/memory-of-days-long-past)
+[Sudden Thoughts](http://scp-wiki.net/sudden-thoughts)
 
-[Monday, 6am, Escherville Facility Two](http://scp-wiki.net/monday-6am-escherville-facility-two)
+[Dr. "Tall Fellow" Donohue's Personnel File](http://scp-wiki.net/martin-tall-fellow-donohue)

@@ -5,6 +5,6 @@ title: lycan-therapy-s-personnel-file
 ---
 You may also like:
 
-[The Broken Mind](http://scp-wiki.net/broken-mind)
+[SCP-1511: Mobile Paradise](http://scp-wiki.net/scp-1511)
 
-[And Now, The We[EXPUNGED]](http://scp-wiki.net/now-the-we-expunged)
+[SCP-2350: A Romance in Higher Dimensions](http://scp-wiki.net/scp-2350)

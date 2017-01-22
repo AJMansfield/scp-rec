@@ -5,6 +5,6 @@ title: the-rain
 ---
 You may also like:
 
-[SCP-2809](http://scp-wiki.net/scp-2809)
+[You're Always on My Mind](http://scp-wiki.net/you-re-always-on-my-mind)
 
-[Test log 1825-01](http://scp-wiki.net/test-log-1825-01)
+[Of Teachers And Taxicabs](http://scp-wiki.net/of-teachers-and-taxicabs)

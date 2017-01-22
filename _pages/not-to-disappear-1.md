@@ -5,6 +5,6 @@ title: not-to-disappear-1
 ---
 You may also like:
 
-[December 24th, 2011 Hub](http://scp-wiki.net/december-24th-2011-hub)
+[Olympia Integration Experiment GAMMA](http://scp-wiki.net/olympia-integration-experiment-gamma)
 
-[Surgery](http://scp-wiki.net/surgery)
+[Sudden Thoughts](http://scp-wiki.net/sudden-thoughts)

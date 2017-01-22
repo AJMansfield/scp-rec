@@ -5,6 +5,6 @@ title: scp-784-arc
 ---
 You may also like:
 
-[Ghost Stories](http://scp-wiki.net/ghost-stories)
+[SCP-326: A Chinese Peasant](http://scp-wiki.net/scp-326)
 
-[SCP-2545](http://scp-wiki.net/scp-2545)
+[SCP-2165: Irredeemable](http://scp-wiki.net/scp-2165)

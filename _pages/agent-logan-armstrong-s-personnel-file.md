@@ -5,6 +5,6 @@ title: agent-logan-armstrong-s-personnel-file
 ---
 You may also like:
 
-[Dr Jung's Terminal](http://scp-wiki.net/freudian)
+[Inside/Outside](http://scp-wiki.net/inside-outside)
 
-["Petro" Derinsky's Personnel File](http://scp-wiki.net/petro-derinsky-s-personnel-file)
+[We Who Poke With Sticks](http://scp-wiki.net/when-in-doubt-poke-it-with-a-stick)

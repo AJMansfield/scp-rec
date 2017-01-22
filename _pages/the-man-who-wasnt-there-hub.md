@@ -5,6 +5,6 @@ title: the-man-who-wasnt-there-hub
 ---
 You may also like:
 
-[Killing Knowledge](http://scp-wiki.net/killing-knowledge)
+[SCP-2146: The Space Whale](http://scp-wiki.net/scp-2146)
 
-[Experiment Log 634](http://scp-wiki.net/experiment-log-634)
+[SCP-2084: Undated Instant Message Correspondence](http://scp-wiki.net/undated-im-correspondence)

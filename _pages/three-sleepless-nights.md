@@ -5,6 +5,6 @@ title: three-sleepless-nights
 ---
 You may also like:
 
-[A Calculated Risk](http://scp-wiki.net/a-calculated-risk)
+[SCP-2177: Yellow Journal Infection](http://scp-wiki.net/scp-2177)
 
-[For Old Time's Sake](http://scp-wiki.net/for-old-time-s-sake)
+[Nurse White Personnel File](http://scp-wiki.net/mimi-member-page)

@@ -5,6 +5,6 @@ title: interview-scp-418-3
 ---
 You may also like:
 
-[Eulogy For The Living](http://scp-wiki.net/eulogy-for-the-living)
+[Shell Shock](http://scp-wiki.net/shell-shock)
 
-[SCP-1758](http://scp-wiki.net/scp-1758)
+[Additional SCP-1420 Test Logs](http://scp-wiki.net/additional-scp-1420-test-logs-can-be-found-here)

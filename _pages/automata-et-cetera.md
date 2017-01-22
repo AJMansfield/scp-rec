@@ -5,6 +5,6 @@ title: automata-et-cetera
 ---
 You may also like:
 
-[Unusual Incidents Unit Hub](http://scp-wiki.net/unusual-incidents-unit-hub)
+[Incident Report Log 567-4012](http://scp-wiki.net/incidence-report-log-567-4012)
 
-[SCP-1477](http://scp-wiki.net/scp-1477)
+[Antivirus](http://scp-wiki.net/gdp2-antivirus)

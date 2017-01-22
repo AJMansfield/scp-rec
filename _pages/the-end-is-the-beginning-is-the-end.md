@@ -5,6 +5,6 @@ title: the-end-is-the-beginning-is-the-end
 ---
 You may also like:
 
-[Family](http://scp-wiki.net/family)
+[New Year's (Part 1)](http://scp-wiki.net/new-year-s-part-1)
 
-[SCP-2446](http://scp-wiki.net/scp-2446)
+[Variations on a Schema](http://scp-wiki.net/variations-on-a-schema)

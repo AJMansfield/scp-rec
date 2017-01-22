@@ -5,6 +5,6 @@ title: lambda-killer
 ---
 You may also like:
 
-[Skippy](http://scp-wiki.net/skippy)
+[SCP-1728: Buttery Decapitated Highwayman](http://scp-wiki.net/scp-1728)
 
-[Null-terminating String](http://scp-wiki.net/null-terminating-string)
+[Wayfarers](http://scp-wiki.net/wayfarers)

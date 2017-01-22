@@ -5,6 +5,6 @@ title: last-meetings
 ---
 You may also like:
 
-[Building Up](http://scp-wiki.net/building-up)
+[A Little Chat](http://scp-wiki.net/gdp2-a-little-chat)
 
-[Consolidation](http://scp-wiki.net/consolidation)
+[SCP-702: The Trader's Residence](http://scp-wiki.net/scp-702)

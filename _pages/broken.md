@@ -5,6 +5,6 @@ title: broken
 ---
 You may also like:
 
-[SCP-1723](http://scp-wiki.net/scp-1723)
+[SCP-1924: Broken Man](http://scp-wiki.net/scp-1924)
 
-[RE:](http://scp-wiki.net/this-memorandum-does-not-exist)
+[SCP-2303: Tower of Silence](http://scp-wiki.net/scp-2303)

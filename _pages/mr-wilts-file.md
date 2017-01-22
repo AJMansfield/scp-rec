@@ -5,6 +5,6 @@ title: mr-wilts-file
 ---
 You may also like:
 
-[CONFISCATED DOCUMENT 847-26, "CALENDAR"](http://scp-wiki.net/breakcalendar)
+[Herman Fuller Presents: The Flame Faced Man](http://scp-wiki.net/the-flame-faced-man)
 
-[SCP-948](http://scp-wiki.net/scp-948)
+[SCP-2998](http://scp-wiki.net/scp-2998-3)

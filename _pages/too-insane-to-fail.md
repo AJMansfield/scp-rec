@@ -5,6 +5,6 @@ title: too-insane-to-fail
 ---
 You may also like:
 
-[SCP-10101](http://scp-wiki.net/scp-10101-j)
+[D-5111](http://scp-wiki.net/d-5111)
 
-[SCP-2797](http://scp-wiki.net/scp-2797)
+[First Seed](http://scp-wiki.net/first-seed)

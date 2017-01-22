@@ -5,6 +5,6 @@ title: scp-239-s-spell-book
 ---
 You may also like:
 
-[Field Man](http://scp-wiki.net/field-man)
+[SCP-2946: Overly Large E. Coli](http://scp-wiki.net/scp-2946)
 
-[The Things Dr Bright Is Not Allowed To Do At The Foundation](http://scp-wiki.net/the-things-dr-bright-is-not-allowed-to-do-at-the-foundation)
+[SCP-133: Instant Hole](http://scp-wiki.net/scp-133)

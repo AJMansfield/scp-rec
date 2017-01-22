@@ -5,6 +5,6 @@ title: scp-789-j
 ---
 You may also like:
 
-[SCP-412](http://scp-wiki.net/scp-412)
+[The Man at the Threshold](http://scp-wiki.net/the-man-at-the-threshold)
 
-[SCP-1088](http://scp-wiki.net/scp-1088)
+[SCP-2172: This Light Never Turns Green](http://scp-wiki.net/scp-2172)

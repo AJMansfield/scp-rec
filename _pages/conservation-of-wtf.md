@@ -5,6 +5,6 @@ title: conservation-of-wtf
 ---
 You may also like:
 
-[History Of The Universe: Part One](http://scp-wiki.net/history-of-the-universe-part-one)
+[The Tick Tock Gospel](http://scp-wiki.net/the-tick-tock-gospel)
 
-[An Interview With "The Administrator"](http://scp-wiki.net/an-interview-with-the-administrator)
+[Dr deValmont's Personnel File](http://scp-wiki.net/dr-devalmont-s-personnel-file)

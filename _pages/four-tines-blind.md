@@ -5,6 +5,6 @@ title: four-tines-blind
 ---
 You may also like:
 
-[SCP-062](http://scp-wiki.net/scp-062)
+[SCP-035: Possessive Mask](http://scp-wiki.net/scp-035)
 
-[...](http://scp-wiki.net/scp-5555-j)
+[SCP-226: Puzzle Of Terror](http://scp-wiki.net/scp-226)

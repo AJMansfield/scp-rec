@@ -5,6 +5,6 @@ title: 784incident7
 ---
 You may also like:
 
-[Loyal to the Cause](http://scp-wiki.net/loyal-to-the-cause)
+[SCP-195: A "Medicinal Whiskey"](http://scp-wiki.net/scp-195)
 
-[Oneirochemy](http://scp-wiki.net/oneirochemy)
+[SCP-1650: Macabee Oil](http://scp-wiki.net/scp-1650)

@@ -5,6 +5,6 @@ title: the-gate-opens
 ---
 You may also like:
 
-[INCIDENT-370-A](http://scp-wiki.net/incident-370-a)
+[Practice Area](http://scp-wiki.net/practice-area)
 
-[SCP-1373](http://scp-wiki.net/scp-1373)
+[SCP-2020: Cliche, Right?](http://scp-wiki.net/scp-2020)

@@ -5,6 +5,6 @@ title: spectral-files
 ---
 You may also like:
 
-[Good As New](http://scp-wiki.net/good-as-new)
+[Dichotomy](http://scp-wiki.net/dichotomy)
 
-[Third Law Hub](http://scp-wiki.net/third-law-hub)
+[Those You Leave Behind](http://scp-wiki.net/those-you-leave-behind)

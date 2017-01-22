@@ -5,6 +5,6 @@ title: how-to-debate-an-armchair
 ---
 You may also like:
 
-[20,584](http://scp-wiki.net/20-584)
+[The Truth Is Out There](http://scp-wiki.net/the-truth-is-out-there)
 
-[Fourth and Long](http://scp-wiki.net/fourth-and-long)
+[Dr. Light's Personnel File](http://scp-wiki.net/dr-light-s-personnel-file)

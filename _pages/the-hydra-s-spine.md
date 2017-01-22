@@ -5,6 +5,6 @@ title: the-hydra-s-spine
 ---
 You may also like:
 
-[In Case You've Ever Wondered...](http://scp-wiki.net/theysayshelooksjustlikeo5-8)
+[SCP-2636: The Last Daughter of Thsassashan'aa](http://scp-wiki.net/scp-2636)
 
-[SCP-344](http://scp-wiki.net/scp-344)
+[A Long Ways from Home](http://scp-wiki.net/a-long-ways-from-home)

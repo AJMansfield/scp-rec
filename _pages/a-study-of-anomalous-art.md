@@ -5,6 +5,6 @@ title: a-study-of-anomalous-art
 ---
 You may also like:
 
-[SCP-2428](http://scp-wiki.net/scp-2428)
+[SCP-2377: Your House](http://scp-wiki.net/scp-2377)
 
-[SCP-1856](http://scp-wiki.net/scp-1856)
+[SCP-1928: The Family Banjo](http://scp-wiki.net/scp-1928)

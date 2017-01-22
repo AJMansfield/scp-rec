@@ -5,6 +5,6 @@ title: the-beginning-of-the-end
 ---
 You may also like:
 
-[Excerpts From The Medical Tragedy of Dr. Bartholomew Artz, Author Unknown](http://scp-wiki.net/excerpts-from-the-medical-tragedy-of-dr-bartholomew-artz-aut)
+[SCP-194: Carrion Host](http://scp-wiki.net/scp-194)
 
-[Probe-H9](http://scp-wiki.net/probe-h9)
+[Scruff, Claws, Paws](http://scp-wiki.net/scruff-claws-paws)

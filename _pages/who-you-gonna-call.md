@@ -5,6 +5,6 @@ title: who-you-gonna-call
 ---
 You may also like:
 
-[SCP-1337](http://scp-wiki.net/scp-1337)
+[WrongJohnSilver's Author Page](http://scp-wiki.net/wrongjohnsilver-s-author-page)
 
-[SCP-500](http://scp-wiki.net/scp-500)
+[728](http://scp-wiki.net/728)

@@ -5,6 +5,6 @@ title: hexadon-s-arthur-page
 ---
 You may also like:
 
-[Dr. Solo's Personnel File](http://scp-wiki.net/dr-solo-s-personnel-file)
+[Someone Steals Aldon's Penis](http://scp-wiki.net/someone-steals-aldons-penis)
 
-[Researcher Robert Sandler](http://scp-wiki.net/personnel-file-of-robert-sandler)
+[SCP-078-J: Cooties](http://scp-wiki.net/scp-078-j)

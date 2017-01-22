@@ -5,6 +5,6 @@ title: scp-fronts
 ---
 You may also like:
 
-[A Friend's Words](http://scp-wiki.net/a-friend-s-words)
+[SCP-131: The "Eye Pods"](http://scp-wiki.net/scp-131)
 
-[SCP-359](http://scp-wiki.net/scp-359)
+[Three Farewells](http://scp-wiki.net/three-farewells)

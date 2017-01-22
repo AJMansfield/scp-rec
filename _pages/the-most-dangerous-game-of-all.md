@@ -5,6 +5,6 @@ title: the-most-dangerous-game-of-all
 ---
 You may also like:
 
-[SCP-1413](http://scp-wiki.net/scp-1413)
+[SCP-1293: Squeedle Deedle Dee!](http://scp-wiki.net/scp-1293)
 
-[SCP-2158](http://scp-wiki.net/scp-2158)
+["Scramble Order"](http://scp-wiki.net/goc-tale-sequence-scrambleorder)

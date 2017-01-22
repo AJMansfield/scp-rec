@@ -5,6 +5,6 @@ title: patronage
 ---
 You may also like:
 
-[SCP-005-J-EX](http://scp-wiki.net/scp-005-j-ex)
+[A Billion Brilliant Colors and a Spirit Less Than Human](http://scp-wiki.net/the-fine-print-ii)
 
-[SCP-1104](http://scp-wiki.net/scp-1104)
+[Deus Vult](http://scp-wiki.net/deus-vult)

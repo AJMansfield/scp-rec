@@ -5,6 +5,6 @@ title: code-name-the-truth
 ---
 You may also like:
 
-[First Seed](http://scp-wiki.net/first-seed)
+[Little SCP-507 Lost](http://scp-wiki.net/little-scp-507-lost)
 
-[An Evening With Bright](http://scp-wiki.net/an-evening-with-bright)
+[Local Legends](http://scp-wiki.net/local-legends)

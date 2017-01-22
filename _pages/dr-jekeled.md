@@ -5,6 +5,6 @@ title: dr-jekeled
 ---
 You may also like:
 
-[Dr. Blast's Personnel File](http://scp-wiki.net/dr-blast-s-personnel-file)
+[Beneath the Name](http://scp-wiki.net/beneath-the-name)
 
-[SCP-1404](http://scp-wiki.net/scp-1404)
+[My Hell](http://scp-wiki.net/my-hell)

@@ -5,6 +5,6 @@ title: dr-bright-s-personnel-file
 ---
 You may also like:
 
-[SCP-444](http://scp-wiki.net/scp-444)
+[Cells](http://scp-wiki.net/cells)
 
-[SCP-805](http://scp-wiki.net/scp-805)
+[SCP-006: Fountain of Youth](http://scp-wiki.net/scp-006)

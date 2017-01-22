@@ -5,6 +5,6 @@ title: prisoners
 ---
 You may also like:
 
-[Family](http://scp-wiki.net/family)
+[SCP-2894: Phantom Island](http://scp-wiki.net/scp-2894)
 
-[Cat's in the Cradle](http://scp-wiki.net/cat-s-in-the-cradle)
+[Work Journal 2](http://scp-wiki.net/work-journal-2)

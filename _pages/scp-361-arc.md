@@ -5,6 +5,6 @@ title: scp-361-arc
 ---
 You may also like:
 
-[Coming soon to a gallery near you!~](http://scp-wiki.net/look-at-me-im-inventing-a-new-group-of-interest)
+[Mf99k's Fanshy Stuff](http://scp-wiki.net/mf99k-author-page)
 
-[Convergence](http://scp-wiki.net/convergence)
+[Chowderclef](http://scp-wiki.net/chowderclef)

@@ -5,6 +5,6 @@ title: scp-s
 ---
 You may also like:
 
-[ORIA MEMORANDUM 0013 REGARDING PROJECT 934](http://scp-wiki.net/oria-memorandum-0013-regarding-project-934)
+[SCP-1867: A Gentleman](http://scp-wiki.net/scp-1867)
 
-[SCP-475](http://scp-wiki.net/scp-475)
+[Legally a Falcon (For Tax Purposes)](http://scp-wiki.net/legally-a-falcon-for-tax-purposes)

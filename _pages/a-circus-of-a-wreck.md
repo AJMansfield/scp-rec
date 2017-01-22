@@ -5,6 +5,6 @@ title: a-circus-of-a-wreck
 ---
 You may also like:
 
-[SCP-1722](http://scp-wiki.net/scp-1722)
+[News for May 2016](http://scp-wiki.net/news-05-2016)
 
-[SCP-2328](http://scp-wiki.net/scp-2328)
+[News for December 2015](http://scp-wiki.net/news-12-2015)

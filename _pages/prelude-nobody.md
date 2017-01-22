@@ -5,6 +5,6 @@ title: prelude-nobody
 ---
 You may also like:
 
-[SCP-2966](http://scp-wiki.net/scp-2966)
+[Memories From A Past Life](http://scp-wiki.net/memories-from-a-past-life)
 
-[SCP-151](http://scp-wiki.net/scp-151)
+[It Grows On Trees](http://scp-wiki.net/it-grows-on-trees)

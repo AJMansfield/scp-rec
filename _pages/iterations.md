@@ -5,6 +5,6 @@ title: iterations
 ---
 You may also like:
 
-[SCP-2463](http://scp-wiki.net/scp-2463)
+[SCP-123-J: Amazing Butter-like Substance!](http://scp-wiki.net/scp-123-j)
 
-[SCP-2750](http://scp-wiki.net/scp-2750)
+[Kingdom of Stone: Slay, Cure, Protect](http://scp-wiki.net/kingdom-of-stone-slay-cure-protect)

@@ -5,6 +5,6 @@ title: progress
 ---
 You may also like:
 
-[SCP-50-AE-J](http://scp-wiki.net/scp-50-ae-j)
+[SCP-986: Faulkner's Last Manuscript](http://scp-wiki.net/scp-986)
 
-[SCP-1726](http://scp-wiki.net/scp-1726)
+[C. HOSTILIUS BACCHUS "BINIHIL"](http://scp-wiki.net/ch00bakka-personnel-file)

@@ -5,6 +5,6 @@ title: flow
 ---
 You may also like:
 
-[Shuffle Tick Tick](http://scp-wiki.net/shuffle-tick-tick)
+[SCP-956: The Child-Breaker](http://scp-wiki.net/scp-956)
 
-[Origin: One Day Your Toes May Reach The Trees](http://scp-wiki.net/origin-one-day-your-toes-may-reach-the-trees)
+[A Tale of Five Offerings](http://scp-wiki.net/hint-the-thing-is-173)

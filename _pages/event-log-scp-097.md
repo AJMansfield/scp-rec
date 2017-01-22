@@ -5,6 +5,6 @@ title: event-log-scp-097
 ---
 You may also like:
 
-[SCP-963](http://scp-wiki.net/scp-963)
+[The Man with Oscilloscope Eyes](http://scp-wiki.net/first-interlude)
 
-[SCP-990](http://scp-wiki.net/scp-990)
+[Year Of The Many](http://scp-wiki.net/year-of-the-many)

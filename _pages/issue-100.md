@@ -5,6 +5,6 @@ title: issue-100
 ---
 You may also like:
 
-[SCP-2330](http://scp-wiki.net/scp-2330)
+[The Night Before [REDACTED]](http://scp-wiki.net/the-night-before-redacted)
 
-[SCP-871](http://scp-wiki.net/scp-871)
+[Unraveled](http://scp-wiki.net/unraveled)

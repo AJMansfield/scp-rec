@@ -5,6 +5,6 @@ title: november-sun
 ---
 You may also like:
 
-[The Last Good Man in the Foundation](http://scp-wiki.net/the-last-good-man-in-the-foundation)
+[SCP-2989: Of Bookworms, Bamboo, and Beating Hearts.](http://scp-wiki.net/scp-2989)
 
-[SCP-2251](http://scp-wiki.net/scp-2251)
+[SCP-699: Mystery Box](http://scp-wiki.net/scp-699)

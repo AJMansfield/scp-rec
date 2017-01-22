@@ -5,6 +5,6 @@ title: old-kansas-sector-part-7
 ---
 You may also like:
 
-[Old Kansas Sector 1: Farmhouse](http://scp-wiki.net/old-kansas-sector)
+[SCP-1092: A Species of Fish](http://scp-wiki.net/scp-1092)
 
-[Date Night](http://scp-wiki.net/date-night)
+[SCP-1053: Overpopulation](http://scp-wiki.net/scp-1053)

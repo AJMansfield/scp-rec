@@ -5,6 +5,6 @@ title: qntm-s-proposal
 ---
 You may also like:
 
-[SCP-186](http://scp-wiki.net/scp-186)
+[Experiment Log 158 Aa](http://scp-wiki.net/experiment-log-158-aa)
 
-[SCP-1545](http://scp-wiki.net/scp-1545)
+[SCP-1375: Extraterrestrial Tube Station](http://scp-wiki.net/scp-1375)

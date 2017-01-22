@@ -5,6 +5,6 @@ title: aryanne-s-tail
 ---
 You may also like:
 
-[SCP-681](http://scp-wiki.net/scp-681)
+[The Last Good Man in the Foundation](http://scp-wiki.net/the-last-good-man-in-the-foundation)
 
-[SCP 2413 - Decontamination Document](http://scp-wiki.net/decontamination-document-0094)
+[SCP-1666: The Devil's Music](http://scp-wiki.net/scp-1666)

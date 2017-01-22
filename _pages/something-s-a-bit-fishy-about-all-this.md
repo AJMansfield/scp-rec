@@ -5,6 +5,6 @@ title: something-s-a-bit-fishy-about-all-this
 ---
 You may also like:
 
-[Interview Log 1372-1](http://scp-wiki.net/interview-log-1372-1)
+[SCP-4002-J: Curd of Prey](http://scp-wiki.net/scp-4002-j)
 
-[SCP-2213](http://scp-wiki.net/scp-2213)
+[Mobile Task Forces](http://scp-wiki.net/task-forces-arc-2)

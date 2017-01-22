@@ -5,6 +5,6 @@ title: paper-pusher
 ---
 You may also like:
 
-[SCP-052](http://scp-wiki.net/scp-052)
+[SCP-301: Teleporter](http://scp-wiki.net/scp-301)
 
-[SCP-697](http://scp-wiki.net/scp-697)
+[HK-016](http://scp-wiki.net/hk-016)

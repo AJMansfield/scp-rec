@@ -5,6 +5,6 @@ title: nondescript-nose
 ---
 You may also like:
 
-[Endless Hunt Part Two: Rites of Passage](http://scp-wiki.net/ofanendlesshunt-parttwo-rites-of-passage)
+[She's Angry and Going South](http://scp-wiki.net/she-s-angry-and-going-south)
 
-[The Man in Orange](http://scp-wiki.net/the-man-in-orange)
+[SCP-1310: Examination Room 10](http://scp-wiki.net/scp-1310)

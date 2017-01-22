@@ -5,6 +5,6 @@ title: scp-1548-cu
 ---
 You may also like:
 
-[Family Business](http://scp-wiki.net/family-business)
+[SCP-375: Forever A-Loan](http://scp-wiki.net/scp-375)
 
-[Resale Value](http://scp-wiki.net/resale-value)
+[SCP-1894: Crash Course Diet](http://scp-wiki.net/scp-1894)

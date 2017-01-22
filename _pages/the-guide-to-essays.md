@@ -5,6 +5,6 @@ title: the-guide-to-essays
 ---
 You may also like:
 
-[SCP-177](http://scp-wiki.net/scp-177)
+[SCP-1516: The Written Man](http://scp-wiki.net/scp-1516)
 
-[History Of The Universe: Part Two](http://scp-wiki.net/history-of-the-universe-part-two)
+[The Glorious Revolution](http://scp-wiki.net/the-glorious-revolution)

@@ -5,6 +5,6 @@ title: sacrifice
 ---
 You may also like:
 
-[Memory of a Masterpiece](http://scp-wiki.net/memory-of-a-masterpiece)
+[SCP-1286: Sad Man](http://scp-wiki.net/scp-1286)
 
-[Sycamore Center Preparatory](http://scp-wiki.net/sycamore-center-preparatory)
+[Reality Check](http://scp-wiki.net/reality-check)

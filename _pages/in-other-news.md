@@ -5,6 +5,6 @@ title: in-other-news
 ---
 You may also like:
 
-[SCP-586](http://scp-wiki.net/scp-586)
+[SCP-1240: The Mixed-up Pet Shop](http://scp-wiki.net/scp-1240)
 
-[Exploration Log 2474.1](http://scp-wiki.net/exploration-log-2474-1)
+[Christmas Dinner](http://scp-wiki.net/christmas-dinner)

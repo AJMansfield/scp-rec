@@ -5,6 +5,6 @@ title: monsters
 ---
 You may also like:
 
-[SCP-1475](http://scp-wiki.net/scp-1475)
+[An Excerpt from Goodbye Ghost](http://scp-wiki.net/an-excerpt-from-goodbye-ghost)
 
-[Dr. Solo's Personnel File](http://scp-wiki.net/dr-solo-s-personnel-file)
+[The Longest Ride](http://scp-wiki.net/the-longest-ride)

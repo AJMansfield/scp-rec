@@ -5,6 +5,6 @@ title: too-slow
 ---
 You may also like:
 
-[SCP-512](http://scp-wiki.net/scp-512)
+[Dr. Mackenzie's Guide to Author Stereotypes](http://scp-wiki.net/mackenzie-stereotypes)
 
-[Skippy](http://scp-wiki.net/skippy)
+[SCP-2592: Milk and Bananas](http://scp-wiki.net/scp-2592)

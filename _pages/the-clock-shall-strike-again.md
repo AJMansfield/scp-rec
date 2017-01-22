@@ -5,6 +5,6 @@ title: the-clock-shall-strike-again
 ---
 You may also like:
 
-[Whoa, Here She Comes](http://scp-wiki.net/whoa-here-she-comes)
+[SCP-890: The Rocket Surgeon](http://scp-wiki.net/scp-890)
 
-[The Interviews](http://scp-wiki.net/the-interviews)
+[SCP-1202: Lost Voice](http://scp-wiki.net/scp-1202)

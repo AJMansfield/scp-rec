@@ -5,6 +5,6 @@ title: conspiracy-epilogue
 ---
 You may also like:
 
-[Conspiracy, Part VIII](http://scp-wiki.net/conspiracy-part-viii)
+[Fire on the Horizon](http://scp-wiki.net/fire-on-the-horizon)
 
-[We Interrupt this Program](http://scp-wiki.net/we-interrupt-this-program)
+[SCP-2696: The Haunted Victorian Mansion of Dark Peak](http://scp-wiki.net/scp-2696)

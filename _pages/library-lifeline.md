@@ -5,6 +5,6 @@ title: library-lifeline
 ---
 You may also like:
 
-[Jam Jars](http://scp-wiki.net/jam-jars)
+[Life in the Multiverse](http://scp-wiki.net/life-in-the-multiverse)
 
-[Involuntary Isolation](http://scp-wiki.net/involuntary-isolation)
+[WELCOME TO THE MISSION WATCH BULLETIN BOARD](http://scp-wiki.net/manna-charitable-foundation-hub)

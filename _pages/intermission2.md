@@ -5,6 +5,6 @@ title: intermission2
 ---
 You may also like:
 
-[The Longest Ride](http://scp-wiki.net/the-longest-ride)
+[SCP-491: Wrecking Light](http://scp-wiki.net/scp-491)
 
-[For Want of a Nail...](http://scp-wiki.net/for-want-of-a-nail)
+[SCP-951: My Friend LUCAS](http://scp-wiki.net/scp-951)

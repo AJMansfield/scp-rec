@@ -5,6 +5,6 @@ title: activity-documentation-file-11-a
 ---
 You may also like:
 
-[SCP-696](http://scp-wiki.net/scp-696)
+[Dr Mann's Personnel File](http://scp-wiki.net/dr-manns-personnel-file)
 
-[SCP-574](http://scp-wiki.net/scp-574)
+[Burden of Humanity](http://scp-wiki.net/burden-of-humanity)

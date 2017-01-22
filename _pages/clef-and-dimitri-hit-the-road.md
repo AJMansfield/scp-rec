@@ -5,6 +5,6 @@ title: clef-and-dimitri-hit-the-road
 ---
 You may also like:
 
-[SCP-820](http://scp-wiki.net/scp-820)
+[Mr Foweraker's Personnel File](http://scp-wiki.net/mr-foweraker-s-personnel-file)
 
-[Reddawn](http://scp-wiki.net/reddawn)
+[SCP-008: Zombie Plague](http://scp-wiki.net/scp-008)

@@ -5,6 +5,6 @@ title: disciplinary-report-51b-46
 ---
 You may also like:
 
-[SCP-999](http://scp-wiki.net/scp-999)
+[Flamingos](http://scp-wiki.net/flamingos)
 
-[SCP-1743](http://scp-wiki.net/scp-1743)
+[SCP-990: Dream Man](http://scp-wiki.net/scp-990)

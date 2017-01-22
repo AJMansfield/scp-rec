@@ -5,6 +5,6 @@ title: sympathy
 ---
 You may also like:
 
-[SCP-2984](http://scp-wiki.net/scp-2984)
+[In His Own Image: Part 5](http://scp-wiki.net/in-his-own-image-part-5)
 
-[Kingdom of Stone: The End of a Man](http://scp-wiki.net/kingdom-of-stone-the-end-of-a-man)
+[SCP-1871: Vorpal Sword](http://scp-wiki.net/scp-1871)

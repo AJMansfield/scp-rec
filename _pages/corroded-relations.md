@@ -5,6 +5,6 @@ title: corroded-relations
 ---
 You may also like:
 
-[The Warrior And The Dragon](http://scp-wiki.net/the-warrior-and-the-dragon)
+[The Coward](http://scp-wiki.net/the-coward)
 
-[SCP-1632](http://scp-wiki.net/scp-1632)
+[Dr Rioghail's Personnel File](http://scp-wiki.net/dr-rioghail-s-personnel-file)

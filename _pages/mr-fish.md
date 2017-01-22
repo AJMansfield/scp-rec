@@ -5,6 +5,6 @@ title: mr-fish
 ---
 You may also like:
 
-[Going Out](http://scp-wiki.net/going-out)
+[Document-2013-Lucius](http://scp-wiki.net/document-2013-lucius)
 
-[Little Hurley Lost in Meatspace](http://scp-wiki.net/little-hurley-lost-in-meatspace)
+[SCP-1639: The Jazz Station](http://scp-wiki.net/scp-1639)

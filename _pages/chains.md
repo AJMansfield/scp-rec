@@ -5,6 +5,6 @@ title: chains
 ---
 You may also like:
 
-[SCP-1941](http://scp-wiki.net/scp-1941)
+[SCP-1670: Interdimensional House of Pancakes](http://scp-wiki.net/scp-1670)
 
-[SCP-1203](http://scp-wiki.net/scp-1203)
+[Colors, Part II](http://scp-wiki.net/colors-part-ii)

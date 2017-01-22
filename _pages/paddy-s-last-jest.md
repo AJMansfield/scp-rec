@@ -5,6 +5,6 @@ title: paddy-s-last-jest
 ---
 You may also like:
 
-[SCP-2807](http://scp-wiki.net/scp-2807)
+[SCP-2901: Mothman](http://scp-wiki.net/scp-2901)
 
-[SCP-2179](http://scp-wiki.net/scp-2179)
+[Introductory Antimemetics](http://scp-wiki.net/introductory-antimemetics)

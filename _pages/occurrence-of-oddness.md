@@ -5,6 +5,6 @@ title: occurrence-of-oddness
 ---
 You may also like:
 
-[Favors-Part One](http://scp-wiki.net/favors-part-one)
+[SCP-719: Light-Bringer](http://scp-wiki.net/scp-719)
 
-[How To Debate An Armchair](http://scp-wiki.net/how-to-debate-an-armchair)
+[SCP-914: The Clockworks](http://scp-wiki.net/scp-914)

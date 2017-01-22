@@ -5,6 +5,6 @@ title: reversed-engineering
 ---
 You may also like:
 
-[SCP-250](http://scp-wiki.net/scp-250)
+[SCP-246: Prophetic Projector](http://scp-wiki.net/scp-246)
 
-[Dr. Ikari, I presume](http://scp-wiki.net/dr-ikari-i-presume)
+[SCP-1668: Deliver Us From Knowledge](http://scp-wiki.net/scp-1668)

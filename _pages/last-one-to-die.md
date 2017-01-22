@@ -5,6 +5,6 @@ title: last-one-to-die
 ---
 You may also like:
 
-[Swing Shift](http://scp-wiki.net/swing-shift)
+[SCP-919: Needy Mirror](http://scp-wiki.net/scp-919)
 
-[Conspiracy, Prologue](http://scp-wiki.net/conspiracy-prologue)
+[SCP-1614: The Flea](http://scp-wiki.net/scp-1614)

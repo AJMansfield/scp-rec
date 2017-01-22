@@ -5,6 +5,6 @@ title: sandrewswann-s-proposal
 ---
 You may also like:
 
-[Save Her From Herself](http://scp-wiki.net/save-her-from-herself)
+[SCP-2066: Highly Visible Entity](http://scp-wiki.net/scp-2066)
 
-[Note: A Part of Nobody](http://scp-wiki.net/note-a-part-of-nobody)
+[Broken Masquerade HUB](http://scp-wiki.net/broken-masquerade-hub)

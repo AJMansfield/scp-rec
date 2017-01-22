@@ -5,6 +5,6 @@ title: faceless
 ---
 You may also like:
 
-[An Faq Part Two; Or, Your Hume Questions Answered](http://scp-wiki.net/an-faq-part-two-or-your-hume-questions-answered)
+[3. Mr. Money](http://scp-wiki.net/3-mr-money)
 
-[SCP-1472](http://scp-wiki.net/scp-1472)
+[Nothing to See Here](http://scp-wiki.net/nothingtoseehere)

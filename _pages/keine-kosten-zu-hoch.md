@@ -5,6 +5,6 @@ title: keine-kosten-zu-hoch
 ---
 You may also like:
 
-[New Technical Issues](http://scp-wiki.net/new-technical-issues)
+[SCP-724: Procyon stentor](http://scp-wiki.net/scp-724)
 
-[Fritzwillie's Author Page](http://scp-wiki.net/fritzwillie-s-author-page)
+[SCP-140: An Incomplete Chronicle](http://scp-wiki.net/scp-140)

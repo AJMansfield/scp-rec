@@ -5,6 +5,6 @@ title: decibelle
 ---
 You may also like:
 
-[Univine's Author Page](http://scp-wiki.net/univine-s-author-page)
+[SCP-1531: Perfect Lie Detector](http://scp-wiki.net/scp-1531)
 
-[Dr Jung's Terminal](http://scp-wiki.net/freudian)
+[The Face of God](http://scp-wiki.net/the-face-of-god)

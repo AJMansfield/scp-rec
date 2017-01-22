@@ -5,6 +5,6 @@ title: the-space-soldier
 ---
 You may also like:
 
-[The Good Captain Pt. 2: The Lycon Crevice](http://scp-wiki.net/the-lycon-crevice)
+[SCP-103-J: Confirmed](http://scp-wiki.net/scp-103-j)
 
-[SCP-1170](http://scp-wiki.net/scp-1170)
+[SCP-2393: Trees These Days](http://scp-wiki.net/scp-2393)

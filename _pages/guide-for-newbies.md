@@ -5,6 +5,6 @@ title: guide-for-newbies
 ---
 You may also like:
 
-[SCP-424](http://scp-wiki.net/scp-424)
+[Ask Doctor Mann](http://scp-wiki.net/ask-doctor-mann)
 
-[Presence](http://scp-wiki.net/presence)
+[SCP-252: Humboldt Squid](http://scp-wiki.net/scp-252)

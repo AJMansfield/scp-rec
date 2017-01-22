@@ -5,6 +5,6 @@ title: metacritique-one
 ---
 You may also like:
 
-[SCP-121](http://scp-wiki.net/scp-121)
+[SCP-918: Baby Mill](http://scp-wiki.net/scp-918)
 
-[An Excerpt from Goodbye Ghost](http://scp-wiki.net/an-excerpt-from-goodbye-ghost)
+[SCP-2255: The Most Interesting Rainstorm in the World](http://scp-wiki.net/scp-2255)

@@ -5,6 +5,6 @@ title: series-archive
 ---
 You may also like:
 
-[SCP-2148](http://scp-wiki.net/scp-2148)
+[Contest Archive](http://scp-wiki.net/contest-archive)
 
-[SCP-1928](http://scp-wiki.net/scp-1928)
+[I Talked With 516 One Day](http://scp-wiki.net/talked-with-516)

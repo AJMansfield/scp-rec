@@ -5,6 +5,6 @@ title: the-good-of-the-other
 ---
 You may also like:
 
-[Hands](http://scp-wiki.net/hands)
+[Chapter 1: Verse 1](http://scp-wiki.net/chapter-1-verse-1)
 
-[The Settling Ash](http://scp-wiki.net/the-settling-ash)
+[When We Came Home](http://scp-wiki.net/when-we-came-home)

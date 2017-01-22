@@ -5,6 +5,6 @@ title: in-symphony
 ---
 You may also like:
 
-[Typo Positive](http://scp-wiki.net/typo-positive)
+[D-2000](http://scp-wiki.net/d-2000)
 
-[SCP-2219](http://scp-wiki.net/scp-2219)
+[A-C Sharp-E](http://scp-wiki.net/a-c-sharp-e)

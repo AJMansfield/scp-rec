@@ -5,6 +5,6 @@ title: rot
 ---
 You may also like:
 
-[The Decoy](http://scp-wiki.net/the-decoy)
+[SCP-706: Perfect Porcelain Doll](http://scp-wiki.net/scp-706)
 
-[Sweetness](http://scp-wiki.net/sweetness)
+[Cliches And You: An Educational Film](http://scp-wiki.net/cliches-and-you-an-educational-film)

@@ -5,6 +5,6 @@ title: mr-laugh
 ---
 You may also like:
 
-[SCP-1795](http://scp-wiki.net/scp-1795)
+[SCP-374: Oracular Guillotine](http://scp-wiki.net/scp-374)
 
-[9. Mr. Clumsy](http://scp-wiki.net/9-mr-clumsy)
+[Pieces of Mind](http://scp-wiki.net/the-birthday)

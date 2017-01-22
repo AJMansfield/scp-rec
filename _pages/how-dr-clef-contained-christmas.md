@@ -5,6 +5,6 @@ title: how-dr-clef-contained-christmas
 ---
 You may also like:
 
-[SCP-1055](http://scp-wiki.net/scp-1055)
+[SCP-630: Black Glacier](http://scp-wiki.net/scp-630)
 
-[SCP-440](http://scp-wiki.net/scp-440)
+[SCP-050: To The Cleverest](http://scp-wiki.net/scp-050)

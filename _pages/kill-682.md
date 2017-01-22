@@ -5,6 +5,6 @@ title: kill-682
 ---
 You may also like:
 
-[SCP-081](http://scp-wiki.net/scp-081)
+[SCP-1645: The Viper and the Virus](http://scp-wiki.net/scp-1645)
 
-[SCP-2600](http://scp-wiki.net/scp-2600)
+[The Bacterium  (Part Two)](http://scp-wiki.net/the-bacterium-part-two)

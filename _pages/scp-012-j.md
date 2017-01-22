@@ -5,6 +5,6 @@ title: scp-012-j
 ---
 You may also like:
 
-[Patterns](http://scp-wiki.net/patterns)
+[Matryoshka: Epilogue](http://scp-wiki.net/matryoshka-epilogue)
 
-[Message of the Relic](http://scp-wiki.net/message-of-the-relic)
+[SCP-1835: Rupertian Zeppelins](http://scp-wiki.net/scp-1835)

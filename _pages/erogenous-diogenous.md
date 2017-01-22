@@ -5,6 +5,6 @@ title: erogenous-diogenous
 ---
 You may also like:
 
-[SCP-1850](http://scp-wiki.net/scp-1850)
+[The Shark, Pt.1](http://scp-wiki.net/the-shark-pt-1)
 
-[New Year's (Part 2)](http://scp-wiki.net/new-year-s-part-2)
+[SCP-239's Spell Book](http://scp-wiki.net/scp-239-s-spell-book)

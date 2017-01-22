@@ -5,6 +5,6 @@ title: duty
 ---
 You may also like:
 
-[SCP-2480](http://scp-wiki.net/scp-2480)
+[SCP-2212: [MASSIVE DATABASE CORRUPTION]](http://scp-wiki.net/scp-2212)
 
-[Personal Log of Agent AA](http://scp-wiki.net/log-of-agent-aa)
+[Dr. Mackenzie's Glossary of Terms](http://scp-wiki.net/mackenzie-glossary)

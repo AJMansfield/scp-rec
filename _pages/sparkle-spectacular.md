@@ -5,6 +5,6 @@ title: sparkle-spectacular
 ---
 You may also like:
 
-[SCP-1803](http://scp-wiki.net/scp-1803)
+[Retired, Extremely Dangerous](http://scp-wiki.net/retired-extremely-dangerous)
 
-[SCP-803](http://scp-wiki.net/scp-803)
+[CONTAIN](http://scp-wiki.net/contain)

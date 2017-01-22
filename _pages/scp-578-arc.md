@@ -5,6 +5,6 @@ title: scp-578-arc
 ---
 You may also like:
 
-[SCP-429](http://scp-wiki.net/scp-429)
+[Antarctic Exchange Hub](http://scp-wiki.net/antarctic-exchange-hub)
 
-[Interlude: An Excerpt](http://scp-wiki.net/board-meeting-transcript)
+[SCP-354: The Red Pool](http://scp-wiki.net/scp-354)

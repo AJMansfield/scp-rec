@@ -5,6 +5,6 @@ title: the-lycon-crevice
 ---
 You may also like:
 
-[Chapter 2: How to Hold a Debate while Skydiving](http://scp-wiki.net/brink-dangerguts-chapter-2)
+[SCP-2336: The Word](http://scp-wiki.net/scp-2336)
 
-[Taking Stock](http://scp-wiki.net/taking-stock)
+[SCP-682-CU: Cutest Ickle Lizard](http://scp-wiki.net/scp-682-cu)

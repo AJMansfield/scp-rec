@@ -5,6 +5,6 @@ title: bees
 ---
 You may also like:
 
-[Old Kansas Sector ~ 12: Laugh is Okay](http://scp-wiki.net/old-kansas-sector-part-12)
+[SCP-2799: The Navigator](http://scp-wiki.net/scp-2799)
 
-[Zmax's Author Page](http://scp-wiki.net/zmax-s-author-page)
+[Montala's Personnel File](http://scp-wiki.net/montala-s-personnel-file)

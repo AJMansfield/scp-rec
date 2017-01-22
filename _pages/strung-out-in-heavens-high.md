@@ -5,6 +5,6 @@ title: strung-out-in-heavens-high
 ---
 You may also like:
 
-[SCP-1841](http://scp-wiki.net/scp-1841)
+[SCP-855: The Film Hall](http://scp-wiki.net/scp-855)
 
-[Empire Of Dirt (Part 2)](http://scp-wiki.net/empire-of-dirt-part-2)
+[SCP-1354: Fancy-Talking Soup](http://scp-wiki.net/scp-1354)

@@ -5,6 +5,6 @@ title: potent-drug
 ---
 You may also like:
 
-[The Rise and Fall of Callus](http://scp-wiki.net/the-rise-and-fall-of-callus)
+[Quota](http://scp-wiki.net/quota)
 
-[SCP-1130](http://scp-wiki.net/scp-1130)
+[Experiment Log 455](http://scp-wiki.net/experiment-log-455)

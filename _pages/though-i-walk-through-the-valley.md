@@ -5,6 +5,6 @@ title: though-i-walk-through-the-valley
 ---
 You may also like:
 
-[The Tale of the Library](http://scp-wiki.net/the-tale-of-the-library)
+[SCP-916: Man's Best Friend](http://scp-wiki.net/scp-916)
 
-[Old Kansas Sector ~ 8: Gersha](http://scp-wiki.net/old-kansas-sector-part-8)
+[Down the Silver River](http://scp-wiki.net/down-the-silver-river)

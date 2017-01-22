@@ -5,6 +5,6 @@ title: week-1-day-3-finding-some-stuff
 ---
 You may also like:
 
-[Behind the Scenes](http://scp-wiki.net/behind-the-scenes)
+[SCP-1611: Guarded Apartment](http://scp-wiki.net/scp-1611)
 
-[SCP-2041](http://scp-wiki.net/scp-2041)
+[SCP-444: The Language of Global Harmony](http://scp-wiki.net/scp-444)

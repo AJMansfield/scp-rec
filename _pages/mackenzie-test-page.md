@@ -5,6 +5,6 @@ title: mackenzie-test-page
 ---
 You may also like:
 
-[Welcome to the Future](http://scp-wiki.net/welcome-to-the-future)
+[Excerpts from PHYSICS Division Field Manual 1: Operative's Handbook](http://scp-wiki.net/goc-supplemental-basic-guide)
 
-[SCP-297](http://scp-wiki.net/scp-297)
+[Girls' Night Out: Dressing Up](http://scp-wiki.net/dressing-up)

@@ -5,6 +5,6 @@ title: excerpts-of-the-personal-log-of-research-assistant-915-g
 ---
 You may also like:
 
-[SCP-2021](http://scp-wiki.net/scp-2021)
+[SCP-1078: Sight-Stealing Eye](http://scp-wiki.net/scp-1078)
 
-[The Man in Orange](http://scp-wiki.net/the-man-in-orange)
+[Part Seven: ... And Whenever They Catch You, They Will Kill You...](http://scp-wiki.net/ofanendlesshunt-partseven-andwhenevertheycatchyou)

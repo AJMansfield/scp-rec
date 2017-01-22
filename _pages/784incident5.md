@@ -5,6 +5,6 @@ title: 784incident5
 ---
 You may also like:
 
-[SCP-1647](http://scp-wiki.net/scp-1647)
+[.::Only |n Drea{{m}}s--](http://scp-wiki.net/only-in-dreams)
 
-["Sometimes You Get the Bear. . ."](http://scp-wiki.net/gdp2-sometimes-you-get-the-bear)
+[Hava](http://scp-wiki.net/hava)

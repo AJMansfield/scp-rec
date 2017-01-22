@@ -5,6 +5,6 @@ title: ailier
 ---
 You may also like:
 
-[Document 1082-25](http://scp-wiki.net/document-1082-25)
+[SCP-1424: Patches](http://scp-wiki.net/scp-1424)
 
-[SCP-596](http://scp-wiki.net/scp-596)
+[Poopstick McGee and the Flying Walruses](http://scp-wiki.net/poopstick-mcgee-and-the-flying-walruses)

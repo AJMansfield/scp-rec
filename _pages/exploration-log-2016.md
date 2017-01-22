@@ -5,6 +5,6 @@ title: exploration-log-2016
 ---
 You may also like:
 
-[SCP-051](http://scp-wiki.net/scp-051)
+[SCP-1418: The Dowager's Comb](http://scp-wiki.net/scp-1418)
 
-[SCP-503-ARC](http://scp-wiki.net/scp-503-arc)
+[A Circus With Paranoia](http://scp-wiki.net/a-circus-with-paranoia)

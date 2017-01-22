@@ -7,4 +7,4 @@ You may also like:
 
 [Finding Anderson](http://scp-wiki.net/finding-anderson)
 
-[Ties That Bind](http://scp-wiki.net/ties-that-bind)
+[SCP-1624: Heartworms](http://scp-wiki.net/scp-1624)

@@ -5,6 +5,6 @@ title: mackenzie-s-proposal
 ---
 You may also like:
 
-[Facetious Fanatics](http://scp-wiki.net/facetious-fanatics)
+[SCP-1168: A Highly Immature and Completely Unofficial Parody](http://scp-wiki.net/scp-1168)
 
-[SCP-2973](http://scp-wiki.net/scp-2973)
+[SCP-2135: 91st Street Station](http://scp-wiki.net/scp-2135)

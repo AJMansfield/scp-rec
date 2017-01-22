@@ -5,6 +5,6 @@ title: scp-j
 ---
 You may also like:
 
-[Housework](http://scp-wiki.net/housework)
+[The Place Where Two Rivers Meet](http://scp-wiki.net/the-place-where-two-rivers-meet)
 
-[SCP-1867](http://scp-wiki.net/scp-1867)
+[Freaky Commodities](http://scp-wiki.net/freaky-commodities)

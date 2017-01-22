@@ -5,6 +5,6 @@ title: surprise-happy-birthday-3
 ---
 You may also like:
 
-[Surprise! Happy Birthday! Once more...](http://scp-wiki.net/surprise-happy-birthday-4)
+[SCP-1287: Closure](http://scp-wiki.net/scp-1287)
 
-[Surprise! Happy Birthday! Now, see here...](http://scp-wiki.net/surprise-happy-birthday-5)
+[SCP-673: Tissues](http://scp-wiki.net/scp-673)

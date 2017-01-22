@@ -5,6 +5,6 @@ title: clavis
 ---
 You may also like:
 
-[Empty Spaces](http://scp-wiki.net/empty-spaces)
+[173](http://scp-wiki.net/173)
 
-[SCP-1810](http://scp-wiki.net/scp-1810)
+[SCP-1145: Nagasaki Teddy](http://scp-wiki.net/scp-1145)

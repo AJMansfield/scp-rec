@@ -5,6 +5,6 @@ title: the-flesh-that-mates
 ---
 You may also like:
 
-[SCP-2431](http://scp-wiki.net/scp-2431)
+[SCP-1203: Ouroboros](http://scp-wiki.net/scp-1203)
 
-[SCP-279](http://scp-wiki.net/scp-279)
+[SCP-264: Skeleton Temple](http://scp-wiki.net/scp-264)

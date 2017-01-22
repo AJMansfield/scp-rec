@@ -5,6 +5,6 @@ title: to-settle-all-accounts-of-the-heart
 ---
 You may also like:
 
-[SCP-902](http://scp-wiki.net/scp-902)
+[Researcher Eisenberg's Personnel File](http://scp-wiki.net/vaeisenberg-personnel-file)
 
-[SCP-366](http://scp-wiki.net/scp-366)
+[SCP-953: Polymorphic Humanoid](http://scp-wiki.net/scp-953)

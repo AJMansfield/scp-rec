@@ -5,6 +5,6 @@ title: israfil
 ---
 You may also like:
 
-[Last Meetings](http://scp-wiki.net/last-meetings)
+[SCP-596: Cursed Regeneration Statue](http://scp-wiki.net/scp-596)
 
-[Friday, 2200, Paul Dimaccio's Personal Quarters](http://scp-wiki.net/friday-2200-paul-dimaccios-personal-quarters)
+[SCP-1356: Rubber Ducky](http://scp-wiki.net/scp-1356)

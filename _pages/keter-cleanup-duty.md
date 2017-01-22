@@ -5,6 +5,6 @@ title: keter-cleanup-duty
 ---
 You may also like:
 
-[Chasing Interest](http://scp-wiki.net/chasing-interest)
+[SCP-255: Base Eleven Disorder](http://scp-wiki.net/scp-255)
 
-[SCP-009-J](http://scp-wiki.net/scp-009-j)
+[SCP-074: Quantum Woodlouse](http://scp-wiki.net/scp-074)

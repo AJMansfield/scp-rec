@@ -5,6 +5,6 @@ title: document-2041-j
 ---
 You may also like:
 
-[SCP-2269](http://scp-wiki.net/scp-2269)
+[Task Forces](http://scp-wiki.net/task-forces-arc)
 
-[SCP-2057](http://scp-wiki.net/scp-2057)
+[SCP-299: Infectious Tree](http://scp-wiki.net/scp-299)

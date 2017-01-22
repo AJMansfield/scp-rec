@@ -5,6 +5,6 @@ title: repost
 ---
 You may also like:
 
-[SCP-2260](http://scp-wiki.net/scp-2260)
+[SCP-1943: No Anomalies Detected](http://scp-wiki.net/scp-1943)
 
-[SCP-165](http://scp-wiki.net/scp-165)
+[SCP-1137: Perfect Sphere](http://scp-wiki.net/scp-1137)

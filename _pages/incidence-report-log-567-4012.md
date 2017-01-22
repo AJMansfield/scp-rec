@@ -5,6 +5,6 @@ title: incidence-report-log-567-4012
 ---
 You may also like:
 
-[SCP-093 'Green' Test](http://scp-wiki.net/scp-093-green-test)
+[SCP-683: Refrigerator Art](http://scp-wiki.net/scp-683)
 
-[SCP-2976](http://scp-wiki.net/scp-2976)
+[Johnny's Wild Ride](http://scp-wiki.net/johnnys-wild-ride)

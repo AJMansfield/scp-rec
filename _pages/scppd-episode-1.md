@@ -5,6 +5,6 @@ title: scppd-episode-1
 ---
 You may also like:
 
-[SCP-126](http://scp-wiki.net/scp-126)
+[SCP-682-J James' Coloring Book](http://scp-wiki.net/scp-682-j-james-coloring-book)
 
-[SCP-2150](http://scp-wiki.net/scp-2150)
+[SCP-2050: Sciurine Crusaders](http://scp-wiki.net/scp-2050)

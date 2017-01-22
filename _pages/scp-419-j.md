@@ -5,6 +5,6 @@ title: scp-419-j
 ---
 You may also like:
 
-[Conspiracy, Part III](http://scp-wiki.net/conspiracy-part-iii)
+[His Name](http://scp-wiki.net/his-name)
 
-[SCP-1138](http://scp-wiki.net/scp-1138)
+[SCP-2367: Splatzshtaffel](http://scp-wiki.net/scp-2367)

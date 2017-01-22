@@ -5,6 +5,6 @@ title: reality-check
 ---
 You may also like:
 
-[The Glorious Revolution](http://scp-wiki.net/the-glorious-revolution)
+[The Journal of K. M. Sandoval](http://scp-wiki.net/the-journal-of-k-m-sandoval)
 
-[Sacrifice](http://scp-wiki.net/sacrifice)
+[SCP-2984: Girl on Fire](http://scp-wiki.net/scp-2984)

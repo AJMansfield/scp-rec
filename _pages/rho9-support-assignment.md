@@ -5,6 +5,6 @@ title: rho9-support-assignment
 ---
 You may also like:
 
-[Resale Value](http://scp-wiki.net/resale-value)
+[Cakework](http://scp-wiki.net/cakework)
 
-[Personal Log Of Gordon Richards](http://scp-wiki.net/personal-log-of-gordon-richards)
+[SCP-038: The Everything Tree](http://scp-wiki.net/scp-038)

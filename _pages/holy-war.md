@@ -5,6 +5,6 @@ title: holy-war
 ---
 You may also like:
 
-[SCP-1449](http://scp-wiki.net/scp-1449)
+[SCP-1238: Tunnelfish](http://scp-wiki.net/scp-1238)
 
-[SCP-2636](http://scp-wiki.net/scp-2636)
+[SCP-1144: Orion Scales](http://scp-wiki.net/scp-1144)

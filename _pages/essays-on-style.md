@@ -5,6 +5,6 @@ title: essays-on-style
 ---
 You may also like:
 
-[History Of The Universe: Part Three](http://scp-wiki.net/history-of-the-universe-part-three)
+[Dr. Mackenzie's Common SCP Pitfalls](http://scp-wiki.net/mackenzie-pitfalls)
 
-[Metacritique 2: Anomalous Art](http://scp-wiki.net/metacritique-two)
+[SCP-1232: Novosadov Syndrome](http://scp-wiki.net/scp-1232)

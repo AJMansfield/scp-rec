@@ -5,6 +5,6 @@ title: transparent
 ---
 You may also like:
 
-[Oops](http://scp-wiki.net/oops)
+[SCP-1818: Flying Rabbits](http://scp-wiki.net/scp-1818)
 
-[SCP-1639](http://scp-wiki.net/scp-1639)
+[Mothers' Love](http://scp-wiki.net/mothers-love)

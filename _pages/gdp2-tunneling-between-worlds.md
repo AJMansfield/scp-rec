@@ -5,6 +5,6 @@ title: gdp2-tunneling-between-worlds
 ---
 You may also like:
 
-[Game Day Part 1: Smilers](http://scp-wiki.net/game-day-1-smilers)
+[SCP-1355: House of Harmonious Boxes](http://scp-wiki.net/scp-1355)
 
-[SCP-1020](http://scp-wiki.net/scp-1020)
+[SCP-2991: "Scarf"](http://scp-wiki.net/scp-2991)

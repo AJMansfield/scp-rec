@@ -5,6 +5,6 @@ title: eta-5-and-the-terrible-horrible-no-good-very-bad-oragamizill
 ---
 You may also like:
 
-[Guard Duty](http://scp-wiki.net/guard-duty)
+[Track 4: You and Me](http://scp-wiki.net/you-and-me)
 
-[The Price We Pay](http://scp-wiki.net/the-price-we-pay)
+[SCP-143 Testing Log](http://scp-wiki.net/scp-143-testing-log)

@@ -5,6 +5,6 @@ title: to-my-companion-who-sleeps-eternally-beyond-reach
 ---
 You may also like:
 
-[Behind the Scenes](http://scp-wiki.net/behind-the-scenes)
+[Experiments of Paper, Part 1](http://scp-wiki.net/experiments-of-paper-part-1)
 
-[Origin of Clef](http://scp-wiki.net/originofclef)
+[Interview Log 7362](http://scp-wiki.net/interview-log-7362)

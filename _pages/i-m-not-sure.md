@@ -5,6 +5,6 @@ title: i-m-not-sure
 ---
 You may also like:
 
-[SCP-869](http://scp-wiki.net/scp-869)
+[wowwee u kild ursefl](http://scp-wiki.net/wowwee-u-kild-ursefl)
 
-[SCP-484](http://scp-wiki.net/scp-484)
+[Personnel Sketches](http://scp-wiki.net/personnel-sketches)

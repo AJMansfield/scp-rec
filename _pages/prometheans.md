@@ -5,6 +5,6 @@ title: prometheans
 ---
 You may also like:
 
-[Goodbye](http://scp-wiki.net/goodbye)
+[SCP-2130: Office Furniture](http://scp-wiki.net/scp-2130)
 
-[SCP-1192](http://scp-wiki.net/scp-1192)
+[SCP-1235: Atlas Microcosm](http://scp-wiki.net/scp-1235)

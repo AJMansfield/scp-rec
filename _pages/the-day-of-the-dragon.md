@@ -5,6 +5,6 @@ title: the-day-of-the-dragon
 ---
 You may also like:
 
-[Null-terminating String](http://scp-wiki.net/null-terminating-string)
+[Lessons Learned](http://scp-wiki.net/lessons-learned)
 
-[Ineffective](http://scp-wiki.net/ineffective)
+[What Passes as Normal in the Digital Age](http://scp-wiki.net/what-passes-as-normal-in-the-digital-age)

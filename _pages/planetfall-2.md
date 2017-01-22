@@ -5,6 +5,6 @@ title: planetfall-2
 ---
 You may also like:
 
-[Birth by Guitar](http://scp-wiki.net/birth-by-guitar)
+[Patina](http://scp-wiki.net/patina)
 
-[SCP-548](http://scp-wiki.net/scp-548)
+[Experiment Logs 2105](http://scp-wiki.net/experiment-logs-2105)

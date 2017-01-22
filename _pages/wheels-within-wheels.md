@@ -5,6 +5,6 @@ title: wheels-within-wheels
 ---
 You may also like:
 
-[Wednesday - 5](http://scp-wiki.net/wednesday-5)
+[John James](http://scp-wiki.net/john-james)
 
-[Just a Word to Me](http://scp-wiki.net/just-a-word-to-me)
+[Unusual Music](http://scp-wiki.net/unusual-music)

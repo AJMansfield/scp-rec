@@ -5,6 +5,6 @@ title: a-breath-of-relief-no-different-from-drowning
 ---
 You may also like:
 
-[Black Lotus](http://scp-wiki.net/black-lotus)
+[Brother's Keeper](http://scp-wiki.net/brother-s-keeper)
 
-[Excerpts From The Medical Tragedy of Dr. Bartholomew Artz, Author Unknown](http://scp-wiki.net/excerpts-from-the-medical-tragedy-of-dr-bartholomew-artz-aut)
+[SCP-1671: Corpse Mine](http://scp-wiki.net/scp-1671)

@@ -5,6 +5,6 @@ title: scp-091-arc
 ---
 You may also like:
 
-[SCP-2400](http://scp-wiki.net/scp-2400)
+[Damnation](http://scp-wiki.net/damnation)
 
-[Watching Corpses](http://scp-wiki.net/watching-corpses)
+[I Was Not Magnificent](http://scp-wiki.net/i-was-not-magnificent)

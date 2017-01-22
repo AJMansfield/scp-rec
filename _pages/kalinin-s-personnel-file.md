@@ -5,6 +5,6 @@ title: kalinin-s-personnel-file
 ---
 You may also like:
 
-[SCP-2224](http://scp-wiki.net/scp-2224)
+[The Settling Ash](http://scp-wiki.net/the-settling-ash)
 
-[lolFoundation Hub Page](http://scp-wiki.net/lolfoundation-hub-page)
+[Bigfoot's Eulogy](http://scp-wiki.net/bigfoot-s-eulogy)

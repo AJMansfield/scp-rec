@@ -5,6 +5,6 @@ title: on-mount-golgotha-hub
 ---
 You may also like:
 
-[Project Proposal 2014-2112: "Dreams of Failure"](http://scp-wiki.net/project-proposal-2014-2112)
+[SCP-016: Sentient Micro-Organism](http://scp-wiki.net/scp-016)
 
-[Empty Nights](http://scp-wiki.net/empty-nights)
+[Pythia's Wing](http://scp-wiki.net/pythia-s-wing)

@@ -5,6 +5,6 @@ title: incident-c-a-001-recovered-materials
 ---
 You may also like:
 
-[SCP-1180](http://scp-wiki.net/scp-1180)
+[SCP-1046: A House Without a Bedroom](http://scp-wiki.net/scp-1046)
 
-[Victims](http://scp-wiki.net/victims)
+[M13 Personnel Memorabilia Log](http://scp-wiki.net/m13-personnel-memorabilia-log)

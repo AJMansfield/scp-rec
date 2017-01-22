@@ -5,6 +5,6 @@ title: dr-burns-personnel-file
 ---
 You may also like:
 
-[Sophia Light At The End Of The Tunnel](http://scp-wiki.net/sophia-light-at-the-end-of-the-tunnel)
+[SCP-2175: Are You Going](http://scp-wiki.net/scp-2175)
 
-[SCP-2348](http://scp-wiki.net/scp-2348)
+[SCP-2269: Grandma Spider](http://scp-wiki.net/scp-2269)

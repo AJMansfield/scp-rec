@@ -5,6 +5,6 @@ title: a-brief-explanation-on-demonics
 ---
 You may also like:
 
-[SCP-2245](http://scp-wiki.net/scp-2245)
+[Fading](http://scp-wiki.net/fading)
 
-[SCP-2437](http://scp-wiki.net/scp-2437)
+[SCP-2801: A Dress-Up Box](http://scp-wiki.net/scp-2801)

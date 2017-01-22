@@ -5,6 +5,6 @@ title: experiment-log-316
 ---
 You may also like:
 
-[The Great Siege of Julabin](http://scp-wiki.net/the-great-siege-of-julabin)
+[SCP-721: Factory Toys](http://scp-wiki.net/scp-721)
 
-[SCP-2559-J](http://scp-wiki.net/scp-2559-j)
+[SCP-638: The Roaring One](http://scp-wiki.net/scp-638)

@@ -5,6 +5,6 @@ title: and-so-on-and-so-forth
 ---
 You may also like:
 
-[SCP-2090](http://scp-wiki.net/scp-2090)
+[SCP-436: Error Locket](http://scp-wiki.net/scp-436)
 
-[Origination](http://scp-wiki.net/origination)
+[Faith](http://scp-wiki.net/faith)

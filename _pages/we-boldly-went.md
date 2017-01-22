@@ -5,6 +5,6 @@ title: we-boldly-went
 ---
 You may also like:
 
-[SCP-1965](http://scp-wiki.net/scp-1965)
+[Wayfarers](http://scp-wiki.net/wayfarers)
 
-[Conspiracy, Part IV](http://scp-wiki.net/conspiracy-part-iv)
+[Every Other Day](http://scp-wiki.net/every-other-day)

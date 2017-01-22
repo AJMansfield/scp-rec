@@ -5,6 +5,6 @@ title: zacharia-h-author-page
 ---
 You may also like:
 
-[SCP-1025](http://scp-wiki.net/scp-1025)
+[SCP-1312: Site 41](http://scp-wiki.net/scp-1312)
 
-[Convergence](http://scp-wiki.net/convergence)
+[SCP-1735: Kind of Impenetrable Barrier](http://scp-wiki.net/scp-1735)

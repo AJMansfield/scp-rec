@@ -5,6 +5,6 @@ title: a-trip-down-substance-lane
 ---
 You may also like:
 
-[SCP-2578](http://scp-wiki.net/scp-2578)
+[SCP-2562: RTFM](http://scp-wiki.net/scp-2562)
 
-[Excerpts From The Medical Tragedy of Dr. Bartholomew Artz, Author Unknown](http://scp-wiki.net/excerpts-from-the-medical-tragedy-of-dr-bartholomew-artz-aut)
+[Eden](http://scp-wiki.net/eden)

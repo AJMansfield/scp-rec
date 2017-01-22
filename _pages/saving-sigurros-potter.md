@@ -5,6 +5,6 @@ title: saving-sigurros-potter
 ---
 You may also like:
 
-[Older Roads](http://scp-wiki.net/older-roads)
+[SCP-2160: The Happy Place](http://scp-wiki.net/scp-2160)
 
-[Playing with Flames](http://scp-wiki.net/playing-with-flames)
+[Old Kansas Sector ~ 9: Retribution](http://scp-wiki.net/old-kansas-sector-part-9)

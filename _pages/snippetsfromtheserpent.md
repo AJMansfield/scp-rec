@@ -5,6 +5,6 @@ title: snippetsfromtheserpent
 ---
 You may also like:
 
-[SCP-2744](http://scp-wiki.net/scp-2744)
+[Good Morning, Sunshine](http://scp-wiki.net/wayward-intermission)
 
-[Belation In the Evening](http://scp-wiki.net/belation-in-the-evening)
+[SCP-1499: The Gas Mask](http://scp-wiki.net/scp-1499)

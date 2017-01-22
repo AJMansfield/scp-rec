@@ -5,6 +5,6 @@ title: scp-728-arc
 ---
 You may also like:
 
-[The Broken Fifth](http://scp-wiki.net/the-broken-fifth)
+[What You Are In the Dark](http://scp-wiki.net/what-you-are-in-the-dark)
 
-[SCP-2061](http://scp-wiki.net/scp-2061)
+[Just a Word to Me](http://scp-wiki.net/just-a-word-to-me)

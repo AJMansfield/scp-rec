@@ -5,6 +5,6 @@ title: mad-love
 ---
 You may also like:
 
-[Wednesday - 3](http://scp-wiki.net/wednesday-3)
+[Are We There Yet?](http://scp-wiki.net/are-we-there-yet)
 
-[Conspiracy, Part IX](http://scp-wiki.net/conspiracy-part-ix)
+[Security Clearance Levels](http://scp-wiki.net/security-clearance-levels-arc)

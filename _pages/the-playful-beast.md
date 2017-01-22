@@ -5,6 +5,6 @@ title: the-playful-beast
 ---
 You may also like:
 
-[Remember You](http://scp-wiki.net/remember-you)
+[Samsara](http://scp-wiki.net/samsara)
 
-[Kunststoff Strand](http://scp-wiki.net/kunststoff-strand)
+[S & C Plastics Hub](http://scp-wiki.net/the-s-c-plastics-hub)

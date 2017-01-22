@@ -5,6 +5,6 @@ title: meat
 ---
 You may also like:
 
-[SCP-2385](http://scp-wiki.net/scp-2385)
+[SCP-2025: Cone of Humanity](http://scp-wiki.net/scp-2025)
 
-[Audio Logs: Last Man Standing](http://scp-wiki.net/last-man-standing)
+[SCP-1179: Centralian Fire Demon](http://scp-wiki.net/scp-1179)

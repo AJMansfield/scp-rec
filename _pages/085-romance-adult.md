@@ -5,6 +5,6 @@ title: 085-romance-adult
 ---
 You may also like:
 
-[SCP-153](http://scp-wiki.net/scp-153)
+[Between Shelves](http://scp-wiki.net/between-shelves)
 
-[SCP-2159](http://scp-wiki.net/scp-2159)
+[Experiment Log 151-D](http://scp-wiki.net/experiment-log-151-d)

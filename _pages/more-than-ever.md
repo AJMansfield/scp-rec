@@ -5,6 +5,6 @@ title: more-than-ever
 ---
 You may also like:
 
-[What Love Is, Part One](http://scp-wiki.net/what-love-is-pt-1)
+[The One Who Devours Souls](http://scp-wiki.net/the-one-who-devours-souls)
 
-[SCP-2094](http://scp-wiki.net/scp-2094)
+[SCP-1013: Cockatrice](http://scp-wiki.net/scp-1013)

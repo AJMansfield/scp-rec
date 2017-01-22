@@ -5,6 +5,6 @@ title: retired-extremely-dangerous
 ---
 You may also like:
 
-[Leafers](http://scp-wiki.net/leafers)
+[Sparkle Spectacular](http://scp-wiki.net/sparkle-spectacular)
 
-[First Quarto](http://scp-wiki.net/first-quarto)
+[CONTAIN](http://scp-wiki.net/contain)

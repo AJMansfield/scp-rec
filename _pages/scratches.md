@@ -5,6 +5,6 @@ title: scratches
 ---
 You may also like:
 
-[Hava](http://scp-wiki.net/hava)
+[SCP-556: Painted Aircraft](http://scp-wiki.net/scp-556)
 
-[SCP-900](http://scp-wiki.net/scp-900)
+[SCP-577: Bullet Cat](http://scp-wiki.net/scp-577)

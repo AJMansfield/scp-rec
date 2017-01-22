@@ -5,6 +5,6 @@ title: wayward
 ---
 You may also like:
 
-[SCP-7394-J](http://scp-wiki.net/scp-7394-j)
+[Dear Diary](http://scp-wiki.net/dear-diary)
 
-[SCP-2031](http://scp-wiki.net/scp-2031)
+[SCP-2182: The Big Bang](http://scp-wiki.net/scp-2182)

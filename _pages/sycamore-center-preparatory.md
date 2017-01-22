@@ -5,6 +5,6 @@ title: sycamore-center-preparatory
 ---
 You may also like:
 
-[Sacrifice](http://scp-wiki.net/sacrifice)
+[SCP-349: The Philosopher's Stone and the Graveyard of the Immortals](http://scp-wiki.net/scp-349)
 
-[ARCHIVE C-424: FILES 1~10](http://scp-wiki.net/archive-c-424)
+[Medical Seminar](http://scp-wiki.net/medical-seminar)

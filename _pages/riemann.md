@@ -5,6 +5,6 @@ title: riemann
 ---
 You may also like:
 
-[There's Magic in the Air](http://scp-wiki.net/there-s-magic-in-the-air)
+[SCP-1852: Dictus Ultima](http://scp-wiki.net/scp-1852)
 
-["Diplomacy"](http://scp-wiki.net/goc-tale-sequence-diplomacy)
+[Antediluvian](http://scp-wiki.net/antediluvian)

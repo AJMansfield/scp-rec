@@ -5,6 +5,6 @@ title: uiu-orientation
 ---
 You may also like:
 
-[SCP-1362](http://scp-wiki.net/scp-1362)
+[Director Ghost's Dossier](http://scp-wiki.net/a-fat-ghost-s-dossier)
 
-[SCP-2383](http://scp-wiki.net/scp-2383)
+[SCP-1741: A Boat Ride](http://scp-wiki.net/scp-1741)

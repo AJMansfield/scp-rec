@@ -5,6 +5,6 @@ title: multiscoops-ice-cream-stand
 ---
 You may also like:
 
-[Bellerverse](http://scp-wiki.net/bellerverse)
+[Global Occult Coalition Casefiles](http://scp-wiki.net/goc-hub-page)
 
-[SCP-2603](http://scp-wiki.net/scp-2603)
+[Dr. Tuna's Personnel File](http://scp-wiki.net/dr-tuna-s-personnel-file)

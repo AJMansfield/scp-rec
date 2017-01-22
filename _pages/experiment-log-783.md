@@ -5,6 +5,6 @@ title: experiment-log-783
 ---
 You may also like:
 
-[Old Faithful](http://scp-wiki.net/old-faithful)
+[SCP-731: Rathole Cover](http://scp-wiki.net/scp-731)
 
-[The Deep End](http://scp-wiki.net/the-deep-end)
+[Antivirus](http://scp-wiki.net/gdp2-antivirus)

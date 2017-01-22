@@ -5,6 +5,6 @@ title: ties-that-bind
 ---
 You may also like:
 
-[Meeting Anderson](http://scp-wiki.net/meeting-anderson)
+[A Day in the Life of Alto Clef](http://scp-wiki.net/a-day-in-the-life-of-alto-clef)
 
-[Finding Anderson](http://scp-wiki.net/finding-anderson)
+[The 784 Incident: Part 5: Breaking Point](http://scp-wiki.net/784incident5)

@@ -5,6 +5,6 @@ title: this-url-will-explain-akivas
 ---
 You may also like:
 
-[An FAQ; Or, What The Hell Is A Hume?](http://scp-wiki.net/and-this-one-explains-humes)
+[A Visitation](http://scp-wiki.net/a-visitation)
 
-[SCP-1716](http://scp-wiki.net/scp-1716)
+[An Audience](http://scp-wiki.net/an-audience)

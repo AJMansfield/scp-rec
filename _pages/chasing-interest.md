@@ -5,6 +5,6 @@ title: chasing-interest
 ---
 You may also like:
 
-[The Blind Leading](http://scp-wiki.net/the-blind-leading)
+[Blue Lily Chains](http://scp-wiki.net/blue-lily-chains)
 
-[...Keter: Cleanup Duty](http://scp-wiki.net/keter-cleanup-duty)
+[SCP-2261: Community Policing](http://scp-wiki.net/scp-2261)

@@ -5,6 +5,6 @@ title: histories
 ---
 You may also like:
 
-[Recorded](http://scp-wiki.net/recorded)
+[SCP-430: A Peasant's Punishment](http://scp-wiki.net/scp-430)
 
-[SCP-2265](http://scp-wiki.net/scp-2265)
+[SCP-744: Assembly Required](http://scp-wiki.net/scp-744)

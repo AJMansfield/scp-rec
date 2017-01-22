@@ -5,6 +5,6 @@ title: show-you-what-all-that-howl-is-for
 ---
 You may also like:
 
-[SCP-666-J](http://scp-wiki.net/scp-666-j)
+[Tenebrae](http://scp-wiki.net/tenebrae)
 
-[Kingdom of Stone: Slay, Cure, Protect](http://scp-wiki.net/kingdom-of-stone-slay-cure-protect)
+[A Shift at The Factory](http://scp-wiki.net/a-shift-at-the-factory)

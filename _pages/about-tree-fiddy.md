@@ -5,6 +5,6 @@ title: about-tree-fiddy
 ---
 You may also like:
 
-[SCP-1640](http://scp-wiki.net/scp-1640)
+[SCP-2114: Technological Rodents](http://scp-wiki.net/scp-2114)
 
-[SCP-1386](http://scp-wiki.net/scp-1386)
+[SCP-543-J: Tweetle Beetles](http://scp-wiki.net/scp-543-j)

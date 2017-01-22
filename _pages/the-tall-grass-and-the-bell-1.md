@@ -5,6 +5,6 @@ title: the-tall-grass-and-the-bell-1
 ---
 You may also like:
 
-[Razumite Games](http://scp-wiki.net/razumite-games)
+[Merrily, Merrily, Merrily](http://scp-wiki.net/merrily-merrily-merrily)
 
-[SCP-417](http://scp-wiki.net/scp-417)
+[SCP-1110: Videos of a Robbery](http://scp-wiki.net/scp-1110)

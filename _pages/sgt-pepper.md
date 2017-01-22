@@ -5,6 +5,6 @@ title: sgt-pepper
 ---
 You may also like:
 
-[SCP-2227](http://scp-wiki.net/scp-2227)
+[SCP-270: Secluded Telephone](http://scp-wiki.net/scp-270)
 
-[SCP-1027](http://scp-wiki.net/scp-1027)
+[Broken Light Hub](http://scp-wiki.net/broken-light-hub)

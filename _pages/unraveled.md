@@ -5,6 +5,6 @@ title: unraveled
 ---
 You may also like:
 
-[Lamb In A Lions Den](http://scp-wiki.net/lamb-in-a-lions-den)
+[Dr. Bridge Over Troubled Water](http://scp-wiki.net/dr-bridge-over-troubled-water)
 
-[Angel Of Red And White](http://scp-wiki.net/angel-of-red-and-white)
+[Issue 100](http://scp-wiki.net/issue-100)

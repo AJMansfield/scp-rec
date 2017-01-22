@@ -5,6 +5,6 @@ title: scp-682-j-james-coloring-book
 ---
 You may also like:
 
-[A Most Unfortunate Reunion](http://scp-wiki.net/a-most-unfortunate-reunion)
+[Star-bound](http://scp-wiki.net/star-bound)
 
-[SunnyClockwork's Artwork  - Series I](http://scp-wiki.net/sunny-art-series-1)
+[SCPPD Episode 1](http://scp-wiki.net/scppd-episode-1)

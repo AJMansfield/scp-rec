@@ -5,6 +5,6 @@ title: it-always-has-been-it-always-has-not-been
 ---
 You may also like:
 
-[Taproots](http://scp-wiki.net/taproots)
+[SCP-2929: Undulating Obsidian Monolith](http://scp-wiki.net/scp-2929)
 
-[A Simple Paradigm Shift](http://scp-wiki.net/a-simple-paradigm-shift)
+[SCP-2766: Aqua Caligula](http://scp-wiki.net/scp-2766)

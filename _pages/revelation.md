@@ -5,6 +5,6 @@ title: revelation
 ---
 You may also like:
 
-[SCP-1132](http://scp-wiki.net/scp-1132)
+[It's Just A Dream](http://scp-wiki.net/it-s-just-a-dream)
 
-[INCIDENT-370-A](http://scp-wiki.net/incident-370-a)
+[SCP-822: Landmine Cacti](http://scp-wiki.net/scp-822)

@@ -5,6 +5,6 @@ title: goc-tale-incident-bl-7-alpha
 ---
 You may also like:
 
-[The Corpse, The Twister, And The Veteran](http://scp-wiki.net/the-corpse-the-twister-and-the-veteran)
+[SCP-1331: Mouth Soap](http://scp-wiki.net/scp-1331)
 
-[Mice](http://scp-wiki.net/mice)
+[The Administrator's Biography](http://scp-wiki.net/the-administrator-s-biography)

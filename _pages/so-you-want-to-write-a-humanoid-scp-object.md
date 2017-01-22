@@ -5,6 +5,6 @@ title: so-you-want-to-write-a-humanoid-scp-object
 ---
 You may also like:
 
-[History Of The Universe: Part One](http://scp-wiki.net/history-of-the-universe-part-one)
+[SCP-616: The Vessel and the Gate](http://scp-wiki.net/scp-616)
 
-[Understanding Memetics](http://scp-wiki.net/understanding-memetics)
+[SCP-1698: You Can't Get There From Here](http://scp-wiki.net/scp-1698)

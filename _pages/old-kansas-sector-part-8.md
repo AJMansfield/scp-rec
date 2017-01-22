@@ -5,6 +5,6 @@ title: old-kansas-sector-part-8
 ---
 You may also like:
 
-[SCP-167](http://scp-wiki.net/scp-167)
+[SCP-1723: Radio Intercepting Woman](http://scp-wiki.net/scp-1723)
 
-[The Swift Rise And Fall Of Technical Researcher David Rosen](http://scp-wiki.net/the-swift-rise-and-fall-of-technical-researcher-david-rosen)
+[SCP-1593: The Dragging Finger](http://scp-wiki.net/scp-1593)

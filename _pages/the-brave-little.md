@@ -5,6 +5,6 @@ title: the-brave-little
 ---
 You may also like:
 
-[Transcript of meeting, June 2 1972](http://scp-wiki.net/transcript-of-meeting-june-2-1972)
+[SCP-658: "Botflies"](http://scp-wiki.net/scp-658)
 
-[Document C 88 Il](http://scp-wiki.net/document-c-88-il)
+[Rex Sponge's Revealing Revelations](http://scp-wiki.net/rex-sponge-s-revealing-revelations)

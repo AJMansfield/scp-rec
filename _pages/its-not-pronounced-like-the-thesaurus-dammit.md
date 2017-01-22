@@ -5,6 +5,6 @@ title: its-not-pronounced-like-the-thesaurus-dammit
 ---
 You may also like:
 
-[Not Just A Cat In A Labcoat](http://scp-wiki.net/not-just-a-cat-in-a-labcoat)
+[SCP-610-L5](http://scp-wiki.net/scp-610-l5)
 
-[A Long Ways from Home](http://scp-wiki.net/a-long-ways-from-home)
+[SCP-190: A Prize Toybox](http://scp-wiki.net/scp-190)

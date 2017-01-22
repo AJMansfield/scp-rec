@@ -5,6 +5,6 @@ title: greenwolf-s-author-page
 ---
 You may also like:
 
-[Waxx's entry](http://scp-wiki.net/waxxentry)
+[Junior Psychologist "Chibi" Yamagusuku's Personnel File](http://scp-wiki.net/jr-psych-chibis-personnel-file)
 
-[George Bennings's Personnel File](http://scp-wiki.net/george-bennings-s-personnel-file)
+[SCP-1807: Home Sweet Okapi](http://scp-wiki.net/scp-1807)

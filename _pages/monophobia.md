@@ -5,6 +5,6 @@ title: monophobia
 ---
 You may also like:
 
-[Are We Christmas Yet?](http://scp-wiki.net/are-we-christmas-yet)
+[SCP-1363: Possessed Virus](http://scp-wiki.net/scp-1363)
 
-[SCP-2524](http://scp-wiki.net/scp-2524)
+[SCP-2405: 2017_acf_nats_fianls.mp4](http://scp-wiki.net/scp-2405)

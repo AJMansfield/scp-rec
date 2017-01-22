@@ -5,6 +5,6 @@ title: agricola-in-insula-est-poeta
 ---
 You may also like:
 
-[SCP-130](http://scp-wiki.net/scp-130)
+[The Giant at the End of Days](http://scp-wiki.net/the-giant-at-the-end-of-days)
 
-[The Ride Never Ends](http://scp-wiki.net/the-ride-never-ends)
+[Secure Facility Dossier: Site-64](http://scp-wiki.net/secure-facility-dossier-site-64)

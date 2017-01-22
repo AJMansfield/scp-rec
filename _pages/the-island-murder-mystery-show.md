@@ -5,6 +5,6 @@ title: the-island-murder-mystery-show
 ---
 You may also like:
 
-[Chapter Five: This Place Seems So Familiar](http://scp-wiki.net/this-place-seems-so-familiar)
+[SCP-1079: Dr Wondertainment's Bubblebath Bonbons](http://scp-wiki.net/scp-1079)
 
-[SCP-1628](http://scp-wiki.net/scp-1628)
+[Bloody](http://scp-wiki.net/bloody)

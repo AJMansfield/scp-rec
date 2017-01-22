@@ -5,6 +5,6 @@ title: and-i-feel-fine
 ---
 You may also like:
 
-[SCP-999-J](http://scp-wiki.net/scp-999-j)
+[Catalysis](http://scp-wiki.net/catalysis)
 
-[After Destruction](http://scp-wiki.net/after-destruction)
+[SCP-1162: A Hole in the Wall](http://scp-wiki.net/scp-1162)

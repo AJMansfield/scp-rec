@@ -5,6 +5,6 @@ title: burden-of-humanity
 ---
 You may also like:
 
-[First CETRes Donation](http://scp-wiki.net/1st-cetres-donation)
+[SCP-2635: Hot Potato](http://scp-wiki.net/scp-2635)
 
-[Breaking It Down For Me](http://scp-wiki.net/breaking-it-down-to-me)
+[Activity Documentation File 11-A](http://scp-wiki.net/activity-documentation-file-11-a)

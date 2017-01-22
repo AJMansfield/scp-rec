@@ -5,6 +5,6 @@ title: i-hope-that-i-get-old-before-i-die
 ---
 You may also like:
 
-[Those You Leave Behind](http://scp-wiki.net/those-you-leave-behind)
+[A Dysfunctional Heist](http://scp-wiki.net/a-dysfunctional-heist)
 
-[Midnight Parade](http://scp-wiki.net/midnight-parade)
+[Let's Talk About Character for a Minute](http://scp-wiki.net/not-enough-characters)

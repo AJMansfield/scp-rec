@@ -5,6 +5,6 @@ title: xiupania
 ---
 You may also like:
 
-[SCP-2488](http://scp-wiki.net/scp-2488)
+[Fritzwillie's Author Page](http://scp-wiki.net/fritzwillie-s-author-page)
 
-[SCP-1178](http://scp-wiki.net/scp-1178)
+[Attack of the Keter Skeeters!](http://scp-wiki.net/attack-of-the-keter-skeeters)

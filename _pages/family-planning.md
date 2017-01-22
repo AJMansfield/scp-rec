@@ -5,6 +5,6 @@ title: family-planning
 ---
 You may also like:
 
-[SCP-2028](http://scp-wiki.net/scp-2028)
+[SCP-1646: Vendetta](http://scp-wiki.net/scp-1646)
 
-[Christmas Propaganda](http://scp-wiki.net/christmas-propaganda)
+[SCP-087: The Stairwell](http://scp-wiki.net/scp-087)

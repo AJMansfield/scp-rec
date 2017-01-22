@@ -5,6 +5,6 @@ title: handout
 ---
 You may also like:
 
-[Law And Order](http://scp-wiki.net/law-and-order)
+[SCP-370: A Key](http://scp-wiki.net/scp-370)
 
-[Odd Corners](http://scp-wiki.net/odd-corners)
+[SCP-345: Stone Puzzle Cube](http://scp-wiki.net/scp-345)

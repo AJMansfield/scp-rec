@@ -5,6 +5,6 @@ title: beneath-the-council
 ---
 You may also like:
 
-[It's All True](http://scp-wiki.net/this-is-the-real-life)
+[SCP-1129: Hyperarousal Response](http://scp-wiki.net/scp-1129)
 
-[In The End: Fiat Lux](http://scp-wiki.net/intheendfiatlux)
+[SCP-2284](http://scp-wiki.net/scp-2284-a)

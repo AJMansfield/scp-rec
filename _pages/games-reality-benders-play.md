@@ -5,6 +5,6 @@ title: games-reality-benders-play
 ---
 You may also like:
 
-[SCP-2332](http://scp-wiki.net/scp-2332)
+[Tempting Fate](http://scp-wiki.net/tempting-fate)
 
-[SCP-2038](http://scp-wiki.net/scp-2038)
+[Close of Play](http://scp-wiki.net/close-of-play)

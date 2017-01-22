@@ -5,6 +5,6 @@ title: tearing-down
 ---
 You may also like:
 
-[SCP-1542](http://scp-wiki.net/scp-1542)
+["Apakht"](http://scp-wiki.net/apakht)
 
-[Break On Through](http://scp-wiki.net/break-on-through)
+[Transcript of meeting, June 2 1972](http://scp-wiki.net/transcript-of-meeting-june-2-1972)

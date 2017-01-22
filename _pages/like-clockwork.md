@@ -5,6 +5,6 @@ title: like-clockwork
 ---
 You may also like:
 
-[SCP-845](http://scp-wiki.net/scp-845)
+[SCP-887 Log](http://scp-wiki.net/scp-887-log)
 
-[SCP-2421](http://scp-wiki.net/scp-2421)
+[SCP-2253: The Alcohol Republic](http://scp-wiki.net/scp-2253)

@@ -5,6 +5,6 @@ title: chasing-tails
 ---
 You may also like:
 
-[SCP-682-J](http://scp-wiki.net/scp-682-j)
+[Canola Oil Panic](http://scp-wiki.net/canola-oil-panic)
 
-[Dear Diary](http://scp-wiki.net/dear-diary)
+[SCP-372: Peripheral Jumper](http://scp-wiki.net/scp-372)

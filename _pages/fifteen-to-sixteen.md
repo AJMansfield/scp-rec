@@ -5,6 +5,6 @@ title: fifteen-to-sixteen
 ---
 You may also like:
 
-[269](http://scp-wiki.net/269)
+[In His Own Image: Part 1](http://scp-wiki.net/in-his-own-image-part-1)
 
-[Relics](http://scp-wiki.net/relics)
+[Authenticity Trip](http://scp-wiki.net/authenticity-trip)

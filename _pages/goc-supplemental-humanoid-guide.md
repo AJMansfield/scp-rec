@@ -5,6 +5,6 @@ title: goc-supplemental-humanoid-guide
 ---
 You may also like:
 
-["Come into my Parlor"](http://scp-wiki.net/goc-tale-comeintomyparlor)
+[Hephaestus](http://scp-wiki.net/hephaestus)
 
-[SCP-2383-J](http://scp-wiki.net/scp-2383-j)
+[SCP-1491: Camera man](http://scp-wiki.net/scp-1491)

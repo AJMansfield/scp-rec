@@ -5,6 +5,6 @@ title: chat-guide
 ---
 You may also like:
 
-[Bronze](http://scp-wiki.net/bronze)
+[SCP-1342: To the Makers of Music](http://scp-wiki.net/scp-1342)
 
-[Experiment Log 114 A](http://scp-wiki.net/experiment-log-114-a)
+[SCP-734: The Baby](http://scp-wiki.net/scp-734)

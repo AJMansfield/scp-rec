@@ -5,6 +5,6 @@ title: presence
 ---
 You may also like:
 
-[The Red Horse (The Ironic Metaphor)](http://scp-wiki.net/the-red-horse)
+[SCP-1034: Dollmaker's Kit](http://scp-wiki.net/scp-1034)
 
-[SCP-1555](http://scp-wiki.net/scp-1555)
+[A Suicide Note](http://scp-wiki.net/a-suicide-note)

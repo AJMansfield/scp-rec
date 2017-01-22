@@ -5,6 +5,6 @@ title: conspiracy-part-x
 ---
 You may also like:
 
-[Conspiracy, Part IX](http://scp-wiki.net/conspiracy-part-ix)
+[SCP-1722: Curmudgeon's Cudgel](http://scp-wiki.net/scp-1722)
 
-[Conspiracy, Prologue](http://scp-wiki.net/conspiracy-prologue)
+[SCP-2925: Sphere of Influence](http://scp-wiki.net/scp-2925)

@@ -5,6 +5,6 @@ title: scp-007-j
 ---
 You may also like:
 
-[SCP-990](http://scp-wiki.net/scp-990)
+[SCP-1567: The Dunne of Gallen](http://scp-wiki.net/scp-1567)
 
-[Old Kansas Sector ~ 6: The SCP Foundation](http://scp-wiki.net/old-kansas-sector-part-6)
+[Fifteen To Sixteen](http://scp-wiki.net/fifteen-to-sixteen)

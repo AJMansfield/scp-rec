@@ -5,6 +5,6 @@ title: sympathy-for-an-empath
 ---
 You may also like:
 
-[SCP-2607](http://scp-wiki.net/scp-2607)
+[Her Masterpiece](http://scp-wiki.net/her-masterpiece)
 
-[SCP-811](http://scp-wiki.net/scp-811)
+[SCP-780: Seed Bead](http://scp-wiki.net/scp-780)

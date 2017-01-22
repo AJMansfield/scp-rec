@@ -5,6 +5,6 @@ title: ripped-from-the-headlines
 ---
 You may also like:
 
-[SCP-570](http://scp-wiki.net/scp-570)
+[SCP-156: Reanimating Pomegranate](http://scp-wiki.net/scp-156)
 
-[Fear Not](http://scp-wiki.net/fear-not)
+[SCP-989: Self-Defense Sugar](http://scp-wiki.net/scp-989)

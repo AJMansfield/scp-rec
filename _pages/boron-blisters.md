@@ -5,6 +5,6 @@ title: boron-blisters
 ---
 You may also like:
 
-[D-Class Orientation](http://scp-wiki.net/d-class-orientation)
+[SCP-1004: Factory Porn](http://scp-wiki.net/scp-1004)
 
-[SCP-1906](http://scp-wiki.net/scp-1906)
+[Nothing Human](http://scp-wiki.net/nothing-remotely-human)

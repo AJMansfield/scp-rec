@@ -5,6 +5,6 @@ title: fragments
 ---
 You may also like:
 
-[SCP-1188](http://scp-wiki.net/scp-1188)
+[SCP-2228: Foundation Playsets](http://scp-wiki.net/scp-2228)
 
-[SCP-1322](http://scp-wiki.net/scp-1322)
+[Stealing Solidarity: Phase 3](http://scp-wiki.net/stealingsolidarityphase3)

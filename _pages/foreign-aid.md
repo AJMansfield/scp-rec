@@ -5,6 +5,6 @@ title: foreign-aid
 ---
 You may also like:
 
-[SCP-1772](http://scp-wiki.net/scp-1772)
+[SCP-1195: Child's Storybook](http://scp-wiki.net/scp-1195)
 
-[SCP-2288](http://scp-wiki.net/scp-2288)
+[Work Journal 2](http://scp-wiki.net/work-journal-2)

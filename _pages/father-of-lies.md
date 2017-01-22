@@ -5,6 +5,6 @@ title: father-of-lies
 ---
 You may also like:
 
-[Incident Report I 028 F](http://scp-wiki.net/incident-report-i-028-f)
+[Home](http://scp-wiki.net/home)
 
-[Breaking It Down For Me](http://scp-wiki.net/breaking-it-down-to-me)
+[The Woven Man](http://scp-wiki.net/the-woven-man)

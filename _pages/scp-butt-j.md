@@ -5,6 +5,6 @@ title: scp-butt-j
 ---
 You may also like:
 
-[Cat In A Box](http://scp-wiki.net/cat-in-a-box)
+[Prelude: Primae Formae](http://scp-wiki.net/primae-formae)
 
-[SCP-1418](http://scp-wiki.net/scp-1418)
+[Riptide](http://scp-wiki.net/way-out-in-the-water)

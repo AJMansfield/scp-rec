@@ -5,6 +5,6 @@ title: old-man-in-the-sea-hub
 ---
 You may also like:
 
-[Where Do Story Arcs Go When They Die?](http://scp-wiki.net/tryingtofleshoutanidea)
+[SCP-1592: Paradise Television](http://scp-wiki.net/scp-1592)
 
-[SCP-2335](http://scp-wiki.net/scp-2335)
+[SCP-1292: Contagious Scantron Disease](http://scp-wiki.net/scp-1292)

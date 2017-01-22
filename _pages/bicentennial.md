@@ -5,6 +5,6 @@ title: bicentennial
 ---
 You may also like:
 
-[Just a Word to Me](http://scp-wiki.net/just-a-word-to-me)
+[SCP-2110: Safe Haven](http://scp-wiki.net/scp-2110)
 
-[SCP-837-ARC](http://scp-wiki.net/scp-837-arc)
+[SCP-2580: Father-Daughter Project](http://scp-wiki.net/scp-2580)

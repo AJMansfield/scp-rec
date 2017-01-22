@@ -5,6 +5,6 @@ title: fucktheurl
 ---
 You may also like:
 
-[Mobile Task Force Omega 7 Incident Log](http://scp-wiki.net/scp-076-2)
+[Talks With the Family](http://scp-wiki.net/talks-with-the-family)
 
-[SCP-595](http://scp-wiki.net/scp-595)
+[Products](http://scp-wiki.net/products)

@@ -5,6 +5,6 @@ title: spark-of-wonder
 ---
 You may also like:
 
-[SCP-2606](http://scp-wiki.net/scp-2606)
+[SCP-900-J: Modern Major Keter-Class](http://scp-wiki.net/scp-900-j)
 
-[SCP-2164](http://scp-wiki.net/scp-2164)
+[SCP-1227: The Family Man](http://scp-wiki.net/scp-1227)

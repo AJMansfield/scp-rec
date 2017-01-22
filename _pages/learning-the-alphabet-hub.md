@@ -5,6 +5,6 @@ title: learning-the-alphabet-hub
 ---
 You may also like:
 
-[Aleph-Null Hub](http://scp-wiki.net/aleph-null-hub)
+[Termination Log SCP-316](http://scp-wiki.net/termination-log-scp-316)
 
-[Dr. Blast's Personnel File](http://scp-wiki.net/dr-blast-s-personnel-file)
+[SCP-1638-J: A Dark and Mysterious Printing Plate](http://scp-wiki.net/scp-1638-j)

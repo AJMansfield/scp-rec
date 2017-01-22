@@ -5,6 +5,6 @@ title: stitches
 ---
 You may also like:
 
-[Origin: One Day Your Toes May Reach The Trees](http://scp-wiki.net/origin-one-day-your-toes-may-reach-the-trees)
+[SCP-365: Pool Noodle](http://scp-wiki.net/scp-365)
 
-[SCP-2156](http://scp-wiki.net/scp-2156)
+[SCP-1918: Tik Tak Tow](http://scp-wiki.net/scp-1918)

@@ -5,6 +5,6 @@ title: scp-1841-ex
 ---
 You may also like:
 
-[SCP-354](http://scp-wiki.net/scp-354)
+[SCP-2335: The Filmmaker](http://scp-wiki.net/scp-2335)
 
-[The Reassembled One](http://scp-wiki.net/the-reassembled-one)
+[SCP-1228: The Fan Club](http://scp-wiki.net/scp-1228)

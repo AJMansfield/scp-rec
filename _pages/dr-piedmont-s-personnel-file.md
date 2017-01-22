@@ -5,6 +5,6 @@ title: dr-piedmont-s-personnel-file
 ---
 You may also like:
 
-["Iceberg" Personnel File](http://scp-wiki.net/iceberg-personnel-file)
+[lolFoundation Hub Page](http://scp-wiki.net/lolfoundation-hub-page)
 
-[Zmax's Author Page](http://scp-wiki.net/zmax-s-author-page)
+[One Must Imagine Him Happy](http://scp-wiki.net/one-must-imagine-him-happy)

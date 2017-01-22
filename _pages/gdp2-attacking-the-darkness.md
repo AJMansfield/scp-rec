@@ -5,6 +5,6 @@ title: gdp2-attacking-the-darkness
 ---
 You may also like:
 
-[Angle of Attack](http://scp-wiki.net/gdp2-angle-of-attack)
+[SCP-6327-J: [redacted for brevity]](http://scp-wiki.net/scp-6327-j)
 
-[SCP-1525](http://scp-wiki.net/scp-1525)
+[The Bold and the Dutiful (Part One)](http://scp-wiki.net/the-bold-and-the-dutiful-pt1)

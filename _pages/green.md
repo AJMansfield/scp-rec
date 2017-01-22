@@ -5,6 +5,6 @@ title: green
 ---
 You may also like:
 
-[SCP-610-L5](http://scp-wiki.net/scp-610-l5)
+[SCP-1118: Os Sumum](http://scp-wiki.net/scp-1118)
 
-[Overview of MTF Psi-7 "Home Improvement"](http://scp-wiki.net/overview-of-mtf-psi-7-home-improvement)
+[Bluesoul's Author Page](http://scp-wiki.net/bluesoul-s-author-page)

@@ -5,6 +5,6 @@ title: breakfast-for-dinner
 ---
 You may also like:
 
-[Nor Gloom Of Night Shall Stay](http://scp-wiki.net/nor-gloom-of-night-shall-stay)
+[SCP-1462: Renewable Energy Source](http://scp-wiki.net/scp-1462)
 
-[Empire Of Dirt (Part 3)](http://scp-wiki.net/empire-of-dirt-part-3)
+[Containing Creation](http://scp-wiki.net/containingcreation)

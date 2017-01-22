@@ -5,6 +5,6 @@ title: down-by-the-river
 ---
 You may also like:
 
-[SCP-1555](http://scp-wiki.net/scp-1555)
+[The Seeker](http://scp-wiki.net/wonder)
 
-[SCP-885-J](http://scp-wiki.net/scp-885-j)
+[Agent Apocalemur's Personnel File](http://scp-wiki.net/agent-apocalemur)

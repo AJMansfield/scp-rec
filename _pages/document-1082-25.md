@@ -5,6 +5,6 @@ title: document-1082-25
 ---
 You may also like:
 
-[SCP-1082](http://scp-wiki.net/scp-1082)
+[Track 3: Uh...](http://scp-wiki.net/a-song-about-serious-information-leaks)
 
-[Local Legends](http://scp-wiki.net/local-legends)
+[In His Own Image: Part 5](http://scp-wiki.net/in-his-own-image-part-5)

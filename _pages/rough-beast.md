@@ -5,6 +5,6 @@ title: rough-beast
 ---
 You may also like:
 
-[A Sort of Challenge](http://scp-wiki.net/a-sort-of-challenge)
+[SCP-045: Atmospheric Converter](http://scp-wiki.net/scp-045)
 
-[He Was Blind and Deaf on a Sunny Day](http://scp-wiki.net/he-was-blind-and-deaf-on-a-sunny-day)
+[SCP-1626: Drunkshirt](http://scp-wiki.net/scp-1626)

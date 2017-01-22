@@ -5,6 +5,6 @@ title: broken-faith
 ---
 You may also like:
 
-[SCP-5280-J](http://scp-wiki.net/scp-5280-j)
+[SCP-2023: Aidoneus' Apology](http://scp-wiki.net/scp-2023)
 
-[SCP-2442](http://scp-wiki.net/scp-2442)
+[SCP-2882: Overwriting Myself For A Faraway Dream](http://scp-wiki.net/scp-2882)

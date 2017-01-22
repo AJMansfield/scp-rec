@@ -5,6 +5,6 @@ title: bell-weather
 ---
 You may also like:
 
-[SCP-2917](http://scp-wiki.net/scp-2917)
+[Blue Team](http://scp-wiki.net/blue-team)
 
-[Naptime](http://scp-wiki.net/naptime)
+[Santa's New Home](http://scp-wiki.net/santa-s-new-home)

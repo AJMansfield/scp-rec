@@ -5,6 +5,6 @@ title: slate-thunder
 ---
 You may also like:
 
-[SCP-2942](http://scp-wiki.net/scp-2942)
+[SCP-1606: Memory Loss](http://scp-wiki.net/scp-1606)
 
-[SCP-2723](http://scp-wiki.net/scp-2723)
+[A World Unsaved](http://scp-wiki.net/unsaved-world)

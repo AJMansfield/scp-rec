@@ -5,6 +5,6 @@ title: halloween-at-s-c-plastics
 ---
 You may also like:
 
-[SCP-2995](http://scp-wiki.net/scp-2995)
+[SCP-SCP-033](http://scp-wiki.net/scp-scp-033)
 
-[Prelude: First Bell](http://scp-wiki.net/days-gone-by)
+[SCP-2070: The Fingers of God](http://scp-wiki.net/scp-2070)

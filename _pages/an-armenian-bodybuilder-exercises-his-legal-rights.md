@@ -5,6 +5,6 @@ title: an-armenian-bodybuilder-exercises-his-legal-rights
 ---
 You may also like:
 
-[Strangers of Site-17: 343](http://scp-wiki.net/strangers-of-site-17-part-two)
+[SCP-2086: Rerouting](http://scp-wiki.net/scp-2086)
 
-[Stealing Solidarity: Phase 1](http://scp-wiki.net/stealingsolidarityphase1)
+[SCP-1382: Save Our Souls](http://scp-wiki.net/scp-1382)

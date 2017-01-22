@@ -5,6 +5,6 @@ title: test-log-scp-926-1
 ---
 You may also like:
 
-[Game Day, Phase 1: Secure](http://scp-wiki.net/gamedaypart1index)
+[Agent Strelnikov's Personnel File](http://scp-wiki.net/agent-strelnikov-s-personnel-file)
 
-[Budget Cuts](http://scp-wiki.net/budget-cuts)
+[SCP-501: Monk's Greed](http://scp-wiki.net/scp-501)

@@ -5,6 +5,6 @@ title: saturday-night-scp-showdown
 ---
 You may also like:
 
-[Cygnus](http://scp-wiki.net/cygnus)
+[SCP-740: The Hindenburg Photograph](http://scp-wiki.net/scp-740)
 
-[Week 3 Day 3: End of Line](http://scp-wiki.net/week-3-day-3-end-of-line)
+[SCP-873: Russian Crystal Ball](http://scp-wiki.net/scp-873)

@@ -5,6 +5,6 @@ title: tradition
 ---
 You may also like:
 
-[SCP-2410](http://scp-wiki.net/scp-2410)
+[Inside-Out](http://scp-wiki.net/inside-out)
 
-[Shell](http://scp-wiki.net/shell)
+[Snakes And Ladders](http://scp-wiki.net/snakes-and-ladders)

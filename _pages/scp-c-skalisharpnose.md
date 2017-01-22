@@ -5,6 +5,6 @@ title: scp-c-skalisharpnose
 ---
 You may also like:
 
-[Operation Galahad](http://scp-wiki.net/operation-galahad)
+[SCP-1625: Tradition](http://scp-wiki.net/scp-1625)
 
-[Nx-58](http://scp-wiki.net/nx-58)
+[SCP-1116: Humanoid Remote Drones](http://scp-wiki.net/scp-1116)

@@ -5,6 +5,6 @@ title: elevator
 ---
 You may also like:
 
-[The Happy Ending](http://scp-wiki.net/the-happy-ending)
+[The Recording](http://scp-wiki.net/the-recording)
 
-[SCP-2467](http://scp-wiki.net/scp-2467)
+[Wednesday - 2](http://scp-wiki.net/wednesday-2)

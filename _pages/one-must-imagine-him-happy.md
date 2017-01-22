@@ -5,6 +5,6 @@ title: one-must-imagine-him-happy
 ---
 You may also like:
 
-[Fault](http://scp-wiki.net/fault)
+[Sunset](http://scp-wiki.net/sunset)
 
-[SCP-2753](http://scp-wiki.net/scp-2753)
+[SCP-1367: Party Balloon](http://scp-wiki.net/scp-1367)

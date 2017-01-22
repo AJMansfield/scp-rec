@@ -5,6 +5,6 @@ title: bal-chatri
 ---
 You may also like:
 
-[Founding](http://scp-wiki.net/founding)
+[Of Meetings and Meals](http://scp-wiki.net/of-meetings-and-meals)
 
-[SCP-1613](http://scp-wiki.net/scp-1613)
+[SCP-1560: Extradimensional Albatross](http://scp-wiki.net/scp-1560)

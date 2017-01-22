@@ -5,6 +5,6 @@ title: audio-log-from-december-24th-2010
 ---
 You may also like:
 
-[SCP-2582](http://scp-wiki.net/scp-2582)
+[SCP-1489: A "Ghost Train"](http://scp-wiki.net/scp-1489)
 
-[SCP-1071](http://scp-wiki.net/scp-1071)
+[SCP-426: I am a Toaster](http://scp-wiki.net/scp-426)

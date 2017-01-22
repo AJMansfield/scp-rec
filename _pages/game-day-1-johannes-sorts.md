@@ -5,6 +5,6 @@ title: game-day-1-johannes-sorts
 ---
 You may also like:
 
-[SCP-2740](http://scp-wiki.net/scp-2740)
+[SCP-1830: The Guardian Projection](http://scp-wiki.net/scp-1830)
 
-[20,584](http://scp-wiki.net/20-584)
+[SCP-1855: Old Roads](http://scp-wiki.net/scp-1855)

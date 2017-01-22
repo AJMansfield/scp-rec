@@ -5,6 +5,6 @@ title: and-now-he-is-gone
 ---
 You may also like:
 
-[Document 1384-1](http://scp-wiki.net/document-1384-1)
+[SCP-2723: The Prophet's Tower](http://scp-wiki.net/scp-2723)
 
-[SCP-275](http://scp-wiki.net/scp-275)
+[Tuesday, 11am, Conference Room Three](http://scp-wiki.net/tuesday-11am-conference-room-three)

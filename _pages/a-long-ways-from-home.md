@@ -5,6 +5,6 @@ title: a-long-ways-from-home
 ---
 You may also like:
 
-[Cliches And You: An Educational Film](http://scp-wiki.net/cliches-and-you-an-educational-film)
+[2212 Archival Class](http://scp-wiki.net/2212-archival-class)
 
-[The Meaning of Fear](http://scp-wiki.net/the-meaning-of-fear)
+[SCP-032: Brothers' Bride](http://scp-wiki.net/scp-032)

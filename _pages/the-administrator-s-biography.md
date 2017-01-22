@@ -5,6 +5,6 @@ title: the-administrator-s-biography
 ---
 You may also like:
 
-[SCP-1747](http://scp-wiki.net/scp-1747)
+[SCP-2530: The Emerald Choir](http://scp-wiki.net/scp-2530)
 
-[SCP-1543-J](http://scp-wiki.net/scp-1543-j)
+[Transcript of Incident BL-7 Alpha](http://scp-wiki.net/goc-tale-incident-bl-7-alpha)

@@ -5,6 +5,6 @@ title: scp-2585-exploration-log-c
 ---
 You may also like:
 
-[Posology](http://scp-wiki.net/posology)
+[Interlude - Drift](http://scp-wiki.net/interlude-drift)
 
-[The Coward](http://scp-wiki.net/the-coward)
+[It Grows On Trees](http://scp-wiki.net/it-grows-on-trees)

@@ -5,6 +5,6 @@ title: virr
 ---
 You may also like:
 
-[SCP-1257](http://scp-wiki.net/scp-1257)
+[953 Interview A](http://scp-wiki.net/953-interview-a)
 
-[Christmas Propaganda](http://scp-wiki.net/christmas-propaganda)
+[SCP-1833: Class of '76](http://scp-wiki.net/scp-1833)

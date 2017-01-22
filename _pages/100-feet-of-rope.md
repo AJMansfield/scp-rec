@@ -5,6 +5,6 @@ title: 100-feet-of-rope
 ---
 You may also like:
 
-[SCP-109](http://scp-wiki.net/scp-109)
+[SCP-1311: Sudden Body Integrity Failure](http://scp-wiki.net/scp-1311)
 
-[SCP-2789](http://scp-wiki.net/scp-2789)
+[SCP-083: An Abandoned Row Home](http://scp-wiki.net/scp-083)

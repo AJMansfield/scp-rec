@@ -5,6 +5,6 @@ title: scp-067-ex
 ---
 You may also like:
 
-[SCP-2767](http://scp-wiki.net/scp-2767)
+[All Hallows'](http://scp-wiki.net/all-hallows)
 
-[SCP-2297](http://scp-wiki.net/scp-2297)
+[SCP-2610: Procreation](http://scp-wiki.net/scp-2610)

@@ -5,6 +5,6 @@ title: goc-tale-comeintomyparlor
 ---
 You may also like:
 
-[Story To Be Named Later](http://scp-wiki.net/story-to-be-named-later)
+[Experiment Log 407](http://scp-wiki.net/experiment-log-407)
 
-[Excerpts from PHYSICS Division Field Manual 13: Special Circumstances, Humanoid Threat Entities](http://scp-wiki.net/goc-supplemental-humanoid-guide)
+[SCP-2916: A Lamb, a Shepherd, and a Wolf](http://scp-wiki.net/scp-2916)

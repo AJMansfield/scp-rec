@@ -5,6 +5,6 @@ title: lessons
 ---
 You may also like:
 
-[New Year's (Part 2)](http://scp-wiki.net/new-year-s-part-2)
+[KaktusKast Hub](http://scp-wiki.net/kaktuskast-hub)
 
-[A Long Time Past](http://scp-wiki.net/a-long-time-past)
+[Letters to a Prophet](http://scp-wiki.net/letters-to-a-prophet)

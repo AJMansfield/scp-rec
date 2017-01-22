@@ -5,6 +5,6 @@ title: goc-tale-sequence-scrambleorder
 ---
 You may also like:
 
-[Shell](http://scp-wiki.net/shell)
+[Routine Psychological Evaluations By Dr Glass](http://scp-wiki.net/routine-psychological-evaluations-by-dr-glass)
 
-[Pawn To E4](http://scp-wiki.net/pawn-to-e4)
+[The Most Dangerous Game of All](http://scp-wiki.net/the-most-dangerous-game-of-all)

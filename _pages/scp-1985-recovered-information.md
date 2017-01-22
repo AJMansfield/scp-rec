@@ -5,6 +5,6 @@ title: scp-1985-recovered-information
 ---
 You may also like:
 
-[SCP-683](http://scp-wiki.net/scp-683)
+[Clockwork Time](http://scp-wiki.net/clockwork-time)
 
-[Interview 051-1](http://scp-wiki.net/interview-051-1)
+[SCP-1993: Your Leg](http://scp-wiki.net/scp-1993)

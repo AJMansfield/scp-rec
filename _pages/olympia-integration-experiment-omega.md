@@ -5,6 +5,6 @@ title: olympia-integration-experiment-omega
 ---
 You may also like:
 
-[A Darke Tale - New Age](http://scp-wiki.net/a-darke-tale-new-age)
+[SCP-1270: Man with a Gun](http://scp-wiki.net/scp-1270)
 
-[SCCP-2930](http://scp-wiki.net/scp-2930)
+[The Orb is the Key](http://scp-wiki.net/the-orb-is-the-key)

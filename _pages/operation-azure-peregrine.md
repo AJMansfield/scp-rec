@@ -5,6 +5,6 @@ title: operation-azure-peregrine
 ---
 You may also like:
 
-[Conspiracy, Part II](http://scp-wiki.net/conspiracy-part-ii)
+[How Site-19 Blew Up](http://scp-wiki.net/how-site-19-blew-up)
 
-[Conspiracy, Part VI](http://scp-wiki.net/conspiracy-part-vi)
+[Document 507-3B](http://scp-wiki.net/document-507-3b)

@@ -5,6 +5,6 @@ title: of-able
 ---
 You may also like:
 
-[SCP-032](http://scp-wiki.net/scp-032)
+[The Designer](http://scp-wiki.net/the-designer)
 
-[Command Performance](http://scp-wiki.net/command-performance)
+[Licensing Guide](http://scp-wiki.net/licensing-guide)

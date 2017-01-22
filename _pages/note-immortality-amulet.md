@@ -5,6 +5,6 @@ title: note-immortality-amulet
 ---
 You may also like:
 
-[SCP-1709](http://scp-wiki.net/scp-1709)
+[SCP-2997: Ashes of the Fallen](http://scp-wiki.net/scp-2997)
 
-[SCP-1349](http://scp-wiki.net/scp-1349)
+[Dr. Burns Personnel File](http://scp-wiki.net/dr-burns-personnel-file)

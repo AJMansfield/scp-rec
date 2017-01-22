@@ -5,6 +5,6 @@ title: a-few-more-words-from-the-administrator
 ---
 You may also like:
 
-[Seven Vignettes From The Life Of Mackenzie Lee-Crook](http://scp-wiki.net/seven-vignettes-from-the-life-of-mackenzie-lee-crook)
+[6. Mr. Stripes](http://scp-wiki.net/6-mr-stripes)
 
-[The Special Bond Between Child and Mother](http://scp-wiki.net/the-special-bond-between-child-and-mother)
+[The Pair Of Duck S File](http://scp-wiki.net/the-pair-of-duck-s-file)

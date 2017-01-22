@@ -5,6 +5,6 @@ title: miss-heir
 ---
 You may also like:
 
-[SCP-1739](http://scp-wiki.net/scp-1739)
+[SCP-2360: Cog of Duty](http://scp-wiki.net/scp-2360)
 
-[The Kitchen Sink](http://scp-wiki.net/the-kitchen-sink)
+[CryogenChaos' Author Page](http://scp-wiki.net/cryogenchaos-author-page)

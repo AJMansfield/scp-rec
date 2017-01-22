@@ -5,6 +5,6 @@ title: grant-request-for-the-manufacture-of-devices-to-regulate
 ---
 You may also like:
 
-[SCP-468](http://scp-wiki.net/scp-468)
+[SunnyClockwork's Artwork - Joke SCPs](http://scp-wiki.net/sunny-art-joke-scps)
 
-[SCP-235](http://scp-wiki.net/scp-235)
+[SCP-1518: The Bubble Fountain](http://scp-wiki.net/scp-1518)

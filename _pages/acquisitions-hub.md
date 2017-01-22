@@ -5,6 +5,6 @@ title: acquisitions-hub
 ---
 You may also like:
 
-[Dramatis Personae](http://scp-wiki.net/wayward-prologue)
+[Holding On](http://scp-wiki.net/holding-on)
 
-[How Dr. Clef Saved Christmas](http://scp-wiki.net/how-dr-clef-saved-christmas)
+[The Tick Tock Gospel](http://scp-wiki.net/the-tick-tock-gospel)

@@ -5,6 +5,6 @@ title: and-then-what-happened
 ---
 You may also like:
 
-[Quintessence Of Dust](http://scp-wiki.net/quintessence-of-dust)
+[A Cooler Manifesto](http://scp-wiki.net/a-cooler-manifesto)
 
-[The Cool Kids](http://scp-wiki.net/the-cool-kids)
+[Quintessence Of Dust](http://scp-wiki.net/quintessence-of-dust)

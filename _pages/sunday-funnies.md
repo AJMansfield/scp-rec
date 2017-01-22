@@ -5,6 +5,6 @@ title: sunday-funnies
 ---
 You may also like:
 
-[Job Opportunities](http://scp-wiki.net/job-opportunities)
+[SCP-1570: The Shocked Woman](http://scp-wiki.net/scp-1570)
 
-[Experiment Log 455](http://scp-wiki.net/experiment-log-455)
+[SCP-256: Trapped in the Typewriter](http://scp-wiki.net/scp-256)

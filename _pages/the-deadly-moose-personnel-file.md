@@ -5,6 +5,6 @@ title: the-deadly-moose-personnel-file
 ---
 You may also like:
 
-[Acquisitions - a Marshall, Carter & Dark Tale Act I](http://scp-wiki.net/acquisitions1)
+[Conspiracy, Part I](http://scp-wiki.net/conspiracy-part-i)
 
-[giant enemy spycrab's author page](http://scp-wiki.net/giant-enemy-spycrab-s-author-page)
+[SCP-1310: Examination Room 10](http://scp-wiki.net/scp-1310)

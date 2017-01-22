@@ -5,6 +5,6 @@ title: george-bennings-s-personnel-file
 ---
 You may also like:
 
-[Researcher Robert Sandler](http://scp-wiki.net/personnel-file-of-robert-sandler)
+[Incident 0401-42-III - 'Chornobylska Katastrofa'](http://scp-wiki.net/incident-0401-42-iii-chornobylska-katastrofa)
 
-["Iceberg" Personnel File](http://scp-wiki.net/iceberg-personnel-file)
+[How To Be Scary Without Saying Anything](http://scp-wiki.net/how-to-be-scary-without-saying-anything)

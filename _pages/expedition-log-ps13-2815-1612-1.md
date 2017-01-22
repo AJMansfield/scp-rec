@@ -5,6 +5,6 @@ title: expedition-log-ps13-2815-1612-1
 ---
 You may also like:
 
-[Voice of Decay](http://scp-wiki.net/voice-of-decay)
+[SCP-1239: Adult Play Area](http://scp-wiki.net/scp-1239)
 
-[Snakes And Ladders](http://scp-wiki.net/snakes-and-ladders)
+[Third Law Hub](http://scp-wiki.net/third-law-hub)

@@ -5,6 +5,6 @@ title: goc-tale-sequence-special-observer
 ---
 You may also like:
 
-[Pitch Meeting](http://scp-wiki.net/pitchmeet)
+[SCP-269: Dialysis Bracelet](http://scp-wiki.net/scp-269)
 
-[SCP-1394](http://scp-wiki.net/scp-1394)
+[Not a contest entry, but a crackfic about gods anyways](http://scp-wiki.net/party-of-gods)

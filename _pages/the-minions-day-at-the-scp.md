@@ -5,6 +5,6 @@ title: the-minions-day-at-the-scp
 ---
 You may also like:
 
-[The Tailor](http://scp-wiki.net/the-tailor)
+[SCP-1610: Testing May Continue](http://scp-wiki.net/scp-1610)
 
-[The Place Where Two Rivers Meet](http://scp-wiki.net/the-place-where-two-rivers-meet)
+[Document 8668206 Dg](http://scp-wiki.net/document-8668206-dg)

@@ -5,6 +5,6 @@ title: an-incredibly-important-announcement
 ---
 You may also like:
 
-[Note: A Part of Nobody](http://scp-wiki.net/note-a-part-of-nobody)
+[Interview Log 769-43](http://scp-wiki.net/interview-log-769-43)
 
-[SCP-1548-CU](http://scp-wiki.net/scp-1548-cu)
+[Chapter 1: Verse 1](http://scp-wiki.net/chapter-1-verse-1)

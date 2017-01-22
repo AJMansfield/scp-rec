@@ -5,6 +5,6 @@ title: empire-of-dirt-part-1
 ---
 You may also like:
 
-[Empire Of Dirt (Part 3)](http://scp-wiki.net/empire-of-dirt-part-3)
+[We Have Dismissed That Claim](http://scp-wiki.net/we-have-dismissed-that-claim)
 
-[Breakfast For Dinner](http://scp-wiki.net/breakfast-for-dinner)
+[Figure and Ground](http://scp-wiki.net/figure-and-ground)

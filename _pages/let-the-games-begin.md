@@ -5,6 +5,6 @@ title: let-the-games-begin
 ---
 You may also like:
 
-[SCP-620](http://scp-wiki.net/scp-620)
+[Playing with Flames](http://scp-wiki.net/playing-with-flames)
 
-[SCP-1677](http://scp-wiki.net/scp-1677)
+[Game Day Phase 2: Second Language](http://scp-wiki.net/gdp2-second-language)

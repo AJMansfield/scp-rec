@@ -5,6 +5,6 @@ title: summer-job
 ---
 You may also like:
 
-[help me my (love for my) daughter was born too still](http://scp-wiki.net/the-sky-carries-the-brightness-of-your-smile)
+[SCP-1420: Tartary Eggs](http://scp-wiki.net/scp-1420)
 
-[SCP-2175](http://scp-wiki.net/scp-2175)
+[Excerpts Regarding St. Sophia](http://scp-wiki.net/excerpts-regarding-st-sophia)

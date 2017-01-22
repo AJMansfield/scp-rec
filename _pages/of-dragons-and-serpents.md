@@ -5,6 +5,6 @@ title: of-dragons-and-serpents
 ---
 You may also like:
 
-[Additional Resources](http://scp-wiki.net/additional-resources)
+[Last Days at Camp](http://scp-wiki.net/last-days-at-camp)
 
-[May 13th](http://scp-wiki.net/may-13th)
+[The Reassembled One](http://scp-wiki.net/the-reassembled-one)

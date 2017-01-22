@@ -5,6 +5,6 @@ title: opportunity-knocks
 ---
 You may also like:
 
-[Worst Case Scenario](http://scp-wiki.net/worst-case-scenario)
+[SCP-2263: The Skeleton Gallery](http://scp-wiki.net/scp-2263)
 
-[Application to Form MTF Mu-3](http://scp-wiki.net/application-to-form-mtf-mu3-cover-letter)
+[SCP-583: Deathly Video Tape](http://scp-wiki.net/scp-583)

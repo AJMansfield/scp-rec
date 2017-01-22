@@ -5,6 +5,6 @@ title: smapti-s-personnel-file
 ---
 You may also like:
 
-[Glass x Diogenes 4 Life! <3](http://scp-wiki.net/erogenous-diogenous)
+[SCP-2958: Marooned](http://scp-wiki.net/scp-2958)
 
-[SCP-2281](http://scp-wiki.net/scp-2281)
+[SCP-1517: Candy Critters](http://scp-wiki.net/scp-1517)

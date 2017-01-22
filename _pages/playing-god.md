@@ -5,6 +5,6 @@ title: playing-god
 ---
 You may also like:
 
-[If at First You Don't Succeed...](http://scp-wiki.net/if-at-first-you-don-t-succeed)
+[SunnyClockwork's Artwork - Joke SCPs](http://scp-wiki.net/sunny-art-joke-scps)
 
-[Learning Shit](http://scp-wiki.net/learning-shit)
+[SCP-449: Gut Dust](http://scp-wiki.net/scp-449)

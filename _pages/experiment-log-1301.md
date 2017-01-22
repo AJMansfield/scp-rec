@@ -5,6 +5,6 @@ title: experiment-log-1301
 ---
 You may also like:
 
-[SCP-2567](http://scp-wiki.net/scp-2567)
+[SCP-010-J: WHAT KETER I DON'T SEE ANY KETER](http://scp-wiki.net/scp-010-j)
 
-[SCP-2899](http://scp-wiki.net/scp-2899)
+[Spark of Creation](http://scp-wiki.net/spark-of-creation)

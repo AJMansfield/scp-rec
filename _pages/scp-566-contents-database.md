@@ -5,6 +5,6 @@ title: scp-566-contents-database
 ---
 You may also like:
 
-[SCP-2934](http://scp-wiki.net/scp-2934)
+[The God And World](http://scp-wiki.net/the-god-and-world)
 
-[SCP-2376](http://scp-wiki.net/scp-2376)
+[The Harold Maine Fan Club](http://scp-wiki.net/the-harold-maine-fan-club)

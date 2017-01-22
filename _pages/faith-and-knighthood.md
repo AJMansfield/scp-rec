@@ -5,6 +5,6 @@ title: faith-and-knighthood
 ---
 You may also like:
 
-[SCP-661](http://scp-wiki.net/scp-661)
+[SCP-1692: Came Back Haunted](http://scp-wiki.net/scp-1692)
 
-[Patterns](http://scp-wiki.net/patterns)
+[SCP-1552: The Dog Who Loves Closeups](http://scp-wiki.net/scp-1552)

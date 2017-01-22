@@ -5,6 +5,6 @@ title: another-goddamn-magic-system
 ---
 You may also like:
 
-[SCP-001-J](http://scp-wiki.net/scp-001-j)
+[SCP-2910: That Only a Mother](http://scp-wiki.net/scp-2910)
 
-[SCP-1330](http://scp-wiki.net/scp-1330)
+[SCP-2527: Massy's Big Chance](http://scp-wiki.net/scp-2527)

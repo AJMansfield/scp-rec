@@ -5,6 +5,6 @@ title: parenthood
 ---
 You may also like:
 
-[Glass x Diogenes 4 Life! <3](http://scp-wiki.net/erogenous-diogenous)
+[New Age - Book II: "Mr Brightside"](http://scp-wiki.net/new-age-2)
 
-[SCP-5308-J](http://scp-wiki.net/scp-5308-j)
+[Conspiracy, Part III](http://scp-wiki.net/conspiracy-part-iii)

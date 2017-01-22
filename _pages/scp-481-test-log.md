@@ -5,6 +5,6 @@ title: scp-481-test-log
 ---
 You may also like:
 
-[SCP-237](http://scp-wiki.net/scp-237)
+[SCP-433: A Ritual](http://scp-wiki.net/scp-433)
 
-[SCP-689](http://scp-wiki.net/scp-689)
+[Cover Letter for After-Action Report: Operation Free Market](http://scp-wiki.net/after-action-report-cover-letter)

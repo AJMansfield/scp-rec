@@ -5,6 +5,6 @@ title: putting-a-ghost-in-the-machine
 ---
 You may also like:
 
-[SCP-2905](http://scp-wiki.net/scp-2905)
+[Survey Log 1165](http://scp-wiki.net/survey-log-1165)
 
-[SCP-2551](http://scp-wiki.net/scp-2551)
+[SCP-2605: Caretaker](http://scp-wiki.net/scp-2605)

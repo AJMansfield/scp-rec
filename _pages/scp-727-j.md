@@ -5,6 +5,6 @@ title: scp-727-j
 ---
 You may also like:
 
-[SCP-2408](http://scp-wiki.net/scp-2408)
+[Golden Horde Blues](http://scp-wiki.net/golden-horde-blues)
 
-[SCP-1272](http://scp-wiki.net/scp-1272)
+[SCP-999-J: Creepy Speedo Man](http://scp-wiki.net/scp-999-j)

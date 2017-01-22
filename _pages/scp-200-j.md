@@ -5,6 +5,6 @@ title: scp-200-j
 ---
 You may also like:
 
-[SCP-2090](http://scp-wiki.net/scp-2090)
+[What Happened Beneath Cronos](http://scp-wiki.net/what-happened-beneath-cronos)
 
-[SCP-669](http://scp-wiki.net/scp-669)
+[SCP-2970: Holy Misplacement](http://scp-wiki.net/scp-2970)

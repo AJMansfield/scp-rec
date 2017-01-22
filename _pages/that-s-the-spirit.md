@@ -5,6 +5,6 @@ title: that-s-the-spirit
 ---
 You may also like:
 
-[SCP-356](http://scp-wiki.net/scp-356)
+[Document 001-O5](http://scp-wiki.net/document-001-o5)
 
-[SCP-250](http://scp-wiki.net/scp-250)
+[SCP-1970: Little Men in the Television](http://scp-wiki.net/scp-1970)

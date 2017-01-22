@@ -5,6 +5,6 @@ title: budget-cuts
 ---
 You may also like:
 
-[From On High (Antarctic Exchange #4)](http://scp-wiki.net/from-on-high)
+[SCP-2150: A Breach of Command](http://scp-wiki.net/scp-2150)
 
-[The test log you have dialed cannot be reached at this time...](http://scp-wiki.net/test-log-scp-926-1)
+[The Grand Theological Game](http://scp-wiki.net/the-grand-theological-game)

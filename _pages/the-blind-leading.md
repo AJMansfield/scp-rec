@@ -5,6 +5,6 @@ title: the-blind-leading
 ---
 You may also like:
 
-[Empty Nights](http://scp-wiki.net/empty-nights)
+[Audio Log 185-53](http://scp-wiki.net/audio-log-185-53)
 
-[Chasing Interest](http://scp-wiki.net/chasing-interest)
+[SCP-198: Cup of Joe](http://scp-wiki.net/scp-198)

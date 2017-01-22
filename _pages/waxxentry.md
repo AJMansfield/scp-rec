@@ -5,6 +5,6 @@ title: waxxentry
 ---
 You may also like:
 
-[Lord Blackwood's Revenge](http://scp-wiki.net/lord-blackwood-s-revenge)
+[Letting it go](http://scp-wiki.net/letting-it-go)
 
-[The Bibliography and Assorted Ramblings of a Viridian Canine](http://scp-wiki.net/greenwolf-s-author-page)
+[Recovered Materials 2187-A](http://scp-wiki.net/recoveredmaterials2187-a)

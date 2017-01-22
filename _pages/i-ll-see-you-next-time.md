@@ -5,6 +5,6 @@ title: i-ll-see-you-next-time
 ---
 You may also like:
 
-[SCP-1467](http://scp-wiki.net/scp-1467)
+[Interview Log 026-01](http://scp-wiki.net/interview-log-026-01)
 
-[SCP-933](http://scp-wiki.net/scp-933)
+[SCP-1030: Anything Golem](http://scp-wiki.net/scp-1030)

@@ -5,6 +5,6 @@ title: bijhan
 ---
 You may also like:
 
-[First Locke Donation](http://scp-wiki.net/first-locke-donation)
+[SCP-2133: Our Land, Our Bondage](http://scp-wiki.net/scp-2133)
 
-[Personal Journal Of Douglas Winthrop](http://scp-wiki.net/personal-journal-of-douglas-winthrop)
+[SCP-002: The "Living" Room](http://scp-wiki.net/scp-002)

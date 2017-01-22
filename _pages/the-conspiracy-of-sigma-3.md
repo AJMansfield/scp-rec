@@ -5,6 +5,6 @@ title: the-conspiracy-of-sigma-3
 ---
 You may also like:
 
-[SCP-2199](http://scp-wiki.net/scp-2199)
+[SCP-1503: Agoraphobic Stone](http://scp-wiki.net/scp-1503)
 
-[The Lord Of Endowments](http://scp-wiki.net/the-lord-of-endowments)
+[SCP-1552: The Dog Who Loves Closeups](http://scp-wiki.net/scp-1552)

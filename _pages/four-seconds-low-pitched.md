@@ -5,6 +5,6 @@ title: four-seconds-low-pitched
 ---
 You may also like:
 
-[S & C Plastics Hub](http://scp-wiki.net/the-s-c-plastics-hub)
+[SCP-2171: Autumn Shepherds](http://scp-wiki.net/scp-2171)
 
-[Satyr's Reign](http://scp-wiki.net/satyr-s-reign)
+[SCP-2328: The Hoarder's Son](http://scp-wiki.net/scp-2328)

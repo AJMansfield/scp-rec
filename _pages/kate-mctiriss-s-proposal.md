@@ -5,6 +5,6 @@ title: kate-mctiriss-s-proposal
 ---
 You may also like:
 
-[SCP-1780](http://scp-wiki.net/scp-1780)
+[SCP-1085: Pound Off the Pounds!](http://scp-wiki.net/scp-1085)
 
-[SCP-411](http://scp-wiki.net/scp-411)
+[UIU Orientation](http://scp-wiki.net/uiu-orientation)

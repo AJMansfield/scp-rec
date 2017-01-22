@@ -5,6 +5,6 @@ title: incident-zero-part-2
 ---
 You may also like:
 
-[SCP-2644](http://scp-wiki.net/scp-2644)
+[SCP-196: Time Paradox](http://scp-wiki.net/scp-196)
 
-[Blue Team](http://scp-wiki.net/blue-team)
+[SCP-083: An Abandoned Row Home](http://scp-wiki.net/scp-083)

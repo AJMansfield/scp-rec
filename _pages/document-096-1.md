@@ -5,6 +5,6 @@ title: document-096-1
 ---
 You may also like:
 
-[SCP-344](http://scp-wiki.net/scp-344)
+[SCP-917: Mr. Moon](http://scp-wiki.net/scp-917)
 
-[SCP-738](http://scp-wiki.net/scp-738)
+[SCP-541: Living Thoracic System](http://scp-wiki.net/scp-541)

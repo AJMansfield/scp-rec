@@ -5,6 +5,6 @@ title: document-1384-1
 ---
 You may also like:
 
-[And Now, He Is Gone](http://scp-wiki.net/and-now-he-is-gone)
+[SCP-1413: SPORTSBALL](http://scp-wiki.net/scp-1413)
 
-[SCP-632](http://scp-wiki.net/scp-632)
+[Be a Dali and Help a Mann Out, or The Lamentable State of Modern Art](http://scp-wiki.net/be-a-dali-and-help-a-mann-out-or-the-lamentable-state-of-mod)

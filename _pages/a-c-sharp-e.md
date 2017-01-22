@@ -5,6 +5,6 @@ title: a-c-sharp-e
 ---
 You may also like:
 
-[SCP-1816](http://scp-wiki.net/scp-1816)
+[D-2000](http://scp-wiki.net/d-2000)
 
-[Chasing Interest](http://scp-wiki.net/chasing-interest)
+[Remembrance: Part One](http://scp-wiki.net/in-symphony)

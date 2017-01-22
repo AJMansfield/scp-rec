@@ -5,6 +5,6 @@ title: zmax-s-author-page
 ---
 You may also like:
 
-["Petro" Derinsky's Personnel File](http://scp-wiki.net/petro-derinsky-s-personnel-file)
+[Anomalous Incidents](http://scp-wiki.net/anomalous-incidents)
 
-[WrongJohnSilver's Author Page](http://scp-wiki.net/wrongjohnsilver-s-author-page)
+[SCP-1989: The LaserDisc Player](http://scp-wiki.net/scp-1989)

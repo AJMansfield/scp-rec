@@ -5,6 +5,6 @@ title: scp-132-arc
 ---
 You may also like:
 
-[SCP-1622](http://scp-wiki.net/scp-1622)
+[Da Capo al Fine](http://scp-wiki.net/da-capo-al-fine)
 
-[SCP-763](http://scp-wiki.net/scp-763)
+[Contingency](http://scp-wiki.net/contingency)

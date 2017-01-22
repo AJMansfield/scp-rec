@@ -5,6 +5,6 @@ title: bed-breakfast-plague
 ---
 You may also like:
 
-[SCP-149](http://scp-wiki.net/scp-149)
+[SCP-599: Uncharted City](http://scp-wiki.net/scp-599)
 
-[SCP-1709](http://scp-wiki.net/scp-1709)
+[SCP-379: Mechanical Pheromone](http://scp-wiki.net/scp-379)

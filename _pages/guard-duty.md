@@ -5,6 +5,6 @@ title: guard-duty
 ---
 You may also like:
 
-[Eta-5 and the Terrible, Horrible, No Good, Very Bad Origamizilla](http://scp-wiki.net/eta-5-and-the-terrible-horrible-no-good-very-bad-oragamizill)
+[Timing](http://scp-wiki.net/timing)
 
-[Interview With the Strigoi](http://scp-wiki.net/interview-with-the-strigoi)
+[SCP-670: Family of Cotton](http://scp-wiki.net/scp-670)

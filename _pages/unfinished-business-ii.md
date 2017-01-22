@@ -5,6 +5,6 @@ title: unfinished-business-ii
 ---
 You may also like:
 
-[SCP-1206](http://scp-wiki.net/scp-1206)
+[For Old Time's Sake](http://scp-wiki.net/for-old-time-s-sake)
 
-[Picking](http://scp-wiki.net/picking)
+[SCP-1523: Soul Brother](http://scp-wiki.net/scp-1523)

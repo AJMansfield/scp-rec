@@ -5,6 +5,6 @@ title: lessons-from-history
 ---
 You may also like:
 
-[SCP-2707](http://scp-wiki.net/scp-2707)
+[SCP-1340: The Fraternal Order of Cave Mantas](http://scp-wiki.net/scp-1340)
 
-[SCP-1040-J](http://scp-wiki.net/scp-1040-j)
+[The Dark At The End Of The Tunnel](http://scp-wiki.net/the-dark-at-the-end-of-the-tunnel)

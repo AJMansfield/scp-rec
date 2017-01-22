@@ -5,6 +5,6 @@ title: the-truth-is-out-there
 ---
 You may also like:
 
-[Broken Masquerade HUB](http://scp-wiki.net/broken-masquerade-hub)
+[How To Debate An Armchair](http://scp-wiki.net/how-to-debate-an-armchair)
 
-[The Executions of Doctor Bright](http://scp-wiki.net/the-executions-of-doctor-bright)
+[SCP-845: Liquid Polecat](http://scp-wiki.net/scp-845)

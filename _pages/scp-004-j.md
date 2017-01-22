@@ -5,6 +5,6 @@ title: scp-004-j
 ---
 You may also like:
 
-[The Truth Is Out There](http://scp-wiki.net/the-truth-is-out-there)
+[And What Was a Soul to That Blank White World](http://scp-wiki.net/the-fine-print)
 
-[Broken Masquerade HUB](http://scp-wiki.net/broken-masquerade-hub)
+[SCP-7000-J: Veni, Vidi, [DATA EXPUNGED]](http://scp-wiki.net/scp-7000-j)

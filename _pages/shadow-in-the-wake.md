@@ -5,6 +5,6 @@ title: shadow-in-the-wake
 ---
 You may also like:
 
-[Breaker 1 9](http://scp-wiki.net/breaker-1-9)
+[What I'm Here For](http://scp-wiki.net/what-i-m-here-for)
 
-[In His Own Image: Part 2](http://scp-wiki.net/in-his-own-image-part-2)
+[SCP-2790: You've Got a Squid in Me](http://scp-wiki.net/scp-2790)

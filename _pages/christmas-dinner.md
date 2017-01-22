@@ -5,6 +5,6 @@ title: christmas-dinner
 ---
 You may also like:
 
-[SCP-1520](http://scp-wiki.net/scp-1520)
+[In other news,](http://scp-wiki.net/in-other-news)
 
-[SCP-1730](http://scp-wiki.net/scp-1730)
+[SCP-499: Old Sun Man](http://scp-wiki.net/scp-499)

@@ -5,6 +5,6 @@ title: alias-personnel-file
 ---
 You may also like:
 
-[SCP-1577](http://scp-wiki.net/scp-1577)
+[I Am the Very Model](http://scp-wiki.net/i-am-the-very-model)
 
-[A Discussion with L. E. T.](http://scp-wiki.net/a-discussion-with-l-e-t)
+[The Woven Man](http://scp-wiki.net/the-woven-man)

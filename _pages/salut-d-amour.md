@@ -5,6 +5,6 @@ title: salut-d-amour
 ---
 You may also like:
 
-[To Sleep, Perchance to Dream](http://scp-wiki.net/to-sleep-perchance-to-dream)
+[SCP-822: Landmine Cacti](http://scp-wiki.net/scp-822)
 
-[Incursion](http://scp-wiki.net/incursion)
+[SCP-1590: The Book of Tamlin](http://scp-wiki.net/scp-1590)

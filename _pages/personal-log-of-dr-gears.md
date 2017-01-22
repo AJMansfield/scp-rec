@@ -5,6 +5,6 @@ title: personal-log-of-dr-gears
 ---
 You may also like:
 
-[SCP-1476](http://scp-wiki.net/scp-1476)
+[SCP-758: Spell Check - "Vasili"](http://scp-wiki.net/scp-758)
 
-[SCP-1143](http://scp-wiki.net/scp-1143)
+[SCP-2886: Planet-Hopping Volcano](http://scp-wiki.net/scp-2886)

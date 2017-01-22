@@ -5,6 +5,6 @@ title: ad-majorem-bonum
 ---
 You may also like:
 
-[SCP-402](http://scp-wiki.net/scp-402)
+[Entropy](http://scp-wiki.net/entropy)
 
-[Folly](http://scp-wiki.net/folly)
+[SCP-010-J: WHAT KETER I DON'T SEE ANY KETER](http://scp-wiki.net/scp-010-j)

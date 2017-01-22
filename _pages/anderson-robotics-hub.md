@@ -5,6 +5,6 @@ title: anderson-robotics-hub
 ---
 You may also like:
 
-[Mission Statement](http://scp-wiki.net/mission-statement)
+[SCP-2598: Traveling Moth Salesman](http://scp-wiki.net/scp-2598)
 
-[Sarkicism Hub](http://scp-wiki.net/sarkicism-hub)
+[Dr. Mackenzie's Personnel File](http://scp-wiki.net/dr-mackenzie)

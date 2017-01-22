@@ -5,6 +5,6 @@ title: except-it-is
 ---
 You may also like:
 
-[SCP-112-ARC](http://scp-wiki.net/scp-112-arc)
+[Document 2216-X1999-1](http://scp-wiki.net/document-2216-x1999-1)
 
-[SCP-093 'Red' Test](http://scp-wiki.net/scp-093-red-test)
+[The King Is Dead](http://scp-wiki.net/the-king-is-dead)

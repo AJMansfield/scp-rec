@@ -5,6 +5,6 @@ title: i-remember-my-heroes
 ---
 You may also like:
 
-[SCP-2608](http://scp-wiki.net/scp-2608)
+[Document 451-A](http://scp-wiki.net/document-451-a)
 
-[SCP-2990](http://scp-wiki.net/scp-2990)
+[Wednesday - 6](http://scp-wiki.net/wednesday-6)

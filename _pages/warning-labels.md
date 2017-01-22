@@ -5,6 +5,6 @@ title: warning-labels
 ---
 You may also like:
 
-[Obsession's Price](http://scp-wiki.net/obsession-s-price)
+[Amnestic](http://scp-wiki.net/amnestic)
 
-[SCP-1501](http://scp-wiki.net/scp-1501)
+[First Quarto](http://scp-wiki.net/first-quarto)

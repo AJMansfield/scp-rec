@@ -5,6 +5,6 @@ title: burnt-bridges
 ---
 You may also like:
 
-[MTF Theta-90 Hub Page](http://scp-wiki.net/mtf-theta-90-hub-page)
+[.::Only |n Drea{{m}}s--](http://scp-wiki.net/only-in-dreams)
 
-[Those Who Lived On](http://scp-wiki.net/those-who-lived-on-hub)
+[SCP-509: Men Are Pigs](http://scp-wiki.net/scp-509)

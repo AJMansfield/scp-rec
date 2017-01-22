@@ -5,6 +5,6 @@ title: incident-report-wp-1
 ---
 You may also like:
 
-[D-2000](http://scp-wiki.net/d-2000)
+[Incident Report 023-026](http://scp-wiki.net/incident-report-023-26)
 
-[SCP-2312](http://scp-wiki.net/scp-2312)
+[SCP-966: Sleep Killer](http://scp-wiki.net/scp-966)

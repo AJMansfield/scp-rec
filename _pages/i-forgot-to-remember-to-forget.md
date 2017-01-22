@@ -5,6 +5,6 @@ title: i-forgot-to-remember-to-forget
 ---
 You may also like:
 
-[Satyr's Reign](http://scp-wiki.net/satyr-s-reign)
+[SCP-1488: Partially Roboticized Tortoises](http://scp-wiki.net/scp-1488)
 
-[SCP-2487](http://scp-wiki.net/scp-2487)
+[SCP-2954: Looping Kaiju Killing](http://scp-wiki.net/scp-2954)

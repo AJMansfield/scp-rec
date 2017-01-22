@@ -5,6 +5,6 @@ title: timing
 ---
 You may also like:
 
-[SCP-436](http://scp-wiki.net/scp-436)
+[Daylight Come](http://scp-wiki.net/daylight-come)
 
-[SCP-1245](http://scp-wiki.net/scp-1245)
+[SCP-2462: I'm so tired of fake friends, drama, liars, being ignored, and getting hurt](http://scp-wiki.net/scp-2462)

@@ -5,6 +5,6 @@ title: absolute-self-control
 ---
 You may also like:
 
-[SCP-2343](http://scp-wiki.net/scp-2343-2)
+[SCP-2722: SCPS Solidarity](http://scp-wiki.net/scp-2722)
 
-[Shadow of a Doubt](http://scp-wiki.net/shadow-of-a-doubt)
+[Closure](http://scp-wiki.net/dontcallitacomebackbecauseidontknowifillstay)

@@ -5,6 +5,6 @@ title: snail-tale
 ---
 You may also like:
 
-[Ye Olde Foundation](http://scp-wiki.net/ye-olde-foundation)
+[SCP-2263: The Skeleton Gallery](http://scp-wiki.net/scp-2263)
 
-[First Ones In](http://scp-wiki.net/first-ones-in)
+[We've Got A Runner](http://scp-wiki.net/we-ve-got-a-runner)

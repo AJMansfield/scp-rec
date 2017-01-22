@@ -5,6 +5,6 @@ title: promotion
 ---
 You may also like:
 
-[SCP-515-ARC](http://scp-wiki.net/scp-515-arc)
+[Skip Jam Part One](http://scp-wiki.net/skip-jam-part-one)
 
-[Charon (Part 1: Nekyia)](http://scp-wiki.net/charon-part-1-nekyia)
+[Dr Jon Drake's Personnel File](http://scp-wiki.net/dr-jon-drake-s-personnel-file)

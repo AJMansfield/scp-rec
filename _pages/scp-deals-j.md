@@ -5,6 +5,6 @@ title: scp-deals-j
 ---
 You may also like:
 
-[SCP-2515](http://scp-wiki.net/scp-2515)
+[Superencipherment](http://scp-wiki.net/superencipherment)
 
-[SCP-1963](http://scp-wiki.net/scp-1963)
+[Enjoy the Silence](http://scp-wiki.net/enjoy-the-silence)

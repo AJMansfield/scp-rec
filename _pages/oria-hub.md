@@ -5,6 +5,6 @@ title: oria-hub
 ---
 You may also like:
 
-[Church of the Broken God Hub](http://scp-wiki.net/church-of-the-broken-god-hub)
+[Project Heimdall](http://scp-wiki.net/project-heimdall)
 
-[Where's The Shadow Government When You Need Them?](http://scp-wiki.net/it-s-a-bad-bad-world)
+[Ziggy the Extra Special Bush Baby](http://scp-wiki.net/ziggy-the-extra-special-bush-baby)

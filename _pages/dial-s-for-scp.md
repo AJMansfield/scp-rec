@@ -5,6 +5,6 @@ title: dial-s-for-scp
 ---
 You may also like:
 
-[Why Change?](http://scp-wiki.net/why-change)
+[Sex, Success, and Targeted Advertising](http://scp-wiki.net/sex-success-and-targeted-advertising)
 
-[Triumph](http://scp-wiki.net/triumph)
+[KaktusKast Hub](http://scp-wiki.net/kaktuskast-hub)

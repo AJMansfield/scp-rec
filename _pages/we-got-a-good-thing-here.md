@@ -5,6 +5,6 @@ title: we-got-a-good-thing-here
 ---
 You may also like:
 
-[Light-Dependent Reactions](http://scp-wiki.net/light-dependent-reactions)
+[Work Journal 3](http://scp-wiki.net/work-journal-3)
 
-[Are We There Yet?](http://scp-wiki.net/are-we-there-yet)
+[SCP-2439: [SLOT UNALLOCATED]](http://scp-wiki.net/scp-2439)

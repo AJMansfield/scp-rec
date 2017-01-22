@@ -5,6 +5,6 @@ title: footsteps
 ---
 You may also like:
 
-[SCP-1295](http://scp-wiki.net/scp-1295)
+[The Musical Suspects](http://scp-wiki.net/the-musical-suspects)
 
-[Favors-Part Two](http://scp-wiki.net/favors-part-two)
+[Mf99k's Fanshy Stuff](http://scp-wiki.net/mf99k-author-page)

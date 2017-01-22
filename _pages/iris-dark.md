@@ -5,6 +5,6 @@ title: iris-dark
 ---
 You may also like:
 
-[7 Degrees of Separation](http://scp-wiki.net/7-degrees-of-separation)
+[The Doc Block](http://scp-wiki.net/the-doc-block)
 
-[`Twas The Night Before Christmas](http://scp-wiki.net/twas-the-night-before-christmas)
+[In all Honesty,](http://scp-wiki.net/in-all-honesty)

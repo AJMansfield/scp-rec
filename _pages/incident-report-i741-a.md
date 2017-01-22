@@ -5,6 +5,6 @@ title: incident-report-i741-a
 ---
 You may also like:
 
-[Ineffective](http://scp-wiki.net/ineffective)
+[SCP-1010: The Green Man](http://scp-wiki.net/scp-1010)
 
-[Experiment Log 731](http://scp-wiki.net/experiment-log-731)
+[SCP-888: Memory Stones](http://scp-wiki.net/scp-888)

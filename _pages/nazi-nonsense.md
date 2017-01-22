@@ -5,6 +5,6 @@ title: nazi-nonsense
 ---
 You may also like:
 
-[Here There Be](http://scp-wiki.net/heretherebe)
+[SCP-1514: Star Wars](http://scp-wiki.net/scp-1514)
 
-[Lord Blackwood and the Thaumaturge](http://scp-wiki.net/lord-blackwood-and-the-thaumaturge-the-t)
+[Kate McTiriss's Personnel File](http://scp-wiki.net/kate-mctiriss-s-personnel-file)

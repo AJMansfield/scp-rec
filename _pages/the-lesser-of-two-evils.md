@@ -5,6 +5,6 @@ title: the-lesser-of-two-evils
 ---
 You may also like:
 
-[All of Me Wants All of You](http://scp-wiki.net/all-of-me-wants-all-of-you)
+[A Greater Darkness](http://scp-wiki.net/a-greater-darkness)
 
-[Origin of Clef](http://scp-wiki.net/originofclef)
+[SCP-446: Human Mannequin](http://scp-wiki.net/scp-446)

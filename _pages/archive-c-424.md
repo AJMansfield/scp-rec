@@ -5,6 +5,6 @@ title: archive-c-424
 ---
 You may also like:
 
-[Sycamore Center Preparatory](http://scp-wiki.net/sycamore-center-preparatory)
+[SCP-1342: To the Makers of Music](http://scp-wiki.net/scp-1342)
 
-[SCP-520](http://scp-wiki.net/scp-520)
+[SCP-781: Unwitting Dreamshaper](http://scp-wiki.net/scp-781)

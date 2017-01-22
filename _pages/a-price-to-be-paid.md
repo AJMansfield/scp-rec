@@ -5,6 +5,6 @@ title: a-price-to-be-paid
 ---
 You may also like:
 
-[SCP-2676](http://scp-wiki.net/scp-2676)
+[The Lost Treasure of the Stranglefruits](http://scp-wiki.net/the-lost-treasure-of-the-stranglefruits)
 
-[Worn](http://scp-wiki.net/worn)
+[It Just Shattered](http://scp-wiki.net/it-just-shattered)

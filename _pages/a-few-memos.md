@@ -5,6 +5,6 @@ title: a-few-memos
 ---
 You may also like:
 
-[Hats](http://scp-wiki.net/hats)
+[SCP-1496: The Most Profound Statement in History A Place Setting](http://scp-wiki.net/scp-1496)
 
-[Extended SCP-420-J Experiment Log](http://scp-wiki.net/extended-scp-420-j-experiment-log)
+[The Greater SCP Foundation Exploration Series, Part 12-The Akiva System](http://scp-wiki.net/this-url-will-explain-akivas)

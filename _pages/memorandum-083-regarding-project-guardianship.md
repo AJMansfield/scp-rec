@@ -5,6 +5,6 @@ title: memorandum-083-regarding-project-guardianship
 ---
 You may also like:
 
-[SCP-036](http://scp-wiki.net/scp-036)
+[SCP-2504: Emergency Services](http://scp-wiki.net/scp-2504)
 
-[SCP-2721](http://scp-wiki.net/scp-2721)
+[Top Rated Pages By Month 2011](http://scp-wiki.net/top-rated-pages-by-month-2011)

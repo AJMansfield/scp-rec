@@ -5,6 +5,6 @@ title: transcript-of-meeting-june-2-1972
 ---
 You may also like:
 
-[SCP-2376](http://scp-wiki.net/scp-2376)
+["Apakht"](http://scp-wiki.net/apakht)
 
-[Astronomical](http://scp-wiki.net/astronomical)
+[Tearing Down](http://scp-wiki.net/tearing-down)

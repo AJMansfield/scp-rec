@@ -5,6 +5,6 @@ title: sunny-art-cotbg-sarkicism
 ---
 You may also like:
 
-[SunnyClockwork's Artwork Hub](http://scp-wiki.net/sunny-s-black-and-white-art)
+[SCP-4444-J: Disinformation Campaign: Operation Golden Origin](http://scp-wiki.net/scp-4444-j)
 
-[SunnyClockwork's Artwork - Personnel](http://scp-wiki.net/sunny-art-personnel)
+[SCP-512: Gravity-Nullifying Umbrella](http://scp-wiki.net/scp-512)

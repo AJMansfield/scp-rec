@@ -5,6 +5,6 @@ title: anachronisms
 ---
 You may also like:
 
-[Worst Case Scenario](http://scp-wiki.net/worst-case-scenario)
+[SCP-2602, which used to be a library: Exbibliothetic](http://scp-wiki.net/scp-2602)
 
-[Through the Out-Land, and What David and Tim Found There](http://scp-wiki.net/through-the-out-land-and-what-david-and-tim-found-there)
+[Father Iron](http://scp-wiki.net/father-iron)

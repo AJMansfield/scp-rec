@@ -5,6 +5,6 @@ title: an-unconventional-tail
 ---
 You may also like:
 
-[SCP-2527](http://scp-wiki.net/scp-2527)
+[In all Honesty,](http://scp-wiki.net/in-all-honesty)
 
-[Cleaning Larry](http://scp-wiki.net/cleaning-larry)
+[Facts Concerning Team 15 of Chapterhouse 4 and the Black Book](http://scp-wiki.net/lovecraft-parody-title)

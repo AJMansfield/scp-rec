@@ -5,6 +5,6 @@ title: history-of-the-universe-part-one
 ---
 You may also like:
 
-[An Interview With "The Administrator"](http://scp-wiki.net/an-interview-with-the-administrator)
+[Girls' Night Out: Getting Drunk](http://scp-wiki.net/getting-drunk)
 
-[So You Want to Write a Humanoid SCP Object](http://scp-wiki.net/so-you-want-to-write-a-humanoid-scp-object)
+[SCP-543: Noise](http://scp-wiki.net/scp-543)

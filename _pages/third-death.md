@@ -5,6 +5,6 @@ title: third-death
 ---
 You may also like:
 
-[Taking Stock](http://scp-wiki.net/taking-stock)
+[Engineering Technologist S. Xiao's Personnel File](http://scp-wiki.net/engo-xiaos-personnel-file)
 
-[The Lonely Road](http://scp-wiki.net/the-lonely-road)
+[Shark Tale](http://scp-wiki.net/shark-tale)

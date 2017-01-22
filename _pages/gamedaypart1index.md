@@ -5,6 +5,6 @@ title: gamedaypart1index
 ---
 You may also like:
 
-[The test log you have dialed cannot be reached at this time...](http://scp-wiki.net/test-log-scp-926-1)
+[SCP-272: An Old Iron Nail](http://scp-wiki.net/scp-272)
 
-[SCP-2889](http://scp-wiki.net/scp-2889)
+[The 784 Incident: Part 6: Escape](http://scp-wiki.net/784incident6)

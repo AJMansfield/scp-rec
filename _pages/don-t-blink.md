@@ -5,6 +5,6 @@ title: don-t-blink
 ---
 You may also like:
 
-[SCP-2926](http://scp-wiki.net/scp-2926)
+[You Are Not Insignificant](http://scp-wiki.net/you-are-not-insignificant)
 
-[SCP-1991](http://scp-wiki.net/scp-1991)
+[SCP-2343](http://scp-wiki.net/scp-2343-2)

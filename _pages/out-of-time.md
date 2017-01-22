@@ -5,6 +5,6 @@ title: out-of-time
 ---
 You may also like:
 
-[SCP-1850](http://scp-wiki.net/scp-1850)
+[Who Am I?](http://scp-wiki.net/who-am-i)
 
-[SCP-1284](http://scp-wiki.net/scp-1284)
+[Unstable Thoughts](http://scp-wiki.net/unstable-thoughts)

@@ -5,6 +5,6 @@ title: etdp-hub-page
 ---
 You may also like:
 
-[The Settling Ash](http://scp-wiki.net/the-settling-ash)
+[Worst Case Scenario](http://scp-wiki.net/worst-case-scenario)
 
-[The Man Comes Around](http://scp-wiki.net/the-man-comes-around)
+[SCP-2660: An object that removes darkness](http://scp-wiki.net/scp-2660)

@@ -5,6 +5,6 @@ title: dust-and-blood
 ---
 You may also like:
 
-[The Only Way To Travel](http://scp-wiki.net/the-only-way-to-travel)
+[Researcher Conwell's Personnel File](http://scp-wiki.net/researcher-conwell-s-personnel-file)
 
-[SCP-042-J](http://scp-wiki.net/scp-042-j)
+[SCP-160: Predator Drone](http://scp-wiki.net/scp-160)

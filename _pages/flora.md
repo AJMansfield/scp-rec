@@ -5,6 +5,6 @@ title: flora
 ---
 You may also like:
 
-[SCP-734](http://scp-wiki.net/scp-734)
+[Containment Breach The Musical](http://scp-wiki.net/containment-breach-the-musical)
 
-[Guiser's Night](http://scp-wiki.net/guiser-s-night)
+[Twisted Together](http://scp-wiki.net/twisted-together)

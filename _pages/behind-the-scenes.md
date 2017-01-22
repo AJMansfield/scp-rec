@@ -5,6 +5,6 @@ title: behind-the-scenes
 ---
 You may also like:
 
-['dad', you're too fucking late](http://scp-wiki.net/to-my-companion-who-sleeps-eternally-beyond-reach)
+[SCP-CCG](http://scp-wiki.net/scp-ccg)
 
-[SCP-897](http://scp-wiki.net/scp-897)
+[SCP-534: Misplaced Blood](http://scp-wiki.net/scp-534)

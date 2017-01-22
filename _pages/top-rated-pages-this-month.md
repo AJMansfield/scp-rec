@@ -5,6 +5,6 @@ title: top-rated-pages-this-month
 ---
 You may also like:
 
-[SCP-2898](http://scp-wiki.net/scp-2898)
+[And Then There Were None](http://scp-wiki.net/and-then-there-were-none)
 
-[SCP-1256](http://scp-wiki.net/scp-1256)
+[SCP-1505: Paradoxical Avian Propagation](http://scp-wiki.net/scp-1505)

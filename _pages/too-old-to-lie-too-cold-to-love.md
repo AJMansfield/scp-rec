@@ -5,6 +5,6 @@ title: too-old-to-lie-too-cold-to-love
 ---
 You may also like:
 
-[SCP-2475](http://scp-wiki.net/scp-2475)
+[SCP-1659: Directorate K](http://scp-wiki.net/scp-1659)
 
-[SCP-1008](http://scp-wiki.net/scp-1008)
+[SCP-2583: Dust to Dust](http://scp-wiki.net/scp-2583)

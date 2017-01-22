@@ -5,6 +5,6 @@ title: solvin-center-of-problems
 ---
 You may also like:
 
-[An Inspection](http://scp-wiki.net/cav-003)
+[SCP-1850: Accipiter sopwithii](http://scp-wiki.net/scp-1850)
 
-[SCP-2584](http://scp-wiki.net/scp-2584)
+[Walk the Floor](http://scp-wiki.net/walk-the-floor)

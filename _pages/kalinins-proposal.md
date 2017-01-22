@@ -5,6 +5,6 @@ title: kalinins-proposal
 ---
 You may also like:
 
-[SCP-1290](http://scp-wiki.net/scp-1290)
+[SCP-2014: Zsar Magoth](http://scp-wiki.net/scp-2014)
 
-[Interview Log 472-0165-B](http://scp-wiki.net/interview-log-472-0165-b)
+[Harbinger](http://scp-wiki.net/harbinger)

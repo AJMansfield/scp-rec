@@ -5,6 +5,6 @@ title: a-fairy-tale
 ---
 You may also like:
 
-[SCP-2880](http://scp-wiki.net/scp-2880)
+[SCP-1471-J Supplement Log](http://scp-wiki.net/scp-1471-j-supplement-log)
 
-[The Day of the Dragon](http://scp-wiki.net/the-day-of-the-dragon)
+[SCP-2903: Garden of the Manichees](http://scp-wiki.net/scp-2903)

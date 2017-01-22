@@ -5,6 +5,6 @@ title: chowderclef
 ---
 You may also like:
 
-[SCP-123-J](http://scp-wiki.net/scp-123-j)
+[SCP-846: Robo-Dude](http://scp-wiki.net/scp-846)
 
-[SCP-205](http://scp-wiki.net/scp-205)
+[SCP-361-ARC: Self-Adjusting Tarot](http://scp-wiki.net/scp-361-arc)

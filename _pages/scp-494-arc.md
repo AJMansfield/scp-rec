@@ -5,6 +5,6 @@ title: scp-494-arc
 ---
 You may also like:
 
-[Dog Eat Dog, Part 1](http://scp-wiki.net/dog-eat-dog-part-1)
+[Impressions](http://scp-wiki.net/impression)
 
-[SCP-145](http://scp-wiki.net/scp-145)
+[SCP-1213: Orphaned Catapult](http://scp-wiki.net/scp-1213)

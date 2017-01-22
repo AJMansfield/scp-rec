@@ -5,6 +5,6 @@ title: midnight-parade
 ---
 You may also like:
 
-[Another Good Dream, Another Strange Dream](http://scp-wiki.net/another-good-dream-another-strange-dream)
+[Swimmer](http://scp-wiki.net/swimmer)
 
-[Year Of The Many](http://scp-wiki.net/year-of-the-many)
+[One Last Ride](http://scp-wiki.net/one-last-ride)

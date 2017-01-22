@@ -5,6 +5,6 @@ title: personnel-file-of-robert-sandler
 ---
 You may also like:
 
-[Ell Crailey's Personnel File](http://scp-wiki.net/ell-crailey-s-personnel-file)
+[SCP-2047: Collaboration](http://scp-wiki.net/scp-2047)
 
-[Dr. Solo's Personnel File](http://scp-wiki.net/dr-solo-s-personnel-file)
+[SCP-1272: Slow-Motion Catastrophe](http://scp-wiki.net/scp-1272)

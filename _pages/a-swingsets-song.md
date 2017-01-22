@@ -5,6 +5,6 @@ title: a-swingsets-song
 ---
 You may also like:
 
-[Mice](http://scp-wiki.net/mice)
+[And Then I Died... Part III](http://scp-wiki.net/and-then-i-died3)
 
-[Origin of Clef](http://scp-wiki.net/originofclef)
+[And Now, He Is Gone](http://scp-wiki.net/and-now-he-is-gone)

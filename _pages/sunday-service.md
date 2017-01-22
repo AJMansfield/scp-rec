@@ -5,6 +5,6 @@ title: sunday-service
 ---
 You may also like:
 
-[Work Journal 2](http://scp-wiki.net/work-journal-2)
+[SCP-549: Ursa Minor](http://scp-wiki.net/scp-549)
 
-[The Woven Man](http://scp-wiki.net/the-woven-man)
+[Rollover Hours](http://scp-wiki.net/rollover-hours)

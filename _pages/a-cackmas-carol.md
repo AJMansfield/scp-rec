@@ -5,6 +5,6 @@ title: a-cackmas-carol
 ---
 You may also like:
 
-[A Lesson in Power](http://scp-wiki.net/a-lesson-in-power)
+[Conspiracy, Part XI](http://scp-wiki.net/conspiracy-part-xi)
 
-[The Line of Duty](http://scp-wiki.net/the-line-of-duty)
+[The Light At The End Of The Tunnel](http://scp-wiki.net/gdp2-the-light-at-the-end-of-the-tunnel)

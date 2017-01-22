@@ -5,6 +5,6 @@ title: in-his-own-image-part-1
 ---
 You may also like:
 
-[SCP-1981](http://scp-wiki.net/scp-1981)
+[Fifteen To Sixteen](http://scp-wiki.net/fifteen-to-sixteen)
 
-[In His Own Image: Epilogue](http://scp-wiki.net/in-his-own-image-epilogue)
+[SCP-2206: Maximum League Baseball](http://scp-wiki.net/scp-2206)

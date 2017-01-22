@@ -5,6 +5,6 @@ title: deals-with-the-devil
 ---
 You may also like:
 
-[Girls' Night Out: Raising Hell](http://scp-wiki.net/raising-hell)
+[SCP-2279: THE PEOPLE'S PET STORE](http://scp-wiki.net/scp-2279)
 
-[Light-Dependent Reactions](http://scp-wiki.net/light-dependent-reactions)
+[SCP-1636: The Principal Skinner](http://scp-wiki.net/scp-1636)

@@ -5,6 +5,6 @@ title: king-greenshield-a-fairy-tale
 ---
 You may also like:
 
-[Relics](http://scp-wiki.net/relics)
+[SCP-464: The Foundry](http://scp-wiki.net/scp-464)
 
-[In His Own Image: Interlude 1](http://scp-wiki.net/in-his-own-image-interlude-1)
+[Unknown Log File](http://scp-wiki.net/unknown-log-file)

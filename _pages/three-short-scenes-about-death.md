@@ -5,6 +5,6 @@ title: three-short-scenes-about-death
 ---
 You may also like:
 
-[Where the Garden Began](http://scp-wiki.net/where-the-garden-began)
+[SCP-1028: Mindwarp Murmuration](http://scp-wiki.net/scp-1028)
 
-[Kate McTiriss's Personnel File](http://scp-wiki.net/kate-mctiriss-s-personnel-file)
+[SCP-1748: The Dragon's Legacy](http://scp-wiki.net/scp-1748)

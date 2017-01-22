@@ -5,6 +5,6 @@ title: theogenesis
 ---
 You may also like:
 
-[Dust Brothers](http://scp-wiki.net/dust-brothers)
+[Change](http://scp-wiki.net/change)
 
-[Scroll fragment 13Q29](http://scp-wiki.net/scroll-fragment-13q29)
+[Old Kansas Sector ~ 9: Retribution](http://scp-wiki.net/old-kansas-sector-part-9)

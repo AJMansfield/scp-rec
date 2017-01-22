@@ -5,6 +5,6 @@ title: late-night
 ---
 You may also like:
 
-[SCP-2034](http://scp-wiki.net/scp-2034)
+[Family Planning](http://scp-wiki.net/family-planning)
 
-[MC&D: 'Bloodbaths' (IWN45/N3OS8/4IGI5)](http://scp-wiki.net/mcd-bloodbaths)
+[SCP-2185: The Aquaform Thaumaturgic Union](http://scp-wiki.net/scp-2185)

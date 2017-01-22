@@ -5,6 +5,6 @@ title: the-second-child
 ---
 You may also like:
 
-[SCP-1744](http://scp-wiki.net/scp-1744)
+[SCP-865: The Gentleman's Lash](http://scp-wiki.net/scp-865)
 
-[SCP-1753](http://scp-wiki.net/scp-1753)
+[Them](http://scp-wiki.net/them)

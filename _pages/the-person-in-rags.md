@@ -5,6 +5,6 @@ title: the-person-in-rags
 ---
 You may also like:
 
-[Personal Log of Agent AA](http://scp-wiki.net/log-of-agent-aa)
+[SCP-2271: Factory Loans](http://scp-wiki.net/scp-2271)
 
-[Cut Up While Thinking](http://scp-wiki.net/cut-up-while-thinking)
+[SCP-637: Viral Cat](http://scp-wiki.net/scp-637)

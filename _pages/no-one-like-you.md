@@ -5,6 +5,6 @@ title: no-one-like-you
 ---
 You may also like:
 
-[SCP-1406](http://scp-wiki.net/scp-1406)
+[On The Seventh Day Of Christmas](http://scp-wiki.net/on-the-seventh-day-of-christmas)
 
-[SCP-612](http://scp-wiki.net/scp-612)
+[SCP-1046: A House Without a Bedroom](http://scp-wiki.net/scp-1046)

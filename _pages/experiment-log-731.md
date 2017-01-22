@@ -5,6 +5,6 @@ title: experiment-log-731
 ---
 You may also like:
 
-[SCP-1399](http://scp-wiki.net/scp-1399)
+[Experiment Log 1402](http://scp-wiki.net/experiment-log-1402)
 
-[Incident Report I741-A](http://scp-wiki.net/incident-report-i741-a)
+[SCP-123-J: Amazing Butter-like Substance!](http://scp-wiki.net/scp-123-j)

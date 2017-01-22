@@ -5,6 +5,6 @@ title: unfinished-business
 ---
 You may also like:
 
-[SCP-1698](http://scp-wiki.net/scp-1698)
+[SCP-311: Tactile Displacement Gloves](http://scp-wiki.net/scp-311)
 
-[S & C Plastics Hub](http://scp-wiki.net/the-s-c-plastics-hub)
+[SCP-1221: Unidentified Bus](http://scp-wiki.net/scp-1221)

@@ -5,6 +5,6 @@ title: first-ivady-donation
 ---
 You may also like:
 
-[SCP-2880](http://scp-wiki.net/scp-2880)
+[Spark of Creation](http://scp-wiki.net/spark-of-creation)
 
-[Project Proposal 2014-2112: "Dreams of Failure"](http://scp-wiki.net/project-proposal-2014-2112)
+[SCP-1693: Infectious dementia](http://scp-wiki.net/scp-1693)

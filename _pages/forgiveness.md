@@ -5,6 +5,6 @@ title: forgiveness
 ---
 You may also like:
 
-[Behind the Scenes](http://scp-wiki.net/behind-the-scenes)
+[How to create a branch of the SCP-Foundation](http://scp-wiki.net/how-to-create-a-branch-of-the-scp-foundation)
 
-[SCP-897](http://scp-wiki.net/scp-897)
+[SCP-503-ARC: The Infinite Pasta Pot](http://scp-wiki.net/scp-503-arc)

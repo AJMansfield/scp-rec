@@ -5,6 +5,6 @@ title: document-087-iii
 ---
 You may also like:
 
-[SCP-2557](http://scp-wiki.net/scp-2557)
+[SCP-317: Cretaceous Physicist](http://scp-wiki.net/scp-317)
 
-[SCP-2323](http://scp-wiki.net/scp-2323)
+[SCP-2980: Devil's Nightlight](http://scp-wiki.net/scp-2980)

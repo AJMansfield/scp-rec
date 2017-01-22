@@ -5,6 +5,6 @@ title: cursed
 ---
 You may also like:
 
-[SCP-526](http://scp-wiki.net/scp-526)
+[SCP-750: A Different Outlook on Life](http://scp-wiki.net/scp-750)
 
-[SCP-247](http://scp-wiki.net/scp-247)
+[SCP-2160: The Happy Place](http://scp-wiki.net/scp-2160)

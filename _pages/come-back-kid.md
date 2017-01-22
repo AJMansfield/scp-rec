@@ -5,6 +5,6 @@ title: come-back-kid
 ---
 You may also like:
 
-[The Musical Suspects](http://scp-wiki.net/the-musical-suspects)
+[SCP-2416: The Day the Clown Died](http://scp-wiki.net/scp-2416)
 
-[Samsara](http://scp-wiki.net/samsara)
+[SCP-2518: Mountain Folk](http://scp-wiki.net/scp-2518)

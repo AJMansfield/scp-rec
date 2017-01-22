@@ -5,6 +5,6 @@ title: a-lack-of-proper-procedure
 ---
 You may also like:
 
-[SCP-2232](http://scp-wiki.net/scp-2232)
+[Animalia](http://scp-wiki.net/animalia)
 
-[SCP-1417](http://scp-wiki.net/scp-1417)
+[Straight On Till Morning Hub](http://scp-wiki.net/sotmhub)

@@ -5,6 +5,6 @@ title: document-130-1
 ---
 You may also like:
 
-[A Circus for MC&D Ltd](http://scp-wiki.net/a-circus-for-mc-d-ltd)
+[SCP-480: Recurring Nightmare Field](http://scp-wiki.net/scp-480)
 
-[SCP-2069](http://scp-wiki.net/scp-2069)
+[SCP-108: Extradimensional Nasal Cavity](http://scp-wiki.net/scp-108)

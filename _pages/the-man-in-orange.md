@@ -5,6 +5,6 @@ title: the-man-in-orange
 ---
 You may also like:
 
-[Nondescript Nose](http://scp-wiki.net/nondescript-nose)
+[A Funeral On Mars](http://scp-wiki.net/a-funeral-on-mars)
 
-[The Battle of the Toys: The Breakroom Routing](http://scp-wiki.net/breakroom-routing)
+[Little Hurley Lost in Meatspace](http://scp-wiki.net/little-hurley-lost-in-meatspace)

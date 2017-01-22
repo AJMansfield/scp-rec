@@ -5,6 +5,6 @@ title: adventuring-interlude
 ---
 You may also like:
 
-[Belation In the Evening](http://scp-wiki.net/belation-in-the-evening)
+[In Search Of Lost Antigo](http://scp-wiki.net/in-search-of-lost-antigo)
 
-[SCP-147](http://scp-wiki.net/scp-147)
+[GRANT REQUEST FOR THE DEVELOPMENT OF TOOLS FOR MAPPING LOCALES WITH INCONSISTENT SPACETIME](http://scp-wiki.net/grant-request-for-the-development-of-tools-for-mapping-local)

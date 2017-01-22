@@ -5,6 +5,6 @@ title: underbed
 ---
 You may also like:
 
-[SCP-1250](http://scp-wiki.net/scp-1250)
+[MEMORANDUM 083 REGARDING PROJECT "GUARDIANSHIP"](http://scp-wiki.net/memorandum-083-regarding-project-guardianship)
 
-[SCP-426](http://scp-wiki.net/scp-426)
+[SCP-1200: A Little Taste Of Factory](http://scp-wiki.net/scp-1200)

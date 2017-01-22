@@ -5,6 +5,6 @@ title: olympia-integration-experiment-beta
 ---
 You may also like:
 
-[Olympia Integration Experiment GAMMA](http://scp-wiki.net/olympia-integration-experiment-gamma)
+[SCP-1350: The Pixel](http://scp-wiki.net/scp-1350)
 
-[The Frail](http://scp-wiki.net/the-frail)
+[SCP-1953: Artist Stomach Bugs](http://scp-wiki.net/scp-1953)

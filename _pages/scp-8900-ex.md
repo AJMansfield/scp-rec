@@ -5,6 +5,6 @@ title: scp-8900-ex
 ---
 You may also like:
 
-[SCP-2475](http://scp-wiki.net/scp-2475)
+[Stealing Solidarity: Epilogue](http://scp-wiki.net/stealingsolidarityepilogue)
 
-[Taking Stock](http://scp-wiki.net/taking-stock)
+[SCP Series 3](http://scp-wiki.net/scp-series-3)

@@ -5,6 +5,6 @@ title: empty-nights
 ---
 You may also like:
 
-[The Blind Leading](http://scp-wiki.net/the-blind-leading)
+[Dr. Mackenzie's Common SCP Pitfalls](http://scp-wiki.net/mackenzie-pitfalls)
 
-[Beneath the Name](http://scp-wiki.net/beneath-the-name)
+[Sweetness](http://scp-wiki.net/sweetness)

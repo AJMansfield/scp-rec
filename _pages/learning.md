@@ -5,6 +5,6 @@ title: learning
 ---
 You may also like:
 
-[We're Off To Be The Lizard](http://scp-wiki.net/we-re-off-to-be-the-lizard)
+[SCP-016: Sentient Micro-Organism](http://scp-wiki.net/scp-016)
 
-[Those You Leave Behind](http://scp-wiki.net/those-you-leave-behind)
+[One Bad Mother](http://scp-wiki.net/one-bad-mother)

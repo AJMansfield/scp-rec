@@ -5,6 +5,6 @@ title: weizhong
 ---
 You may also like:
 
-[SCP-1452](http://scp-wiki.net/scp-1452)
+["Petro" Derinsky's Personnel File](http://scp-wiki.net/petro-derinsky-s-personnel-file)
 
-[SCUTTLE](http://scp-wiki.net/scuttle)
+[R.I.P.](http://scp-wiki.net/rip)

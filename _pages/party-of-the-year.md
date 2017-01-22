@@ -5,6 +5,6 @@ title: party-of-the-year
 ---
 You may also like:
 
-[SCP-1832](http://scp-wiki.net/scp-1832)
+[Standard Dream Report 66-Y 990.1](http://scp-wiki.net/dream-report-990-1)
 
-[SCP-1030](http://scp-wiki.net/scp-1030)
+[After Action Report 2272'](http://scp-wiki.net/after-action-2272)

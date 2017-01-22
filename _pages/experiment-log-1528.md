@@ -5,6 +5,6 @@ title: experiment-log-1528
 ---
 You may also like:
 
-[SPC-169-J](http://scp-wiki.net/spc-169-j)
+[SCP-2232: Birdphone. Think Different.](http://scp-wiki.net/scp-2232)
 
-[SCP-1101](http://scp-wiki.net/scp-1101)
+[The Choir Below](http://scp-wiki.net/the-choir-below)

@@ -5,6 +5,6 @@ title: a-personal-connection
 ---
 You may also like:
 
-[SCP-1331](http://scp-wiki.net/scp-1331)
+[Experiment Log 1528](http://scp-wiki.net/experiment-log-1528)
 
-[The Beginning Of The End](http://scp-wiki.net/the-beginning-of-the-end)
+[Banana Smoothie](http://scp-wiki.net/banana-smoothie)

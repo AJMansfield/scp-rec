@@ -5,6 +5,6 @@ title: the-happy-ending
 ---
 You may also like:
 
-[Elevator](http://scp-wiki.net/elevator)
+[SCP-1401: Lost Highway](http://scp-wiki.net/scp-1401)
 
-[SCP-1608](http://scp-wiki.net/scp-1608)
+[Lowest Rated Pages](http://scp-wiki.net/lowest-rated-pages)

@@ -5,6 +5,6 @@ title: new-tricks
 ---
 You may also like:
 
-[Light-Dependent Reactions](http://scp-wiki.net/light-dependent-reactions)
+[Dr. Zara's Personnel File](http://scp-wiki.net/dr-zara-s-personnel-file)
 
-[SCP-812](http://scp-wiki.net/scp-812)
+[Purity Of Essence](http://scp-wiki.net/purity-of-essence)

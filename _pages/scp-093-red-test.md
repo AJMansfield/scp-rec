@@ -5,6 +5,6 @@ title: scp-093-red-test
 ---
 You may also like:
 
-[SCP-093 'Yellow' Test](http://scp-wiki.net/scp-093-yellow-test)
+[Experiment Log 634](http://scp-wiki.net/experiment-log-634)
 
-[SCP-042-J](http://scp-wiki.net/scp-042-j)
+[SCP-122: No More Monsters](http://scp-wiki.net/scp-122)

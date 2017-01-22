@@ -5,6 +5,6 @@ title: colors-part-ii
 ---
 You may also like:
 
-[SCP-2353](http://scp-wiki.net/scp-2353)
+[SCP-1670: Interdimensional House of Pancakes](http://scp-wiki.net/scp-1670)
 
-[SCP-2415](http://scp-wiki.net/scp-2415)
+[Chains](http://scp-wiki.net/chains)

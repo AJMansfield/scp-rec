@@ -5,6 +5,6 @@ title: scp-093-recovered-materials
 ---
 You may also like:
 
-[835 After Action Report, Uncensored](http://scp-wiki.net/835aarfull)
+[SCP-2902: The Human Skeleton Closet (and his cat)](http://scp-wiki.net/scp-2902)
 
-[SCP-1660](http://scp-wiki.net/scp-1660)
+[SCP-3333-J: Angsty Teenage Plant](http://scp-wiki.net/scp-3333-j)

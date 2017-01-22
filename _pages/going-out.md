@@ -5,6 +5,6 @@ title: going-out
 ---
 You may also like:
 
-[Just a Word to Me](http://scp-wiki.net/just-a-word-to-me)
+[Stray](http://scp-wiki.net/stray)
 
-[Little Hurley Lost in Meatspace](http://scp-wiki.net/little-hurley-lost-in-meatspace)
+[Conspiracy, Part I](http://scp-wiki.net/conspiracy-part-i)

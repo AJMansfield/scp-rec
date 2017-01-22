@@ -5,6 +5,6 @@ title: exasperated-efforts
 ---
 You may also like:
 
-[SCP-947](http://scp-wiki.net/scp-947)
+[Halloween Contest!](http://scp-wiki.net/halloween-contest)
 
-[Cool War 2: Ruiz From Your Grave](http://scp-wiki.net/cool-war-2-hub)
+[SCP-1319: The Split-Up](http://scp-wiki.net/scp-1319)

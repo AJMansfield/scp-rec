@@ -5,6 +5,6 @@ title: daddy-long-legs
 ---
 You may also like:
 
-[SCP-2034](http://scp-wiki.net/scp-2034)
+[SCP-700: Graffiti Factory](http://scp-wiki.net/scp-700)
 
-[2212 Archival Interview](http://scp-wiki.net/2212-archival-interview)
+[SCP-1863: Lime Liftoff and Sarsaparilla Cream](http://scp-wiki.net/scp-1863)

@@ -5,6 +5,6 @@ title: scroll-fragment-13q29
 ---
 You may also like:
 
-[CotBG Bible Fragments](http://scp-wiki.net/cotbg-bible-fragments)
+[SCP-2487: Postman Chasers](http://scp-wiki.net/scp-2487)
 
-[SCP-604](http://scp-wiki.net/scp-604)
+[](http://scp-wiki.net/main)

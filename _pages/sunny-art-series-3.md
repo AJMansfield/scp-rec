@@ -5,6 +5,6 @@ title: sunny-art-series-3
 ---
 You may also like:
 
-[SunnyClockwork's Artwork - Joke SCPs](http://scp-wiki.net/sunny-art-joke-scps)
+[Most Recently Edited](http://scp-wiki.net/most-recently-edited)
 
-[Kens' Artistic Side](http://scp-wiki.net/kens-artistic-side)
+[SCP-2283: Spirit Bomb](http://scp-wiki.net/scp-2283)

@@ -5,6 +5,6 @@ title: and-then-i-died2
 ---
 You may also like:
 
-[SCP-2266](http://scp-wiki.net/scp-2266)
+[SCP-WTF-J: The Worst](http://scp-wiki.net/scp-wtf-j)
 
-[SCP-2050](http://scp-wiki.net/scp-2050)
+[Bigger Than Jesus](http://scp-wiki.net/bigger-than-jesus)

@@ -5,6 +5,6 @@ title: green-pawn
 ---
 You may also like:
 
-[Routine](http://scp-wiki.net/routine)
+[This Isn't a Hospital](http://scp-wiki.net/this-isn-t-a-hospital)
 
-[Back Into Hell](http://scp-wiki.net/back-into-hell)
+[SCP-1414: Passive-Aggressive Radio](http://scp-wiki.net/scp-1414)

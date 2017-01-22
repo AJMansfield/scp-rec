@@ -5,6 +5,6 @@ title: personal-log-of-gordon-richards
 ---
 You may also like:
 
-[Facetious Fanatics](http://scp-wiki.net/facetious-fanatics)
+[SCP-1945: A Slow-Scan Signal](http://scp-wiki.net/scp-1945)
 
-[SCP-1608](http://scp-wiki.net/scp-1608)
+[Showtime](http://scp-wiki.net/showtime)

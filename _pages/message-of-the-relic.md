@@ -5,6 +5,6 @@ title: message-of-the-relic
 ---
 You may also like:
 
-[SCP-938 Containment History](http://scp-wiki.net/scp-938-containment-history)
+[D-Class Orientation](http://scp-wiki.net/d-class-orientation)
 
-[SCP-1259](http://scp-wiki.net/scp-1259)
+[Uncle Jeff](http://scp-wiki.net/uncle-jeff)

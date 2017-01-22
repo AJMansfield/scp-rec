@@ -5,6 +5,6 @@ title: agent-strelnikov-s-personnel-file
 ---
 You may also like:
 
-[SCP-1696](http://scp-wiki.net/scp-1696)
+[SCP-501: Monk's Greed](http://scp-wiki.net/scp-501)
 
-[SCP-2137](http://scp-wiki.net/scp-2137)
+[The test log you have dialed cannot be reached at this time...](http://scp-wiki.net/test-log-scp-926-1)

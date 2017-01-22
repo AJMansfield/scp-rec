@@ -5,6 +5,6 @@ title: i-was-not-magnificent
 ---
 You may also like:
 
-[SCP-1611](http://scp-wiki.net/scp-1611)
+[SCP-750: A Different Outlook on Life](http://scp-wiki.net/scp-750)
 
-[Snuggle, Cuddle, and Protect: The Mean Dragon](http://scp-wiki.net/snuggle-cuddle-and-protect-the-mean-dragon)
+[The Princess and the Ogre](http://scp-wiki.net/the-princess-and-the-ogre)

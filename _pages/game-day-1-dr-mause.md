@@ -5,6 +5,6 @@ title: game-day-1-dr-mause
 ---
 You may also like:
 
-[Discussion](http://scp-wiki.net/discussion)
+[SCP-2195: Sons of the Nation](http://scp-wiki.net/scp-2195)
 
-[SCP-699](http://scp-wiki.net/scp-699)
+[Euclidean Thinking](http://scp-wiki.net/euclidean-thinking)

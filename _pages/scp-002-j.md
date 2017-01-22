@@ -5,6 +5,6 @@ title: scp-002-j
 ---
 You may also like:
 
-[SCP-2412-J](http://scp-wiki.net/scp-2412-j)
+[SCP-511: Basement Cat](http://scp-wiki.net/scp-511)
 
-[SCP-2978](http://scp-wiki.net/scp-2978)
+[SCP-315: The Recorded Man](http://scp-wiki.net/scp-315)

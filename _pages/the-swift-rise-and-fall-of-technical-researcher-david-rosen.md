@@ -5,6 +5,6 @@ title: the-swift-rise-and-fall-of-technical-researcher-david-rosen
 ---
 You may also like:
 
-[SCP Foundation: The Movie](http://scp-wiki.net/scp-foundation-the-movie)
+[Matryoshka: Part Five](http://scp-wiki.net/matryoshka-five)
 
-[Old Kansas Sector ~ 8: Gersha](http://scp-wiki.net/old-kansas-sector-part-8)
+[Making a Scene](http://scp-wiki.net/making-a-scene)

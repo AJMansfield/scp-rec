@@ -5,6 +5,6 @@ title: scp-164-j
 ---
 You may also like:
 
-[SCP-2441](http://scp-wiki.net/scp-2441)
+[Taking Stock](http://scp-wiki.net/taking-stock)
 
-[SCP-1517](http://scp-wiki.net/scp-1517)
+[SCP-1216: Pyrami](http://scp-wiki.net/scp-1216)

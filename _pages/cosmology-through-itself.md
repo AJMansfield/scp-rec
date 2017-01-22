@@ -5,6 +5,6 @@ title: cosmology-through-itself
 ---
 You may also like:
 
-[Ask Dr. Spanko](http://scp-wiki.net/askinate-herr-spankoflex)
+[SCP-1146: Psycho Printer](http://scp-wiki.net/scp-1146)
 
-[Irrational](http://scp-wiki.net/irrational)
+[Olympia Integration Experiment BETA](http://scp-wiki.net/olympia-integration-experiment-beta)

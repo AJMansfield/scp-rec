@@ -5,6 +5,6 @@ title: sunny-s-black-and-white-art
 ---
 You may also like:
 
-[Kens' Artistic Side](http://scp-wiki.net/kens-artistic-side)
+[SCP-1225: The Worst Christmas](http://scp-wiki.net/scp-1225)
 
-[SunnyClockwork's Artwork - Series II](http://scp-wiki.net/sunny-art-series-2)
+[SCP-304: The Signal](http://scp-wiki.net/scp-304)

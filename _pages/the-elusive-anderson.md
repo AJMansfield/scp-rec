@@ -5,6 +5,6 @@ title: the-elusive-anderson
 ---
 You may also like:
 
-[SCP-1846](http://scp-wiki.net/scp-1846)
+[If at First You Don't Succeed...](http://scp-wiki.net/if-at-first-you-don-t-succeed)
 
-[Realignment](http://scp-wiki.net/realignment)
+[Short Works Contest](http://scp-wiki.net/short-works-contest)

@@ -5,6 +5,6 @@ title: history
 ---
 You may also like:
 
-[Cat In A Box](http://scp-wiki.net/cat-in-a-box)
+[SCP-1811: Shelf Life](http://scp-wiki.net/scp-1811)
 
-[A Simple Plan For Success, In Three Parts: Step 1, Take From Peter. Step 2, Pay Paul. Step 3, Repeat.](http://scp-wiki.net/the-peter-paul-parable)
+[SCP-1828: An Accurate Dollhouse](http://scp-wiki.net/scp-1828)

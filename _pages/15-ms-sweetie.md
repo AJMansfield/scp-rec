@@ -5,6 +5,6 @@ title: 15-ms-sweetie
 ---
 You may also like:
 
-[An Evergreen Affair](http://scp-wiki.net/an-evergreen-affair)
+[Document 1005 01478](http://scp-wiki.net/document-1005-01478)
 
-[Incident Report 307](http://scp-wiki.net/incident-report-307)
+[SCP-2583: Dust to Dust](http://scp-wiki.net/scp-2583)

@@ -5,6 +5,6 @@ title: clef101
 ---
 You may also like:
 
-[Where the Garden Began](http://scp-wiki.net/where-the-garden-began)
+[Person of Interest - Mr. Dark](http://scp-wiki.net/poi-dark)
 
-[The One Who Devours Souls](http://scp-wiki.net/the-one-who-devours-souls)
+[SCP-2709: Can Anyone Hear You Scream?](http://scp-wiki.net/scp-2709)

@@ -5,6 +5,6 @@ title: spirit-staff-of-eastern-avian-shaman
 ---
 You may also like:
 
-[Laughing Matter](http://scp-wiki.net/laughing-matter)
+[SCP-2860: Made of Stone](http://scp-wiki.net/scp-2860)
 
-[Preparation](http://scp-wiki.net/preparation)
+[And Then I Died... Part III](http://scp-wiki.net/and-then-i-died3)

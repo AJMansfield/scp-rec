@@ -5,6 +5,6 @@ title: dr-mackenzie
 ---
 You may also like:
 
-[SCP-1057](http://scp-wiki.net/scp-1057)
+[Ruiz Duchamp Filthy Criminal Documentation File](http://scp-wiki.net/randomini)
 
-[The Kitchen Sink](http://scp-wiki.net/the-kitchen-sink)
+[Anderson Robotics Hub](http://scp-wiki.net/anderson-robotics-hub)

@@ -5,6 +5,6 @@ title: tolerance
 ---
 You may also like:
 
-[SCP-1329](http://scp-wiki.net/scp-1329)
+[When One Reaches the End](http://scp-wiki.net/when-one-reaches-the-end)
 
-[SCP-1750](http://scp-wiki.net/scp-1750)
+[SCP-2585 Exploration Log B](http://scp-wiki.net/scp-2585-exploration-log-b)

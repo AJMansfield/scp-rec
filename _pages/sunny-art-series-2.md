@@ -5,6 +5,6 @@ title: sunny-art-series-2
 ---
 You may also like:
 
-[SunnyClockwork's Artwork - Personnel](http://scp-wiki.net/sunny-art-personnel)
+[SCP-2516: The Man from Taured](http://scp-wiki.net/scp-2516)
 
-[Gingercake's Art Gallery!](http://scp-wiki.net/gingercake-s-art-gallery)
+[SCP-2131: Antipope](http://scp-wiki.net/scp-2131)

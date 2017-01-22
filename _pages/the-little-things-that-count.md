@@ -5,6 +5,6 @@ title: the-little-things-that-count
 ---
 You may also like:
 
-[A Friend's Words](http://scp-wiki.net/a-friend-s-words)
+[SCP-1789: Irate Finger](http://scp-wiki.net/scp-1789)
 
-[SCP-642](http://scp-wiki.net/scp-642)
+[Don't Blink](http://scp-wiki.net/don-t-blink)

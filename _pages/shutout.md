@@ -5,6 +5,6 @@ title: shutout
 ---
 You may also like:
 
-[SCP-1246](http://scp-wiki.net/scp-1246)
+[Dull Ache Hand](http://scp-wiki.net/dull-ache-hand)
 
-[SCP-2496](http://scp-wiki.net/scp-2496)
+[Dr. Rath's Personnel File](http://scp-wiki.net/dr-rath-s-personnel-file)

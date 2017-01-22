@@ -5,6 +5,6 @@ title: ketergrams
 ---
 You may also like:
 
-[Too Drunk To Be Merry](http://scp-wiki.net/too-drunk-to-be-merry)
+[SCP-2305-A Extended Documentation Log](http://scp-wiki.net/scp-2305-collab)
 
-[SCP-2306](http://scp-wiki.net/scp-2306)
+[SCP-736: The Iapetus Anomaly](http://scp-wiki.net/scp-736)

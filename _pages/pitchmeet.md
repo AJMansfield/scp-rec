@@ -5,6 +5,6 @@ title: pitchmeet
 ---
 You may also like:
 
-[SCP-1943](http://scp-wiki.net/scp-1943)
+[Dr. Cimmerian's Personnel File](http://scp-wiki.net/dr-cimmerian-s-personnel-file)
 
-["Special Observer"](http://scp-wiki.net/goc-tale-sequence-special-observer)
+[A Fitting End](http://scp-wiki.net/a-fitting-end)

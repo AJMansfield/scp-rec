@@ -5,6 +5,6 @@ title: once-but-not-now
 ---
 You may also like:
 
-[The Rise and Fall of Callus](http://scp-wiki.net/the-rise-and-fall-of-callus)
+[SCP-2493: One Man's Garbage](http://scp-wiki.net/scp-2493)
 
-[SCP-2810](http://scp-wiki.net/scp-2810)
+[SCP-2713: Exotic Stars](http://scp-wiki.net/scp-2713)

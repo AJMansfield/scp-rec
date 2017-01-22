@@ -5,6 +5,6 @@ title: fault
 ---
 You may also like:
 
-[Unusual Incident Units Case Files - Classified](http://scp-wiki.net/unusual-incident-units-case-files-classified)
+[Agent Andrew C. "Circeus" Hunter's Personnel File](http://scp-wiki.net/circeus-personnel-file)
 
-[Incident 023-27](http://scp-wiki.net/incident-023-27)
+[Dr. Loser's Personnel File](http://scp-wiki.net/dr-los-e-r-s-personnel-file)

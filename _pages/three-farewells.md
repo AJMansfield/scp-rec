@@ -5,6 +5,6 @@ title: three-farewells
 ---
 You may also like:
 
-[Burnt Bridges](http://scp-wiki.net/burnt-bridges)
+[SCP-960: Inspiration](http://scp-wiki.net/scp-960)
 
-[SCP-371](http://scp-wiki.net/scp-371)
+[Old Kansas Sector ~ 2: Tabloid](http://scp-wiki.net/old-kansas-sector-part-2)

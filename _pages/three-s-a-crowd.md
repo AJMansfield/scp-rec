@@ -5,6 +5,6 @@ title: three-s-a-crowd
 ---
 You may also like:
 
-[Recorded](http://scp-wiki.net/recorded)
+[The End of History](http://scp-wiki.net/the-end-of-history)
 
-[Da Capo al Fine](http://scp-wiki.net/da-capo-al-fine)
+[A Discussion with L. E. T.](http://scp-wiki.net/a-discussion-with-l-e-t)

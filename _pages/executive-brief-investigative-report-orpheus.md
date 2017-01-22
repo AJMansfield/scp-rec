@@ -5,6 +5,6 @@ title: executive-brief-investigative-report-orpheus
 ---
 You may also like:
 
-[Dance The Danse](http://scp-wiki.net/dance-the-danse)
+[SCP-1115: Distant Early Warning](http://scp-wiki.net/scp-1115)
 
-[Stepping Out](http://scp-wiki.net/stepping-out)
+[Nothing and Five and Five](http://scp-wiki.net/nothing-and-five-and-five)

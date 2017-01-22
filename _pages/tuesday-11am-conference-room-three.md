@@ -5,6 +5,6 @@ title: tuesday-11am-conference-room-three
 ---
 You may also like:
 
-[Painless](http://scp-wiki.net/painless)
+[SCP-2218: If I Only Had a Brain](http://scp-wiki.net/scp-2218)
 
-[Sidelines' Sarabande](http://scp-wiki.net/sidelines-sarabande)
+[The Decoy](http://scp-wiki.net/the-decoy)

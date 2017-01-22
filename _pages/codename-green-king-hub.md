@@ -5,6 +5,6 @@ title: codename-green-king-hub
 ---
 You may also like:
 
-[If It Looks Like a Duck, Swims Like a Duck, and Quacks Like a Duck, It's Probably a Shapeshifting Living Nightmare](http://scp-wiki.net/duck-rule)
+[SCP-1755: Cotton Blight](http://scp-wiki.net/scp-1755)
 
-[SCP-386](http://scp-wiki.net/scp-386)
+[Mad Love](http://scp-wiki.net/mad-love)

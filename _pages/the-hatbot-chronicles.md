@@ -5,6 +5,6 @@ title: the-hatbot-chronicles
 ---
 You may also like:
 
-[SCP-777-J](http://scp-wiki.net/scp-777-j)
+[SCP-1592: Paradise Television](http://scp-wiki.net/scp-1592)
 
-[SCP-1949](http://scp-wiki.net/scp-1949)
+[SCP-1938-J: Typhoid Mary](http://scp-wiki.net/scp-1938-j)

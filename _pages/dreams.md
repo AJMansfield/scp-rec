@@ -5,6 +5,6 @@ title: dreams
 ---
 You may also like:
 
-[Epistula](http://scp-wiki.net/epistula)
+[SCP-865: The Gentleman's Lash](http://scp-wiki.net/scp-865)
 
-[Automata Et Cetera](http://scp-wiki.net/automata-et-cetera)
+[Our Mutual Guide](http://scp-wiki.net/our-mutual-guide)

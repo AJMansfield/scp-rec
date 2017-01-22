@@ -5,6 +5,6 @@ title: if-at-first-you-don-t-succeed
 ---
 You may also like:
 
-[SCP-426](http://scp-wiki.net/scp-426)
+[The Elusive Anderson](http://scp-wiki.net/the-elusive-anderson)
 
-[SCP-217](http://scp-wiki.net/scp-217)
+[Short Works Contest](http://scp-wiki.net/short-works-contest)

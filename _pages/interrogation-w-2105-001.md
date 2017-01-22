@@ -5,6 +5,6 @@ title: interrogation-w-2105-001
 ---
 You may also like:
 
-[This is Only a Test](http://scp-wiki.net/this-is-only-a-test)
+[Insufficient Clearance](http://scp-wiki.net/insufficient-clearance)
 
-[Interview Log 2422-2](http://scp-wiki.net/interview-log-2422-2)
+[Snipped From The Same Cloth](http://scp-wiki.net/snipped-from-the-same-cloth)

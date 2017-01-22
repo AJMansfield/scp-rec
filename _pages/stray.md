@@ -5,6 +5,6 @@ title: stray
 ---
 You may also like:
 
-[Postgame](http://scp-wiki.net/postgame)
+[Lord Blackwood and the Thaumaturge](http://scp-wiki.net/lord-blackwood-and-the-thaumaturge-the-t)
 
-[SCP-1031](http://scp-wiki.net/scp-1031)
+[Going Out](http://scp-wiki.net/going-out)

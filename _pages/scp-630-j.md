@@ -5,6 +5,6 @@ title: scp-630-j
 ---
 You may also like:
 
-[SCP-2022](http://scp-wiki.net/scp-2022)
+[SCP-1083: University Skull](http://scp-wiki.net/scp-1083)
 
-[SCP-2020](http://scp-wiki.net/scp-2020)
+[The Templar Incident](http://scp-wiki.net/the-templar-incident)

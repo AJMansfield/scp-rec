@@ -5,6 +5,6 @@ title: general-harland-s-personnel-file
 ---
 You may also like:
 
-[Conspiracy, Part IV](http://scp-wiki.net/conspiracy-part-iv)
+[SCP-1639: The Jazz Station](http://scp-wiki.net/scp-1639)
 
-[Dr. Rath's Personnel File](http://scp-wiki.net/dr-rath-s-personnel-file)
+[SCP-2652: That Deaf, Dumb and Blind Kid](http://scp-wiki.net/scp-2652)

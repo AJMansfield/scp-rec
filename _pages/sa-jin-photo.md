@@ -5,6 +5,6 @@ title: sa-jin-photo
 ---
 You may also like:
 
-[Climber](http://scp-wiki.net/climber)
+[SCP-1582: Ant Man](http://scp-wiki.net/scp-1582)
 
-[SCP-244](http://scp-wiki.net/scp-244)
+[SCP-839: Candied Worms](http://scp-wiki.net/scp-839)

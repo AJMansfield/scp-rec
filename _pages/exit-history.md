@@ -5,6 +5,6 @@ title: exit-history
 ---
 You may also like:
 
-[Green Thumb Hub](http://scp-wiki.net/green-thumb)
+[SCP-1701: Sapient Nuclear Reactor Colony](http://scp-wiki.net/scp-1701)
 
-[SCP-1668](http://scp-wiki.net/scp-1668)
+[SCP-1543: Efrain's Dialtone](http://scp-wiki.net/scp-1543)

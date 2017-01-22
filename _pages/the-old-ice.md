@@ -5,6 +5,6 @@ title: the-old-ice
 ---
 You may also like:
 
-[SCP-2306](http://scp-wiki.net/scp-2306)
+[Back Into Hell](http://scp-wiki.net/back-into-hell)
 
-[John James](http://scp-wiki.net/john-james)
+[SCP-1738: Phobia Sampler](http://scp-wiki.net/scp-1738)

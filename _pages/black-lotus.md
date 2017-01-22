@@ -5,6 +5,6 @@ title: black-lotus
 ---
 You may also like:
 
-[A Breath Of Relief No Different From Drowning](http://scp-wiki.net/a-breath-of-relief-no-different-from-drowning)
+[SCP-2383: A Different Kind of Light](http://scp-wiki.net/scp-2383)
 
-[Site News Hub](http://scp-wiki.net/news)
+[A Wandsman in the Court of the Hanged King](http://scp-wiki.net/a-wandsman-in-the-court-of-the-hanged-king)

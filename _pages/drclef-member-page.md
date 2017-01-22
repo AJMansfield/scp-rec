@@ -5,6 +5,6 @@ title: drclef-member-page
 ---
 You may also like:
 
-[SCP-184](http://scp-wiki.net/scp-184)
+[Interviews Log 405](http://scp-wiki.net/interviews-log-405)
 
-[Rising](http://scp-wiki.net/rising)
+[SCP-429: Clockwork Teleporter](http://scp-wiki.net/scp-429)

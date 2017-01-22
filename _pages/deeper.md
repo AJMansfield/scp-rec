@@ -5,6 +5,6 @@ title: deeper
 ---
 You may also like:
 
-[Video Log 1743-26](http://scp-wiki.net/video-log-1743-26)
+[SCP-1646: Vendetta](http://scp-wiki.net/scp-1646)
 
-[SCP-732-J](http://scp-wiki.net/scp-732-j)
+[GRANT REQUEST FOR GENETICALLY ENGINEERING LOW-COST ORGANIC AUTOMATONS WITH SOPHISTICATED ARTIFICIAL INTELLIGENCE FOR LABOR](http://scp-wiki.net/grant-request-for-genetically-engineering-low-cost-organic-a)

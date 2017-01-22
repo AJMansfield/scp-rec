@@ -5,6 +5,6 @@ title: they-who-find-darkness-loving
 ---
 You may also like:
 
-[SCP-2451](http://scp-wiki.net/scp-2451)
+[Test log 1825-01](http://scp-wiki.net/test-log-1825-01)
 
-[I'll See You Next Time](http://scp-wiki.net/i-ll-see-you-next-time)
+[SCP-2157: The Human Forest](http://scp-wiki.net/scp-2157)

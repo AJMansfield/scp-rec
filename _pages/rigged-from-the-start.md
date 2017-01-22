@@ -5,6 +5,6 @@ title: rigged-from-the-start
 ---
 You may also like:
 
-[Key Biscayne](http://scp-wiki.net/key-biscayne)
+[The Art of Coping with Anomalies in the Gulf Region](http://scp-wiki.net/the-art-of-coping-with-anomalies-in-the-gulf-region)
 
-[Preaching To The Choir](http://scp-wiki.net/preaching-to-the-choir)
+[SCP-2716: ASTRONAUT SMITH'S SPACE-TACULAR TREASURE HUNT!](http://scp-wiki.net/scp-2716)

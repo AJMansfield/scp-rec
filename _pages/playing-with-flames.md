@@ -5,6 +5,6 @@ title: playing-with-flames
 ---
 You may also like:
 
-[The Shark, Pt.1](http://scp-wiki.net/the-shark-pt-1)
+[Let the Games Begin](http://scp-wiki.net/let-the-games-begin)
 
-[Private Hell](http://scp-wiki.net/private-hell)
+[Person of Interest - Mr. Dark](http://scp-wiki.net/poi-dark)

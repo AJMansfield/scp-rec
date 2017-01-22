@@ -5,6 +5,6 @@ title: scp-the-anime-part-4-gears-iceberg-clef-kondraki-rights-ligh
 ---
 You may also like:
 
-[SCP-2378](http://scp-wiki.net/scp-2378)
+[SCP-2201: Cross-Dimensional Barbershop](http://scp-wiki.net/scp-2201)
 
-[SCP-376](http://scp-wiki.net/scp-376)
+[SCP-2349: Transmitting Ants](http://scp-wiki.net/scp-2349)

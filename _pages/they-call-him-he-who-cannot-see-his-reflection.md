@@ -5,6 +5,6 @@ title: they-call-him-he-who-cannot-see-his-reflection
 ---
 You may also like:
 
-[SCP-500](http://scp-wiki.net/scp-500)
+[Document 12-H-1943687](http://scp-wiki.net/document-12-h-1943687)
 
-[Mental Mazes](http://scp-wiki.net/mental-mazes)
+[SCP-2958: Marooned](http://scp-wiki.net/scp-2958)

@@ -5,6 +5,6 @@ title: conspiracy-part-v
 ---
 You may also like:
 
-[Conspiracy, Part VII](http://scp-wiki.net/conspiracy-part-vii)
+[SCP-2696: The Haunted Victorian Mansion of Dark Peak](http://scp-wiki.net/scp-2696)
 
-[Conspiracy, Part VIII](http://scp-wiki.net/conspiracy-part-viii)
+[Contrast](http://scp-wiki.net/contrast)

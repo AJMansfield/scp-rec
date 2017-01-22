@@ -5,6 +5,6 @@ title: between-shelves
 ---
 You may also like:
 
-[Castling By Hand](http://scp-wiki.net/castling-by-hand)
+[SCP-978 Extended Test Logs](http://scp-wiki.net/scp-978-extended-test-logs)
 
-[House Of Gears, Part One](http://scp-wiki.net/house-of-gears-part-one)
+[SCP-445: "Dr. Wondertainment's Super Paper"](http://scp-wiki.net/scp-445)

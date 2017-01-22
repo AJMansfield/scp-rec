@@ -5,6 +5,6 @@ title: mcd-hadrians-well
 ---
 You may also like:
 
-[SCP-1417](http://scp-wiki.net/scp-1417)
+[SCP-1196: Chairopractors](http://scp-wiki.net/scp-1196)
 
-[In The Dark](http://scp-wiki.net/in-the-darke)
+[The Lord Of Endowments](http://scp-wiki.net/the-lord-of-endowments)

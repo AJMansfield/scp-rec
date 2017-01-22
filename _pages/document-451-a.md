@@ -5,6 +5,6 @@ title: document-451-a
 ---
 You may also like:
 
-[SCP-143 Testing Log](http://scp-wiki.net/scp-143-testing-log)
+[SCP-1088: The Eternity Ward](http://scp-wiki.net/scp-1088)
 
-[SCP-2344](http://scp-wiki.net/scp-2344)
+[I Remember My Heroes](http://scp-wiki.net/i-remember-my-heroes)

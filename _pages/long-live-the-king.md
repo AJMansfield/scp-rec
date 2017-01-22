@@ -5,6 +5,6 @@ title: long-live-the-king
 ---
 You may also like:
 
-[The Elusive Anderson](http://scp-wiki.net/the-elusive-anderson)
+[SCP-058: Heart of Darkness](http://scp-wiki.net/scp-058)
 
-[SCP-026 Exploration Logs](http://scp-wiki.net/026-exploration-logs)
+[Deletions Guide](http://scp-wiki.net/deletions-guide)

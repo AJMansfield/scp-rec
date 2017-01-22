@@ -5,6 +5,6 @@ title: don-ferreiros-lie-katana
 ---
 You may also like:
 
-[The Ragdoll](http://scp-wiki.net/the-ragdoll)
+[SCP-2337: "Dr. Spanko"](http://scp-wiki.net/scp-2337)
 
-[Playing the Hand You're Dealt](http://scp-wiki.net/playing-the-hand-youre-dealt)
+[Vertigo](http://scp-wiki.net/vertigo)

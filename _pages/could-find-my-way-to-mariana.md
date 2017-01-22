@@ -5,6 +5,6 @@ title: could-find-my-way-to-mariana
 ---
 You may also like:
 
-[Letters to a Prophet](http://scp-wiki.net/letters-to-a-prophet)
+[SCP-870: The Maybe There Monsters](http://scp-wiki.net/scp-870)
 
-[The Templar Incident](http://scp-wiki.net/the-templar-incident)
+[SCP-650: Startling Statue](http://scp-wiki.net/scp-650)

@@ -5,6 +5,6 @@ title: holy-crap-this-is-a-long-christmas-tale
 ---
 You may also like:
 
-[And Then What Happened?](http://scp-wiki.net/and-then-what-happened)
+[SCP-1478: Inconveniently Stereotypical Cacti](http://scp-wiki.net/scp-1478)
 
-[Quintessence Of Dust](http://scp-wiki.net/quintessence-of-dust)
+[SCP-2305: great ideas that are TOTALY USELESS (lulz)](http://scp-wiki.net/scp-2305)

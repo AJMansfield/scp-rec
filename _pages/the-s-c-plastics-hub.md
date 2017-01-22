@@ -5,6 +5,6 @@ title: the-s-c-plastics-hub
 ---
 You may also like:
 
-[Four Seconds, Low Pitched](http://scp-wiki.net/four-seconds-low-pitched)
+[SCP-2910: That Only a Mother](http://scp-wiki.net/scp-2910)
 
-[SCP-161](http://scp-wiki.net/scp-161)
+[The Playful Beast](http://scp-wiki.net/the-playful-beast)

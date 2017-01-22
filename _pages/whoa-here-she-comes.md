@@ -5,6 +5,6 @@ title: whoa-here-she-comes
 ---
 You may also like:
 
-[SCP-1371](http://scp-wiki.net/scp-1371)
+[Home for the Holidays](http://scp-wiki.net/theres-no-place-like)
 
-[The Clock Shall Strike Again](http://scp-wiki.net/the-clock-shall-strike-again)
+[The King Is Dead](http://scp-wiki.net/the-king-is-dead)

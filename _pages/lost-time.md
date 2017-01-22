@@ -5,6 +5,6 @@ title: lost-time
 ---
 You may also like:
 
-[Constipation So Bad, You'll Need a Shot of Pitocin](http://scp-wiki.net/constipation-so-bad-you-ll-need-a-shot-of-pitocin)
+[SCP-2494: Soft Hands](http://scp-wiki.net/scp-2494)
 
-[SCP-2156](http://scp-wiki.net/scp-2156)
+[Kingdom Of Stone: A Monolithic Species](http://scp-wiki.net/kingdom-of-stone-a-monolithic-species)

@@ -5,6 +5,6 @@ title: the-fine-print
 ---
 You may also like:
 
-[SCP-1220](http://scp-wiki.net/scp-1220)
+[SCP-004-J: Stan from Accounting](http://scp-wiki.net/scp-004-j)
 
-[SCP-1382](http://scp-wiki.net/scp-1382)
+[Sam](http://scp-wiki.net/sam)

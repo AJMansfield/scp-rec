@@ -5,6 +5,6 @@ title: command-query-separation
 ---
 You may also like:
 
-[History](http://scp-wiki.net/history)
+[SCP-2927: Soundspots](http://scp-wiki.net/scp-2927)
 
-[Null-terminating String](http://scp-wiki.net/null-terminating-string)
+[Zekky's Author Page](http://scp-wiki.net/zekky-s-author-page)

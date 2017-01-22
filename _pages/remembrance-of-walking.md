@@ -5,6 +5,6 @@ title: remembrance-of-walking
 ---
 You may also like:
 
-[Endless Hunt Part Five: The Prisoner](http://scp-wiki.net/ofanendlesshunt-partfive-theprisoner)
+[Search Results for "Jack Ike's Author Page"](http://scp-wiki.net/john-cena)
 
-[Experiment 919-23](http://scp-wiki.net/experiment-919-23)
+[SCP-1133: Intravenous Sin](http://scp-wiki.net/scp-1133)

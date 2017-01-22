@@ -5,6 +5,6 @@ title: djkaktus-s-proposal
 ---
 You may also like:
 
-[SCP-2652](http://scp-wiki.net/scp-2652)
+[Joke SCPs: "The Troll"](http://scp-wiki.net/scp-1047-j)
 
-[SCP-1301](http://scp-wiki.net/scp-1301)
+[SCP-2611: Large and In Charge](http://scp-wiki.net/scp-2611)

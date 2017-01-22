@@ -5,6 +5,6 @@ title: funding
 ---
 You may also like:
 
-[Whatcha doing?](http://scp-wiki.net/whatcha-doing)
+[SCP-310: Eternal Flame](http://scp-wiki.net/scp-310)
 
-[SCP-1065](http://scp-wiki.net/scp-1065)
+[SCP-1712: An Unusual Occurrence On August 11th, 1959](http://scp-wiki.net/scp-1712)

@@ -5,6 +5,6 @@ title: i-thought-you-died-alone
 ---
 You may also like:
 
-[Birthday Every Day](http://scp-wiki.net/birthday-every-day)
+[In all Honesty,](http://scp-wiki.net/in-all-honesty)
 
-[A Few Minor Counts of Bookkeeping](http://scp-wiki.net/classicalinterlude3)
+[Iris Dark](http://scp-wiki.net/iris-dark)

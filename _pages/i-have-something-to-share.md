@@ -5,6 +5,6 @@ title: i-have-something-to-share
 ---
 You may also like:
 
-[I Wrote a Tale](http://scp-wiki.net/i-wrote-a-tale)
+[SCP-1053: Overpopulation](http://scp-wiki.net/scp-1053)
 
-[SCP-803](http://scp-wiki.net/scp-803)
+[SCP-642: Hot Springs](http://scp-wiki.net/scp-642)

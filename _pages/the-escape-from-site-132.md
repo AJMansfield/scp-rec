@@ -5,6 +5,6 @@ title: the-escape-from-site-132
 ---
 You may also like:
 
-[SCP-1480](http://scp-wiki.net/scp-1480)
+[SCP-457: Burning Man](http://scp-wiki.net/scp-457)
 
-[SCP-1067](http://scp-wiki.net/scp-1067)
+[SCP-2451: Love Through Time, Space and Species](http://scp-wiki.net/scp-2451)

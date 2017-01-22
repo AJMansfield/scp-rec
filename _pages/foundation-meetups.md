@@ -5,6 +5,6 @@ title: foundation-meetups
 ---
 You may also like:
 
-[SCP-897](http://scp-wiki.net/scp-897)
+[The Great Short Story Contest](http://scp-wiki.net/the-great-short-story-contest)
 
-[SCP-918](http://scp-wiki.net/scp-918)
+[SCP-CCG](http://scp-wiki.net/scp-ccg)

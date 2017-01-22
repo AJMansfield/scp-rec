@@ -5,6 +5,6 @@ title: paris-texas
 ---
 You may also like:
 
-[The Farm](http://scp-wiki.net/the-farm)
+[SCP-2161: Blank Space](http://scp-wiki.net/scp-2161)
 
-[Oxidation](http://scp-wiki.net/oxidation)
+[Track 3: Uh...](http://scp-wiki.net/a-song-about-serious-information-leaks)

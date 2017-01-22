@@ -5,6 +5,6 @@ title: peeled
 ---
 You may also like:
 
-[Rusted Nightmares](http://scp-wiki.net/rusted-nightmares)
+[Contrast](http://scp-wiki.net/contrast)
 
-[The Swift Rise And Fall Of Technical Researcher David Rosen](http://scp-wiki.net/the-swift-rise-and-fall-of-technical-researcher-david-rosen)
+[SCP-2920: What Did You Expect?](http://scp-wiki.net/scp-2920)

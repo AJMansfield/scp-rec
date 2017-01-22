@@ -5,6 +5,6 @@ title: ziggy-the-extra-special-bush-baby
 ---
 You may also like:
 
-[SCP-1874](http://scp-wiki.net/scp-1874)
+[SCP-2556: Indefinitely Suspended Stratojet](http://scp-wiki.net/scp-2556)
 
-[The Light At The End Of The Tunnel](http://scp-wiki.net/gdp2-the-light-at-the-end-of-the-tunnel)
+[Realignment](http://scp-wiki.net/realignment)

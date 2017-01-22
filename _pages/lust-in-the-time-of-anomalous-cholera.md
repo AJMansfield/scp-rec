@@ -5,6 +5,6 @@ title: lust-in-the-time-of-anomalous-cholera
 ---
 You may also like:
 
-[Body Bags](http://scp-wiki.net/body-bags)
+[SCP-648: The Labyrinth](http://scp-wiki.net/scp-648)
 
-[Aftermath](http://scp-wiki.net/aftermath)
+[xX_DrSwagClef_Xx's Proposal (really Lord Stonefish's author page)](http://scp-wiki.net/lord-stonefish)

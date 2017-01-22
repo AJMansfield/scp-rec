@@ -5,6 +5,6 @@ title: experiment-log-scp-1247
 ---
 You may also like:
 
-[Friday](http://scp-wiki.net/friday)
+[SCP-022-J: Memetic Metal](http://scp-wiki.net/scp-022-j)
 
-[Last Plane Out of the South](http://scp-wiki.net/last-plane-out-of-the-south)
+[Closure](http://scp-wiki.net/dontcallitacomebackbecauseidontknowifillstay)

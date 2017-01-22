@@ -5,6 +5,6 @@ title: welcome-to-the-future
 ---
 You may also like:
 
-[SCP-2225](http://scp-wiki.net/scp-2225)
+[SCP-848: Interdimensional Spider Web](http://scp-wiki.net/scp-848)
 
-[Fault Lines](http://scp-wiki.net/fault-lines)
+[SCP-264: Skeleton Temple](http://scp-wiki.net/scp-264)

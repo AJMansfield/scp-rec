@@ -5,6 +5,6 @@ title: new-frontiers
 ---
 You may also like:
 
-[It Might Have Been](http://scp-wiki.net/it-might-have-been)
+[The Book](http://scp-wiki.net/thebook)
 
-[SCP-1253](http://scp-wiki.net/scp-1253)
+[SCP-1353: Comforting Centipedes](http://scp-wiki.net/scp-1353)

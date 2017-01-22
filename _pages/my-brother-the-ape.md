@@ -5,6 +5,6 @@ title: my-brother-the-ape
 ---
 You may also like:
 
-[SCP-1649](http://scp-wiki.net/scp-1649)
+[The Personnel File of Joseph Cooper](http://scp-wiki.net/j-cooper-s-personnel-file)
 
-[Another Boring Night](http://scp-wiki.net/do-you-remember-these-guys)
+[Those You Leave Behind](http://scp-wiki.net/those-you-leave-behind)

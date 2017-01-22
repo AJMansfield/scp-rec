@@ -5,6 +5,6 @@ title: it-wasn-t-a-vacation
 ---
 You may also like:
 
-[Samsara](http://scp-wiki.net/samsara)
+[The Red Horse (The Ironic Metaphor)](http://scp-wiki.net/the-red-horse)
 
-[SCP-753](http://scp-wiki.net/scp-753)
+[SCP-2874: Don-Burten Explosive Dev13e](http://scp-wiki.net/scp-2874)

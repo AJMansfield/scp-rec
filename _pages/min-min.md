@@ -5,6 +5,6 @@ title: min-min
 ---
 You may also like:
 
-[Dr. Solo's Personnel File](http://scp-wiki.net/dr-solo-s-personnel-file)
+[SCP-484: Memory Stealing Drug](http://scp-wiki.net/scp-484)
 
-[Researcher Robert Sandler](http://scp-wiki.net/personnel-file-of-robert-sandler)
+[Orientation](http://scp-wiki.net/orientation)

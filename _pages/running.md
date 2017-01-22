@@ -5,6 +5,6 @@ title: running
 ---
 You may also like:
 
-[SCP-1278](http://scp-wiki.net/scp-1278)
+[Taproots](http://scp-wiki.net/taproots)
 
-[SCP-2198](http://scp-wiki.net/scp-2198)
+[SCP-1705: A Collection of Bones](http://scp-wiki.net/scp-1705)

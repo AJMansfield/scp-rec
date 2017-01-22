@@ -5,6 +5,6 @@ title: programme-las-anod-1
 ---
 You may also like:
 
-[SCP-660](http://scp-wiki.net/scp-660)
+[SCP-2593: Disease Button](http://scp-wiki.net/scp-2593)
 
-[Land of Plenty](http://scp-wiki.net/land-of-plenty)
+[SCP-232-ARC: Sumerian Goddess of the Dead](http://scp-wiki.net/scp-232-arc)

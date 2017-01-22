@@ -5,6 +5,6 @@ title: to-catch-a-witch
 ---
 You may also like:
 
-[She's Angry and Going South](http://scp-wiki.net/she-s-angry-and-going-south)
+[Message In A Bottle](http://scp-wiki.net/message-in-a-bottle)
 
-[SCP-2901](http://scp-wiki.net/scp-2901)
+[SCP-1596: House Fire](http://scp-wiki.net/scp-1596)

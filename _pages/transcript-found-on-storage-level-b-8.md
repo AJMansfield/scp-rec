@@ -5,6 +5,6 @@ title: transcript-found-on-storage-level-b-8
 ---
 You may also like:
 
-[SCP-1662](http://scp-wiki.net/scp-1662)
+[SCP-1675: Goose Terminator](http://scp-wiki.net/scp-1675)
 
-[SCP-1827](http://scp-wiki.net/scp-1827)
+[SCP-1453: Opalus Probandi](http://scp-wiki.net/scp-1453)

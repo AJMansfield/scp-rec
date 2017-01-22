@@ -5,6 +5,6 @@ title: and-so-the-crows-laughed
 ---
 You may also like:
 
-[SCP-2146](http://scp-wiki.net/scp-2146)
+[Divine Demands](http://scp-wiki.net/divine-demands)
 
-[SCP-2060](http://scp-wiki.net/scp-2060)
+[SCP-2094: Motormouth](http://scp-wiki.net/scp-2094)

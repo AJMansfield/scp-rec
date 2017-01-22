@@ -5,6 +5,6 @@ title: 2212-archival-class
 ---
 You may also like:
 
-[2212 Archival Interview](http://scp-wiki.net/2212-archival-interview)
+[A Long Ways from Home](http://scp-wiki.net/a-long-ways-from-home)
 
-[SCP-658](http://scp-wiki.net/scp-658)
+[SCP-032: Brothers' Bride](http://scp-wiki.net/scp-032)

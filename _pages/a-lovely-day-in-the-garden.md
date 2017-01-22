@@ -5,6 +5,6 @@ title: a-lovely-day-in-the-garden
 ---
 You may also like:
 
-[SCP-2977](http://scp-wiki.net/scp-2977)
+[SCP-2758: Self-Containment Processes](http://scp-wiki.net/scp-2758)
 
-[What Love Is, Part One](http://scp-wiki.net/what-love-is-pt-1)
+[SCP-759: Sourdough Starter](http://scp-wiki.net/scp-759)

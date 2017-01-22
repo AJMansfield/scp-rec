@@ -5,6 +5,6 @@ title: ofanendlesshunt-partthree-riddlesfromthedark
 ---
 You may also like:
 
-[Endless Hunt Part Six: True Places Never Are](http://scp-wiki.net/ofanendlesshunt-partsix-trueplacesneverare)
+[SCP-1028: Mindwarp Murmuration](http://scp-wiki.net/scp-1028)
 
-[Ecce Perago](http://scp-wiki.net/ecceperago)
+[Old Kansas Sector ~ 4: Grammie Knows](http://scp-wiki.net/old-kansas-sector-part-4)

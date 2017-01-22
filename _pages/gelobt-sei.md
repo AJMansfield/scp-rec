@@ -5,6 +5,6 @@ title: gelobt-sei
 ---
 You may also like:
 
-[Charon (Part 2: Katabasis)](http://scp-wiki.net/charon-part-2-katabasis)
+[Rollover Hours](http://scp-wiki.net/rollover-hours)
 
-[SCP-1904](http://scp-wiki.net/scp-1904)
+[SCP-372: Peripheral Jumper](http://scp-wiki.net/scp-372)

@@ -5,6 +5,6 @@ title: i-am-ready
 ---
 You may also like:
 
-[Midnight Parade](http://scp-wiki.net/midnight-parade)
+[Smoker](http://scp-wiki.net/smoker)
 
-[A Day Of Infamy - A short story of SCP-705](http://scp-wiki.net/a-day-of-infamy)
+[SCP-1402: The Tell-All Briefcase](http://scp-wiki.net/scp-1402)

@@ -5,6 +5,6 @@ title: experiment-919-23
 ---
 You may also like:
 
-[Remembrance Of Walking](http://scp-wiki.net/remembrance-of-walking)
+[Love In Leetspeak](http://scp-wiki.net/love-in-leetspeak)
 
-[Endless Hunt Part One: All the World Will be Your Enemy...](http://scp-wiki.net/ofanendlesshunt-partone-alltheworldwillbeyourenemy)
+[Experiment Log 447 A](http://scp-wiki.net/experiment-log-447-a)

@@ -5,6 +5,6 @@ title: oria-001
 ---
 You may also like:
 
-[MEMORANDUM 117 REGARDING PROJECT 025](http://scp-wiki.net/oria-025-117)
+[SCP-1742: A Squalid Development](http://scp-wiki.net/scp-1742)
 
-[SCP-485](http://scp-wiki.net/scp-485)
+[SCP-219: Resonance Engine](http://scp-wiki.net/scp-219)

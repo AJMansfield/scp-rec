@@ -5,6 +5,6 @@ title: the-cyclical-child
 ---
 You may also like:
 
-[SCP-1438](http://scp-wiki.net/scp-1438)
+[Account of a Hiking Trip](http://scp-wiki.net/account-of-a-hiking-trip)
 
-[Rising](http://scp-wiki.net/rising)
+[Dr. Tuna's Personnel File](http://scp-wiki.net/dr-tuna-s-personnel-file)

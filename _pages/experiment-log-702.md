@@ -5,6 +5,6 @@ title: experiment-log-702
 ---
 You may also like:
 
-[SCP-848](http://scp-wiki.net/scp-848)
+[SCP-998: Missing Aircraft](http://scp-wiki.net/scp-998)
 
-[Operation Hippodrome](http://scp-wiki.net/operation-hippodrome)
+[SCP-680: Clockwork Skull](http://scp-wiki.net/scp-680)

@@ -5,6 +5,6 @@ title: 7-degrees-of-separation
 ---
 You may also like:
 
-[Iris Dark](http://scp-wiki.net/iris-dark)
+[SCP-2030: LA U GH IS F UN](http://scp-wiki.net/scp-2030)
 
-[Divine Demands](http://scp-wiki.net/divine-demands)
+[SCP-2191: "Dracula Factory"](http://scp-wiki.net/scp-2191)

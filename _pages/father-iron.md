@@ -5,6 +5,6 @@ title: father-iron
 ---
 You may also like:
 
-[The White Horse (The Conqueror With The Golden Crown)](http://scp-wiki.net/the-white-horse)
+[SCP-1655: Sorrow Tick](http://scp-wiki.net/scp-1655)
 
-[Unfounded - Hub](http://scp-wiki.net/unfounded-hub)
+[Anachronisms](http://scp-wiki.net/anachronisms)

@@ -5,6 +5,6 @@ title: zyn-kaiju-butterfly-ninja-master
 ---
 You may also like:
 
-[SCP-211](http://scp-wiki.net/scp-211)
+[SCP-217: The Clockwork Virus](http://scp-wiki.net/scp-217)
 
-[SCP-366](http://scp-wiki.net/scp-366)
+[The Interviews](http://scp-wiki.net/the-interviews)

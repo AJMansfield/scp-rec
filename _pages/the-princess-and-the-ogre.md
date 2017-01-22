@@ -5,6 +5,6 @@ title: the-princess-and-the-ogre
 ---
 You may also like:
 
-[SCP-593](http://scp-wiki.net/scp-593)
+[SCP-495: Thingmaker](http://scp-wiki.net/scp-495)
 
-[SCP-1459](http://scp-wiki.net/scp-1459)
+[SCP-105: "Iris"](http://scp-wiki.net/scp-105)

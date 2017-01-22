@@ -5,6 +5,6 @@ title: healthy-child
 ---
 You may also like:
 
-[SCP-193](http://scp-wiki.net/scp-193)
+[Valued Benefactor](http://scp-wiki.net/valued-benefactor)
 
-[Of Politics](http://scp-wiki.net/of-politics)
+[Friday](http://scp-wiki.net/friday)

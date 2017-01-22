@@ -5,6 +5,6 @@ title: chicago-spirit
 ---
 You may also like:
 
-[Hand-Sewn](http://scp-wiki.net/hand-sewn)
+[Bloody](http://scp-wiki.net/bloody)
 
-[I Wish To Be An Asteroid, Burning To Nothing](http://scp-wiki.net/i-wish-to-be-an-asteroid-burning-to-nothing)
+[SCP-572: Katana of Apparent Invincibility](http://scp-wiki.net/scp-572)

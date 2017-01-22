@@ -5,6 +5,6 @@ title: conspiracy-part-vi
 ---
 You may also like:
 
-[Conspiracy, Part I](http://scp-wiki.net/conspiracy-part-i)
+[Dr. "Spaztique" Z's Personnel File](http://scp-wiki.net/dr-spaz-personnel-file)
 
-[SCP-273](http://scp-wiki.net/scp-273)
+[SCP-1564: Post-Nibbanic](http://scp-wiki.net/scp-1564)

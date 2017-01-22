@@ -5,6 +5,6 @@ title: melting-in-slow-motion
 ---
 You may also like:
 
-[SCP-1969](http://scp-wiki.net/scp-1969)
+[SCP-1152: A Common Raccoon](http://scp-wiki.net/scp-1152)
 
-[SCP-1274](http://scp-wiki.net/scp-1274)
+[Nothing to See Here](http://scp-wiki.net/nothingtoseehere)

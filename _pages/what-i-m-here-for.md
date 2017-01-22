@@ -5,6 +5,6 @@ title: what-i-m-here-for
 ---
 You may also like:
 
-[Note: A Part of Nobody](http://scp-wiki.net/note-a-part-of-nobody)
+[SCP-2341: Welcome Home](http://scp-wiki.net/scp-2341)
 
-[Vision At Betar](http://scp-wiki.net/vision-at-betar)
+[Shadow in the Wake](http://scp-wiki.net/shadow-in-the-wake)

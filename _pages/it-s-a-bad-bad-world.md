@@ -5,6 +5,6 @@ title: it-s-a-bad-bad-world
 ---
 You may also like:
 
-[Touchdown](http://scp-wiki.net/touchdown)
+[SCP-1471-J: Sensual Containment Procedures](http://scp-wiki.net/scp-1471-j)
 
-[SCP-2408](http://scp-wiki.net/scp-2408)
+[Foundation Burger](http://scp-wiki.net/foundation-burger)

@@ -5,6 +5,6 @@ title: crayne-author
 ---
 You may also like:
 
-[SCP-2875](http://scp-wiki.net/scp-2875)
+[SCP-1272: Slow-Motion Catastrophe](http://scp-wiki.net/scp-1272)
 
-[Chapter 1: Verse 1](http://scp-wiki.net/chapter-1-verse-1)
+[Djoric-Dmatix Proposal: Thirty-Six](http://scp-wiki.net/djoric-dmatix-proposal)

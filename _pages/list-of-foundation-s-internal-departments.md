@@ -5,6 +5,6 @@ title: list-of-foundation-s-internal-departments
 ---
 You may also like:
 
-[SCP-1977](http://scp-wiki.net/scp-1977)
+[The Pattern (Interlude)](http://scp-wiki.net/the-pattern-interlude)
 
-[Hunting Anderson](http://scp-wiki.net/hunting-anderson)
+[SCP-1777: Kings Cave](http://scp-wiki.net/scp-1777)

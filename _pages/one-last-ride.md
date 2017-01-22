@@ -5,6 +5,6 @@ title: one-last-ride
 ---
 You may also like:
 
-[Conversation 1: Omicron](http://scp-wiki.net/conversation-1-omicron)
+[Are We Christmas Yet?](http://scp-wiki.net/are-we-christmas-yet)
 
-[SCP-1513](http://scp-wiki.net/scp-1513)
+[SunnyClockwork's Artwork - SCP Tarot Cards](http://scp-wiki.net/sunny-art-scp-tarot-cards)

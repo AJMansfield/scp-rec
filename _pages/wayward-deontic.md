@@ -5,6 +5,6 @@ title: wayward-deontic
 ---
 You may also like:
 
-[SCP-084](http://scp-wiki.net/scp-084)
+[SCP-001-EX-J: Records of the CKG Gathering](http://scp-wiki.net/scp-001-ex-j)
 
-[SCP-735](http://scp-wiki.net/scp-735)
+[Catboy's Personnel File](http://scp-wiki.net/catboy-s-personnel-file)

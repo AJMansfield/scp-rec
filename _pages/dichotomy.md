@@ -5,6 +5,6 @@ title: dichotomy
 ---
 You may also like:
 
-[SCP-901](http://scp-wiki.net/scp-901)
+[Spectral's Files](http://scp-wiki.net/spectral-files)
 
-[SCP-1240](http://scp-wiki.net/scp-1240)
+[Those You Leave Behind](http://scp-wiki.net/those-you-leave-behind)

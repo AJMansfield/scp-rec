@@ -5,6 +5,6 @@ title: scp-series
 ---
 You may also like:
 
-[SCP-2243](http://scp-wiki.net/scp-2243)
+[SCP-085: Hand-drawn ''Cassy''](http://scp-wiki.net/scp-085)
 
-[SCP-2848](http://scp-wiki.net/scp-2848)
+[And the Winner Is...](http://scp-wiki.net/and-the-winner-is)

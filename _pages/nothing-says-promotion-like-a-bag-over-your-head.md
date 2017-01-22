@@ -5,6 +5,6 @@ title: nothing-says-promotion-like-a-bag-over-your-head
 ---
 You may also like:
 
-[Incursion](http://scp-wiki.net/incursion)
+[The Second Child](http://scp-wiki.net/the-second-child)
 
-[SCP-1616](http://scp-wiki.net/scp-1616)
+[Letter of the Day](http://scp-wiki.net/letter-of-the-day)

@@ -5,6 +5,6 @@ title: artificial-dragons-gate
 ---
 You may also like:
 
-[Inside-Out](http://scp-wiki.net/inside-out)
+[Time Crime in Greater Wisconsin - A Primer](http://scp-wiki.net/time-crime-in-greater-wisconsin-a-primer)
 
-[SCP-2531](http://scp-wiki.net/scp-2531)
+[Tabled Theories](http://scp-wiki.net/tabled-theories)

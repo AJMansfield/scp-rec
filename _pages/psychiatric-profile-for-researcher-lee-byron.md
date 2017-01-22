@@ -5,6 +5,6 @@ title: psychiatric-profile-for-researcher-lee-byron
 ---
 You may also like:
 
-[Monday, 6am, Escherville Facility Two](http://scp-wiki.net/monday-6am-escherville-facility-two)
+[2525 North Waterworks St.](http://scp-wiki.net/north-waterworks)
 
-[Sidelines' Sarabande](http://scp-wiki.net/sidelines-sarabande)
+[The Once And Future Emperor](http://scp-wiki.net/onceandfutureemperor)

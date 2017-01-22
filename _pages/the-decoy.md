@@ -5,6 +5,6 @@ title: the-decoy
 ---
 You may also like:
 
-[Painless](http://scp-wiki.net/painless)
+[Tuesday, 11am, Conference Room Three](http://scp-wiki.net/tuesday-11am-conference-room-three)
 
-[Wills And Ways](http://scp-wiki.net/wills-and-ways-hub)
+[Orgy 5 Counsel 9: XXXK End of Virginity Scenario](http://scp-wiki.net/orgy-5-counsel-9)

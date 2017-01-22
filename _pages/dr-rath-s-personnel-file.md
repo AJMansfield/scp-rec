@@ -5,6 +5,6 @@ title: dr-rath-s-personnel-file
 ---
 You may also like:
 
-[Dr. Frederick Heiden](http://scp-wiki.net/dr-frederick-heiden)
+[SCP-1215: Peri Logismon](http://scp-wiki.net/scp-1215)
 
-[Agent Logan Armstrong's Personnel File](http://scp-wiki.net/agent-logan-armstrong-s-personnel-file)
+[Shutout](http://scp-wiki.net/shutout)

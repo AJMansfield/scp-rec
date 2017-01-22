@@ -5,6 +5,6 @@ title: rapture
 ---
 You may also like:
 
-[Los Recuerdos de los Muertos](http://scp-wiki.net/recuerdos)
+[SCP-1265: The Mesozoic Preserve](http://scp-wiki.net/scp-1265)
 
-[SCUTTLE](http://scp-wiki.net/scuttle)
+[SCP-1258: The Way of the Masters](http://scp-wiki.net/scp-1258)

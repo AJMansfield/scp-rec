@@ -5,6 +5,6 @@ title: orientation
 ---
 You may also like:
 
-[Nobody Knows](http://scp-wiki.net/nobody-knows)
+[min min's file](http://scp-wiki.net/min-min)
 
-[Property Values](http://scp-wiki.net/property-values)
+[SCP-710: Disappearance](http://scp-wiki.net/scp-710)

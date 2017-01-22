@@ -5,6 +5,6 @@ title: multi-u-101
 ---
 You may also like:
 
-[Love Springs Eternal](http://scp-wiki.net/love-springs-eternal)
+[How Dr. Clef Saved Christmas](http://scp-wiki.net/how-dr-clef-saved-christmas)
 
-[SCP-1761](http://scp-wiki.net/scp-1761)
+[SCP-1765: Sisters](http://scp-wiki.net/scp-1765)

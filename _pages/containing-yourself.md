@@ -5,6 +5,6 @@ title: containing-yourself
 ---
 You may also like:
 
-[The Pond](http://scp-wiki.net/the-pond)
+[Conclusions RE: D-173-2263 Incident](http://scp-wiki.net/conclusions-red-173-2263-incident)
 
-[SECURE](http://scp-wiki.net/secure)
+[SCP-339: Be Silent, Be Still](http://scp-wiki.net/scp-339)

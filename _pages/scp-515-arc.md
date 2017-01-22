@@ -5,6 +5,6 @@ title: scp-515-arc
 ---
 You may also like:
 
-[SCP-825](http://scp-wiki.net/scp-825)
+[SCP-1769: The Beloved](http://scp-wiki.net/scp-1769)
 
-[Promotion](http://scp-wiki.net/promotion)
+[Herman Fuller Presents: The Flame Faced Man](http://scp-wiki.net/the-flame-faced-man)

@@ -5,6 +5,6 @@ title: scp-837-arc
 ---
 You may also like:
 
-[Second Interlude: In Session](http://scp-wiki.net/bicentennial)
+[The Ragdoll](http://scp-wiki.net/the-ragdoll)
 
-[SCP-501](http://scp-wiki.net/scp-501)
+[SCP-125: Contagious Reflection](http://scp-wiki.net/scp-125)

@@ -5,6 +5,6 @@ title: scp-2585-exploration-log-b
 ---
 You may also like:
 
-[SCP-432 Expedition 2](http://scp-wiki.net/scp-432-expedition-2)
+[Tolerance](http://scp-wiki.net/tolerance)
 
-[Crunch](http://scp-wiki.net/crunch)
+[Snip Snip Snip](http://scp-wiki.net/snip-snip-snip)

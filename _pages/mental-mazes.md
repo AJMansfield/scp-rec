@@ -5,6 +5,6 @@ title: mental-mazes
 ---
 You may also like:
 
-[Killing Knowledge](http://scp-wiki.net/killing-knowledge)
+[Festival Of Arthropods](http://scp-wiki.net/festival-of-arthropods)
 
-[SCP-2819](http://scp-wiki.net/scp-2819)
+[Document 1384-1](http://scp-wiki.net/document-1384-1)

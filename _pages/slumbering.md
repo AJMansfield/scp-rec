@@ -5,6 +5,6 @@ title: slumbering
 ---
 You may also like:
 
-[HexaDon's: Arthur Page](http://scp-wiki.net/hexadon-s-arthur-page)
+[SCP-1558: Snuff Tower](http://scp-wiki.net/scp-1558)
 
-[Dr Jung's Terminal](http://scp-wiki.net/freudian)
+[Ophite's Personnel File](http://scp-wiki.net/ophite-s-personnel-file)

@@ -5,6 +5,6 @@ title: true-love
 ---
 You may also like:
 
-[SCP-1851](http://scp-wiki.net/scp-1851)
+[Agent Lament's Personnel File](http://scp-wiki.net/agent-lament-s-personnel-file)
 
-[SCP-2386](http://scp-wiki.net/scp-2386)
+[SCP-1089: The IC-UC](http://scp-wiki.net/scp-1089)

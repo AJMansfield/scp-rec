@@ -5,6 +5,6 @@ title: dr-locke-personnel-file
 ---
 You may also like:
 
-[Dr. Flower who is also a giraffe](http://scp-wiki.net/uglyflower-author-page)
+[SCP-827: The Soup](http://scp-wiki.net/scp-827)
 
-[SCP-2675](http://scp-wiki.net/scp-2675)
+[I Stand Atop a Spiral Stair](http://scp-wiki.net/i-stand-atop-a-spiral-stair)

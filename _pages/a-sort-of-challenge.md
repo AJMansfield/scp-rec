@@ -5,6 +5,6 @@ title: a-sort-of-challenge
 ---
 You may also like:
 
-[Rough Beast](http://scp-wiki.net/rough-beast)
+[Tale of 13](http://scp-wiki.net/taleof13)
 
-[SCP-2778](http://scp-wiki.net/scp-2778)
+[Walter G](http://scp-wiki.net/walterg)

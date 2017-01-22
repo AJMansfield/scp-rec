@@ -5,6 +5,6 @@ title: his-clockwork-servants
 ---
 You may also like:
 
-[SCP-1989](http://scp-wiki.net/scp-1989)
+[SCP-2209: Virtual Reality](http://scp-wiki.net/scp-2209)
 
-[SCP-1107](http://scp-wiki.net/scp-1107)
+[SCP-2346: Die Bescheidene](http://scp-wiki.net/scp-2346)

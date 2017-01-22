@@ -5,6 +5,6 @@ title: investigation-log-of-scp-4444
 ---
 You may also like:
 
-[SCP-895](http://scp-wiki.net/scp-895)
+[SCP-408: Illusory Butterflies](http://scp-wiki.net/scp-408)
 
-[SCP-891](http://scp-wiki.net/scp-891)
+[SCP-2099: Brain in a Jar](http://scp-wiki.net/scp-2099)

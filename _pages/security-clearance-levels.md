@@ -5,6 +5,6 @@ title: security-clearance-levels
 ---
 You may also like:
 
-[SCP-1923](http://scp-wiki.net/scp-1923)
+[SCP-1290: Imperfect Teleporter](http://scp-wiki.net/scp-1290)
 
-[Empty Nights](http://scp-wiki.net/empty-nights)
+[SCP-224: Grandfather Clock](http://scp-wiki.net/scp-224)

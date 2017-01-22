@@ -5,6 +5,6 @@ title: the-grand-theological-game
 ---
 You may also like:
 
-[SCP-1694](http://scp-wiki.net/scp-1694)
+[Experiment Logs 2105](http://scp-wiki.net/experiment-logs-2105)
 
-[SCP-1052](http://scp-wiki.net/scp-1052)
+[We're Sorry](http://scp-wiki.net/we-re-sorry)

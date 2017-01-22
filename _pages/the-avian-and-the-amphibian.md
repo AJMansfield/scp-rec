@@ -5,6 +5,6 @@ title: the-avian-and-the-amphibian
 ---
 You may also like:
 
-[Gate of Janus](http://scp-wiki.net/gate-of-janus)
+[Greenery](http://scp-wiki.net/greenery)
 
-[The Last Site](http://scp-wiki.net/the-last-site)
+[A Great Idea, Probably...](http://scp-wiki.net/scp-cliche-generator)

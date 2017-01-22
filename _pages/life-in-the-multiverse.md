@@ -5,6 +5,6 @@ title: life-in-the-multiverse
 ---
 You may also like:
 
-[Fik'ra](http://scp-wiki.net/fik-ra)
+[Johnny's Wild Ride](http://scp-wiki.net/johnnys-wild-ride)
 
-[Memory](http://scp-wiki.net/memory)
+[Library Lifeline](http://scp-wiki.net/library-lifeline)

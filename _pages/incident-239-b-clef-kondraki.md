@@ -5,6 +5,6 @@ title: incident-239-b-clef-kondraki
 ---
 You may also like:
 
-[Olympia Project](http://scp-wiki.net/olympia-project)
+[SCP-367: Little Dog](http://scp-wiki.net/scp-367)
 
-[All Things Considered](http://scp-wiki.net/all-things-considered)
+[Proposals For SCP-001 (Archived)](http://scp-wiki.net/proposals-for-scp-001)

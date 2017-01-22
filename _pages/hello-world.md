@@ -5,6 +5,6 @@ title: hello-world
 ---
 You may also like:
 
-[SCP-866](http://scp-wiki.net/scp-866)
+[Awakenings, Part Two](http://scp-wiki.net/awakenings-part-two)
 
-[SCP-2346](http://scp-wiki.net/scp-2346)
+[Wednesday - 5](http://scp-wiki.net/wednesday-5)

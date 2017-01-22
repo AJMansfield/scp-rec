@@ -5,6 +5,6 @@ title: tasers-thermite
 ---
 You may also like:
 
-[SCP-2132](http://scp-wiki.net/scp-2132)
+[Game Manual](http://scp-wiki.net/game-manual)
 
-[SCP-2918](http://scp-wiki.net/scp-2918)
+[SEARCH "LURKD"](http://scp-wiki.net/lurk-d-s-personnel-file)

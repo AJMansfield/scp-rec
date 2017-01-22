@@ -5,6 +5,6 @@ title: scp-212-upgrade-log
 ---
 You may also like:
 
-[Ad Majorem Bonum](http://scp-wiki.net/ad-majorem-bonum)
+[SCP-835, Uncensored](http://scp-wiki.net/835revised)
 
-[Scratches](http://scp-wiki.net/scratches)
+[SCP-1303: Hunting Cavern](http://scp-wiki.net/scp-1303)

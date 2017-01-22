@@ -5,6 +5,6 @@ title: experiment-log-261-ad-de
 ---
 You may also like:
 
-[SCP-914](http://scp-wiki.net/scp-914)
+[SCP-1597: A Security Blanket](http://scp-wiki.net/scp-1597)
 
-[SCP-677](http://scp-wiki.net/scp-677)
+[SCP-440 Exploratory Log A](http://scp-wiki.net/scp-440-exploratory-log-a)

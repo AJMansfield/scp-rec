@@ -5,6 +5,6 @@ title: a-convincing-lyre
 ---
 You may also like:
 
-[Translated From Palauan](http://scp-wiki.net/translated-from-palauan)
+[Revenants](http://scp-wiki.net/revenants)
 
-[Pattern Breaker](http://scp-wiki.net/pattern-breaker)
+[M13 Personnel Memorabilia Log](http://scp-wiki.net/m13-personnel-memorabilia-log)

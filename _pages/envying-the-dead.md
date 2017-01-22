@@ -5,6 +5,6 @@ title: envying-the-dead
 ---
 You may also like:
 
-[Ghost](http://scp-wiki.net/ghost)
+[SCP-2231: A Shared Identity](http://scp-wiki.net/scp-2231)
 
-[Ichor](http://scp-wiki.net/ichor)
+[Another Boring Night](http://scp-wiki.net/do-you-remember-these-guys)

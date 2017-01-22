@@ -5,6 +5,6 @@ title: conclusions-red-173-2263-incident
 ---
 You may also like:
 
-[SCP-1321](http://scp-wiki.net/scp-1321)
+[Contain Yourself](http://scp-wiki.net/containing-yourself)
 
-[qntm's proposal](http://scp-wiki.net/qntm-s-proposal)
+[T Minus](http://scp-wiki.net/t-minus)

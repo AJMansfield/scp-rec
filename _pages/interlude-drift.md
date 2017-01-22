@@ -5,6 +5,6 @@ title: interlude-drift
 ---
 You may also like:
 
-[SCP-2927](http://scp-wiki.net/scp-2927)
+[SCP-2585 Exploration Log C](http://scp-wiki.net/scp-2585-exploration-log-c)
 
-[Game Day Part 3: Synchronous](http://scp-wiki.net/game-day-part-3-synchronous)
+[It Grows On Trees](http://scp-wiki.net/it-grows-on-trees)

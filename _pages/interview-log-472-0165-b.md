@@ -5,6 +5,6 @@ title: interview-log-472-0165-b
 ---
 You may also like:
 
-[SCP-724-J](http://scp-wiki.net/scp-724-j)
+[What's Real?](http://scp-wiki.net/what-s-real)
 
-[SCP-1172](http://scp-wiki.net/scp-1172)
+[SCP-1339: Justified Badge](http://scp-wiki.net/scp-1339)

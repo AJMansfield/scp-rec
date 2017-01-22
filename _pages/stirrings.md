@@ -5,6 +5,6 @@ title: stirrings
 ---
 You may also like:
 
-[SCP-2160](http://scp-wiki.net/scp-2160)
+[Waffling About](http://scp-wiki.net/waffling-about)
 
-[Walk the Floor](http://scp-wiki.net/walk-the-floor)
+[Incident Zero - Part 1](http://scp-wiki.net/incident-zero-part-1)

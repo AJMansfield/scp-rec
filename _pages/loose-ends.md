@@ -5,6 +5,6 @@ title: loose-ends
 ---
 You may also like:
 
-[Laughing Matter](http://scp-wiki.net/laughing-matter)
+[Quikngruvn Halifax](http://scp-wiki.net/quikngruvn-personnel-file)
 
-[SCP-1032](http://scp-wiki.net/scp-1032)
+[Prologue: Water Coalesces And Descends As Rain](http://scp-wiki.net/prologue-water-coalesces-and-descends-as-rain)

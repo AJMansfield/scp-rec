@@ -5,6 +5,6 @@ title: caveat-emptor
 ---
 You may also like:
 
-[SCP-1518](http://scp-wiki.net/scp-1518)
+[Snipped From The Same Cloth](http://scp-wiki.net/snipped-from-the-same-cloth)
 
-[10. Mr. Mission](http://scp-wiki.net/10-mr-mission)
+[She's Angry and Going South](http://scp-wiki.net/she-s-angry-and-going-south)

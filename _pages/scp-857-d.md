@@ -5,6 +5,6 @@ title: scp-857-d
 ---
 You may also like:
 
-[Loop](http://scp-wiki.net/loop)
+[SCP-2048: The Virtual World](http://scp-wiki.net/scp-2048)
 
-[Birth of an Angel](http://scp-wiki.net/birth-of-an-angel)
+[SCP-1756: At the Movies](http://scp-wiki.net/scp-1756)

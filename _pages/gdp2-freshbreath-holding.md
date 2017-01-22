@@ -5,6 +5,6 @@ title: gdp2-freshbreath-holding
 ---
 You may also like:
 
-[SCP-1830](http://scp-wiki.net/scp-1830)
+[Col. Hornby's Personnel File](http://scp-wiki.net/col-hornby-s-personnel-file)
 
-[SCP-2232](http://scp-wiki.net/scp-2232)
+[SCP-619: Lucky Jeans](http://scp-wiki.net/scp-619)

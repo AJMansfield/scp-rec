@@ -5,6 +5,6 @@ title: interview-log-026-08
 ---
 You may also like:
 
-[Interview Log 026-01](http://scp-wiki.net/interview-log-026-01)
+[Sixteenth Wondertainment Donation](http://scp-wiki.net/16th-wondertainment-donation)
 
-[SCP-2159](http://scp-wiki.net/scp-2159)
+[Interview Log 026-01](http://scp-wiki.net/interview-log-026-01)

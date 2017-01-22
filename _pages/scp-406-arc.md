@@ -5,6 +5,6 @@ title: scp-406-arc
 ---
 You may also like:
 
-[#Xiupania](http://scp-wiki.net/xiupania)
+[SCP-251: The Deceptive Snow Globe](http://scp-wiki.net/scp-251)
 
-[Chapter One: Grey Island Getaway](http://scp-wiki.net/grey-island-getaway)
+[Items from a Global Occult Coalition Document Bag](http://scp-wiki.net/taken-from-a-global-occult-coalition-casefile)

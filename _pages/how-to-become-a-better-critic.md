@@ -5,6 +5,6 @@ title: how-to-become-a-better-critic
 ---
 You may also like:
 
-[History Of The Universe: Part Five](http://scp-wiki.net/history-of-the-universe-part-five)
+[SCP-2408: Orok's Fall](http://scp-wiki.net/scp-2408)
 
-[History Of The Universe: Part Three](http://scp-wiki.net/history-of-the-universe-part-three)
+[SCP-1180: A Lovely Bunch of Coconuts](http://scp-wiki.net/scp-1180)

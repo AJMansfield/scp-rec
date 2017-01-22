@@ -5,6 +5,6 @@ title: oxidation
 ---
 You may also like:
 
-[SCP-1587](http://scp-wiki.net/scp-1587)
+[Christmas](http://scp-wiki.net/christmas)
 
-[Paris, Texas](http://scp-wiki.net/paris-texas)
+[SCP-272: An Old Iron Nail](http://scp-wiki.net/scp-272)

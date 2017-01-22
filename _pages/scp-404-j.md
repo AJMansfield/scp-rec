@@ -5,6 +5,6 @@ title: scp-404-j
 ---
 You may also like:
 
-[SCP-035](http://scp-wiki.net/scp-035)
+[SCP-454: Comic Book](http://scp-wiki.net/scp-454)
 
-[SCP-2527](http://scp-wiki.net/scp-2527)
+[SCP-713: Click Anywhere Computer](http://scp-wiki.net/scp-713)

@@ -5,6 +5,6 @@ title: loyal-to-the-cause
 ---
 You may also like:
 
-[What Lies Ahead](http://scp-wiki.net/what-lies-ahead)
+[Retirement Policy](http://scp-wiki.net/retirement-policy)
 
-[SCP-1771](http://scp-wiki.net/scp-1771)
+[SCP-2883: A Rainbow, Holographic, Crystal Dinosaur](http://scp-wiki.net/scp-2883)

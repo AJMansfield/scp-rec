@@ -5,6 +5,6 @@ title: scp-112-arc
 ---
 You may also like:
 
-[This Is Not Me Talking](http://scp-wiki.net/except-it-is)
+[Accelerando's Personnel File](http://scp-wiki.net/accelerando-personnel-file)
 
-[Surgery](http://scp-wiki.net/surgery)
+[Shark Tale](http://scp-wiki.net/shark-tale)

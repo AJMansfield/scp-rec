@@ -5,6 +5,6 @@ title: i-forget-myself-in-this-wondrous-night
 ---
 You may also like:
 
-[A Burial In The Woods](http://scp-wiki.net/a-burial-in-the-woods)
+[Lowest Rated Pages](http://scp-wiki.net/lowest-rated-pages)
 
-[Touchdown](http://scp-wiki.net/touchdown)
+[SCP-2726: Post Ghost](http://scp-wiki.net/scp-2726)

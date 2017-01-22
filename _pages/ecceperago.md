@@ -5,6 +5,6 @@ title: ecceperago
 ---
 You may also like:
 
-[SCP-2224](http://scp-wiki.net/scp-2224)
+[T Minus](http://scp-wiki.net/t-minus)
 
-[Endless Hunt Part Three: Riddles From the Dark](http://scp-wiki.net/ofanendlesshunt-partthree-riddlesfromthedark)
+[CarrionTrooper's Sketchbook](http://scp-wiki.net/agent-carriontrooper-s-personnel-file)

@@ -5,6 +5,6 @@ title: the-critic
 ---
 You may also like:
 
-[SCP-1832](http://scp-wiki.net/scp-1832)
+[SCP-1555: Facility](http://scp-wiki.net/scp-1555)
 
-[SCP-2383](http://scp-wiki.net/scp-2383)
+[M13 Personnel Memorabilia Log](http://scp-wiki.net/m13-personnel-memorabilia-log)

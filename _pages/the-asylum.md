@@ -5,6 +5,6 @@ title: the-asylum
 ---
 You may also like:
 
-[Mission Statement](http://scp-wiki.net/mission-statement)
+[SCP-2310: The House That Makes You Sarah Palmer](http://scp-wiki.net/scp-2310)
 
-[Golan](http://scp-wiki.net/golan)
+[Skippy](http://scp-wiki.net/skippy)

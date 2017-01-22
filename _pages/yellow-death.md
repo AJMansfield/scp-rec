@@ -5,6 +5,6 @@ title: yellow-death
 ---
 You may also like:
 
-[SCP-1038](http://scp-wiki.net/scp-1038)
+[SCP-2404: Enki & Enki](http://scp-wiki.net/scp-2404)
 
-[SCP-2932](http://scp-wiki.net/scp-2932)
+[SCP-2298: Life in a Plastic Box](http://scp-wiki.net/scp-2298)

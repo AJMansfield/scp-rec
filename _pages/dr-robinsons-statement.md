@@ -5,6 +5,6 @@ title: dr-robinsons-statement
 ---
 You may also like:
 
-[Unusual Music](http://scp-wiki.net/unusual-music)
+[SCP-1886: The More The Merrier](http://scp-wiki.net/scp-1886)
 
-[Every Other Day](http://scp-wiki.net/every-other-day)
+[Parenthood](http://scp-wiki.net/parenthood)

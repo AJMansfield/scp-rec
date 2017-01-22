@@ -5,6 +5,6 @@ title: the-tick-tock-gospel
 ---
 You may also like:
 
-[Empire Of Dirt (Part 2)](http://scp-wiki.net/empire-of-dirt-part-2)
+[Conservation Of WTF, or Why Does the Rabbit Need Two Brains?](http://scp-wiki.net/conservation-of-wtf)
 
-[The Man Comes Around](http://scp-wiki.net/the-man-comes-around)
+[The Special Bond Between Child and Mother](http://scp-wiki.net/the-special-bond-between-child-and-mother)

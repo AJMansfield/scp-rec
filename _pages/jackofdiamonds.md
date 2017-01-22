@@ -5,6 +5,6 @@ title: jackofdiamonds
 ---
 You may also like:
 
-[SCP-2663](http://scp-wiki.net/scp-2663)
+[SCP-1996: Tourist Trap](http://scp-wiki.net/scp-1996)
 
-[SCP-1142](http://scp-wiki.net/scp-1142)
+[all i ever wanted; all i ever deserved](http://scp-wiki.net/i-thought-you-would-leave-even-the-reaper-for-me)

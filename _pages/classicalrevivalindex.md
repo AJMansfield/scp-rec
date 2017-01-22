@@ -5,6 +5,6 @@ title: classicalrevivalindex
 ---
 You may also like:
 
-[SCP-930](http://scp-wiki.net/scp-930)
+[Green-Gray](http://scp-wiki.net/green-gray)
 
-[SCP-2424](http://scp-wiki.net/scp-2424)
+[Shuffle Tick Tick](http://scp-wiki.net/shuffle-tick-tick)

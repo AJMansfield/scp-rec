@@ -5,6 +5,6 @@ title: scp-178-log
 ---
 You may also like:
 
-[SCP-2124](http://scp-wiki.net/scp-2124)
+[SCP-2476](http://scp-wiki.net/scp-2476)
 
-[Wanderer Symbols](http://scp-wiki.net/wanderer-symbols)
+[A World We Live In](http://scp-wiki.net/a-world-we-live-in)

@@ -5,6 +5,6 @@ title: interview-log-7362
 ---
 You may also like:
 
-[SCP-066](http://scp-wiki.net/scp-066)
+[SCP-1493: The Whispering Worms](http://scp-wiki.net/scp-1493)
 
-[SCP-2558](http://scp-wiki.net/scp-2558)
+[Recovered Data File](http://scp-wiki.net/recovered-data-file)

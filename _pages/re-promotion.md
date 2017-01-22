@@ -5,6 +5,6 @@ title: re-promotion
 ---
 You may also like:
 
-[Police Seeking Clues After Four Injured in Congressional Intrusion](http://scp-wiki.net/police-seeking-clues-after-four-injured-in-congressional-int)
+[Nx-33](http://scp-wiki.net/nx-33)
 
-[Swing Shift](http://scp-wiki.net/swing-shift)
+[The Farm](http://scp-wiki.net/the-farm)

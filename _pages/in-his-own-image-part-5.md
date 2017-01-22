@@ -5,6 +5,6 @@ title: in-his-own-image-part-5
 ---
 You may also like:
 
-[Endless Hunt Part Two: Rites of Passage](http://scp-wiki.net/ofanendlesshunt-parttwo-rites-of-passage)
+[Sympathy](http://scp-wiki.net/sympathy)
 
-[SCP-254](http://scp-wiki.net/scp-254)
+[SCP-1127: A Film Festival](http://scp-wiki.net/scp-1127)

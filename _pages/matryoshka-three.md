@@ -5,6 +5,6 @@ title: matryoshka-three
 ---
 You may also like:
 
-[Matryoshka: Part Six](http://scp-wiki.net/matryoshka-six)
+[Old Kansas Sector ~ 6: The SCP Foundation](http://scp-wiki.net/old-kansas-sector-part-6)
 
-[Matryoshka: Part Seven](http://scp-wiki.net/matryoshka-seven)
+[Matryoshka: Part Eight](http://scp-wiki.net/matryoshka-eight)

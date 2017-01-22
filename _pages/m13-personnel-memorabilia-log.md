@@ -5,6 +5,6 @@ title: m13-personnel-memorabilia-log
 ---
 You may also like:
 
-[Beneath Two Trees](http://scp-wiki.net/beneath-two-trees)
+[A Convincing Lyre](http://scp-wiki.net/a-convincing-lyre)
 
-[SCP-1993](http://scp-wiki.net/scp-1993)
+[SCP-2211: A .wmv, a .wav, an .exe, and a Coffee Machine](http://scp-wiki.net/scp-2211)

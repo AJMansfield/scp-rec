@@ -5,6 +5,6 @@ title: the-great-siege-of-julabin
 ---
 You may also like:
 
-[SCP-048-J](http://scp-wiki.net/scp-048-j)
+[SCP-051-ARC: Flying Jeep](http://scp-wiki.net/scp-051-arc)
 
-[Application to Form MTF Mu-3](http://scp-wiki.net/application-to-form-mtf-mu3-cover-letter)
+[SCP-503: The Luckiest Man in the World](http://scp-wiki.net/scp-503)

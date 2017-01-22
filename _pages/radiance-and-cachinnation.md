@@ -5,6 +5,6 @@ title: radiance-and-cachinnation
 ---
 You may also like:
 
-[SCP-2003](http://scp-wiki.net/scp-2003)
+[SCP-726: Reconstructive Maggots](http://scp-wiki.net/scp-726)
 
-[Austringers](http://scp-wiki.net/austringers)
+[SCP-262: A Coat of Many Arms](http://scp-wiki.net/scp-262)

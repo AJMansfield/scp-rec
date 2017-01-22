@@ -5,6 +5,6 @@ title: gfc
 ---
 You may also like:
 
-[Daveyoufool's SCP Art Hub](http://scp-wiki.net/daveyoufools-art)
+[SCP-1473: Live the Words](http://scp-wiki.net/scp-1473)
 
-[SCP-1620](http://scp-wiki.net/scp-1620)
+[SCP-2143: Singin' in the Rain](http://scp-wiki.net/scp-2143)

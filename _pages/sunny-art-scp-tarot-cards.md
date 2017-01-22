@@ -5,6 +5,6 @@ title: sunny-art-scp-tarot-cards
 ---
 You may also like:
 
-[SunnyClockwork's Artwork  - Series I](http://scp-wiki.net/sunny-art-series-1)
+[One Last Ride](http://scp-wiki.net/one-last-ride)
 
-[SunnyClockwork's Artwork - Personnel](http://scp-wiki.net/sunny-art-personnel)
+[SCP-753: Automatic Artist](http://scp-wiki.net/scp-753)

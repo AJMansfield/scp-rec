@@ -5,6 +5,6 @@ title: scp-1d6-j
 ---
 You may also like:
 
-[Bugs in the Process](http://scp-wiki.net/bugs-in-the-process)
+[SCP-1871: Vorpal Sword](http://scp-wiki.net/scp-1871)
 
-[What Happened Beneath Cronos](http://scp-wiki.net/what-happened-beneath-cronos)
+[Experiment Log 239-C](http://scp-wiki.net/experiment-log-239-c)

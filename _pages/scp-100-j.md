@@ -5,6 +5,6 @@ title: scp-100-j
 ---
 You may also like:
 
-[SCP-2183](http://scp-wiki.net/scp-2183)
+[A Eulogic Elegy For The Dreams](http://scp-wiki.net/we-never-wanted-things-to-come-to-this)
 
-[SCP-1459-J](http://scp-wiki.net/scp-1459-j)
+[Matryoshka: Prologue](http://scp-wiki.net/matryoshka-prologue)

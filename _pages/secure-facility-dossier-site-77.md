@@ -5,6 +5,6 @@ title: secure-facility-dossier-site-77
 ---
 You may also like:
 
-[SCP-762](http://scp-wiki.net/scp-762)
+[Property Values](http://scp-wiki.net/property-values)
 
-[SCP-393](http://scp-wiki.net/scp-393)
+[Minerva Lifted](http://scp-wiki.net/minerva-lifted)

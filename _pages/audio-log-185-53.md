@@ -5,6 +5,6 @@ title: audio-log-185-53
 ---
 You may also like:
 
-[Incident 023-27](http://scp-wiki.net/incident-023-27)
+[The Blind Leading](http://scp-wiki.net/the-blind-leading)
 
-[Capone](http://scp-wiki.net/capone)
+[Ichor](http://scp-wiki.net/ichor)

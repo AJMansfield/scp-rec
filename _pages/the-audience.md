@@ -5,6 +5,6 @@ title: the-audience
 ---
 You may also like:
 
-[Basic Observations](http://scp-wiki.net/basic-observations)
+[SCP-1671: Corpse Mine](http://scp-wiki.net/scp-1671)
 
-[The Harold Maine Fan Club](http://scp-wiki.net/the-harold-maine-fan-club)
+[SCP-1072: Memory-Replacing Disc](http://scp-wiki.net/scp-1072)

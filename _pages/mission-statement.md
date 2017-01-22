@@ -5,6 +5,6 @@ title: mission-statement
 ---
 You may also like:
 
-[My Loever, the Dog: The Incredibly True Story of Kain Pathos Crow](http://scp-wiki.net/my-loever-the-dog)
+[SCP-2600-J: Bicycle Mafia](http://scp-wiki.net/scp-2600-j)
 
-[Anderson Robotics Hub](http://scp-wiki.net/anderson-robotics-hub)
+[Dr. "Spaztique" Z's Personnel File](http://scp-wiki.net/dr-spaz-personnel-file)

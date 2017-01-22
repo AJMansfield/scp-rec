@@ -5,6 +5,6 @@ title: overview-of-mtf-psi-7-home-improvement
 ---
 You may also like:
 
-[Null Space](http://scp-wiki.net/null-space)
+[SCP-2807: Ancient Foundation Burial Ground](http://scp-wiki.net/scp-2807)
 
-[SCP-031](http://scp-wiki.net/scp-031)
+[For Old Time's Sake](http://scp-wiki.net/for-old-time-s-sake)

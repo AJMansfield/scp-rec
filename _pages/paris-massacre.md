@@ -5,6 +5,6 @@ title: paris-massacre
 ---
 You may also like:
 
-[Year Of The Many](http://scp-wiki.net/year-of-the-many)
+[wowwee go kill ursefl](http://scp-wiki.net/wowwee-go-kill-ursefl)
 
-[Decommissioned](http://scp-wiki.net/decommissioned)
+[Intermission: Audience of Crowns](http://scp-wiki.net/audience-of-crowns)

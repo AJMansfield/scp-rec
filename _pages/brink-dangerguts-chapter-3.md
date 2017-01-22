@@ -5,6 +5,6 @@ title: brink-dangerguts-chapter-3
 ---
 You may also like:
 
-[SCP-1529](http://scp-wiki.net/scp-1529)
+[Daylight Come](http://scp-wiki.net/daylight-come)
 
-[SCP-2807](http://scp-wiki.net/scp-2807)
+[Chapter 1: Your Mission, Should You Choose to Accept It...](http://scp-wiki.net/brink-dangerguts-chapter-1)

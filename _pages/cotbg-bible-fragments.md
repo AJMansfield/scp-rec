@@ -5,6 +5,6 @@ title: cotbg-bible-fragments
 ---
 You may also like:
 
-[Scroll fragment 13Q29](http://scp-wiki.net/scroll-fragment-13q29)
+[A.S.S. and Other Low-threat Groups of Interest](http://scp-wiki.net/a-s-s-and-other-low-threat-groups-of-interest)
 
-[Unraveled](http://scp-wiki.net/unraveled)
+[Incident Report 086-0](http://scp-wiki.net/incident-report-086-0)

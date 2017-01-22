@@ -5,6 +5,6 @@ title: about-the-scp-foundation
 ---
 You may also like:
 
-[Flamingos](http://scp-wiki.net/flamingos)
+[SCP-2133: Our Land, Our Bondage](http://scp-wiki.net/scp-2133)
 
-[Zmax's Author Page](http://scp-wiki.net/zmax-s-author-page)
+[SCP-367: Little Dog](http://scp-wiki.net/scp-367)

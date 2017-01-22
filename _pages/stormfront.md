@@ -5,6 +5,6 @@ title: stormfront
 ---
 You may also like:
 
-[Ganymede](http://scp-wiki.net/ganymede)
+[I, Autarch](http://scp-wiki.net/i-autarch)
 
-[Ask Lord Blackwood](http://scp-wiki.net/ask-lord-blackwood)
+[SCP-1677: The Song Stuck In Your Head](http://scp-wiki.net/scp-1677)

@@ -5,6 +5,6 @@ title: living-in-the-limelight
 ---
 You may also like:
 
-[Birth of the Cool](http://scp-wiki.net/birth-of-the-cool)
+[S & C Plastics Hub](http://scp-wiki.net/the-s-c-plastics-hub)
 
-[Of Mats And Masquerades](http://scp-wiki.net/of-mats-and-masquerades)
+[About The SCP Foundation](http://scp-wiki.net/about-the-scp-foundation-arc)

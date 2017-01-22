@@ -5,6 +5,6 @@ title: knives
 ---
 You may also like:
 
-[Endless Hunt Part Two: Rites of Passage](http://scp-wiki.net/ofanendlesshunt-parttwo-rites-of-passage)
+[Diary of a Young Girl](http://scp-wiki.net/diary-of-a-young-girl)
 
-[Nondescript Nose](http://scp-wiki.net/nondescript-nose)
+[The Big List Of Overdone SCP Cliches](http://scp-wiki.net/the-big-list-of-overdone-scp-cliches)

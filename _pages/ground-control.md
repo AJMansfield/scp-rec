@@ -5,6 +5,6 @@ title: ground-control
 ---
 You may also like:
 
-[SCP-1786](http://scp-wiki.net/scp-1786)
+[Planetfall: 5](http://scp-wiki.net/planetfall-5)
 
-[The King Is Dead](http://scp-wiki.net/the-king-is-dead)
+[Change](http://scp-wiki.net/change)

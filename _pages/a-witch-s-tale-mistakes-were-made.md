@@ -5,6 +5,6 @@ title: a-witch-s-tale-mistakes-were-made
 ---
 You may also like:
 
-[SCP Foundation The Movie 2: Electric Boogaloo](http://scp-wiki.net/scp-foundation-the-movie-2)
+[SCP-2255: The Most Interesting Rainstorm in the World](http://scp-wiki.net/scp-2255)
 
-[SCP-361-ARC](http://scp-wiki.net/scp-361-arc)
+[SCP-1562: Tunnel Slide](http://scp-wiki.net/scp-1562)

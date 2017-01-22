@@ -5,6 +5,6 @@ title: scp-calendar
 ---
 You may also like:
 
-[SCP-2833](http://scp-wiki.net/scp-2833)
+[Challenge Accepted!](http://scp-wiki.net/challenge-accepted)
 
-[SCP-2057](http://scp-wiki.net/scp-2057)
+[Friday, 2200, Paul Dimaccio's Personal Quarters](http://scp-wiki.net/friday-2200-paul-dimaccios-personal-quarters)

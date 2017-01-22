@@ -5,6 +5,6 @@ title: gamedaypart3index
 ---
 You may also like:
 
-[Game Day](http://scp-wiki.net/gamedayindex)
+[In The End: We Dare Not Go A Hunting](http://scp-wiki.net/intheendwedarenotgoahunting)
 
-[Game Day, Phase 2: Contain](http://scp-wiki.net/gamedaypart2index)
+[SCP-1856: Corrosive Corpse](http://scp-wiki.net/scp-1856)

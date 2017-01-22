@@ -5,6 +5,6 @@ title: bending-over-backwards
 ---
 You may also like:
 
-[SCP-2339](http://scp-wiki.net/scp-2339)
+[SCP-1061: The Accidental Car](http://scp-wiki.net/scp-1061)
 
-[Ball Gags and Scrambled Eggs](http://scp-wiki.net/ball-gags-and-scrambled-eggs)
+[SCP-219: Resonance Engine](http://scp-wiki.net/scp-219)

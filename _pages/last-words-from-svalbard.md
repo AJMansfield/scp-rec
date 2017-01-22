@@ -7,4 +7,4 @@ You may also like:
 
 [The Black Horse (The Crawling Sea)](http://scp-wiki.net/the-black-horse)
 
-[In the End: Monkey Business](http://scp-wiki.net/intheendmonkeybusiness)
+[Dr. Kondraki's Work Log](http://scp-wiki.net/dr-kondraki-s-work-log)

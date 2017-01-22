@@ -5,6 +5,6 @@ title: the-corpse-the-twister-and-the-veteran
 ---
 You may also like:
 
-[Devotion](http://scp-wiki.net/devotion)
+[SCP-2522: hatbot.aic](http://scp-wiki.net/scp-2522)
 
-[Transcript of Incident BL-7 Alpha](http://scp-wiki.net/goc-tale-incident-bl-7-alpha)
+[SCP-1890: The Family Photo Album](http://scp-wiki.net/scp-1890)

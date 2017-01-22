@@ -5,6 +5,6 @@ title: variations-on-a-schema
 ---
 You may also like:
 
-[Crossing The Streams](http://scp-wiki.net/crossing-the-streams)
+[The End is the Beginning is the End](http://scp-wiki.net/the-end-is-the-beginning-is-the-end)
 
-[ALERT!  LOCKDOWN INITIATED!](http://scp-wiki.net/alert-lockdown-initiated)
+[Dramatis Personae](http://scp-wiki.net/wayward-prologue)

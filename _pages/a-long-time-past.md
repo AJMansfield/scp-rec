@@ -5,6 +5,6 @@ title: a-long-time-past
 ---
 You may also like:
 
-[The Heresy of Disassembly](http://scp-wiki.net/the-heresy-of-disassembly)
+[Mister Flames](http://scp-wiki.net/mister-flames)
 
-[SCP-2500](http://scp-wiki.net/scp-2500)
+[Rota](http://scp-wiki.net/rota)

@@ -5,6 +5,6 @@ title: dr-kondraki-s-personnel-file
 ---
 You may also like:
 
-[Old Kansas Sector ~ 4: Grammie Knows](http://scp-wiki.net/old-kansas-sector-part-4)
+[An Interview With "The Administrator"](http://scp-wiki.net/an-interview-with-the-administrator)
 
-[SCP-1156](http://scp-wiki.net/scp-1156)
+[SCP-297: "Steely Dan"](http://scp-wiki.net/scp-297)

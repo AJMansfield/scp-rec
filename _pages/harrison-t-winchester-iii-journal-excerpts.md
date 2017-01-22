@@ -5,6 +5,6 @@ title: harrison-t-winchester-iii-journal-excerpts
 ---
 You may also like:
 
-[Birth of the Cool](http://scp-wiki.net/birth-of-the-cool)
+[Experiments of Paper, Part 1](http://scp-wiki.net/experiments-of-paper-part-1)
 
-[How the SPC Ruined Halloween](http://scp-wiki.net/how-the-spc-ruined-halloween)
+[SCP-2455: Possibilities Girl](http://scp-wiki.net/scp-2455)

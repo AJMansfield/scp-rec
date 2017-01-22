@@ -5,6 +5,6 @@ title: people-look-east
 ---
 You may also like:
 
-[SCP-2357](http://scp-wiki.net/scp-2357)
+[Game Day Part 1: Smilers](http://scp-wiki.net/game-day-1-smilers)
 
-[SCP-1136](http://scp-wiki.net/scp-1136)
+[SCP-1878: Milkman Mimic](http://scp-wiki.net/scp-1878)

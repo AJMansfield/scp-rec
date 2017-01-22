@@ -5,6 +5,6 @@ title: wowwee-u-kild-ursefl
 ---
 You may also like:
 
-[SCP-2207](http://scp-wiki.net/scp-2207)
+[FlameShirt's Author Page](http://scp-wiki.net/flameshirt-s-author-page)
 
-[SCP-2221](http://scp-wiki.net/scp-2221)
+[Mud on the Carpet](http://scp-wiki.net/mud-on-the-carpet)

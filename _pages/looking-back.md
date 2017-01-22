@@ -5,6 +5,6 @@ title: looking-back
 ---
 You may also like:
 
-[A Double Life](http://scp-wiki.net/a-double-life)
+[SCP-1850: Accipiter sopwithii](http://scp-wiki.net/scp-1850)
 
-[Recollections of a Gentleman's Gentleman](http://scp-wiki.net/recollections-of-a-gentleman-s-gentleman)
+[Walk the Floor](http://scp-wiki.net/walk-the-floor)

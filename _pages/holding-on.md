@@ -5,6 +5,6 @@ title: holding-on
 ---
 You may also like:
 
-[Cyantreuse's Pit of Despair and SCPhotoshop](http://scp-wiki.net/sexycontainmentprocedures)
+[Acquisitions - a Marshall, Carter & Dark Tale](http://scp-wiki.net/acquisitions-hub)
 
-[SCP-2270](http://scp-wiki.net/scp-2270)
+[SCP-1087: White Tarsier](http://scp-wiki.net/scp-1087)

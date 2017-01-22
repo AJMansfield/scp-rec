@@ -5,6 +5,6 @@ title: ask-lord-blackwood
 ---
 You may also like:
 
-[Worst Case Scenario](http://scp-wiki.net/worst-case-scenario)
+[Church of the Broken God Hub](http://scp-wiki.net/church-of-the-broken-god-hub)
 
-[SCP-1440](http://scp-wiki.net/scp-1440)
+[SCP-2969: In Your Own Words](http://scp-wiki.net/scp-2969)

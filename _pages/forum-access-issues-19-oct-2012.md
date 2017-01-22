@@ -5,6 +5,6 @@ title: forum-access-issues-19-oct-2012
 ---
 You may also like:
 
-[SCP-770](http://scp-wiki.net/scp-770)
+[SCP-2064: Mayhem Dressed in a Suit](http://scp-wiki.net/scp-2064)
 
-[The Melody Of Autumn, Passing Into Winter](http://scp-wiki.net/the-melody-of-autumn-passing-into-winter)
+[Influenza](http://scp-wiki.net/influenza)

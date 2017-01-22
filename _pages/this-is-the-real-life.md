@@ -5,6 +5,6 @@ title: this-is-the-real-life
 ---
 You may also like:
 
-[Entropy](http://scp-wiki.net/entropy)
+[SCP-1809: Microscopic Cellular Housing Enthusiasts](http://scp-wiki.net/scp-1809)
 
-[Experiment Log 137](http://scp-wiki.net/experiment-log-137)
+[Translated From Palauan](http://scp-wiki.net/translated-from-palauan)

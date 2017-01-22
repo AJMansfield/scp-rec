@@ -5,6 +5,6 @@ title: a-day-at-the-call-center
 ---
 You may also like:
 
-[A Simple Paradigm Shift](http://scp-wiki.net/a-simple-paradigm-shift)
+[Business as Usual](http://scp-wiki.net/a-normal-week)
 
-["Special Observer"](http://scp-wiki.net/goc-tale-sequence-special-observer)
+[World Tour](http://scp-wiki.net/world-tour)

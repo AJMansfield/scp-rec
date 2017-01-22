@@ -5,6 +5,6 @@ title: musuko-s-personnel-file
 ---
 You may also like:
 
-[A Matter Of Faith](http://scp-wiki.net/a-matter-of-faith)
+[Mobile Task Forces](http://scp-wiki.net/task-forces-arc-2)
 
-[20,584](http://scp-wiki.net/20-584)
+[SCP-2257: House God](http://scp-wiki.net/scp-2257)

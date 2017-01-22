@@ -5,6 +5,6 @@ title: broken-masquerade-hub
 ---
 You may also like:
 
-[The Truth Is Out There](http://scp-wiki.net/the-truth-is-out-there)
+[Dance The Danse](http://scp-wiki.net/dance-the-danse)
 
-[The White Horse (The Conqueror With The Golden Crown)](http://scp-wiki.net/the-white-horse)
+[S Andrew Swann's Proposal: The Database](http://scp-wiki.net/sandrewswann-s-proposal)

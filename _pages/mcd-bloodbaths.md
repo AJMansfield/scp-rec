@@ -5,6 +5,6 @@ title: mcd-bloodbaths
 ---
 You may also like:
 
-[SCP-1904](http://scp-wiki.net/scp-1904)
+[SCP-2509: Hardware Pets](http://scp-wiki.net/scp-2509)
 
-[Blue Lily Chains](http://scp-wiki.net/blue-lily-chains)
+[SCP-1462: Renewable Energy Source](http://scp-wiki.net/scp-1462)

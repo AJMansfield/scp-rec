@@ -5,6 +5,6 @@ title: love-in-leetspeak
 ---
 You may also like:
 
-[A Question of Commerce](http://scp-wiki.net/a-question-of-commerce)
+[Experiment 919-23](http://scp-wiki.net/experiment-919-23)
 
-[The Ragdoll](http://scp-wiki.net/the-ragdoll)
+[Soliloquy](http://scp-wiki.net/soliloquy)

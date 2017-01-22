@@ -5,6 +5,6 @@ title: dr-light-s-personnel-file
 ---
 You may also like:
 
-[Legerdemain](http://scp-wiki.net/hand-to-hand-combat)
+[How To Debate An Armchair](http://scp-wiki.net/how-to-debate-an-armchair)
 
-[SCP-2113](http://scp-wiki.net/scp-2113)
+[Shaggyheadbox](http://scp-wiki.net/shaggyheadbox)

@@ -5,6 +5,6 @@ title: the-king-is-dead
 ---
 You may also like:
 
-[SCP-1165](http://scp-wiki.net/scp-1165)
+[This Is Not Me Talking](http://scp-wiki.net/except-it-is)
 
-[SCP-1527](http://scp-wiki.net/scp-1527)
+[Whoa, Here She Comes](http://scp-wiki.net/whoa-here-she-comes)

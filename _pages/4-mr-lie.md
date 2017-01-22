@@ -5,6 +5,6 @@ title: 4-mr-lie
 ---
 You may also like:
 
-[3. Mr. Money](http://scp-wiki.net/3-mr-money)
+[Agent Enma Ai's Personnel File](http://scp-wiki.net/agent-enma-ai-personnel-file)
 
-[11. Mr. Feather](http://scp-wiki.net/11-mr-feather)
+[SCP-2071: Sir Michael Cavendish, in the Guise of the King of Serpents](http://scp-wiki.net/scp-2071)

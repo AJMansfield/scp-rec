@@ -5,6 +5,6 @@ title: secure-facility-dossier-site-81
 ---
 You may also like:
 
-[SCP-131](http://scp-wiki.net/scp-131)
+[SCP-845: Liquid Polecat](http://scp-wiki.net/scp-845)
 
-[The Death Of Alto Clef, aka Agent Ukulele, aka Adam ben Yahweh, aka Lucifer, First of the Fallen, aka That Bastard, etc.](http://scp-wiki.net/the-death-of-alto-clef-etc)
+[SCP-732-J: Tiny Ceramic Seahorse](http://scp-wiki.net/scp-732-j)

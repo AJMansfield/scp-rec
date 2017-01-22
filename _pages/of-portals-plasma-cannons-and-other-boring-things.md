@@ -5,6 +5,6 @@ title: of-portals-plasma-cannons-and-other-boring-things
 ---
 You may also like:
 
-[Another Boring Night](http://scp-wiki.net/do-you-remember-these-guys)
+[SCP-2581: Greeting Card Rapture](http://scp-wiki.net/scp-2581)
 
-[SCP-2975](http://scp-wiki.net/scp-2975)
+[SCP-1487: Beautiful Bones](http://scp-wiki.net/scp-1487)

@@ -5,6 +5,6 @@ title: scp-884-original-collection
 ---
 You may also like:
 
-[A Suicide Note](http://scp-wiki.net/a-suicide-note)
+[Zolder](http://scp-wiki.net/zolder)
 
-[Old Kansas Sector 1: Farmhouse](http://scp-wiki.net/old-kansas-sector)
+[SCP-833: Charity Worms](http://scp-wiki.net/scp-833)

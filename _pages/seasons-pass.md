@@ -5,6 +5,6 @@ title: seasons-pass
 ---
 You may also like:
 
-[December 24th, 2011 Hub](http://scp-wiki.net/december-24th-2011-hub)
+[CONTAIN](http://scp-wiki.net/contain)
 
-[Sweet Memories](http://scp-wiki.net/sweet-memories)
+[Sparkle Spectacular](http://scp-wiki.net/sparkle-spectacular)

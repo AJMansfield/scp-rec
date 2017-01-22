@@ -5,6 +5,6 @@ title: doublehorses
 ---
 You may also like:
 
-[Free Reality Check!: Press Button](http://scp-wiki.net/free-reality-check-press-button)
+[SCP-1201: Zoroaster's Well](http://scp-wiki.net/scp-1201)
 
-[SCP-2077](http://scp-wiki.net/scp-2077)
+[SCP-1583: It Only Makes Us Stronger](http://scp-wiki.net/scp-1583)

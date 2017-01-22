@@ -5,6 +5,6 @@ title: anno-domino
 ---
 You may also like:
 
-[SCP-112](http://scp-wiki.net/scp-112)
+[CarrionTrooper's Sketchbook](http://scp-wiki.net/agent-carriontrooper-s-personnel-file)
 
-[SCP-683](http://scp-wiki.net/scp-683)
+[Time Contest!](http://scp-wiki.net/time-contest)

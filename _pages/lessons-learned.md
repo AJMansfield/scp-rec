@@ -5,6 +5,6 @@ title: lessons-learned
 ---
 You may also like:
 
-[Conspiracy, Part VII](http://scp-wiki.net/conspiracy-part-vii)
+[SCP-2092: Space Riddle](http://scp-wiki.net/scp-2092)
 
-[SCP-2240](http://scp-wiki.net/scp-2240)
+[The Day of the Dragon](http://scp-wiki.net/the-day-of-the-dragon)

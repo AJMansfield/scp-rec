@@ -5,6 +5,6 @@ title: llama66613-s-author-page
 ---
 You may also like:
 
-[SCP-1846](http://scp-wiki.net/scp-1846)
+[SCP-1952: Duckutus of Gorb](http://scp-wiki.net/scp-1952)
 
-[Conversation 2: Numberless](http://scp-wiki.net/conversation-2-numberless)
+[Set Up Thine Altar Here](http://scp-wiki.net/set-up-thine-altar-here)

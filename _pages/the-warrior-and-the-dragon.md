@@ -5,6 +5,6 @@ title: the-warrior-and-the-dragon
 ---
 You may also like:
 
-[Random But Useful](http://scp-wiki.net/random-but-useful)
+[Simple Sketches](http://scp-wiki.net/simple-sketches)
 
-[Corroded Relations](http://scp-wiki.net/corroded-relations)
+[Building Up](http://scp-wiki.net/building-up)

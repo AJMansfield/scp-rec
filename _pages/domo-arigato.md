@@ -5,6 +5,6 @@ title: domo-arigato
 ---
 You may also like:
 
-[Freaky Commodities](http://scp-wiki.net/freaky-commodities)
+[Kiryu Labs Hub](http://scp-wiki.net/kiryu-labs-hub)
 
-[SCP-2532](http://scp-wiki.net/scp-2532)
+[SCP-2110: Safe Haven](http://scp-wiki.net/scp-2110)

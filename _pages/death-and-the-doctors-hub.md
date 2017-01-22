@@ -5,6 +5,6 @@ title: death-and-the-doctors-hub
 ---
 You may also like:
 
-[Dr Jung's Terminal](http://scp-wiki.net/freudian)
+[SCP-1048: Builder Bear](http://scp-wiki.net/scp-1048)
 
-[WrongJohnSilver's Author Page](http://scp-wiki.net/wrongjohnsilver-s-author-page)
+[ORIA MEMORANDUM 0013 REGARDING PROJECT 934](http://scp-wiki.net/oria-memorandum-0013-regarding-project-934)

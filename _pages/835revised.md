@@ -5,6 +5,6 @@ title: 835revised
 ---
 You may also like:
 
-[SCP-2023](http://scp-wiki.net/scp-2023)
+[835 After Action Report, Uncensored](http://scp-wiki.net/835aarfull)
 
-[First Day](http://scp-wiki.net/first-day)
+[SCP-212 Upgrade Log](http://scp-wiki.net/scp-212-upgrade-log)

@@ -5,6 +5,6 @@ title: iceberg-personnel-file
 ---
 You may also like:
 
-[Whatever hysteria exists is inflamed by mystery](http://scp-wiki.net/hysteria)
+[SCP-623: One Groovy Room](http://scp-wiki.net/scp-623)
 
-[Researcher Robert Sandler](http://scp-wiki.net/personnel-file-of-robert-sandler)
+[Canon Hub](http://scp-wiki.net/canon-hub)

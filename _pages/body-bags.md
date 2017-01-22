@@ -5,6 +5,6 @@ title: body-bags
 ---
 You may also like:
 
-[Confirmed Sightings](http://scp-wiki.net/confirmed-sightings)
+[Founding](http://scp-wiki.net/founding)
 
-[Lust in the Time of Anomalous Cholera](http://scp-wiki.net/lust-in-the-time-of-anomalous-cholera)
+[Incident Report KAF-09](http://scp-wiki.net/incident-report-kaf-09)

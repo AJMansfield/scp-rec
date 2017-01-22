@@ -5,6 +5,6 @@ title: grasp-on-reality
 ---
 You may also like:
 
-[Property Values](http://scp-wiki.net/property-values)
+[SCP-386: Eternal Fungus](http://scp-wiki.net/scp-386)
 
-[Urban Legends](http://scp-wiki.net/urban-legends)
+[This Is A Redirecting Page Now](http://scp-wiki.net/document-09-e-3417845)

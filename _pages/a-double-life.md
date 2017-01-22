@@ -5,6 +5,6 @@ title: a-double-life
 ---
 You may also like:
 
-[SCP-2305](http://scp-wiki.net/scp-2305)
+[Just a Word to Me](http://scp-wiki.net/just-a-word-to-me)
 
-[SCP-2500](http://scp-wiki.net/scp-2500)
+[SCP-2876: Dream A Little Dream](http://scp-wiki.net/scp-2876)

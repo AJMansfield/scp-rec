@@ -5,6 +5,6 @@ title: the-recording
 ---
 You may also like:
 
-[The Man with Oscilloscope Eyes](http://scp-wiki.net/first-interlude)
+[Elevator](http://scp-wiki.net/elevator)
 
-[SCP-1054](http://scp-wiki.net/scp-1054)
+[SCP-1303: Hunting Cavern](http://scp-wiki.net/scp-1303)

@@ -5,6 +5,6 @@ title: stop-going-in-circles
 ---
 You may also like:
 
-[One Bad Mother](http://scp-wiki.net/one-bad-mother)
+[Hava](http://scp-wiki.net/hava)
 
-[SCP-2525](http://scp-wiki.net/scp-2525)
+[Featured SCP Archive](http://scp-wiki.net/featured-scp-archive)

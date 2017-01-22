@@ -5,6 +5,6 @@ title: i-hope-you-get-back-to-me-soon
 ---
 You may also like:
 
-[Just Like Me](http://scp-wiki.net/just-like-me)
+[Wasteland](http://scp-wiki.net/wasteland)
 
-[SCP-2430](http://scp-wiki.net/scp-2430)
+[The Last Site](http://scp-wiki.net/the-last-site)

@@ -5,6 +5,6 @@ title: goc-tale-sequence-tempering
 ---
 You may also like:
 
-[The Harold Maine Fan Club](http://scp-wiki.net/the-harold-maine-fan-club)
+[SCP-1208: WaffleMaster 3000](http://scp-wiki.net/scp-1208)
 
-[Fire](http://scp-wiki.net/fire)
+[SCP-355: The Serrated Lawn](http://scp-wiki.net/scp-355)

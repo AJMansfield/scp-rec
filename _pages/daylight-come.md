@@ -5,6 +5,6 @@ title: daylight-come
 ---
 You may also like:
 
-[Revenants](http://scp-wiki.net/revenants)
+[Chapter 3: Lights, Cairo, Action!!](http://scp-wiki.net/brink-dangerguts-chapter-3)
 
-[SCP-1309](http://scp-wiki.net/scp-1309)
+[Timing](http://scp-wiki.net/timing)

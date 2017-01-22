@@ -5,6 +5,6 @@ title: dressing-up
 ---
 You may also like:
 
-[Introductory Antimemetics](http://scp-wiki.net/introductory-antimemetics)
+[Explained SCPs: These are SCPs which are no longer considered odd, paranormal, or extraordinary by current standards. They are written with this in mind.](http://scp-wiki.net/scp-ex)
 
-[In His Own Image: Interlude 1](http://scp-wiki.net/in-his-own-image-interlude-1)
+[The Tailor](http://scp-wiki.net/the-tailor)

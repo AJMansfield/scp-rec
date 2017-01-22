@@ -5,6 +5,6 @@ title: empty-unmarked-grave
 ---
 You may also like:
 
-[Industrial Espionage](http://scp-wiki.net/industrial-espionage)
+[SCP-2267: Vibrations](http://scp-wiki.net/scp-2267)
 
-[SCP-1242](http://scp-wiki.net/scp-1242)
+[Entropy](http://scp-wiki.net/entropy)

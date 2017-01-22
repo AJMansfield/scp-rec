@@ -5,6 +5,6 @@ title: annon
 ---
 You may also like:
 
-[Scruff, Claws, Paws](http://scp-wiki.net/scruff-claws-paws)
+[SCP-1508: Mikey's Chore](http://scp-wiki.net/scp-1508)
 
-[SCP-801](http://scp-wiki.net/scp-801)
+[Anime Is Art Too, Guys](http://scp-wiki.net/anime-is-art-too-guys)

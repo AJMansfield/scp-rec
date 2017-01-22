@@ -5,6 +5,6 @@ title: zolder
 ---
 You may also like:
 
-[SCP-2157](http://scp-wiki.net/scp-2157)
+[SCP-541: Living Thoracic System](http://scp-wiki.net/scp-541)
 
-[SCP-1079](http://scp-wiki.net/scp-1079)
+[SCP-917: Mr. Moon](http://scp-wiki.net/scp-917)

@@ -5,6 +5,6 @@ title: onceandfutureemperor
 ---
 You may also like:
 
-[SCP-1148](http://scp-wiki.net/scp-1148)
+[SCP-2078: Third Party](http://scp-wiki.net/scp-2078)
 
-[SCP-800](http://scp-wiki.net/scp-800)
+[Lord Blackwood and the Thaumaturge](http://scp-wiki.net/lord-blackwood-and-the-thaumaturge-the-t)

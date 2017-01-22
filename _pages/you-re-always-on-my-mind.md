@@ -5,6 +5,6 @@ title: you-re-always-on-my-mind
 ---
 You may also like:
 
-[What Ever Happened?](http://scp-wiki.net/what-ever-happened)
+[The Rain](http://scp-wiki.net/the-rain)
 
-[SCP-338](http://scp-wiki.net/scp-338)
+[Of Teachers And Taxicabs](http://scp-wiki.net/of-teachers-and-taxicabs)

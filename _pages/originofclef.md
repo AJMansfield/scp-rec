@@ -5,6 +5,6 @@ title: originofclef
 ---
 You may also like:
 
-['dad', you're too fucking late](http://scp-wiki.net/to-my-companion-who-sleeps-eternally-beyond-reach)
+[SCP-1705: A Collection of Bones](http://scp-wiki.net/scp-1705)
 
-[Units](http://scp-wiki.net/units)
+[Experiment Log 318](http://scp-wiki.net/experiment-log-318)

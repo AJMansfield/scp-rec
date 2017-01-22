@@ -5,6 +5,6 @@ title: cool-war-2-hub
 ---
 You may also like:
 
-[She's Angry and Going South](http://scp-wiki.net/she-s-angry-and-going-south)
+[Canola Oil Panic](http://scp-wiki.net/canola-oil-panic)
 
-[Year Of The Many](http://scp-wiki.net/year-of-the-many)
+[SCP-1775: Retail Specters](http://scp-wiki.net/scp-1775)

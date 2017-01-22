@@ -5,6 +5,6 @@ title: scp-257-arc
 ---
 You may also like:
 
-[SCP-115](http://scp-wiki.net/scp-115)
+[SCP-130: Post Office](http://scp-wiki.net/scp-130)
 
-[SCP-1124](http://scp-wiki.net/scp-1124)
+[SCP-1091: Digital Mode Shortwave Entity](http://scp-wiki.net/scp-1091)

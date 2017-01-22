@@ -5,6 +5,6 @@ title: lullaby
 ---
 You may also like:
 
-[SCP-1973](http://scp-wiki.net/scp-1973)
+[It's Not Pronounced Like the Thesaurus, Dammit!](http://scp-wiki.net/its-not-pronounced-like-the-thesaurus-dammit)
 
-[Joy to the World](http://scp-wiki.net/joy-to-the-world)
+[Queen To Pawn](http://scp-wiki.net/queen-to-pawn)

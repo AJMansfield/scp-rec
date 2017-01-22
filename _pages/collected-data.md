@@ -5,6 +5,6 @@ title: collected-data
 ---
 You may also like:
 
-[Christmas Propaganda](http://scp-wiki.net/christmas-propaganda)
+[SCP-1414: Passive-Aggressive Radio](http://scp-wiki.net/scp-1414)
 
-[SCP-592](http://scp-wiki.net/scp-592)
+[SCP-2089: /john/](http://scp-wiki.net/scp-2089)

@@ -5,6 +5,6 @@ title: new-age-3
 ---
 You may also like:
 
-[New Age - Book II: "Mr Brightside"](http://scp-wiki.net/new-age-2)
+[Interlude: An Internal Memo Regarding a Theft](http://scp-wiki.net/internal-memo-regarding-a-theft)
 
-[SCP-1723](http://scp-wiki.net/scp-1723)
+[SCP-2998](http://scp-wiki.net/scp-2998-10)

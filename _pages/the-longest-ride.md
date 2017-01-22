@@ -5,6 +5,6 @@ title: the-longest-ride
 ---
 You may also like:
 
-[Intermission2](http://scp-wiki.net/intermission2)
+[An Excerpt from Goodbye Ghost](http://scp-wiki.net/an-excerpt-from-goodbye-ghost)
 
-[SCP-955](http://scp-wiki.net/scp-955)
+[SCP-465: Party in a Box](http://scp-wiki.net/scp-465)

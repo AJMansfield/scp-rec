@@ -5,6 +5,6 @@ title: document-1780-wl
 ---
 You may also like:
 
-[Tabled Theories](http://scp-wiki.net/tabled-theories)
+[SCP-2722: SCPS Solidarity](http://scp-wiki.net/scp-2722)
 
-[SCP-1230](http://scp-wiki.net/scp-1230)
+[Lessons](http://scp-wiki.net/lessons)

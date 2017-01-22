@@ -5,6 +5,6 @@ title: research-notes-of-rj-tellar
 ---
 You may also like:
 
-[Sisters](http://scp-wiki.net/sisters)
+[Top Rated Pages By Month 2009](http://scp-wiki.net/top-rated-pages-by-month-2009)
 
-[Memorandum Dated 6 November 1944](http://scp-wiki.net/memorandum-dated-6-november-1944)
+[SCP-1502: The Feeny Stitcher](http://scp-wiki.net/scp-1502)

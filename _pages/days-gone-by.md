@@ -5,6 +5,6 @@ title: days-gone-by
 ---
 You may also like:
 
-[First Interlude: Old School](http://scp-wiki.net/lonwood)
+[SCP-2796: Invisible Ink](http://scp-wiki.net/scp-2796)
 
-[SCP-1131](http://scp-wiki.net/scp-1131)
+[Smooth as Silk](http://scp-wiki.net/smooth-as-silk)

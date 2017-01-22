@@ -5,6 +5,6 @@ title: mr-parker
 ---
 You may also like:
 
-[SCP-2091](http://scp-wiki.net/scp-2091)
+[GRANT REQUEST FOR THE DEVELOPMENT OF TOOLS FOR MAPPING LOCALES WITH INCONSISTENT SPACETIME](http://scp-wiki.net/grant-request-for-the-development-of-tools-for-mapping-local)
 
-[SCP-2237](http://scp-wiki.net/scp-2237)
+[In Search Of Lost Antigo](http://scp-wiki.net/in-search-of-lost-antigo)

@@ -5,6 +5,6 @@ title: lending-a-hand
 ---
 You may also like:
 
-[The Loft](http://scp-wiki.net/the-loft)
+[Licensing Guide](http://scp-wiki.net/licensing-guide)
 
-[SCP-1549](http://scp-wiki.net/scp-1549)
+[Spirit Staff of Eastern Avian Shaman](http://scp-wiki.net/spirit-staff-of-eastern-avian-shaman)

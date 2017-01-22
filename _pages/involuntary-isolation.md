@@ -5,6 +5,6 @@ title: involuntary-isolation
 ---
 You may also like:
 
-[Jam Jars](http://scp-wiki.net/jam-jars)
+[SCP-1806: Shadow Sculpture](http://scp-wiki.net/scp-1806)
 
-[Library Lifeline](http://scp-wiki.net/library-lifeline)
+[The Star and the Smith](http://scp-wiki.net/the-star-and-the-smith)

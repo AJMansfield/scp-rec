@@ -5,6 +5,6 @@ title: dr-fisher-s-personnel-file
 ---
 You may also like:
 
-[SCP-417](http://scp-wiki.net/scp-417)
+[SCP-2726: Post Ghost](http://scp-wiki.net/scp-2726)
 
-[Kulzn's Personnel File](http://scp-wiki.net/kulzn-s-personnel-file)
+[SCP-881: Little People](http://scp-wiki.net/scp-881)

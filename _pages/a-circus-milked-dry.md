@@ -5,6 +5,6 @@ title: a-circus-milked-dry
 ---
 You may also like:
 
-[Bending Over Backwards](http://scp-wiki.net/bending-over-backwards)
+[Initial Contact Log SCP-939](http://scp-wiki.net/initial-contact-log-scp-939)
 
-[The Red Place](http://scp-wiki.net/the-red-place)
+[SCP-2996: ERROR / ERROR](http://scp-wiki.net/scp-2996)

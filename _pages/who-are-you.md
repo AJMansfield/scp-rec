@@ -5,6 +5,6 @@ title: who-are-you
 ---
 You may also like:
 
-[Time Crime in Greater Wisconsin - A Primer](http://scp-wiki.net/time-crime-in-greater-wisconsin-a-primer)
+[SCP-2744: Zeitgeist](http://scp-wiki.net/scp-2744)
 
-[Impressions](http://scp-wiki.net/impression)
+[1st - 12th December 2008](http://scp-wiki.net/1st-12th-december-2008)

@@ -5,6 +5,6 @@ title: when-we-came-home
 ---
 You may also like:
 
-[Involuntary Isolation](http://scp-wiki.net/involuntary-isolation)
+[Intermission: Audience of Crowns](http://scp-wiki.net/audience-of-crowns)
 
-[On Mount Golgotha - Hub](http://scp-wiki.net/on-mount-golgotha-hub)
+[Rain Leaking Through A Vendor's Roof](http://scp-wiki.net/the-rain-spills-to-a-torrent-can-you-hear-it)

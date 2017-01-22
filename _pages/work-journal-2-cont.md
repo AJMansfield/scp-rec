@@ -5,6 +5,6 @@ title: work-journal-2-cont
 ---
 You may also like:
 
-[Work Journal 2](http://scp-wiki.net/work-journal-2)
+[Home is A Place with Mushrooms](http://scp-wiki.net/home-is-a-place-with-mushrooms)
 
-[Splinters](http://scp-wiki.net/splinters)
+[Family](http://scp-wiki.net/family)

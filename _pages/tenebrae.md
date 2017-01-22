@@ -5,6 +5,6 @@ title: tenebrae
 ---
 You may also like:
 
-[SCP-2158](http://scp-wiki.net/scp-2158)
+[Show You What All That Howl Is For](http://scp-wiki.net/show-you-what-all-that-howl-is-for)
 
-[SCP-1458](http://scp-wiki.net/scp-1458)
+[Dr Clef's Personnel File](http://scp-wiki.net/drclef-member-page)

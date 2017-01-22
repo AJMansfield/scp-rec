@@ -5,6 +5,6 @@ title: castling-by-hand
 ---
 You may also like:
 
-[Between Shelves](http://scp-wiki.net/between-shelves)
+[SCP-469: Many-Winged Angel](http://scp-wiki.net/scp-469)
 
-[Family](http://scp-wiki.net/family)
+[Personal Log of Agent AA](http://scp-wiki.net/log-of-agent-aa)

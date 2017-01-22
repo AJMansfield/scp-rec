@@ -5,6 +5,6 @@ title: clockwork-time
 ---
 You may also like:
 
-[SCP-1048](http://scp-wiki.net/scp-1048)
+[SCP-1985 Recovered Information](http://scp-wiki.net/scp-1985-recovered-information)
 
-[Ouroboric Tango](http://scp-wiki.net/cav-004)
+[On Mount Golgotha - Hub](http://scp-wiki.net/on-mount-golgotha-hub)

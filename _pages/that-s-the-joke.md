@@ -5,6 +5,6 @@ title: that-s-the-joke
 ---
 You may also like:
 
-[SCP-1164](http://scp-wiki.net/scp-1164)
+[SCP-1575: Venus Statue](http://scp-wiki.net/scp-1575)
 
-[SCP-2466](http://scp-wiki.net/scp-2466)
+[Starch and Cream](http://scp-wiki.net/starch-and-cream)

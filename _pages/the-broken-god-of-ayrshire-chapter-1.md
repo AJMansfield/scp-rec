@@ -5,6 +5,6 @@ title: the-broken-god-of-ayrshire-chapter-1
 ---
 You may also like:
 
-[Confirmed Sightings](http://scp-wiki.net/confirmed-sightings)
+[SCP-2501: The Claw](http://scp-wiki.net/scp-2501)
 
-[SCP-2183](http://scp-wiki.net/scp-2183)
+[SCP-085: Hand-drawn ''Cassy''](http://scp-wiki.net/scp-085)

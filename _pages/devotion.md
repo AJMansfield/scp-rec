@@ -5,6 +5,6 @@ title: devotion
 ---
 You may also like:
 
-[The Corpse, The Twister, And The Veteran](http://scp-wiki.net/the-corpse-the-twister-and-the-veteran)
+[The Human Part of the Equation](http://scp-wiki.net/the-human-part-of-the-equation)
 
-[SCP-484](http://scp-wiki.net/scp-484)
+[SCP-369: Living Migratory Roadwork](http://scp-wiki.net/scp-369)

@@ -5,6 +5,6 @@ title: thebook
 ---
 You may also like:
 
-[SCP-900-J](http://scp-wiki.net/scp-900-j)
+[New Frontiers](http://scp-wiki.net/new-frontiers)
 
-[SCP-1456](http://scp-wiki.net/scp-1456)
+[My Brother The Ape](http://scp-wiki.net/my-brother-the-ape)

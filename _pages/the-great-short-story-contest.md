@@ -5,6 +5,6 @@ title: the-great-short-story-contest
 ---
 You may also like:
 
-[Interval 1](http://scp-wiki.net/interval-1)
+[Retired - Foundation Meetups](http://scp-wiki.net/foundation-meetups)
 
-[SCP-1441](http://scp-wiki.net/scp-1441)
+[SCP-CCG](http://scp-wiki.net/scp-ccg)

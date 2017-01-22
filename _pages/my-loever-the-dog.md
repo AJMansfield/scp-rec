@@ -5,6 +5,6 @@ title: my-loever-the-dog
 ---
 You may also like:
 
-[Mission Statement](http://scp-wiki.net/mission-statement)
+[SCP-2105: Programmable Occult](http://scp-wiki.net/scp-2105)
 
-[Randomini Continues Talking Despite The Best Efforts Of Almost Everyone He Knows: Advent Calendar Edition v2015](http://scp-wiki.net/advent-calendar-2015)
+[The Musical Suspects](http://scp-wiki.net/the-musical-suspects)

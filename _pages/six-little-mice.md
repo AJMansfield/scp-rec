@@ -5,6 +5,6 @@ title: six-little-mice
 ---
 You may also like:
 
-[SCP-2281](http://scp-wiki.net/scp-2281)
+[SCP-770: Nuclear Slime](http://scp-wiki.net/scp-770)
 
-[SCP-2964](http://scp-wiki.net/scp-2964)
+[The White Horse (The Conqueror With The Golden Crown)](http://scp-wiki.net/the-white-horse)

@@ -5,6 +5,6 @@ title: to-sleep-perchance-to-dream
 ---
 You may also like:
 
-[Clean Sweep](http://scp-wiki.net/clean-sweep)
+[SCP-289: Inertial Amplifier](http://scp-wiki.net/scp-289)
 
-[House Of Gears, Part One](http://scp-wiki.net/house-of-gears-part-one)
+[SCP-330: Take Only Two](http://scp-wiki.net/scp-330)

@@ -5,6 +5,6 @@ title: casefileforsimferopol
 ---
 You may also like:
 
-[SCP-2298](http://scp-wiki.net/scp-2298)
+[Memory of a Memory](http://scp-wiki.net/memory-of-a-memory-antarctic-exchange-6)
 
-[SCP-2975](http://scp-wiki.net/scp-2975)
+[Pain](http://scp-wiki.net/the-rotting-man-of-stalingrad)

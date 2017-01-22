@@ -5,6 +5,6 @@ title: scp-432-expedition-4
 ---
 You may also like:
 
-[SCP-432 Expedition 2](http://scp-wiki.net/scp-432-expedition-2)
+[SCP-5308-J: The Collection](http://scp-wiki.net/scp-5308-j)
 
-[SCP-2511](http://scp-wiki.net/scp-2511)
+[SCP-2424: Hostile Walrus Cyborg research ongoing](http://scp-wiki.net/scp-2424)

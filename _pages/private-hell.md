@@ -5,6 +5,6 @@ title: private-hell
 ---
 You may also like:
 
-[SCP-1528](http://scp-wiki.net/scp-1528)
+[A Great Idea, Probably...](http://scp-wiki.net/scp-cliche-generator)
 
-[SCP-1220](http://scp-wiki.net/scp-1220)
+[Iterations](http://scp-wiki.net/iterations)

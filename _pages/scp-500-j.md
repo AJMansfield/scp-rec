@@ -5,6 +5,6 @@ title: scp-500-j
 ---
 You may also like:
 
-[SCP-2137](http://scp-wiki.net/scp-2137)
+[SCP-352: "Baba Yaga"](http://scp-wiki.net/scp-352)
 
-[SCP-420-J](http://scp-wiki.net/scp-420-j)
+[Old Kansas Sector ~ 2: Tabloid](http://scp-wiki.net/old-kansas-sector-part-2)

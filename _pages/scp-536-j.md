@@ -5,6 +5,6 @@ title: scp-536-j
 ---
 You may also like:
 
-[SCP-149](http://scp-wiki.net/scp-149)
+[SCP-2547: Dog Days Of Summer](http://scp-wiki.net/scp-2547)
 
-[Bugs](http://scp-wiki.net/bugs)
+[SCP-1630: Human Food Pyramid](http://scp-wiki.net/scp-1630)

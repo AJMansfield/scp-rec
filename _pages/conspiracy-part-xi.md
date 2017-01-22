@@ -5,6 +5,6 @@ title: conspiracy-part-xi
 ---
 You may also like:
 
-[Fire on the Horizon](http://scp-wiki.net/fire-on-the-horizon)
+[A Cackmas Carol](http://scp-wiki.net/a-cackmas-carol)
 
-[Decency](http://scp-wiki.net/decency)
+[SCP-1587: Dreamland](http://scp-wiki.net/scp-1587)

@@ -5,6 +5,6 @@ title: document-348-002
 ---
 You may also like:
 
-[SCP-611](http://scp-wiki.net/scp-611)
+[SCP-821: Dixie Funland](http://scp-wiki.net/scp-821)
 
-[SCP-1184](http://scp-wiki.net/scp-1184)
+[far2's Disciplinary Report](http://scp-wiki.net/far2-s-disciplinary-report)

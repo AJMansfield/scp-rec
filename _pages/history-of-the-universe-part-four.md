@@ -5,6 +5,6 @@ title: history-of-the-universe-part-four
 ---
 You may also like:
 
-[History Of The Universe: Part Three](http://scp-wiki.net/history-of-the-universe-part-three)
+[Excerpts from PHYSICS Division Field Manual 2: Equipment and Gear](http://scp-wiki.net/goc-supplemental-equipment)
 
-[History Of The Universe: Part Five](http://scp-wiki.net/history-of-the-universe-part-five)
+[History Of The Universe: Part Three](http://scp-wiki.net/history-of-the-universe-part-three)

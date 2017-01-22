@@ -5,6 +5,6 @@ title: incident-report-x23
 ---
 You may also like:
 
-[Step Right Up!](http://scp-wiki.net/step-right-up)
+[SCP-1310: Examination Room 10](http://scp-wiki.net/scp-1310)
 
-[SCP-1726](http://scp-wiki.net/scp-1726)
+[SCP-1920: Turbine of the Future!](http://scp-wiki.net/scp-1920)

@@ -5,6 +5,6 @@ title: experiment-log-634
 ---
 You may also like:
 
-[MC&D Agent Orientation](http://scp-wiki.net/mc-d-agent-orientation)
+[SCP-122: No More Monsters](http://scp-wiki.net/scp-122)
 
-[The Man Who Wasn't There Hub](http://scp-wiki.net/the-man-who-wasnt-there-hub)
+[SCP-1797: Kitten Flu](http://scp-wiki.net/scp-1797)

@@ -5,6 +5,6 @@ title: ebooks
 ---
 You may also like:
 
-[Let Me Guess, Applesauce?](http://scp-wiki.net/let-me-guess-applesauce)
+[Attribution Metadata](http://scp-wiki.net/attribution-metadata)
 
-[SCP-180](http://scp-wiki.net/scp-180)
+[A Convincing Lyre](http://scp-wiki.net/a-convincing-lyre)

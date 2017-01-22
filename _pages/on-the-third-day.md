@@ -5,6 +5,6 @@ title: on-the-third-day
 ---
 You may also like:
 
-[What Is Love?](http://scp-wiki.net/whatislove)
+[SCP-1771: Seasonal House](http://scp-wiki.net/scp-1771)
 
-[Dragon's Teeth](http://scp-wiki.net/dragon-s-teeth)
+[SCP-1977: Eye of the Storm](http://scp-wiki.net/scp-1977)

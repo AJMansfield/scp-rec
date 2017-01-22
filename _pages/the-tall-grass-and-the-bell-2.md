@@ -5,6 +5,6 @@ title: the-tall-grass-and-the-bell-2
 ---
 You may also like:
 
-[The Bold and the Dutiful (Part One)](http://scp-wiki.net/the-bold-and-the-dutiful-pt1)
+[SCP-2779: Oinkers](http://scp-wiki.net/scp-2779)
 
-[SCP-1080](http://scp-wiki.net/scp-1080)
+[SCP-2334: Every Possible Photograph](http://scp-wiki.net/scp-2334)

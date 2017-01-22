@@ -5,6 +5,6 @@ title: document-001-o5
 ---
 You may also like:
 
-[Dr. Mann's Proposal](http://scp-wiki.net/dr-manns-proposal)
+[That's the Spirit!](http://scp-wiki.net/that-s-the-spirit)
 
-[SCP-2250](http://scp-wiki.net/scp-2250)
+[A World Unsaved](http://scp-wiki.net/unsaved-world)

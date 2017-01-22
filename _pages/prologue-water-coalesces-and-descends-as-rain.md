@@ -5,6 +5,6 @@ title: prologue-water-coalesces-and-descends-as-rain
 ---
 You may also like:
 
-[SCP-1649](http://scp-wiki.net/scp-1649)
+[SCP-1708: The Hollowed](http://scp-wiki.net/scp-1708)
 
-[SCP-1446](http://scp-wiki.net/scp-1446)
+[Djoric's Author Page](http://scp-wiki.net/djoric-s-author-page)

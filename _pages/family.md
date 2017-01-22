@@ -5,6 +5,6 @@ title: family
 ---
 You may also like:
 
-[Showtime](http://scp-wiki.net/showtime)
+[Work Journal 2 Cont](http://scp-wiki.net/work-journal-2-cont)
 
-[Castling By Hand](http://scp-wiki.net/castling-by-hand)
+[SCP-2084 Email Correspondence](http://scp-wiki.net/scp-2084-email-correspondence)

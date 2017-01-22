@@ -5,6 +5,6 @@ title: apakht
 ---
 You may also like:
 
-[SCP-740](http://scp-wiki.net/scp-740)
+[Transcript of meeting, June 2 1972](http://scp-wiki.net/transcript-of-meeting-june-2-1972)
 
-[SCP-244](http://scp-wiki.net/scp-244)
+[Tearing Down](http://scp-wiki.net/tearing-down)

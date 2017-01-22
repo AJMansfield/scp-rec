@@ -5,6 +5,6 @@ title: gdp2-sometimes-you-get-the-bear
 ---
 You may also like:
 
-[F U B A R](http://scp-wiki.net/f-u-b-a-r)
+[SCP-411: Ancient Precog](http://scp-wiki.net/scp-411)
 
-[SCP-2460](http://scp-wiki.net/scp-2460)
+[SCP-918: Baby Mill](http://scp-wiki.net/scp-918)

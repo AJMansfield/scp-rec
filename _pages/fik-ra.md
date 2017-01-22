@@ -5,6 +5,6 @@ title: fik-ra
 ---
 You may also like:
 
-[SunnyClockwork's Artwork - Series III](http://scp-wiki.net/sunny-art-series-3)
+[SCP-1143: Suricate Altar](http://scp-wiki.net/scp-1143)
 
-[Life in the Multiverse](http://scp-wiki.net/life-in-the-multiverse)
+[A Visitation](http://scp-wiki.net/a-visitation)

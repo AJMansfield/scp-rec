@@ -5,6 +5,6 @@ title: freaky-commodities
 ---
 You may also like:
 
-[Free Freaks](http://scp-wiki.net/free-freaks)
+[Just a Word to Me](http://scp-wiki.net/just-a-word-to-me)
 
-[Domo Arigato](http://scp-wiki.net/domo-arigato)
+[SCP-1840-J: The Hard Sell](http://scp-wiki.net/scp-1840-j)

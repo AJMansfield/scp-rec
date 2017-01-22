@@ -5,6 +5,6 @@ title: secure
 ---
 You may also like:
 
-[I Talked With 516 One Day](http://scp-wiki.net/talked-with-516)
+[SCP-1164: Echoing Epitaph](http://scp-wiki.net/scp-1164)
 
-[CONTAIN](http://scp-wiki.net/contain)
+[SCP-871: Self-Replacing Cake](http://scp-wiki.net/scp-871)

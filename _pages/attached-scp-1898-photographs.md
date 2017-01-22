@@ -5,6 +5,6 @@ title: attached-scp-1898-photographs
 ---
 You may also like:
 
-[Take On Me](http://scp-wiki.net/take-on-me)
+[SCP-253: The Cancer Plague](http://scp-wiki.net/scp-253)
 
-[SCP-2993](http://scp-wiki.net/scp-2993)
+[SCP-1149: Erratic Weather Vane](http://scp-wiki.net/scp-1149)

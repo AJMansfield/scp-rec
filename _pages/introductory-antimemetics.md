@@ -5,6 +5,6 @@ title: introductory-antimemetics
 ---
 You may also like:
 
-[Folly](http://scp-wiki.net/folly)
+[Paddy's Last Jest](http://scp-wiki.net/paddy-s-last-jest)
 
-[Girls' Night Out: Dressing Up](http://scp-wiki.net/dressing-up)
+[SCP-1328: 51st State of Mind](http://scp-wiki.net/scp-1328)

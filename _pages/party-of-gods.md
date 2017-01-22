@@ -5,6 +5,6 @@ title: party-of-gods
 ---
 You may also like:
 
-[SCP-1333-J!](http://scp-wiki.net/scp-1333-j)
+[Alto Clef Jr.: Fins of the Father](http://scp-wiki.net/alto-clef-jr-fins-of-the-father)
 
-[The Human Part of the Equation](http://scp-wiki.net/the-human-part-of-the-equation)
+[SCP-1042: Ghost Stone](http://scp-wiki.net/scp-1042)

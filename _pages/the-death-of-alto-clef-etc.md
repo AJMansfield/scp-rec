@@ -5,6 +5,6 @@ title: the-death-of-alto-clef-etc
 ---
 You may also like:
 
-[SCP-400](http://scp-wiki.net/scp-400)
+[SCP-1833: Class of '76](http://scp-wiki.net/scp-1833)
 
-[Secure Facility Dossier: Site-81](http://scp-wiki.net/secure-facility-dossier-site-81)
+[SCP-340: Viral Rebreather Membrane](http://scp-wiki.net/scp-340)

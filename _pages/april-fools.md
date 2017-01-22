@@ -5,6 +5,6 @@ title: april-fools
 ---
 You may also like:
 
-[SCP-2844](http://scp-wiki.net/scp-2844)
+[SCP-1748: The Dragon's Legacy](http://scp-wiki.net/scp-1748)
 
-[SCP-2975](http://scp-wiki.net/scp-2975)
+[Interlude: An Excerpt](http://scp-wiki.net/board-meeting-transcript)

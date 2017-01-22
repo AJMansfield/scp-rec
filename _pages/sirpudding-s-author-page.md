@@ -5,6 +5,6 @@ title: sirpudding-s-author-page
 ---
 You may also like:
 
-[Dr. Blast's Personnel File](http://scp-wiki.net/dr-blast-s-personnel-file)
+[Retrieval log db/503-b](http://scp-wiki.net/retrieval-log-db-503-b)
 
-[Researcher Robert Sandler](http://scp-wiki.net/personnel-file-of-robert-sandler)
+[News For April 2016](http://scp-wiki.net/news-04-2016)

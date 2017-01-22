@@ -5,6 +5,6 @@ title: an-interview-with-francis-lepage
 ---
 You may also like:
 
-[On The Seventh Day Of Christmas](http://scp-wiki.net/on-the-seventh-day-of-christmas)
+[SCP-039: Proboscis Engineers](http://scp-wiki.net/scp-039)
 
-[Little Ones](http://scp-wiki.net/little-ones)
+[Djoric-Dmatix Proposal: Thirty-Six](http://scp-wiki.net/djoric-dmatix-proposal)

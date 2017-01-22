@@ -5,6 +5,6 @@ title: interval-2
 ---
 You may also like:
 
-[We Need To Talk About Fifty-Five](http://scp-wiki.net/we-need-to-talk-about-fifty-five)
+[Cubes On A Slope](http://scp-wiki.net/cubes-on-a-slope)
 
-[Life Saver](http://scp-wiki.net/life-saver)
+[SCP-2562: RTFM](http://scp-wiki.net/scp-2562)

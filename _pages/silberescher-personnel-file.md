@@ -5,6 +5,6 @@ title: silberescher-personnel-file
 ---
 You may also like:
 
-[Why is Five afraid of Seven?](http://scp-wiki.net/why-is-five-afraid-of-seven)
+[Agent Lament's Personnel File](http://scp-wiki.net/agent-lament-s-personnel-file)
 
-[SCP-505](http://scp-wiki.net/scp-505)
+[SCP-658: "Botflies"](http://scp-wiki.net/scp-658)

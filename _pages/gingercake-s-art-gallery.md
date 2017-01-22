@@ -5,6 +5,6 @@ title: gingercake-s-art-gallery
 ---
 You may also like:
 
-[SunnyClockwork's Artwork - Joke SCPs](http://scp-wiki.net/sunny-art-joke-scps)
+[SCP-466: Mobile Veins](http://scp-wiki.net/scp-466)
 
-[Kens' Artistic Side](http://scp-wiki.net/kens-artistic-side)
+[SCP-1015: Poor Man's Midas](http://scp-wiki.net/scp-1015)

@@ -5,6 +5,6 @@ title: personal-journal-of-douglas-winthrop
 ---
 You may also like:
 
-[SCP-467](http://scp-wiki.net/scp-467)
+[Lowest Rated SCPs](http://scp-wiki.net/lowest-rated-scps)
 
-[SCP-2956](http://scp-wiki.net/scp-2956)
+[SCP-2948: Repeating Bomb](http://scp-wiki.net/scp-2948)

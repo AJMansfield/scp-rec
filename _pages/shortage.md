@@ -5,6 +5,6 @@ title: shortage
 ---
 You may also like:
 
-[SCP-1919](http://scp-wiki.net/scp-1919)
+[The Last Word](http://scp-wiki.net/the-last-word)
 
-[Final Regrets](http://scp-wiki.net/final-regrets)
+[SCP-515: Sleeper](http://scp-wiki.net/scp-515)

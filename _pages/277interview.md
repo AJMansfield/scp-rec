@@ -5,6 +5,6 @@ title: 277interview
 ---
 You may also like:
 
-[Business As Usual](http://scp-wiki.net/business-as-usual)
+[SCP-308: Aztec Burial Sarcophagus](http://scp-wiki.net/scp-308)
 
-[SCP-111-J](http://scp-wiki.net/scp-111-j)
+[Dr. Bridge Over Troubled Water](http://scp-wiki.net/dr-bridge-over-troubled-water)

@@ -5,6 +5,6 @@ title: waffling-about
 ---
 You may also like:
 
-[Charon (Part 2: Katabasis)](http://scp-wiki.net/charon-part-2-katabasis)
+[Stirrings](http://scp-wiki.net/stirrings)
 
-[New Kid on the Block](http://scp-wiki.net/new-kid-on-the-block)
+[Code Brown](http://scp-wiki.net/codebrown)

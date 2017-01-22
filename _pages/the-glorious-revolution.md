@@ -5,6 +5,6 @@ title: the-glorious-revolution
 ---
 You may also like:
 
-[Remember You](http://scp-wiki.net/remember-you)
+[SCP-157: Mimetic Predator](http://scp-wiki.net/scp-157)
 
-[SCP-2273](http://scp-wiki.net/scp-2273)
+[The Guide To Essays](http://scp-wiki.net/the-guide-to-essays)

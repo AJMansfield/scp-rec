@@ -5,6 +5,6 @@ title: have-a-heart
 ---
 You may also like:
 
-[SCP-362](http://scp-wiki.net/scp-362)
+[SCP-2137: The Forensic Ghost Of Tupac Shakur](http://scp-wiki.net/scp-2137)
 
-[Manna](http://scp-wiki.net/manna)
+[Facetious Fanatics](http://scp-wiki.net/facetious-fanatics)

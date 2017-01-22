@@ -5,6 +5,6 @@ title: of-politics
 ---
 You may also like:
 
-[The Beast You've Made Of Me](http://scp-wiki.net/the-beast-you-ve-made-of-me)
+[SCP-2788: God is Red Rich](http://scp-wiki.net/scp-2788)
 
-[Kingdom of Stone: Slay, Cure, Protect](http://scp-wiki.net/kingdom-of-stone-slay-cure-protect)
+[SCP-1761: The Republic of Arnold Fitzwilliams](http://scp-wiki.net/scp-1761)

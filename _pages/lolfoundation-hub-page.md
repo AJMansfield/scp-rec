@@ -5,6 +5,6 @@ title: lolfoundation-hub-page
 ---
 You may also like:
 
-[SCP-1539](http://scp-wiki.net/scp-1539)
+[Dr. Piedmont's Personnel File](http://scp-wiki.net/dr-piedmont-s-personnel-file)
 
-[Happy Howlidays](http://scp-wiki.net/happy-howlidays)
+[SCP-1347-1353-J: What a Pestis](http://scp-wiki.net/scp-1347-1353-j)

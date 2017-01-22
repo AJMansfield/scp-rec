@@ -5,6 +5,6 @@ title: command-performance
 ---
 You may also like:
 
-[SCP-2973](http://scp-wiki.net/scp-2973)
+[SCP-555: Corpse Magnet](http://scp-wiki.net/scp-555)
 
-[Of Able](http://scp-wiki.net/of-able)
+[Active Projects](http://scp-wiki.net/active-projects)

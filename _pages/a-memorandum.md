@@ -5,6 +5,6 @@ title: a-memorandum
 ---
 You may also like:
 
-[Avatara](http://scp-wiki.net/avatara)
+[SCP-339: Be Silent, Be Still](http://scp-wiki.net/scp-339)
 
-[SCP-1115](http://scp-wiki.net/scp-1115)
+[Jack Of Diamonds](http://scp-wiki.net/jackofdiamonds)

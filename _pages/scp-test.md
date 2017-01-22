@@ -5,6 +5,6 @@ title: scp-test
 ---
 You may also like:
 
-[SCP-946](http://scp-wiki.net/scp-946)
+[A Word From The Administrator](http://scp-wiki.net/a-word-from-the-administrator)
 
-[Faith of the Foundation](http://scp-wiki.net/faith-of-the-foundation)
+[Pattern Breaker](http://scp-wiki.net/pattern-breaker)

@@ -5,6 +5,6 @@ title: bugbears
 ---
 You may also like:
 
-[In Harm's Way](http://scp-wiki.net/in-harm-s-way)
+[Research Assistant Arnold Goldsheiner's Personnel File](http://scp-wiki.net/reject)
 
-[Delia](http://scp-wiki.net/delia)
+[Dr.Bleeps Author Page](http://scp-wiki.net/dr-bleeps-author-page)

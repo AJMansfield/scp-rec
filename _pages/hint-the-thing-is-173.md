@@ -5,6 +5,6 @@ title: hint-the-thing-is-173
 ---
 You may also like:
 
-[ORIA MEMORANDUM 0013 REGARDING PROJECT 934](http://scp-wiki.net/oria-memorandum-0013-regarding-project-934)
+[Why is Five afraid of Seven?](http://scp-wiki.net/why-is-five-afraid-of-seven)
 
-[SCP-2899](http://scp-wiki.net/scp-2899)
+[Extended SCP-420-J Experiment Log](http://scp-wiki.net/extended-scp-420-j-experiment-log)

@@ -5,6 +5,6 @@ title: the-settling-ash
 ---
 You may also like:
 
-[Just a Word to Me](http://scp-wiki.net/just-a-word-to-me)
+[Kalinin's Author Page](http://scp-wiki.net/kalinin-s-personnel-file)
 
-[The Written God](http://scp-wiki.net/the-written-god)
+[SCP-1589: Roman Anthropophagus](http://scp-wiki.net/scp-1589)

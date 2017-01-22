@@ -5,6 +5,6 @@ title: 784incident3
 ---
 You may also like:
 
-[SCP-420-J](http://scp-wiki.net/scp-420-j)
+[SCP-298: The Blood Organ](http://scp-wiki.net/scp-298)
 
-[SCP-242](http://scp-wiki.net/scp-242)
+[SCP-1881: Arcade Machine](http://scp-wiki.net/scp-1881)

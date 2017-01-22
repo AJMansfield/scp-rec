@@ -5,6 +5,6 @@ title: the-thing-that-hates
 ---
 You may also like:
 
-[SCP-1911](http://scp-wiki.net/scp-1911)
+[Beneath Two Trees](http://scp-wiki.net/beneath-two-trees)
 
-[SCP-742](http://scp-wiki.net/scp-742)
+[SCP-818-Script](http://scp-wiki.net/scp-818-script)

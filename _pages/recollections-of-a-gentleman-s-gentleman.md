@@ -5,6 +5,6 @@ title: recollections-of-a-gentleman-s-gentleman
 ---
 You may also like:
 
-[Lord Blackwood in the Land of the Unclean](http://scp-wiki.net/lord-blackwood-and-the-land-of-the-unclean)
+[SCP-2088: The MC&D Center](http://scp-wiki.net/scp-2088)
 
-[Antediluvian](http://scp-wiki.net/antediluvian)
+[Document 860-I and II](http://scp-wiki.net/document-860-i-and-ii)

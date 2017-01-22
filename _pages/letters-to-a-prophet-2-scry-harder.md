@@ -5,6 +5,6 @@ title: letters-to-a-prophet-2-scry-harder
 ---
 You may also like:
 
-[SCP-373](http://scp-wiki.net/scp-373)
+[Verse of an Endless Song](http://scp-wiki.net/verse-of-an-endless-song)
 
-[SCP-2851](http://scp-wiki.net/scp-2851)
+[A Very Bailey Christmas](http://scp-wiki.net/a-very-bailey-christmas)

@@ -5,6 +5,6 @@ title: letter-from-the-north
 ---
 You may also like:
 
-[Old Kansas Sector ~ 5: Sinopec Dark](http://scp-wiki.net/old-kansas-sector-part-5)
+[Secure Facilities Locations](http://scp-wiki.net/secure-facilities-locations-arc)
 
-[SCP-1960](http://scp-wiki.net/scp-1960)
+[SCP-2737: A Dead Lamprey](http://scp-wiki.net/scp-2737)

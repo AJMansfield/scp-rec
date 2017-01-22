@@ -5,6 +5,6 @@ title: jth
 ---
 You may also like:
 
-[Consolidation](http://scp-wiki.net/consolidation)
+[Ihp's Author Page](http://scp-wiki.net/ihp-s-author-page)
 
-[Realignment](http://scp-wiki.net/realignment)
+[Prof. C. Tagliafierro's Personnel File](http://scp-wiki.net/fool-triumphant-part-1)

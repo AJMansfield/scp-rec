@@ -5,6 +5,6 @@ title: vescatur-perago
 ---
 You may also like:
 
-[Incident Report KAF-09](http://scp-wiki.net/incident-report-kaf-09)
+[SCP-2370: Undo It, Retry It](http://scp-wiki.net/scp-2370)
 
-[SCP-1155](http://scp-wiki.net/scp-1155)
+[SCP-732-J: Tiny Ceramic Seahorse](http://scp-wiki.net/scp-732-j)

@@ -5,6 +5,6 @@ title: up-to-no-good
 ---
 You may also like:
 
-[SCP-1286](http://scp-wiki.net/scp-1286)
+[SCP-1548: The Hateful Star](http://scp-wiki.net/scp-1548)
 
-[Tales From the Bright Side Chapter 1.5](http://scp-wiki.net/tales-from-the-bright-side-chapter-1-5)
+[SCP-1075: The Forest Normally Known as Vince](http://scp-wiki.net/scp-1075)

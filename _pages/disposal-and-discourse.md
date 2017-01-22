@@ -5,6 +5,6 @@ title: disposal-and-discourse
 ---
 You may also like:
 
-[Shady Meetings](http://scp-wiki.net/shady-meetings)
+[SCP-2603: Its Maiden Voyage](http://scp-wiki.net/scp-2603)
 
-[SCP-2102](http://scp-wiki.net/scp-2102)
+[SCP-2508: The Long Wait](http://scp-wiki.net/scp-2508)

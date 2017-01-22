@@ -5,6 +5,6 @@ title: along-came-a-spider
 ---
 You may also like:
 
-[Skin Deep](http://scp-wiki.net/skin-deep)
+[Wednesday - 4](http://scp-wiki.net/wednesday-4)
 
-[Gotham's Strangest Criminal](http://scp-wiki.net/batman-s-newest-threat)
+[SCP-407: The Song of Genesis](http://scp-wiki.net/scp-407)

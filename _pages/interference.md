@@ -5,6 +5,6 @@ title: interference
 ---
 You may also like:
 
-[Birthday Every Day](http://scp-wiki.net/birthday-every-day)
+[SCP-1738: Phobia Sampler](http://scp-wiki.net/scp-1738)
 
-[No Joke](http://scp-wiki.net/no-joke)
+[SCP-1688: Brain Storm](http://scp-wiki.net/scp-1688)

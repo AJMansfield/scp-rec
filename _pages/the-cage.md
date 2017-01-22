@@ -5,6 +5,6 @@ title: the-cage
 ---
 You may also like:
 
-[Oricha's Folly](http://scp-wiki.net/oricha-s-folly)
+[Ineffective](http://scp-wiki.net/ineffective)
 
-[SCP-1087](http://scp-wiki.net/scp-1087)
+[The Last Site](http://scp-wiki.net/the-last-site)

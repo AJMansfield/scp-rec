@@ -5,6 +5,6 @@ title: the-lord-of-endowments
 ---
 You may also like:
 
-[Avatara](http://scp-wiki.net/avatara)
+[Ask Lord Blackwood](http://scp-wiki.net/ask-lord-blackwood)
 
-[To Be Noir Not To Be](http://scp-wiki.net/to-be-noir-not-to-be)
+[SCP-1231: The Theoretical Family](http://scp-wiki.net/scp-1231)

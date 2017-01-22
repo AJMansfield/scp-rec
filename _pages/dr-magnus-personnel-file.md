@@ -5,6 +5,6 @@ title: dr-magnus-personnel-file
 ---
 You may also like:
 
-[SCP-2888](http://scp-wiki.net/scp-2888)
+[Kain Pathos Crow's Author Page](http://scp-wiki.net/kain-pathos-crow-s-author-page)
 
-[Just A Formality](http://scp-wiki.net/just-a-formality)
+[Researcher Voct's personnel file](http://scp-wiki.net/researcher-voct-s-personnel-file)

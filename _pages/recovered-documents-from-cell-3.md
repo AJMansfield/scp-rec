@@ -5,6 +5,6 @@ title: recovered-documents-from-cell-3
 ---
 You may also like:
 
-[Routine Psychological Evaluations By Dr Glass](http://scp-wiki.net/routine-psychological-evaluations-by-dr-glass)
+[The Reassembled One](http://scp-wiki.net/the-reassembled-one)
 
-[Picking](http://scp-wiki.net/picking)
+[Excerpts From The Medical Tragedy of Dr. Bartholomew Artz, Author Unknown](http://scp-wiki.net/excerpts-from-the-medical-tragedy-of-dr-bartholomew-artz-aut)

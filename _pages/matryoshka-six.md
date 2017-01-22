@@ -5,6 +5,6 @@ title: matryoshka-six
 ---
 You may also like:
 
-[Matryoshka: Part Two](http://scp-wiki.net/matryoshka-two)
+[SCP-575: Predatory Darkness](http://scp-wiki.net/scp-575)
 
-[Matryoshka: Part Five](http://scp-wiki.net/matryoshka-five)
+[Dr Clef's Proposal: The Gate Guardian](http://scp-wiki.net/dr-clef-s-proposal)

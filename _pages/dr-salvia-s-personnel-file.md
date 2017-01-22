@@ -5,6 +5,6 @@ title: dr-salvia-s-personnel-file
 ---
 You may also like:
 
-[SCP-1531](http://scp-wiki.net/scp-1531)
+[Rabbit Hole In Time Lapse](http://scp-wiki.net/rabbit-hole-in-time-lapse)
 
-[SCP-1013](http://scp-wiki.net/scp-1013)
+[SCP-2460: Dark Satellite](http://scp-wiki.net/scp-2460)

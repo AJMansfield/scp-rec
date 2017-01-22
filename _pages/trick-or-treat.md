@@ -5,6 +5,6 @@ title: trick-or-treat
 ---
 You may also like:
 
-[Relationskips](http://scp-wiki.net/relationskips)
+[Fear Not](http://scp-wiki.net/fear-not)
 
-[Property Values](http://scp-wiki.net/property-values)
+[Agent Imants Plumbing Pool Repair And Pizza Delivery Service](http://scp-wiki.net/agent-imants-plumbing-pool-repair-and-pizza-delivery-service)

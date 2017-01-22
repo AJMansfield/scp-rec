@@ -5,6 +5,6 @@ title: life-and-death
 ---
 You may also like:
 
-[SCP-429](http://scp-wiki.net/scp-429)
+[SCP-138: The Ever-Living Man](http://scp-wiki.net/scp-138)
 
-[SCP-1776](http://scp-wiki.net/scp-1776)
+[Observations](http://scp-wiki.net/observations)

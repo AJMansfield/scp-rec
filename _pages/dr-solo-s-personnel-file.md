@@ -5,6 +5,6 @@ title: dr-solo-s-personnel-file
 ---
 You may also like:
 
-[Researcher Robert Sandler](http://scp-wiki.net/personnel-file-of-robert-sandler)
+[Her Inveterate Patience At Action](http://scp-wiki.net/her-inveterate-patience-in-action)
 
-[psul's Author Page](http://scp-wiki.net/psuls-author-page)
+[SCP-1488: Partially Roboticized Tortoises](http://scp-wiki.net/scp-1488)

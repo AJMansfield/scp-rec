@@ -5,6 +5,6 @@ title: a-jester-s-tale
 ---
 You may also like:
 
-[Daylight Come](http://scp-wiki.net/daylight-come)
+[SCP-1173: The Islamic Republic of Eastern Samothrace](http://scp-wiki.net/scp-1173)
 
-[Our Mutual Guide](http://scp-wiki.net/our-mutual-guide)
+[A Very Bailey Christmas](http://scp-wiki.net/a-very-bailey-christmas)

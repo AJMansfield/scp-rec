@@ -5,6 +5,6 @@ title: uglyflower-author-page
 ---
 You may also like:
 
-[Fritzwillie's Author Page](http://scp-wiki.net/fritzwillie-s-author-page)
+[SCP-2211: A .wmv, a .wav, an .exe, and a Coffee Machine](http://scp-wiki.net/scp-2211)
 
-[Research Assistant Corbette's Personnel File](http://scp-wiki.net/salman-corbette-personnel-file)
+[SCP-1981: "RONALD REAGAN CUT UP WHILE TALKING"](http://scp-wiki.net/scp-1981)

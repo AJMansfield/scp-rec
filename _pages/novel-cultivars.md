@@ -5,6 +5,6 @@ title: novel-cultivars
 ---
 You may also like:
 
-[And Then What Happened?](http://scp-wiki.net/and-then-what-happened)
+[SCP-2900: Nobody gets left behind](http://scp-wiki.net/scp-2900)
 
-[Quintessence Of Dust](http://scp-wiki.net/quintessence-of-dust)
+[Tolerance](http://scp-wiki.net/tolerance)

@@ -5,6 +5,6 @@ title: stealingsolidarityphase1
 ---
 You may also like:
 
-[Fire on the Horizon](http://scp-wiki.net/fire-on-the-horizon)
+[SCP-2804: Fire and Forget](http://scp-wiki.net/scp-2804)
 
-[SCP-8900-EX](http://scp-wiki.net/scp-8900-ex)
+[SCP-1175: Bovine Icon and Guards](http://scp-wiki.net/scp-1175)

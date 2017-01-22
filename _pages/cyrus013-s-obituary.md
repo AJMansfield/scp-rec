@@ -5,6 +5,6 @@ title: cyrus013-s-obituary
 ---
 You may also like:
 
-[SCP-539](http://scp-wiki.net/scp-539)
+[SCP-388: Ultimate Frisbee](http://scp-wiki.net/scp-388)
 
-[SCP-2182](http://scp-wiki.net/scp-2182)
+[SCP-1426: Planetary Core Drill Bits](http://scp-wiki.net/scp-1426)

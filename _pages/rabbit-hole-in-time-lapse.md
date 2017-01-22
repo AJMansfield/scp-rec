@@ -5,6 +5,6 @@ title: rabbit-hole-in-time-lapse
 ---
 You may also like:
 
-[No More Dull Days](http://scp-wiki.net/no-more-dull-days)
+[A Slumber Did My Spirit Seal](http://scp-wiki.net/a-slumber-did-my-spirit-seal)
 
-[SCP-996](http://scp-wiki.net/scp-996)
+[Dr. Salvia's Personnel File](http://scp-wiki.net/dr-salvia-s-personnel-file)

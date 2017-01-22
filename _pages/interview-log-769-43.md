@@ -5,6 +5,6 @@ title: interview-log-769-43
 ---
 You may also like:
 
-[SCP-2490](http://scp-wiki.net/scp-2490)
+[SCP-2103-J: "Hatbot"](http://scp-wiki.net/scp-2103-j)
 
-[SCP-2553](http://scp-wiki.net/scp-2553)
+[Crack Fiction Contest (ONE DAY ONLY!)](http://scp-wiki.net/an-incredibly-important-announcement)

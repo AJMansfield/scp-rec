@@ -5,6 +5,6 @@ title: cave-paintings
 ---
 You may also like:
 
-[SCP-1591](http://scp-wiki.net/scp-1591)
+[SCP-022: The Morgue](http://scp-wiki.net/scp-022)
 
-[He Was Blind and Deaf on a Sunny Day](http://scp-wiki.net/he-was-blind-and-deaf-on-a-sunny-day)
+[SCP-1474: In Solidarity with Xiu Lidao, Great Sage, Equal of Heaven](http://scp-wiki.net/scp-1474)

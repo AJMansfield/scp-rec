@@ -5,6 +5,6 @@ title: on-seabirds-and-sleep
 ---
 You may also like:
 
-[Pawn To E4](http://scp-wiki.net/pawn-to-e4)
+[Rhett Sarlin's Personnel File](http://scp-wiki.net/rhettsarlins-personnel-file)
 
-[Castling By Hand](http://scp-wiki.net/castling-by-hand)
+[SCP-1760: Casket Garden](http://scp-wiki.net/scp-1760)

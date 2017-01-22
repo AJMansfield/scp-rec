@@ -5,6 +5,6 @@ title: sperling-computer-protection-services-i
 ---
 You may also like:
 
-[Protect](http://scp-wiki.net/protect)
+[SCP-983: The Birthday Monkey](http://scp-wiki.net/scp-983)
 
-[Remembrance Of Walking](http://scp-wiki.net/remembrance-of-walking)
+[SCP-1377: Automaton Parliament](http://scp-wiki.net/scp-1377)

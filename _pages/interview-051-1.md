@@ -5,6 +5,6 @@ title: interview-051-1
 ---
 You may also like:
 
-[Interview Log 2422-2](http://scp-wiki.net/interview-log-2422-2)
+[I Thought You Died Alone](http://scp-wiki.net/i-thought-you-died-alone)
 
-[SCP-1732](http://scp-wiki.net/scp-1732)
+[An Interview With Francis Lepage](http://scp-wiki.net/an-interview-with-francis-lepage)

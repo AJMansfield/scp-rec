@@ -5,6 +5,6 @@ title: you-and-me
 ---
 You may also like:
 
-[Rain Leaking Through A Vendor's Roof](http://scp-wiki.net/the-rain-spills-to-a-torrent-can-you-hear-it)
+[Compromised](http://scp-wiki.net/compromised)
 
-[SCP-1864](http://scp-wiki.net/scp-1864)
+[Eta-5 and the Terrible, Horrible, No Good, Very Bad Origamizilla](http://scp-wiki.net/eta-5-and-the-terrible-horrible-no-good-very-bad-oragamizill)

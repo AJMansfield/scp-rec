@@ -5,6 +5,6 @@ title: the-last-best-hope
 ---
 You may also like:
 
-[SCP-2217](http://scp-wiki.net/scp-2217)
+[SCP-4590-J: Japucha](http://scp-wiki.net/scp-4590-j)
 
-[Audio/Telemetry Log Epsilon-12-1555](http://scp-wiki.net/transcript-epsilon-12-1555)
+[Di Molte Voci](http://scp-wiki.net/scp-2864)

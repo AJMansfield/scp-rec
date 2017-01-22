@@ -5,6 +5,6 @@ title: the-black-queen
 ---
 You may also like:
 
-[SCP-2147](http://scp-wiki.net/scp-2147)
+[SCP-239: The Witch Child](http://scp-wiki.net/scp-239)
 
-[Trip Hammer](http://scp-wiki.net/trip-hammer)
+[Work Journal 2](http://scp-wiki.net/work-journal-2)

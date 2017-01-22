@@ -5,6 +5,6 @@ title: extended-scp-420-j-experiment-log
 ---
 You may also like:
 
-[SCP-1038](http://scp-wiki.net/scp-1038)
+[SCP-439: Bone Hive](http://scp-wiki.net/scp-439)
 
-[Webs](http://scp-wiki.net/webs)
+[SCP-956: The Child-Breaker](http://scp-wiki.net/scp-956)

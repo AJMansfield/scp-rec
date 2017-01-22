@@ -5,6 +5,6 @@ title: reservoir-skips
 ---
 You may also like:
 
-[Faith](http://scp-wiki.net/faith)
+[SCP-1223: Photographic Memory](http://scp-wiki.net/scp-1223)
 
-[SCP-3V1L-J](http://scp-wiki.net/scp-3v1l-j)
+[SCP-2500: A Higher Purpose](http://scp-wiki.net/scp-2500)

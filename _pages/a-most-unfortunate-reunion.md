@@ -5,6 +5,6 @@ title: a-most-unfortunate-reunion
 ---
 You may also like:
 
-[SCP-682-J James' Coloring Book](http://scp-wiki.net/scp-682-j-james-coloring-book)
+[SCP 2413 - Decontamination Document](http://scp-wiki.net/decontamination-document-0094)
 
-[Anachronisms](http://scp-wiki.net/anachronisms)
+[SCP-1817: It is a Mist Eerie](http://scp-wiki.net/scp-1817)

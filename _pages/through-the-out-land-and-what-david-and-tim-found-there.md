@@ -5,6 +5,6 @@ title: through-the-out-land-and-what-david-and-tim-found-there
 ---
 You may also like:
 
-[Anachronisms](http://scp-wiki.net/anachronisms)
+[The Deep End](http://scp-wiki.net/the-deep-end)
 
-[Worst Case Scenario](http://scp-wiki.net/worst-case-scenario)
+[How to create a branch of the SCP-Foundation](http://scp-wiki.net/how-to-create-a-branch-of-the-scp-foundation)

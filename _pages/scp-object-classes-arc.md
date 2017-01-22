@@ -5,6 +5,6 @@ title: scp-object-classes-arc
 ---
 You may also like:
 
-[Kriegspiel](http://scp-wiki.net/kriegspiel)
+[First CETRes Donation](http://scp-wiki.net/1st-cetres-donation)
 
-[SCP-2763](http://scp-wiki.net/scp-2763)
+[SCP-458: The Never-Ending Pizza Box](http://scp-wiki.net/scp-458)

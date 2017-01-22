@@ -5,6 +5,6 @@ title: gamedayindex
 ---
 You may also like:
 
-[Game Day, Phase 2: Contain](http://scp-wiki.net/gamedaypart2index)
+[Sparks Of Creativity](http://scp-wiki.net/sparks-of-creativity)
 
-[Game Day, Phase 3: Protect](http://scp-wiki.net/gamedaypart3index)
+[SCP-236: Mimic "Crabs"](http://scp-wiki.net/scp-236)

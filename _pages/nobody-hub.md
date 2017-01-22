@@ -5,6 +5,6 @@ title: nobody-hub
 ---
 You may also like:
 
-[Marshall, Carter and Dark Hub](http://scp-wiki.net/marshall-carter-and-dark-hub)
+[Every Damn Time](http://scp-wiki.net/every-damn-time)
 
-[SCP-2193](http://scp-wiki.net/scp-2193)
+[SCP-220: Two's Company](http://scp-wiki.net/scp-220)

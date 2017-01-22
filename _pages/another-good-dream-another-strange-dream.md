@@ -5,6 +5,6 @@ title: another-good-dream-another-strange-dream
 ---
 You may also like:
 
-[Midnight Parade](http://scp-wiki.net/midnight-parade)
+[SCP-650: Startling Statue](http://scp-wiki.net/scp-650)
 
-[Victims](http://scp-wiki.net/victims)
+[When We Came Home](http://scp-wiki.net/when-we-came-home)

@@ -5,6 +5,6 @@ title: sotmhub
 ---
 You may also like:
 
-[Final Attack Orders](http://scp-wiki.net/final-attack-orders)
+[A Lack Of Proper Procedure](http://scp-wiki.net/a-lack-of-proper-procedure)
 
-[SCP-1869](http://scp-wiki.net/scp-1869)
+[Contact Staff](http://scp-wiki.net/contact-staff)

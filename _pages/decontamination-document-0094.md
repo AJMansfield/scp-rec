@@ -5,6 +5,6 @@ title: decontamination-document-0094
 ---
 You may also like:
 
-[SCP-2618](http://scp-wiki.net/scp-2618)
+[SCP-2236: Optical Instrument](http://scp-wiki.net/scp-2236)
 
-[SCP-826](http://scp-wiki.net/scp-826)
+[SCP-1817: It is a Mist Eerie](http://scp-wiki.net/scp-1817)

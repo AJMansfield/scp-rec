@@ -5,6 +5,6 @@ title: sweetness
 ---
 You may also like:
 
-[In His Own Image: Part 7](http://scp-wiki.net/in-his-own-image-part-7)
+[Secure Facilities Locations](http://scp-wiki.net/secure-facilities-locations-arc)
 
-[Feverish](http://scp-wiki.net/feverish)
+[The Cool War](http://scp-wiki.net/the-cool-war-hub)

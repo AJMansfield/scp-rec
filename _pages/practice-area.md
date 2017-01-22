@@ -5,6 +5,6 @@ title: practice-area
 ---
 You may also like:
 
-[SCP-1167](http://scp-wiki.net/scp-1167)
+[WrongJohnSilver's Author Page](http://scp-wiki.net/wrongjohnsilver-s-author-page)
 
-[Tale of 13](http://scp-wiki.net/taleof13)
+[SCP-1074: Stendhal's Nightmare](http://scp-wiki.net/scp-1074)

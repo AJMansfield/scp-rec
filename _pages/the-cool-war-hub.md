@@ -5,6 +5,6 @@ title: the-cool-war-hub
 ---
 You may also like:
 
-[And Then What Happened?](http://scp-wiki.net/and-then-what-happened)
+[Most Recently Edited](http://scp-wiki.net/most-recently-edited)
 
-[Quintessence Of Dust](http://scp-wiki.net/quintessence-of-dust)
+[Novel Cultivars](http://scp-wiki.net/novel-cultivars)

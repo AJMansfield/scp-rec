@@ -5,6 +5,6 @@ title: dr-gears-s-proposal
 ---
 You may also like:
 
-[In His Own Image: Part 5](http://scp-wiki.net/in-his-own-image-part-5)
+[SCP-1270: Man with a Gun](http://scp-wiki.net/scp-1270)
 
-[Lost Golden Days](http://scp-wiki.net/lost-golden-days)
+[A Brief History Of SCP-RU](http://scp-wiki.net/a-brief-history-of-scp-ru)

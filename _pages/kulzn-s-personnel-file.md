@@ -5,6 +5,6 @@ title: kulzn-s-personnel-file
 ---
 You may also like:
 
-[Dr. Fisher's Personnel File](http://scp-wiki.net/dr-fisher-s-personnel-file)
+[SCP-762: Immortal Iron Maiden](http://scp-wiki.net/scp-762)
 
-[SCP-702](http://scp-wiki.net/scp-702)
+[Incident Report Yersinia 047-01 (2010)](http://scp-wiki.net/incident-report-yersinia-047-01-2010)

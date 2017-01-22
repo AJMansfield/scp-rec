@@ -5,6 +5,6 @@ title: rubber-summer
 ---
 You may also like:
 
-[SCP Foundation The Movie 2: Electric Boogaloo](http://scp-wiki.net/scp-foundation-the-movie-2)
+[SCP-2968: Predatory Bus-iness Practices](http://scp-wiki.net/scp-2968)
 
-[Not To Disappear - 2](http://scp-wiki.net/not-to-disappear-2)
+[SCP-250: Most of an Allosaurus](http://scp-wiki.net/scp-250)

@@ -5,6 +5,6 @@ title: play
 ---
 You may also like:
 
-[SCP-2405](http://scp-wiki.net/scp-2405)
+[SCP-278: A Large Mechanical Spider](http://scp-wiki.net/scp-278)
 
-[LTE-2712-Bosch](http://scp-wiki.net/lte-2712-bosch)
+[Old Kansas Sector ~ 11: Intermission](http://scp-wiki.net/old-kansas-sector-part-11)

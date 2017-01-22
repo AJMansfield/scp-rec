@@ -5,6 +5,6 @@ title: jacob-001-txt
 ---
 You may also like:
 
-[Interview Log 2422-2](http://scp-wiki.net/interview-log-2422-2)
+[SCP-2103-J: "Hatbot"](http://scp-wiki.net/scp-2103-j)
 
-[Interview 882-1](http://scp-wiki.net/interview-882-1)
+[Sixteenth Wondertainment Donation](http://scp-wiki.net/16th-wondertainment-donation)

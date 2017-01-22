@@ -5,6 +5,6 @@ title: funfiction
 ---
 You may also like:
 
-[SCP-2314](http://scp-wiki.net/scp-2314)
+[The Manager](http://scp-wiki.net/the-manager)
 
-[Codename: Green King HUB](http://scp-wiki.net/codename-green-king-hub)
+[SCP-2160: The Happy Place](http://scp-wiki.net/scp-2160)

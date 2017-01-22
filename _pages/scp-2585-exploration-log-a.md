@@ -5,6 +5,6 @@ title: scp-2585-exploration-log-a
 ---
 You may also like:
 
-[SCP-947](http://scp-wiki.net/scp-947)
+[SCP-1534: A Leafy Lammergeier](http://scp-wiki.net/scp-1534)
 
-[SCP-432 Expedition 5](http://scp-wiki.net/scp-432-expedition-5)
+[SCP-2860: Made of Stone](http://scp-wiki.net/scp-2860)

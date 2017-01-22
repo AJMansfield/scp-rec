@@ -5,6 +5,6 @@ title: not-enough-characters
 ---
 You may also like:
 
-[Experiment Log 158 AG](http://scp-wiki.net/experiment-log-158-ag)
+[I Hope That I Get Old Before I Die](http://scp-wiki.net/i-hope-that-i-get-old-before-i-die)
 
-[SCP-1140](http://scp-wiki.net/scp-1140)
+[Successful Cooperation And Partnership](http://scp-wiki.net/successful-cooperation-and-partnership)

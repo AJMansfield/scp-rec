@@ -5,6 +5,6 @@ title: in-his-own-image-epilogue
 ---
 You may also like:
 
-[In His Own Image: Part 3](http://scp-wiki.net/in-his-own-image-part-3)
+[SCP-922: Another Version of the Truth](http://scp-wiki.net/scp-922)
 
-[In His Own Image: Interlude 2](http://scp-wiki.net/in-his-own-image-interlude-2)
+[SCP-617: Pet Rocks](http://scp-wiki.net/scp-617)

@@ -5,6 +5,6 @@ title: catch-your-death
 ---
 You may also like:
 
-[The Day the Clown Cried](http://scp-wiki.net/the-day-the-clown-cried)
+[SCP-2801: A Dress-Up Box](http://scp-wiki.net/scp-2801)
 
-[SCP-1666](http://scp-wiki.net/scp-1666)
+[Blood, Sweat, and Beers](http://scp-wiki.net/blood-sweat-and-beers)

@@ -5,6 +5,6 @@ title: n
 ---
 You may also like:
 
-[SCP-744-ARC](http://scp-wiki.net/scp-744-arc)
+[SCP-1869: The Silence of the Forest](http://scp-wiki.net/scp-1869)
 
-[Incident 0401-42-III - 'Chornobylska Katastrofa'](http://scp-wiki.net/incident-0401-42-iii-chornobylska-katastrofa)
+[SCP-000](http://scp-wiki.net/scp-000)

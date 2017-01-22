@@ -5,6 +5,6 @@ title: scp-1023-arc
 ---
 You may also like:
 
-[SCP-2487](http://scp-wiki.net/scp-2487)
+[Duke 'till Dawn](http://scp-wiki.net/duke-till-dawn)
 
-[Once But Not Now](http://scp-wiki.net/once-but-not-now)
+[SCP-1779: Dime Consumers](http://scp-wiki.net/scp-1779)

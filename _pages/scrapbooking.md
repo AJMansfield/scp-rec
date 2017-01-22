@@ -5,6 +5,6 @@ title: scrapbooking
 ---
 You may also like:
 
-[Pilgrimage](http://scp-wiki.net/pilgrimage)
+[The Red Horse (The Ironic Metaphor)](http://scp-wiki.net/the-red-horse)
 
-[SCP-2012](http://scp-wiki.net/scp-2012)
+[Surprise! Happy Birthday! Now, see here...](http://scp-wiki.net/surprise-happy-birthday-5)

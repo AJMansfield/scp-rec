@@ -5,6 +5,6 @@ title: memory-of-days-long-past
 ---
 You may also like:
 
-[Lana Neal Sings the Blues](http://scp-wiki.net/lana-neal-sings-the-blues)
+[Dr. "Tall Fellow" Donohue's Personnel File](http://scp-wiki.net/martin-tall-fellow-donohue)
 
-[Alone](http://scp-wiki.net/alone)
+[anqxyr](http://scp-wiki.net/anqxyr)

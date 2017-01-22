@@ -5,6 +5,6 @@ title: realignment
 ---
 You may also like:
 
-[Consolidation](http://scp-wiki.net/consolidation)
+[SCP-946: A Formal Discussion](http://scp-wiki.net/scp-946)
 
-[The Templar Incident](http://scp-wiki.net/the-templar-incident)
+[Conspiracy, Part VII](http://scp-wiki.net/conspiracy-part-vii)

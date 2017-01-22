@@ -5,6 +5,6 @@ title: pitch-haven-hub
 ---
 You may also like:
 
-[Fire on the Horizon](http://scp-wiki.net/fire-on-the-horizon)
+[SCP-1727: Auto-Heaven](http://scp-wiki.net/scp-1727)
 
-[SunnyClockwork's Artwork - Joke SCPs](http://scp-wiki.net/sunny-art-joke-scps)
+[SCP-2764: The Eldritch Antarctic](http://scp-wiki.net/scp-2764)

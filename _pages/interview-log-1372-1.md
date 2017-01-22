@@ -5,6 +5,6 @@ title: interview-log-1372-1
 ---
 You may also like:
 
-[SCP-1220](http://scp-wiki.net/scp-1220)
+[SCP-2969: In Your Own Words](http://scp-wiki.net/scp-2969)
 
-[Virgil the Goldfish's Big Day Out](http://scp-wiki.net/something-s-a-bit-fishy-about-all-this)
+[Last Plane Out of the South](http://scp-wiki.net/last-plane-out-of-the-south)

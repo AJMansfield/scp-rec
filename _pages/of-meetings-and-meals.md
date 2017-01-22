@@ -5,6 +5,6 @@ title: of-meetings-and-meals
 ---
 You may also like:
 
-[SCP-055](http://scp-wiki.net/scp-055)
+[Bal-chatri](http://scp-wiki.net/bal-chatri)
 
-[Endless Hunt Part Five: The Prisoner](http://scp-wiki.net/ofanendlesshunt-partfive-theprisoner)
+[Experiment Log 1250](http://scp-wiki.net/experiment-log-1250)

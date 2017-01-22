@@ -5,6 +5,6 @@ title: the-woodvale-incident
 ---
 You may also like:
 
-[Psychiatric Profile For Researcher Lee Byron](http://scp-wiki.net/psychiatric-profile-for-researcher-lee-byron)
+[SCP-952: Jack Of Hearts](http://scp-wiki.net/scp-952)
 
-[Once But Not Now](http://scp-wiki.net/once-but-not-now)
+[A Eulogic Elegy For The Dreams](http://scp-wiki.net/we-never-wanted-things-to-come-to-this)

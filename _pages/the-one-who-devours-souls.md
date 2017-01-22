@@ -5,6 +5,6 @@ title: the-one-who-devours-souls
 ---
 You may also like:
 
-[SCP-110](http://scp-wiki.net/scp-110)
+[More than Ever](http://scp-wiki.net/more-than-ever)
 
-[SunnyClockwork's Artwork - Groups of Interest](http://scp-wiki.net/sunny-art-goi)
+[Rascal One Actual](http://scp-wiki.net/rascal-one-actual)

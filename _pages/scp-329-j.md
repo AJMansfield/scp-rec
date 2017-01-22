@@ -5,6 +5,6 @@ title: scp-329-j
 ---
 You may also like:
 
-[SCP-2395](http://scp-wiki.net/scp-2395)
+[SCP-961: University Sundial](http://scp-wiki.net/scp-961)
 
-[SCP-1119](http://scp-wiki.net/scp-1119)
+[Old Faithful](http://scp-wiki.net/old-faithful)

@@ -5,6 +5,6 @@ title: collecting
 ---
 You may also like:
 
-[SCP-1197](http://scp-wiki.net/scp-1197)
+[Clinical Tone: Declassified](http://scp-wiki.net/clinical-tone-declassified)
 
-[Unfinished Business](http://scp-wiki.net/unfinished-business)
+[SCP-423: Self-Inserting Character](http://scp-wiki.net/scp-423)

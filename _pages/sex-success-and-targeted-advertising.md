@@ -5,6 +5,6 @@ title: sex-success-and-targeted-advertising
 ---
 You may also like:
 
-[SCP-093 'Yellow' Test](http://scp-wiki.net/scp-093-yellow-test)
+[Dial S For SCP](http://scp-wiki.net/dial-s-for-scp)
 
-[Peanuts](http://scp-wiki.net/peanuts)
+[Show You What All That Howl Is For](http://scp-wiki.net/show-you-what-all-that-howl-is-for)

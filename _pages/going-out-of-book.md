@@ -5,6 +5,6 @@ title: going-out-of-book
 ---
 You may also like:
 
-[SCP-1745](http://scp-wiki.net/scp-1745)
+[Lullaby](http://scp-wiki.net/lullaby)
 
-[Cassandra](http://scp-wiki.net/cassandra)
+[SCP-648: The Labyrinth](http://scp-wiki.net/scp-648)

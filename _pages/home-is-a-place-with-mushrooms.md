@@ -5,6 +5,6 @@ title: home-is-a-place-with-mushrooms
 ---
 You may also like:
 
-[Dr. Roget's Personnel File](http://scp-wiki.net/dr-rogets-file)
+[Work Journal 2 Cont](http://scp-wiki.net/work-journal-2-cont)
 
-[SCP-2437](http://scp-wiki.net/scp-2437)
+[SyFy Channel Presents: BEARMAGGEDON!!!](http://scp-wiki.net/syfy-channel-presents-bearmaggedon)

@@ -5,6 +5,6 @@ title: the-interview
 ---
 You may also like:
 
-[SCP-2162](http://scp-wiki.net/scp-2162)
+[SCP-221: Compulsion Tweezers](http://scp-wiki.net/scp-221)
 
-[SCP-WTF-J](http://scp-wiki.net/scp-wtf-j)
+[SCP-093 'Violet' Test](http://scp-wiki.net/scp-093-violet-test)

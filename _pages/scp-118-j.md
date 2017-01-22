@@ -5,6 +5,6 @@ title: scp-118-j
 ---
 You may also like:
 
-[SCP-1317](http://scp-wiki.net/scp-1317)
+[The Clock Shall Strike Again](http://scp-wiki.net/the-clock-shall-strike-again)
 
-["I Quit."](http://scp-wiki.net/iquit)
+[SCP-CCG](http://scp-wiki.net/scp-ccg)

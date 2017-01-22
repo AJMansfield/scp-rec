@@ -5,6 +5,6 @@ title: business-as-usual
 ---
 You may also like:
 
-[SCP-9005-2](http://scp-wiki.net/scp-9005-2)
+[SCP-109: Infinite Canteen](http://scp-wiki.net/scp-109)
 
-[Interview 277-A](http://scp-wiki.net/277interview)
+[SCP-264: Skeleton Temple](http://scp-wiki.net/scp-264)

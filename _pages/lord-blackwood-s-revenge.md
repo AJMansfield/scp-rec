@@ -5,6 +5,6 @@ title: lord-blackwood-s-revenge
 ---
 You may also like:
 
-[Waxx's entry](http://scp-wiki.net/waxxentry)
+[Tabled Theories](http://scp-wiki.net/tabled-theories)
 
-[Walk in the Park](http://scp-wiki.net/walk-in-the-park)
+[After The End](http://scp-wiki.net/after-the-end)

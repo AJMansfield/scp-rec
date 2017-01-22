@@ -5,6 +5,6 @@ title: 784incident1
 ---
 You may also like:
 
-[The Lockdown - Introduction](http://scp-wiki.net/the-lockdown)
+[SCP-1411: Mirror, Mirror](http://scp-wiki.net/scp-1411)
 
-[SCP-916](http://scp-wiki.net/scp-916)
+[Conversation 1: Omicron](http://scp-wiki.net/conversation-1-omicron)

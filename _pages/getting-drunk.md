@@ -5,6 +5,6 @@ title: getting-drunk
 ---
 You may also like:
 
-[SCP-017](http://scp-wiki.net/scp-017)
+[History Of The Universe: Part One](http://scp-wiki.net/history-of-the-universe-part-one)
 
-[SCP-1623](http://scp-wiki.net/scp-1623)
+[Last Days at Camp](http://scp-wiki.net/last-days-at-camp)

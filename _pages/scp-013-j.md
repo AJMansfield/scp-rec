@@ -5,6 +5,6 @@ title: scp-013-j
 ---
 You may also like:
 
-[Project Proposal 2014-2112: "Dreams of Failure"](http://scp-wiki.net/project-proposal-2014-2112)
+[SCP-2667: The Sightseers of Provence](http://scp-wiki.net/scp-2667)
 
-[The Cage](http://scp-wiki.net/the-cage)
+[My Dearest Mary](http://scp-wiki.net/my-dearest-mary)

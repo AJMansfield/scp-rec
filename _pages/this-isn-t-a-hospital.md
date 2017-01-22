@@ -5,6 +5,6 @@ title: this-isn-t-a-hospital
 ---
 You may also like:
 
-[SCP-1537](http://scp-wiki.net/scp-1537)
+[Green Pawn](http://scp-wiki.net/green-pawn)
 
-[SCP-2929](http://scp-wiki.net/scp-2929)
+[SCP-903: Tunnel of Infinite Possibility](http://scp-wiki.net/scp-903)

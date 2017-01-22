@@ -5,6 +5,6 @@ title: the-o5-orientation
 ---
 You may also like:
 
-[Golden Horde Blues](http://scp-wiki.net/golden-horde-blues)
+[Upswing of Disorder](http://scp-wiki.net/upswing-of-disorder)
 
-[SCP-142](http://scp-wiki.net/scp-142)
+[SCP-1348-ICL-8](http://scp-wiki.net/scp-1348-icl-8)

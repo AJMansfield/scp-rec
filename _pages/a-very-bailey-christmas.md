@@ -5,6 +5,6 @@ title: a-very-bailey-christmas
 ---
 You may also like:
 
-[SCP-1528](http://scp-wiki.net/scp-1528)
+[Letters to a Prophet #2: Scry Harder](http://scp-wiki.net/letters-to-a-prophet-2-scry-harder)
 
-[A Merry Fellow](http://scp-wiki.net/a-merry-fellow)
+[Lord Blackwood, Astro-Naut](http://scp-wiki.net/lord-blackwood-astro-naut)

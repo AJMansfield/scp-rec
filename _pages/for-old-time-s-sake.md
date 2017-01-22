@@ -5,6 +5,6 @@ title: for-old-time-s-sake
 ---
 You may also like:
 
-[Three Sleepless Nights](http://scp-wiki.net/three-sleepless-nights)
+[SCP-1707: New Skin](http://scp-wiki.net/scp-1707)
 
-[SCP-583](http://scp-wiki.net/scp-583)
+[Unfinished Business: Part II](http://scp-wiki.net/unfinished-business-ii)

@@ -5,6 +5,6 @@ title: new-job
 ---
 You may also like:
 
-[SCP-2060](http://scp-wiki.net/scp-2060)
+[SCP-2398: Interdimensional Courier](http://scp-wiki.net/scp-2398)
 
-[Anomalous Incidents](http://scp-wiki.net/anomalous-incidents)
+[SCP-010: Collars of Control](http://scp-wiki.net/scp-010)

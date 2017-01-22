@@ -5,6 +5,6 @@ title: antarctic-exchange-hub
 ---
 You may also like:
 
-[Experiment Log 407](http://scp-wiki.net/experiment-log-407)
+[SCP-578-ARC: The Shattered Girl](http://scp-wiki.net/scp-578-arc)
 
-[Research Notes Of RJ Tellar](http://scp-wiki.net/research-notes-of-rj-tellar)
+[SCP-336: "Lilith"](http://scp-wiki.net/scp-336)

@@ -5,6 +5,6 @@ title: excitement
 ---
 You may also like:
 
-[xX_DrSwagClef_Xx's Proposal (really Lord Stonefish's author page)](http://scp-wiki.net/lord-stonefish)
+[SCP-490: Ice Cream Truck](http://scp-wiki.net/scp-490)
 
-[SCP-1976](http://scp-wiki.net/scp-1976)
+[SCP-2130: Office Furniture](http://scp-wiki.net/scp-2130)

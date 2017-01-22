@@ -5,6 +5,6 @@ title: the-black-horse
 ---
 You may also like:
 
-[SCP-1975](http://scp-wiki.net/scp-1975)
+[Last Words From Svalbard](http://scp-wiki.net/last-words-from-svalbard)
 
-[Dr. Mann's Proposal](http://scp-wiki.net/dr-manns-proposal)
+[SCP-136: Naked Doll](http://scp-wiki.net/scp-136)

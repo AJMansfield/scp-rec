@@ -5,6 +5,6 @@ title: stolen-gilded-stolen-saved
 ---
 You may also like:
 
-[SCP-400-ARC](http://scp-wiki.net/scp-400-arc)
+[Different Kinds of Nihilism](http://scp-wiki.net/different-kinds-of-nihilism)
 
-[SCP-837](http://scp-wiki.net/scp-837)
+[SCP-2196: The Deep Mote](http://scp-wiki.net/scp-2196)

@@ -5,6 +5,6 @@ title: of-teachers-and-taxicabs
 ---
 You may also like:
 
-[Of Mats And Masquerades](http://scp-wiki.net/of-mats-and-masquerades)
+[You're Always on My Mind](http://scp-wiki.net/you-re-always-on-my-mind)
 
-[SCP-181](http://scp-wiki.net/scp-181)
+[The Rain](http://scp-wiki.net/the-rain)

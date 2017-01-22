@@ -5,6 +5,6 @@ title: carlysle-aktus-is-a-prickly-bastard-an-high-school-au
 ---
 You may also like:
 
-[Clockwork Time](http://scp-wiki.net/clockwork-time)
+[SCP-959: The Bogeyman](http://scp-wiki.net/scp-959)
 
-[Clef Dies](http://scp-wiki.net/clef-dies)
+[SCP-149: The Blood Flies](http://scp-wiki.net/scp-149)

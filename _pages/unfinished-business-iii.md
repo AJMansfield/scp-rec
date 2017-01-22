@@ -5,6 +5,6 @@ title: unfinished-business-iii
 ---
 You may also like:
 
-[SCP-282](http://scp-wiki.net/scp-282)
+[SCP-2375: We're All The Same Down Here](http://scp-wiki.net/scp-2375)
 
-[SCP-1576](http://scp-wiki.net/scp-1576)
+[Starch and Cream](http://scp-wiki.net/starch-and-cream)

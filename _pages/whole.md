@@ -5,6 +5,6 @@ title: whole
 ---
 You may also like:
 
-[SCP-294](http://scp-wiki.net/scp-294)
+[Faith and Knighthood](http://scp-wiki.net/faith-and-knighthood)
 
-[SCP-1701](http://scp-wiki.net/scp-1701)
+['Imperfectly Fossilized Eggs' (M4RHO/EDOPE/FO5LE)](http://scp-wiki.net/imperfectly-fossilized-eggs-m4rho-edope-fo5le)

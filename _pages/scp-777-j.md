@@ -5,6 +5,6 @@ title: scp-777-j
 ---
 You may also like:
 
-[The Hatbot Chronicles](http://scp-wiki.net/the-hatbot-chronicles)
+[SCP-584: Many Fingers, Many Toes](http://scp-wiki.net/scp-584)
 
-[The Kitchen Sink](http://scp-wiki.net/the-kitchen-sink)
+[SCP-2408: Orok's Fall](http://scp-wiki.net/scp-2408)

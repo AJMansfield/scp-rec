@@ -5,6 +5,6 @@ title: incident-report-scp70119971
 ---
 You may also like:
 
-[SCP-355](http://scp-wiki.net/scp-355)
+[SCP-1968: Global Retrocausality Torus](http://scp-wiki.net/scp-1968)
 
-[SCP-938 Containment History](http://scp-wiki.net/scp-938-containment-history)
+[End of the Month](http://scp-wiki.net/end-of-the-month)

@@ -5,6 +5,6 @@ title: the-lord-judge
 ---
 You may also like:
 
-[SCP-2082](http://scp-wiki.net/scp-2082)
+[SCP-2292: Gorilla beringei necromantiae](http://scp-wiki.net/scp-2292)
 
-[SCP-947](http://scp-wiki.net/scp-947)
+[Secret Of The Goldfish](http://scp-wiki.net/secret-of-the-goldfish)

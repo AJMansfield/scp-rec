@@ -5,6 +5,6 @@ title: a-man-at-the-top-of-his-profession
 ---
 You may also like:
 
-[SCP-227](http://scp-wiki.net/scp-227)
+[SCP-1712: An Unusual Occurrence On August 11th, 1959](http://scp-wiki.net/scp-1712)
 
-[The Black Horse (The Crawling Sea)](http://scp-wiki.net/the-black-horse)
+[White Knight](http://scp-wiki.net/white-knight)

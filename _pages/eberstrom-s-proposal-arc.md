@@ -5,6 +5,6 @@ title: eberstrom-s-proposal-arc
 ---
 You may also like:
 
-[Dead End](http://scp-wiki.net/dead-end)
+[Conversation 3: Decommissioning](http://scp-wiki.net/conversation-3-decommissioning)
 
-[SCP-1405](http://scp-wiki.net/scp-1405)
+[SCP-1980: Alien Invasion](http://scp-wiki.net/scp-1980)

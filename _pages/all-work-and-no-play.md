@@ -5,6 +5,6 @@ title: all-work-and-no-play
 ---
 You may also like:
 
-[INCIDENT-370-A](http://scp-wiki.net/incident-370-a)
+[The North Pole](http://scp-wiki.net/the-north-pole)
 
-[Project Morpheus](http://scp-wiki.net/project-morpheus)
+[SCP-2213: Automated Systems Success](http://scp-wiki.net/scp-2213-automatedsuccess)

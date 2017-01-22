@@ -5,6 +5,6 @@ title: wayfarers
 ---
 You may also like:
 
-[SCP-2578](http://scp-wiki.net/scp-2578)
+[We Boldly Went](http://scp-wiki.net/we-boldly-went)
 
-["Trauma"](http://scp-wiki.net/goc-tale-sequence-trauma)
+[SCP-1703: Slightly Radioactive Lightbulb](http://scp-wiki.net/scp-1703)

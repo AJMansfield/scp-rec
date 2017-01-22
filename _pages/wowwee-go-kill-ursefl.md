@@ -5,6 +5,6 @@ title: wowwee-go-kill-ursefl
 ---
 You may also like:
 
-[The Cool War](http://scp-wiki.net/the-cool-war-hub)
+[Paris Massacre](http://scp-wiki.net/paris-massacre)
 
-[The Cool Kids](http://scp-wiki.net/the-cool-kids)
+[A Suicide Note](http://scp-wiki.net/a-suicide-note)

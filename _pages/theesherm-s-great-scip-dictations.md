@@ -5,6 +5,6 @@ title: theesherm-s-great-scip-dictations
 ---
 You may also like:
 
-[SCP-1969](http://scp-wiki.net/scp-1969)
+[In the End: Rawhide](http://scp-wiki.net/intheendrawhide)
 
-[SCP-2950-J](http://scp-wiki.net/scp-2950-j)
+[thinking/knowing/living](http://scp-wiki.net/thinking-knowing-living)

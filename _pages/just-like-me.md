@@ -5,6 +5,6 @@ title: just-like-me
 ---
 You may also like:
 
-[SCP-2430](http://scp-wiki.net/scp-2430)
+[The Completely Canonical Story of James, Age 8](http://scp-wiki.net/the-completely-canonical-story-of-james)
 
-[I hope you get back to me soon](http://scp-wiki.net/i-hope-you-get-back-to-me-soon)
+[Canola Oil Panic](http://scp-wiki.net/canola-oil-panic)

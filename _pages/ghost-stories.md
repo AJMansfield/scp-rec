@@ -5,6 +5,6 @@ title: ghost-stories
 ---
 You may also like:
 
-[SCP-991](http://scp-wiki.net/scp-991)
+[SCP-2210: Policy #40535: Anomalous Intelligence](http://scp-wiki.net/scp-2210)
 
-[SCP-519](http://scp-wiki.net/scp-519)
+[SCP-2704: Ancient Petrospheres](http://scp-wiki.net/scp-2704)

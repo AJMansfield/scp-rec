@@ -5,6 +5,6 @@ title: project-proposal-1964-301
 ---
 You may also like:
 
-[SCP-018](http://scp-wiki.net/scp-018)
+[So It Was](http://scp-wiki.net/so-it-was)
 
-[Interlude: An Excerpt](http://scp-wiki.net/board-meeting-transcript)
+[Voice of Decay](http://scp-wiki.net/voice-of-decay)

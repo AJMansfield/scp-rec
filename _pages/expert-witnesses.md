@@ -5,6 +5,6 @@ title: expert-witnesses
 ---
 You may also like:
 
-[The Pale Horse (The Wayward Children)](http://scp-wiki.net/the-pale-horse)
+[SCP-1686: Fishy Rain](http://scp-wiki.net/scp-1686)
 
-[Faith of the Foundation](http://scp-wiki.net/faith-of-the-foundation)
+[SCP-1567: The Dunne of Gallen](http://scp-wiki.net/scp-1567)

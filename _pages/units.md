@@ -5,6 +5,6 @@ title: units
 ---
 You may also like:
 
-[SCP-2723](http://scp-wiki.net/scp-2723)
+[SCP-1973: The Sinking Field](http://scp-wiki.net/scp-1973)
 
-[Origin of Clef](http://scp-wiki.net/originofclef)
+[It Grows On Trees](http://scp-wiki.net/it-grows-on-trees)

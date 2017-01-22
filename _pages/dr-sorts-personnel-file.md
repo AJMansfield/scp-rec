@@ -5,6 +5,6 @@ title: dr-sorts-personnel-file
 ---
 You may also like:
 
-[The Lockdown - Introduction](http://scp-wiki.net/the-lockdown)
+[SCP-2924: Drifters](http://scp-wiki.net/scp-2924)
 
-[Jam Jars](http://scp-wiki.net/jam-jars)
+[SCP-2034: Tussaud's Delusion](http://scp-wiki.net/scp-2034)

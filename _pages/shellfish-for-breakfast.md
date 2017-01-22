@@ -5,6 +5,6 @@ title: shellfish-for-breakfast
 ---
 You may also like:
 
-[Going Straight To Hell In A Lincoln Continental](http://scp-wiki.net/going-straight-to-hell-in-a-lincoln-continental)
+[SCP-184: The Architect](http://scp-wiki.net/scp-184)
 
-[Canola Oil Panic](http://scp-wiki.net/canola-oil-panic)
+[SCP-1914-J: Silencing Piano](http://scp-wiki.net/scp-1914-j)

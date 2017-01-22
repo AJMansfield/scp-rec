@@ -5,6 +5,6 @@ title: in-a-yellow-wood
 ---
 You may also like:
 
-[Urban Legends](http://scp-wiki.net/urban-legends)
+[SCP-2922: Notes From the Under](http://scp-wiki.net/scp-2922)
 
-[A Suicide Note](http://scp-wiki.net/a-suicide-note)
+[SCP-2707: The Ratatoskr Lineage](http://scp-wiki.net/scp-2707)

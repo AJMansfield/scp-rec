@@ -5,6 +5,6 @@ title: the-keysmith-s-bootstrap
 ---
 You may also like:
 
-[SCP-1046](http://scp-wiki.net/scp-1046)
+[SCP-2036: Fire Rabbits](http://scp-wiki.net/scp-2036)
 
-[SCP-2961](http://scp-wiki.net/scp-2961)
+[SCP-2675: The Cradle](http://scp-wiki.net/scp-2675)

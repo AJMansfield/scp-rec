@@ -5,6 +5,6 @@ title: the-farm
 ---
 You may also like:
 
-[Down the Silver River](http://scp-wiki.net/down-the-silver-river)
+[Moonrakers](http://scp-wiki.net/moonrakers)
 
-[Paris, Texas](http://scp-wiki.net/paris-texas)
+[Re: Promotion](http://scp-wiki.net/re-promotion)

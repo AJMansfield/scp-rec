@@ -5,6 +5,6 @@ title: technical-writing
 ---
 You may also like:
 
-[The Runner](http://scp-wiki.net/the-runner)
+[Are We There Yet?](http://scp-wiki.net/are-we-there-yet)
 
-[Breath, Pulse, Blood, Spine](http://scp-wiki.net/breath-pulse-blood-spine)
+[SCP-1819: Darkness is Only Skin Deep.](http://scp-wiki.net/scp-1819)

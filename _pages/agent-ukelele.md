@@ -5,6 +5,6 @@ title: agent-ukelele
 ---
 You may also like:
 
-[SC-95/347-00/723](http://scp-wiki.net/sc-95-347-00-723)
+[SCP-060: Infernal Occult Skeleton](http://scp-wiki.net/scp-060)
 
-[SCP-2945](http://scp-wiki.net/scp-2945)
+[SCP-1613: The Spoken Fool](http://scp-wiki.net/scp-1613)

@@ -5,6 +5,6 @@ title: nobody-knows
 ---
 You may also like:
 
-[Orientation](http://scp-wiki.net/orientation)
+[SCP-2032: Father Time](http://scp-wiki.net/scp-2032)
 
-[Property Values](http://scp-wiki.net/property-values)
+[SCP-948: Hope](http://scp-wiki.net/scp-948)

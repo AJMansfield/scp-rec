@@ -5,6 +5,6 @@ title: experiment-log-778
 ---
 You may also like:
 
-[Message In A Bottle](http://scp-wiki.net/message-in-a-bottle)
+[A Day at the Call Center](http://scp-wiki.net/a-day-at-the-call-center)
 
-[SCP-2789](http://scp-wiki.net/scp-2789)
+[Business as Usual](http://scp-wiki.net/a-normal-week)

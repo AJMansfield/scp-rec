@@ -5,6 +5,6 @@ title: 24th-december-2008-14th-january-2009
 ---
 You may also like:
 
-[1st - 12th December 2008](http://scp-wiki.net/1st-12th-december-2008)
+[SCP-429: Clockwork Teleporter](http://scp-wiki.net/scp-429)
 
-[Beneath Two Trees](http://scp-wiki.net/beneath-two-trees)
+[The UIU Series With No Name Hub](http://scp-wiki.net/uiu-series-with-no-name-hub)

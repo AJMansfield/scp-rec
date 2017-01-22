@@ -5,6 +5,6 @@ title: scp-3v1l-j
 ---
 You may also like:
 
-[SCP-2416](http://scp-wiki.net/scp-2416)
+[SCP-896: Online Role Playing Game](http://scp-wiki.net/scp-896)
 
-[Faith](http://scp-wiki.net/faith)
+[SCP-2750: Navajo Skinwalkers](http://scp-wiki.net/scp-2750)

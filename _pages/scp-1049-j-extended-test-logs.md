@@ -5,6 +5,6 @@ title: scp-1049-j-extended-test-logs
 ---
 You may also like:
 
-[Surprise! Happy Birthday! Now, see here...](http://scp-wiki.net/surprise-happy-birthday-5)
+[SCP-337: Hairball](http://scp-wiki.net/scp-337)
 
-[The Runner](http://scp-wiki.net/the-runner)
+[SCP-1718: Experimental Containment Unit](http://scp-wiki.net/scp-1718)

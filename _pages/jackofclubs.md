@@ -5,6 +5,6 @@ title: jackofclubs
 ---
 You may also like:
 
-[SCP-1154](http://scp-wiki.net/scp-1154)
+[SCP-778: Paradise Falls](http://scp-wiki.net/scp-778)
 
-[SCP-042](http://scp-wiki.net/scp-042)
+[Waking](http://scp-wiki.net/waking)

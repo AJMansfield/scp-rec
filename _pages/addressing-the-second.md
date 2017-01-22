@@ -5,6 +5,6 @@ title: addressing-the-second
 ---
 You may also like:
 
-[Account of a Hiking Trip](http://scp-wiki.net/account-of-a-hiking-trip)
+[SCP-065: Destroyed Organic Catalyst](http://scp-wiki.net/scp-065)
 
-[SCP-2991](http://scp-wiki.net/scp-2991)
+[SCP-325: The Detergent](http://scp-wiki.net/scp-325)

@@ -5,6 +5,6 @@ title: change-the-world
 ---
 You may also like:
 
-[SCP-1563](http://scp-wiki.net/scp-1563)
+[SCP-097: Old Fairgrounds](http://scp-wiki.net/scp-097)
 
-[Father Of Lies](http://scp-wiki.net/father-of-lies)
+[Two Transcribed Conversations In Very Different Tones](http://scp-wiki.net/two-transcribed-conversations-in-very-different-tones)

@@ -5,6 +5,6 @@ title: 3rd-vesta-donation
 ---
 You may also like:
 
-[First CETRes Donation](http://scp-wiki.net/1st-cetres-donation)
+[UIU Files Chapter 1](http://scp-wiki.net/uiu-files-chapter-1)
 
-[Breaking It Down For Me](http://scp-wiki.net/breaking-it-down-to-me)
+[Quiet Game](http://scp-wiki.net/quiet-game)

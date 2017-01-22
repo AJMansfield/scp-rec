@@ -5,6 +5,6 @@ title: kain-pathos-crow-s-author-page
 ---
 You may also like:
 
-[SCP-211](http://scp-wiki.net/scp-211)
+[Metaphysician](http://scp-wiki.net/metaphysician)
 
-[Time And Relative Dimensions In Containment Protocols](http://scp-wiki.net/timeandrelativedimensionsincontainmentprotocols)
+[Dr Magnus Personnel File](http://scp-wiki.net/dr-magnus-personnel-file)

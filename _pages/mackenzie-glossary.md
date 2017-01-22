@@ -5,6 +5,6 @@ title: mackenzie-glossary
 ---
 You may also like:
 
-[It's Just A Dream](http://scp-wiki.net/it-s-just-a-dream)
+[Duty](http://scp-wiki.net/duty)
 
-[SCP-50-AE-J](http://scp-wiki.net/scp-50-ae-j)
+[SCP-1680: Tyler](http://scp-wiki.net/scp-1680)

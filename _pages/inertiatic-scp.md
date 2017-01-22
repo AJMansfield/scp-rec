@@ -5,6 +5,6 @@ title: inertiatic-scp
 ---
 You may also like:
 
-[SCP-2375](http://scp-wiki.net/scp-2375)
+[We Boldly Went](http://scp-wiki.net/we-boldly-went)
 
-[Uncle Teddy](http://scp-wiki.net/uncle-teddy)
+[Dr. Loser's Personnel File](http://scp-wiki.net/dr-los-e-r-s-personnel-file)

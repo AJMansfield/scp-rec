@@ -5,6 +5,6 @@ title: facetious-fanatics
 ---
 You may also like:
 
-[Personal Log Of Gordon Richards](http://scp-wiki.net/personal-log-of-gordon-richards)
+[Have A Heart](http://scp-wiki.net/have-a-heart)
 
-[SCP-810](http://scp-wiki.net/scp-810)
+[SCP-2824: The Once and Future King](http://scp-wiki.net/scp-2824)

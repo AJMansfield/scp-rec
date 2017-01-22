@@ -5,6 +5,6 @@ title: mementos
 ---
 You may also like:
 
-[SCP-2144](http://scp-wiki.net/scp-2144)
+[Bugs](http://scp-wiki.net/bugs)
 
-[Recovered Data File](http://scp-wiki.net/recovered-data-file)
+[SC-49/785-52/543](http://scp-wiki.net/sc-49-785-52-543)

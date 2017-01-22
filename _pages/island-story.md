@@ -5,6 +5,6 @@ title: island-story
 ---
 You may also like:
 
-[SCP-263](http://scp-wiki.net/scp-263)
+[Incident Report 023-026](http://scp-wiki.net/incident-report-023-26)
 
-[SCP-2299](http://scp-wiki.net/scp-2299)
+[Oneirophrenia](http://scp-wiki.net/oneirophrenia)

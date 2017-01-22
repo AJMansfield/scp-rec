@@ -5,6 +5,6 @@ title: sweet-memories
 ---
 You may also like:
 
-[SCP-2697](http://scp-wiki.net/scp-2697)
+[SCP-2740: It Wasn't There](http://scp-wiki.net/scp-2740)
 
-[Brainstorm](http://scp-wiki.net/brainstorm)
+[SCP-1558: Snuff Tower](http://scp-wiki.net/scp-1558)

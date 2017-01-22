@@ -5,6 +5,6 @@ title: sam
 ---
 You may also like:
 
-[Promotion](http://scp-wiki.net/promotion)
+[Experiment Log 151-D](http://scp-wiki.net/experiment-log-151-d)
 
-[SCP-515-ARC](http://scp-wiki.net/scp-515-arc)
+[SCP-2389: Midas Magpie](http://scp-wiki.net/scp-2389)

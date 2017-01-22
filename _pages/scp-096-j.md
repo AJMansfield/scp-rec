@@ -5,6 +5,6 @@ title: scp-096-j
 ---
 You may also like:
 
-[SCP-071](http://scp-wiki.net/scp-071)
+[SCP-356: Autointerrogation](http://scp-wiki.net/scp-356)
 
-[Shell](http://scp-wiki.net/shell)
+[SCP-795: Reality-Bending Cat](http://scp-wiki.net/scp-795)

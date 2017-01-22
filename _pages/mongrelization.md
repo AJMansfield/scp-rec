@@ -5,6 +5,6 @@ title: mongrelization
 ---
 You may also like:
 
-[Best as it Gets](http://scp-wiki.net/best-as-it-gets)
+[KaktusKast Hub](http://scp-wiki.net/kaktuskast-hub)
 
-[Key Biscayne](http://scp-wiki.net/key-biscayne)
+["Mr Carbon" - Personnel File](http://scp-wiki.net/mr-carbon-personnel-file)

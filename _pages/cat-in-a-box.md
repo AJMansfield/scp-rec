@@ -5,6 +5,6 @@ title: cat-in-a-box
 ---
 You may also like:
 
-[The Cool Kids](http://scp-wiki.net/the-cool-kids)
+[SCP-2351: A Wild Goose Chase](http://scp-wiki.net/scp-2351)
 
-[History](http://scp-wiki.net/history)
+[Loop](http://scp-wiki.net/loop)

@@ -5,6 +5,6 @@ title: we-need-to-talk-about-fifty-five
 ---
 You may also like:
 
-[Police Seeking Clues After Four Injured in Congressional Intrusion](http://scp-wiki.net/police-seeking-clues-after-four-injured-in-congressional-int)
+[The Red Horse (The Ironic Metaphor)](http://scp-wiki.net/the-red-horse)
 
-[Breaker 1 9](http://scp-wiki.net/breaker-1-9)
+[SCP-2888: Again and Again and Again](http://scp-wiki.net/scp-2888)

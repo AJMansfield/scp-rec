@@ -5,6 +5,6 @@ title: triumph
 ---
 You may also like:
 
-[SCP-One Million](http://scp-wiki.net/scp-one-million)
+[SCP-5308-J: The Collection](http://scp-wiki.net/scp-5308-j)
 
-[All They Want is the Blood](http://scp-wiki.net/all-they-want-is-the-blood)
+[SCP-2166: The Reformation](http://scp-wiki.net/scp-2166)

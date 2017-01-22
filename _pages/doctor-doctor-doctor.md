@@ -5,6 +5,6 @@ title: doctor-doctor-doctor
 ---
 You may also like:
 
-[SCP-596](http://scp-wiki.net/scp-596)
+[psul's Author Page](http://scp-wiki.net/psuls-author-page)
 
-[The Runner](http://scp-wiki.net/the-runner)
+[Document Alpha-Zeta-2](http://scp-wiki.net/document-alpha-zeta-2)

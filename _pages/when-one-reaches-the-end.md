@@ -5,6 +5,6 @@ title: when-one-reaches-the-end
 ---
 You may also like:
 
-[Number One With A Bullet](http://scp-wiki.net/number-one-with-a-bullet)
+[Tolerance](http://scp-wiki.net/tolerance)
 
-[Deus Vult](http://scp-wiki.net/deus-vult)
+[Figure and Ground](http://scp-wiki.net/figure-and-ground)

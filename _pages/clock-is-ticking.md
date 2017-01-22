@@ -5,6 +5,6 @@ title: clock-is-ticking
 ---
 You may also like:
 
-[SCP-1865](http://scp-wiki.net/scp-1865)
+[Anime Is Art Too, Guys](http://scp-wiki.net/anime-is-art-too-guys)
 
-[Primo Gustu Color](http://scp-wiki.net/primo-gustu-color)
+[SCP-5308-J: The Collection](http://scp-wiki.net/scp-5308-j)

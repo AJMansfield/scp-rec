@@ -5,6 +5,6 @@ title: scp-redd
 ---
 You may also like:
 
-[Deranged Ditties](http://scp-wiki.net/deranged-ditties)
+[SCP-1269: Stalker Mailbox](http://scp-wiki.net/scp-1269)
 
-[SCP-974](http://scp-wiki.net/scp-974)
+[The Iron Wolf](http://scp-wiki.net/the-iron-wolf)

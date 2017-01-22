@@ -5,6 +5,6 @@ title: treats
 ---
 You may also like:
 
-[SCP-1478](http://scp-wiki.net/scp-1478)
+[SCP-394: Ear Candles](http://scp-wiki.net/scp-394)
 
-[The List Of Wonders](http://scp-wiki.net/the-list-of-wonders)
+[SCP-1347-1353-J: What a Pestis](http://scp-wiki.net/scp-1347-1353-j)

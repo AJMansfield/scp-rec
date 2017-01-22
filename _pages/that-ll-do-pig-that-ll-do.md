@@ -5,6 +5,6 @@ title: that-ll-do-pig-that-ll-do
 ---
 You may also like:
 
-[Favors-Part One](http://scp-wiki.net/favors-part-one)
+[Minerva Lifted](http://scp-wiki.net/minerva-lifted)
 
-[The Executions of Doctor Bright](http://scp-wiki.net/the-executions-of-doctor-bright)
+[SCP-1607: Culture Generator](http://scp-wiki.net/scp-1607)

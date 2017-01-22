@@ -5,6 +5,6 @@ title: how-to-be-scary-without-saying-anything
 ---
 You may also like:
 
-[Conspiracy, Part XII](http://scp-wiki.net/conspiracy-part-xii)
+[George Bennings's Personnel File](http://scp-wiki.net/george-bennings-s-personnel-file)
 
-[Opossum](http://scp-wiki.net/opossum)
+[SCP-055: [unknown]](http://scp-wiki.net/scp-055)

@@ -5,6 +5,6 @@ title: the-price-of-knowledge
 ---
 You may also like:
 
-[SCP-2968](http://scp-wiki.net/scp-2968)
+[SCP-607: Dorian the Grey Cat](http://scp-wiki.net/scp-607)
 
-[SCP-2845](http://scp-wiki.net/scp-2845)
+[SCP-741: Mysterious Russian Submarine](http://scp-wiki.net/scp-741)

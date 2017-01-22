@@ -5,6 +5,6 @@ title: 1-mr-headless
 ---
 You may also like:
 
-[SCP-1728](http://scp-wiki.net/scp-1728)
+[SCP-1187: Stationary ATV](http://scp-wiki.net/scp-1187)
 
-[4. Mr. Lie](http://scp-wiki.net/4-mr-lie)
+[SCP-1306: Potion of Summon Bird](http://scp-wiki.net/scp-1306)

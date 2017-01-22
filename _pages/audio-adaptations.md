@@ -5,6 +5,6 @@ title: audio-adaptations
 ---
 You may also like:
 
-[SCP-2213](http://scp-wiki.net/scp-2213)
+[Commencement](http://scp-wiki.net/wayward-commencement)
 
-[Playing with Flames](http://scp-wiki.net/playing-with-flames)
+[Discussion](http://scp-wiki.net/discussion)

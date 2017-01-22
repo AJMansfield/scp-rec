@@ -5,6 +5,6 @@ title: the-bacterium-part-one
 ---
 You may also like:
 
-[SCP-1022](http://scp-wiki.net/scp-1022)
+[SCP-754: Illustrated Climbing Vine](http://scp-wiki.net/scp-754)
 
-[In the Big League](http://scp-wiki.net/in-the-big-league)
+[SCP-1747: Going, Going, Gone](http://scp-wiki.net/scp-1747)

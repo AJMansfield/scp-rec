@@ -5,6 +5,6 @@ title: the-end-of-history
 ---
 You may also like:
 
-[SCP-1721](http://scp-wiki.net/scp-1721)
+[SCP-1812: Extralunar Meme](http://scp-wiki.net/scp-1812)
 
-[A Slumber Did My Spirit Seal](http://scp-wiki.net/a-slumber-did-my-spirit-seal)
+[SCP-1622-J: Class-Action Lawfruit](http://scp-wiki.net/scp-1622-j)

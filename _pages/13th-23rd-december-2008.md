@@ -5,6 +5,6 @@ title: 13th-23rd-december-2008
 ---
 You may also like:
 
-[1st - 12th December 2008](http://scp-wiki.net/1st-12th-december-2008)
+[SCP-1949: Jonathan Harris](http://scp-wiki.net/scp-1949)
 
-[The Red Woodsman](http://scp-wiki.net/the-red-woodsman)
+[SCP-7394-J: HILARIOUS FARTING FROG CLICK NOW TO SEE](http://scp-wiki.net/scp-7394-j)

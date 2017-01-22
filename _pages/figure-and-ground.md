@@ -5,6 +5,6 @@ title: figure-and-ground
 ---
 You may also like:
 
-[SCP-974](http://scp-wiki.net/scp-974)
+[Incident 517-1997-M](http://scp-wiki.net/incident-517-1997-m)
 
-[SCP-2286](http://scp-wiki.net/scp-2286)
+[Empire of Dirt (Part 1)](http://scp-wiki.net/empire-of-dirt-part-1)

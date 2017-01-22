@@ -5,6 +5,6 @@ title: incident-096-1-a
 ---
 You may also like:
 
-[SCP-310](http://scp-wiki.net/scp-310)
+[Cart can, Can cart](http://scp-wiki.net/cart-can-can-cart)
 
-[SCP-718](http://scp-wiki.net/scp-718)
+[So It Was](http://scp-wiki.net/so-it-was)

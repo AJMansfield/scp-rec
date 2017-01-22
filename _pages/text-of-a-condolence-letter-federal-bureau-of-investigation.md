@@ -5,6 +5,6 @@ title: text-of-a-condolence-letter-federal-bureau-of-investigation
 ---
 You may also like:
 
-[SCP-1420](http://scp-wiki.net/scp-1420)
+[SCP-1944: Ascension Burger](http://scp-wiki.net/scp-1944)
 
-[SCP-1809](http://scp-wiki.net/scp-1809)
+[SCP-2157: The Human Forest](http://scp-wiki.net/scp-2157)

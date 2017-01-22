@@ -5,6 +5,6 @@ title: audience-of-crowns
 ---
 You may also like:
 
-[Deadalive Deadalive](http://scp-wiki.net/deadalive-deadalive)
+[Document 1326-82](http://scp-wiki.net/document-1326)
 
-[December 24th, 2011 Hub](http://scp-wiki.net/december-24th-2011-hub)
+[When We Came Home](http://scp-wiki.net/when-we-came-home)

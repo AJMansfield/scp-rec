@@ -5,6 +5,6 @@ title: anomalous-incidents
 ---
 You may also like:
 
-[SCP-1153](http://scp-wiki.net/scp-1153)
+[Zmax's Author Page](http://scp-wiki.net/zmax-s-author-page)
 
-[New Job](http://scp-wiki.net/new-job)
+[SCP-2400: Temporal Dilation Facility](http://scp-wiki.net/scp-2400)

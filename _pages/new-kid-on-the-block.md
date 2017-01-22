@@ -5,6 +5,6 @@ title: new-kid-on-the-block
 ---
 You may also like:
 
-[Waffling About](http://scp-wiki.net/waffling-about)
+[There's Magic in the Air](http://scp-wiki.net/there-s-magic-in-the-air)
 
-[SCP-628](http://scp-wiki.net/scp-628)
+[Cloudy With A Chance Of Showers](http://scp-wiki.net/cloudy-with-a-chance-of-showers)

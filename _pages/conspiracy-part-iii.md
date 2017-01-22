@@ -5,6 +5,6 @@ title: conspiracy-part-iii
 ---
 You may also like:
 
-[Conspiracy, Part V](http://scp-wiki.net/conspiracy-part-v)
+[Expanded Biography of "The Administrator"](http://scp-wiki.net/expanded-biography-of-the-administrator)
 
-[SCP-SCP-033](http://scp-wiki.net/scp-scp-033)
+[SCP-1737: The Referee](http://scp-wiki.net/scp-1737)

@@ -5,6 +5,6 @@ title: an-average-life
 ---
 You may also like:
 
-[Loss and Nostalgia](http://scp-wiki.net/loss-and-nostalgia)
+[SCP-1009: The Beautiful World](http://scp-wiki.net/scp-1009)
 
-[Name, Rank, Serial Number](http://scp-wiki.net/name-rank-serial-number)
+[End Of Olympians Hub](http://scp-wiki.net/end-of-olympians-hub)

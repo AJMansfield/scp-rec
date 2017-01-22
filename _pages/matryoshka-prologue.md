@@ -5,6 +5,6 @@ title: matryoshka-prologue
 ---
 You may also like:
 
-[Green-Gray](http://scp-wiki.net/green-gray)
+[SCP-096: The "Shy Guy"](http://scp-wiki.net/scp-096)
 
-[SCP-687](http://scp-wiki.net/scp-687)
+[A Eulogic Elegy For The Dreams](http://scp-wiki.net/we-never-wanted-things-to-come-to-this)

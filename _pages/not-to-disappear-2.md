@@ -5,6 +5,6 @@ title: not-to-disappear-2
 ---
 You may also like:
 
-[Rubber Summer](http://scp-wiki.net/rubber-summer)
+[Giving Bad People Good Ideas](http://scp-wiki.net/giving-bad-people-good-ideas)
 
-[SCP-956](http://scp-wiki.net/scp-956)
+[...Keter: Cleanup Duty](http://scp-wiki.net/keter-cleanup-duty)

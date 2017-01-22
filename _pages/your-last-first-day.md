@@ -5,6 +5,6 @@ title: your-last-first-day
 ---
 You may also like:
 
-[A Greater Darkness](http://scp-wiki.net/a-greater-darkness)
+[SCP-1487: Beautiful Bones](http://scp-wiki.net/scp-1487)
 
-[Conversation 2: Numberless](http://scp-wiki.net/conversation-2-numberless)
+[Surprise! Happy Birthday! Once more...](http://scp-wiki.net/surprise-happy-birthday-4)

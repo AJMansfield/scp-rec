@@ -5,6 +5,6 @@ title: the-lost-treasure-of-the-stranglefruits
 ---
 You may also like:
 
-[SCP-608](http://scp-wiki.net/scp-608)
+[SCP-431: Dr. Gideon](http://scp-wiki.net/scp-431)
 
-[Dr. Blast's Personnel File](http://scp-wiki.net/dr-blast-s-personnel-file)
+[A Price to be Paid](http://scp-wiki.net/a-price-to-be-paid)

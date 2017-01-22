@@ -5,6 +5,6 @@ title: nonpareil
 ---
 You may also like:
 
-[Tabled Theories](http://scp-wiki.net/tabled-theories)
+[The Executions of Doctor Bright](http://scp-wiki.net/the-executions-of-doctor-bright)
 
-[SCP-2052](http://scp-wiki.net/scp-2052)
+[SCP-1177: The Coupon Cutter](http://scp-wiki.net/scp-1177)

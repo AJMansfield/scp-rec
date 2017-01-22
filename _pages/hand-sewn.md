@@ -5,6 +5,6 @@ title: hand-sewn
 ---
 You may also like:
 
-[Sidelines' Sarabande](http://scp-wiki.net/sidelines-sarabande)
+[SCP-1700: Debtshop](http://scp-wiki.net/scp-1700)
 
-[GOI-001: Chicago Spirit](http://scp-wiki.net/chicago-spirit)
+[Agent Navarro's Personnel File](http://scp-wiki.net/twistedgears-personnel-file)

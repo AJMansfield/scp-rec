@@ -5,6 +5,6 @@ title: the-diary-of-an-author
 ---
 You may also like:
 
-[Primo Gustu Color](http://scp-wiki.net/primo-gustu-color)
+[The Place Where Two Rivers Meet](http://scp-wiki.net/the-place-where-two-rivers-meet)
 
-[SCP-1809](http://scp-wiki.net/scp-1809)
+[What You Are In the Dark](http://scp-wiki.net/what-you-are-in-the-dark)

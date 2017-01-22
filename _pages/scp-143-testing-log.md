@@ -5,6 +5,6 @@ title: scp-143-testing-log
 ---
 You may also like:
 
-[Document 451-A](http://scp-wiki.net/document-451-a)
+[SCP-635: Medieval Bootstrap Program](http://scp-wiki.net/scp-635)
 
-[Olympia](http://scp-wiki.net/olympia)
+[The Cool Kids](http://scp-wiki.net/the-cool-kids)

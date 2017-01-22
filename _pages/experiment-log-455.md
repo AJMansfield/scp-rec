@@ -5,6 +5,6 @@ title: experiment-log-455
 ---
 You may also like:
 
-[SCP-597](http://scp-wiki.net/scp-597)
+[Potent Drug](http://scp-wiki.net/potent-drug)
 
-[Sunday Funnies](http://scp-wiki.net/sunday-funnies)
+[A Broken Tool](http://scp-wiki.net/a-broken-tool)

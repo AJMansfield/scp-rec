@@ -5,6 +5,6 @@ title: matryoshka-four
 ---
 You may also like:
 
-[Matryoshka: Part Eight](http://scp-wiki.net/matryoshka-eight)
+[SCP-247: A Harmless Kitten](http://scp-wiki.net/scp-247)
 
-[SCP-2932](http://scp-wiki.net/scp-2932)
+[SCP-012: A Bad Composition](http://scp-wiki.net/scp-012)

@@ -5,6 +5,6 @@ title: incidentreportnullpleaseseeasupervisor
 ---
 You may also like:
 
-[Survey Log 1165](http://scp-wiki.net/survey-log-1165)
+[Memetics and Infohazards Division Orientation](http://scp-wiki.net/memetics-and-infohazards-division-orientation)
 
-[Snipped From The Same Cloth](http://scp-wiki.net/snipped-from-the-same-cloth)
+[David Eskobar's Personnel File (DECEASED)](http://scp-wiki.net/mr-eskobar)

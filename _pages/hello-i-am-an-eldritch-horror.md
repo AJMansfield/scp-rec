@@ -5,6 +5,6 @@ title: hello-i-am-an-eldritch-horror
 ---
 You may also like:
 
-[SCP-2183](http://scp-wiki.net/scp-2183)
+[Grown in a Day, on a Mound of Barren Earth, Winter](http://scp-wiki.net/grown-in-a-day-on-a-mound-of-barren-earth-winter)
 
-[SCP-2067](http://scp-wiki.net/scp-2067)
+[The Red Horse (The Ironic Metaphor)](http://scp-wiki.net/the-red-horse)

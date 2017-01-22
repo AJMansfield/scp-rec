@@ -5,6 +5,6 @@ title: what-s-real
 ---
 You may also like:
 
-[SCP-2455](http://scp-wiki.net/scp-2455)
+[Some Rational Inheritance](http://scp-wiki.net/some-rational-inheritance)
 
-[Learning](http://scp-wiki.net/learning)
+[Interview Log 472-0165-B](http://scp-wiki.net/interview-log-472-0165-b)

@@ -5,6 +5,6 @@ title: candy
 ---
 You may also like:
 
-[SCP-1832](http://scp-wiki.net/scp-1832)
+[Dixieland Nightmare Magic Hub](http://scp-wiki.net/dixieland-nightmare-magic-hub)
 
-[SCP-1611](http://scp-wiki.net/scp-1611)
+[To Sleep, Perchance to Dream](http://scp-wiki.net/to-sleep-perchance-to-dream)

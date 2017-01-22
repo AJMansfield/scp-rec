@@ -5,6 +5,6 @@ title: christmas
 ---
 You may also like:
 
-[SCP-1721](http://scp-wiki.net/scp-1721)
+[SCP-2923: X-Men Syndrome](http://scp-wiki.net/scp-2923)
 
-[Beneath Two Trees](http://scp-wiki.net/beneath-two-trees)
+[Ears](http://scp-wiki.net/ears)

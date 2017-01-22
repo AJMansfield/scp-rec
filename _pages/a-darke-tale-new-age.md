@@ -5,6 +5,6 @@ title: a-darke-tale-new-age
 ---
 You may also like:
 
-[SCP-2517](http://scp-wiki.net/scp-2517)
+[Keeping With The Times](http://scp-wiki.net/keeping-with-the-times)
 
-[Olympia Integration Experiment-OMEGA](http://scp-wiki.net/olympia-integration-experiment-omega)
+[SCP-2443: A Heap of Deloaches](http://scp-wiki.net/scp-2443)

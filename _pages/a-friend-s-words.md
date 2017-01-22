@@ -5,6 +5,6 @@ title: a-friend-s-words
 ---
 You may also like:
 
-[The Little Things That Count](http://scp-wiki.net/the-little-things-that-count)
+[SCP-345: Stone Puzzle Cube](http://scp-wiki.net/scp-345)
 
-[SCP Fronts](http://scp-wiki.net/scp-fronts)
+[SCP-370: A Key](http://scp-wiki.net/scp-370)

@@ -5,6 +5,6 @@ title: banana-smoothie
 ---
 You may also like:
 
-[Bellerverse](http://scp-wiki.net/bellerverse)
+[SCP-1310: Examination Room 10](http://scp-wiki.net/scp-1310)
 
-[SCP-1081](http://scp-wiki.net/scp-1081)
+[SCP-1920: Turbine of the Future!](http://scp-wiki.net/scp-1920)

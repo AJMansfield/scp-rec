@@ -5,6 +5,6 @@ title: north-waterworks
 ---
 You may also like:
 
-[Places Where the Birds Don't Cry](http://scp-wiki.net/places-where-the-birds-don-t-cry)
+[SCP-2965: A Pony Express](http://scp-wiki.net/scp-2965)
 
-[Basic Observations](http://scp-wiki.net/basic-observations)
+[The Once And Future Emperor](http://scp-wiki.net/onceandfutureemperor)

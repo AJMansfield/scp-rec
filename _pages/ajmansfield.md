@@ -5,6 +5,6 @@ title: ajmansfield
 ---
 You may also like:
 
-[SCP-032](http://scp-wiki.net/scp-032)
+[Understanding Memetics](http://scp-wiki.net/understanding-memetics)
 
-[Painted Lips, Unblinking Eyes](http://scp-wiki.net/vibeo-james)
+[SCP-1000: Bigfoot](http://scp-wiki.net/scp-1000)

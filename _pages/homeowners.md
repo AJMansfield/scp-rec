@@ -5,6 +5,6 @@ title: homeowners
 ---
 You may also like:
 
-[SCP-349](http://scp-wiki.net/scp-349)
+[SCP-1052: Ana](http://scp-wiki.net/scp-1052)
 
-[Down by the River](http://scp-wiki.net/down-by-the-river)
+[SCP-1395: Cave Apparition](http://scp-wiki.net/scp-1395)

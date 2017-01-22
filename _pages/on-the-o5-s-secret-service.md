@@ -5,6 +5,6 @@ title: on-the-o5-s-secret-service
 ---
 You may also like:
 
-[SCP-1886](http://scp-wiki.net/scp-1886)
+[SCP-1963: Very Funny Slingshot](http://scp-wiki.net/scp-1963)
 
-[Tunneling Between Worlds](http://scp-wiki.net/gdp2-tunneling-between-worlds)
+[SCP-1025: Encyclopedia of Diseases](http://scp-wiki.net/scp-1025)

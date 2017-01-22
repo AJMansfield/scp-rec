@@ -5,6 +5,6 @@ title: dr-aeish-s-personnel-file
 ---
 You may also like:
 
-[SCP-671](http://scp-wiki.net/scp-671)
+[SCP-1583: It Only Makes Us Stronger](http://scp-wiki.net/scp-1583)
 
-[Playing the Hand You're Dealt](http://scp-wiki.net/playing-the-hand-youre-dealt)
+[SCP-1966: Sentient Body Scanner](http://scp-wiki.net/scp-1966)

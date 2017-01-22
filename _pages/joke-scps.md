@@ -5,6 +5,6 @@ title: joke-scps
 ---
 You may also like:
 
-[The Designer](http://scp-wiki.net/the-designer)
+[Painless](http://scp-wiki.net/painless)
 
-[SCP-218](http://scp-wiki.net/scp-218)
+[SCP-2507: A Web Of Cliques](http://scp-wiki.net/scp-2507)

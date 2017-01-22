@@ -5,6 +5,6 @@ title: the-completely-canonical-story-of-james
 ---
 You may also like:
 
-[Farming And Coffee And The End Of The World](http://scp-wiki.net/farming-and-coffee-and-the-end-of-the-world)
+[Just Like Me](http://scp-wiki.net/just-like-me)
 
-[PROTECT](http://scp-wiki.net/protect2)
+[SCP-357: Hungry Clay](http://scp-wiki.net/scp-357)

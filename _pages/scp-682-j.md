@@ -5,6 +5,6 @@ title: scp-682-j
 ---
 You may also like:
 
-[SCP-1319](http://scp-wiki.net/scp-1319)
+[SCP-1029: Scratch 'n' Sniff JPEG](http://scp-wiki.net/scp-1029)
 
-[Holder Of The Foundation](http://scp-wiki.net/holder-of-the-foundation)
+[SCP-229: Wire Weed](http://scp-wiki.net/scp-229)

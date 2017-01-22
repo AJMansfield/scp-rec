@@ -5,6 +5,6 @@ title: scp-076-2-splash
 ---
 You may also like:
 
-[SCP-922](http://scp-wiki.net/scp-922)
+[A Brief History Of SCP-KO](http://scp-wiki.net/a-brief-history-of-scp-ko)
 
-[Not Just A Cat In A Labcoat](http://scp-wiki.net/not-just-a-cat-in-a-labcoat)
+[Theogenesis](http://scp-wiki.net/theogenesis)

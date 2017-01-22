@@ -5,6 +5,6 @@ title: partial-worldwide-scp-map
 ---
 You may also like:
 
-[Silber Strikes Back! (OC DO NOT STEAL!!!!!)](http://scp-wiki.net/why-this-tho)
+[SCP-2299: Cephalensis-9](http://scp-wiki.net/scp-2299)
 
-[SCP-1386](http://scp-wiki.net/scp-1386)
+[SCP-361: Bronze Liver](http://scp-wiki.net/scp-361)

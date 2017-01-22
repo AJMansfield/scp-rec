@@ -5,6 +5,6 @@ title: operation-galahad
 ---
 You may also like:
 
-[SCP-C-Skalisharpnose](http://scp-wiki.net/scp-c-skalisharpnose)
+[SCP-2210: Policy #40535: Anomalous Intelligence](http://scp-wiki.net/scp-2210)
 
-[SCP-1395](http://scp-wiki.net/scp-1395)
+[Application to Form MTF Mu-3: Documents](http://scp-wiki.net/application-to-form-mtf-mu3-supplementary-docs)

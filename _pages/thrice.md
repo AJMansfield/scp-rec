@@ -5,6 +5,6 @@ title: thrice
 ---
 You may also like:
 
-[ADANA Protocol](http://scp-wiki.net/adana-protocol)
+[Ouroboric Tango](http://scp-wiki.net/cav-004)
 
-[The White Horse (The Conqueror With The Golden Crown)](http://scp-wiki.net/the-white-horse)
+[SCP-2403: The Air Stair](http://scp-wiki.net/scp-2403)

@@ -5,6 +5,6 @@ title: scp-048-j
 ---
 You may also like:
 
-[Tinker Tailor Soldier Huntsman](http://scp-wiki.net/tinker-tailor-soldier-huntsman)
+[Agent Talmor's Personnel File](http://scp-wiki.net/agent-talmor-s-personnel-file)
 
-[SCP-2399](http://scp-wiki.net/scp-2399)
+[SCP-2768: Human Potential](http://scp-wiki.net/scp-2768)

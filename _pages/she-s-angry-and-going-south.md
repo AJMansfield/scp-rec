@@ -5,6 +5,6 @@ title: she-s-angry-and-going-south
 ---
 You may also like:
 
-[Decommissioned](http://scp-wiki.net/decommissioned)
+[Nondescript Nose](http://scp-wiki.net/nondescript-nose)
 
-[Right?](http://scp-wiki.net/right)
+[Caveat Emptor](http://scp-wiki.net/caveat-emptor)

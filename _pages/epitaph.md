@@ -5,6 +5,6 @@ title: epitaph
 ---
 You may also like:
 
-[Salut d'Amour](http://scp-wiki.net/salut-d-amour)
+[SCP-625: Anklebiters](http://scp-wiki.net/scp-625)
 
-[A Few More Words From "The Administrator"](http://scp-wiki.net/a-few-more-words-from-the-administrator)
+[SCP-359: The Hawk](http://scp-wiki.net/scp-359)

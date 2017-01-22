@@ -5,6 +5,6 @@ title: stop-asking
 ---
 You may also like:
 
-[Send in the Clowns](http://scp-wiki.net/send-in-the-clowns)
+[SCP-1808: Spongebob Watches](http://scp-wiki.net/scp-1808)
 
-[CASE COLOURLESS GREEN](http://scp-wiki.net/case-colourless-green)
+[SCP-1933: Baileys Santa](http://scp-wiki.net/scp-1933)

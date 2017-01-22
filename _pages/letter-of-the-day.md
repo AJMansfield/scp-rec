@@ -5,6 +5,6 @@ title: letter-of-the-day
 ---
 You may also like:
 
-[SCP-515](http://scp-wiki.net/scp-515)
+[A Wandsman in the Court of the Hanged King](http://scp-wiki.net/a-wandsman-in-the-court-of-the-hanged-king)
 
-[SCP-408](http://scp-wiki.net/scp-408)
+[SCP-1136: Subjective Directional Gravity](http://scp-wiki.net/scp-1136)

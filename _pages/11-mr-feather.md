@@ -5,6 +5,6 @@ title: 11-mr-feather
 ---
 You may also like:
 
-[6. Mr. Stripes](http://scp-wiki.net/6-mr-stripes)
+[Document #017-1](http://scp-wiki.net/document-017-1)
 
-[SCP-1550](http://scp-wiki.net/scp-1550)
+[SCP-1084: Damaged Mausoleum](http://scp-wiki.net/scp-1084)

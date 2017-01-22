@@ -5,6 +5,6 @@ title: belation-in-the-evening
 ---
 You may also like:
 
-[SCP-2943](http://scp-wiki.net/scp-2943)
+[SCP-1211: King in the Castle](http://scp-wiki.net/scp-1211)
 
-[Adventuring Interlude](http://scp-wiki.net/adventuring-interlude)
+[SCP-WTF-J: The Worst](http://scp-wiki.net/scp-wtf-j)

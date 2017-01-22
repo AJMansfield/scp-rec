@@ -5,6 +5,6 @@ title: love-springs-eternal
 ---
 You may also like:
 
-[Multi-U 101](http://scp-wiki.net/multi-u-101)
+[SCP-2296: Emperor Penguin Tube Mommas](http://scp-wiki.net/scp-2296)
 
-[SCP-2264](http://scp-wiki.net/scp-2264)
+[SCP-2704: Ancient Petrospheres](http://scp-wiki.net/scp-2704)

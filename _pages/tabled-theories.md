@@ -5,6 +5,6 @@ title: tabled-theories
 ---
 You may also like:
 
-[Nonpareil](http://scp-wiki.net/nonpareil)
+[Time Crime in Greater Wisconsin - A Primer](http://scp-wiki.net/time-crime-in-greater-wisconsin-a-primer)
 
-[SCP-2722](http://scp-wiki.net/scp-2722)
+[After The End](http://scp-wiki.net/after-the-end)

@@ -5,6 +5,6 @@ title: retrocausality-torus-interview-a
 ---
 You may also like:
 
-[Webs](http://scp-wiki.net/webs)
+[SCP-1860: Its Bleeding Song](http://scp-wiki.net/scp-1860)
 
-[Where's The Shadow Government When You Need Them?](http://scp-wiki.net/it-s-a-bad-bad-world)
+[SCP-1599: Broken Spybot](http://scp-wiki.net/scp-1599)

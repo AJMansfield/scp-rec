@@ -5,6 +5,6 @@ title: pattern-breaker
 ---
 You may also like:
 
-[Counterpoint](http://scp-wiki.net/counterpoint)
+[Pythia's Wing](http://scp-wiki.net/pythia-s-wing)
 
-[A Convincing Lyre](http://scp-wiki.net/a-convincing-lyre)
+[Attribution Metadata](http://scp-wiki.net/attribution-metadata)

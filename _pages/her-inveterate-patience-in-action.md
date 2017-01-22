@@ -5,6 +5,6 @@ title: her-inveterate-patience-in-action
 ---
 You may also like:
 
-[173](http://scp-wiki.net/173)
+[Dr. Solo's Personnel File](http://scp-wiki.net/dr-solo-s-personnel-file)
 
-[SCP-979](http://scp-wiki.net/scp-979)
+[SCP-2374: Transporting Washing Machines](http://scp-wiki.net/scp-2374)

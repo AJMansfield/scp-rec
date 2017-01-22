@@ -5,6 +5,6 @@ title: cloudy-with-a-chance-of-showers
 ---
 You may also like:
 
-[Cold](http://scp-wiki.net/cold)
+[New Kid on the Block](http://scp-wiki.net/new-kid-on-the-block)
 
-[The Man from Maple Street](http://scp-wiki.net/the-man-from-maple-street)
+[SCP-2507: A Web Of Cliques](http://scp-wiki.net/scp-2507)

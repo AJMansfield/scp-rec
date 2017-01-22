@@ -5,6 +5,6 @@ title: mint-and-clay
 ---
 You may also like:
 
-[SCP-2800](http://scp-wiki.net/scp-2800)
+[Document #087-II](http://scp-wiki.net/document-087-ii)
 
-[Hugo Hijinks](http://scp-wiki.net/hugo-hijinks)
+[Chat Guide](http://scp-wiki.net/chat-guide)

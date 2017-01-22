@@ -5,6 +5,6 @@ title: fly-agaric
 ---
 You may also like:
 
-[A Kind Of Christmas](http://scp-wiki.net/a-kind-of-christmas)
+[SCP-1014: Jonah Crusoe](http://scp-wiki.net/scp-1014)
 
-[SCP-816](http://scp-wiki.net/scp-816)
+[Interlude - Scenes From the Fall](http://scp-wiki.net/interlude-scenes-from-the-fall)

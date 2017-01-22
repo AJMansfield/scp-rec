@@ -5,6 +5,6 @@ title: faq
 ---
 You may also like:
 
-[In the End: Europe](http://scp-wiki.net/intheendfinally)
+[Clinical Tone: Declassified](http://scp-wiki.net/clinical-tone-declassified)
 
-[Golden Horde Blues](http://scp-wiki.net/golden-horde-blues)
+[The HAMI-BOMBARD Blues, Part I](http://scp-wiki.net/hamibombard1)

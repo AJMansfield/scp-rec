@@ -5,6 +5,6 @@ title: wayward-commencement
 ---
 You may also like:
 
-[SCP-1830](http://scp-wiki.net/scp-1830)
+[Audio Adaptations](http://scp-wiki.net/audio-adaptations)
 
-[SCP-2636](http://scp-wiki.net/scp-2636)
+[Good Morning, Sunshine](http://scp-wiki.net/wayward-intermission)

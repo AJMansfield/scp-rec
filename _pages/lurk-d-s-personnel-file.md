@@ -5,6 +5,6 @@ title: lurk-d-s-personnel-file
 ---
 You may also like:
 
-[SCP-1462](http://scp-wiki.net/scp-1462)
+[Tasers & Thermite](http://scp-wiki.net/tasers-thermite)
 
-[953 Interview A](http://scp-wiki.net/953-interview-a)
+[Portrait of the Artist](http://scp-wiki.net/portrait-of-the-artist)

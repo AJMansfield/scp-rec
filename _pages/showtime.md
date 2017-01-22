@@ -5,6 +5,6 @@ title: showtime
 ---
 You may also like:
 
-[Family](http://scp-wiki.net/family)
+[The Lady in  the Tower](http://scp-wiki.net/the-lady-in-the-tower)
 
-[Prisoners](http://scp-wiki.net/prisoners)
+[Personal Log of Agent AA](http://scp-wiki.net/log-of-agent-aa)

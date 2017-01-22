@@ -5,6 +5,6 @@ title: cygnus
 ---
 You may also like:
 
-[SCP-337](http://scp-wiki.net/scp-337)
+[SCP-2153: Charitable Clovers](http://scp-wiki.net/scp-2153)
 
-[Basking in the Light](http://scp-wiki.net/gdp2-basking-in-the-light)
+[SCP-1104: Nose Crab](http://scp-wiki.net/scp-1104)

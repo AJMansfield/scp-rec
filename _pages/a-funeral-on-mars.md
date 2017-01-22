@@ -5,6 +5,6 @@ title: a-funeral-on-mars
 ---
 You may also like:
 
-[Spirit Dust](http://scp-wiki.net/spirit-dust)
+[The Man in Orange](http://scp-wiki.net/the-man-in-orange)
 
-[Dr. Frederick Heiden](http://scp-wiki.net/dr-frederick-heiden)
+[SCP-1776: The Patriot's Folly](http://scp-wiki.net/scp-1776)

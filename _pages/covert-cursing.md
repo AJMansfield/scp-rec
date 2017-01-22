@@ -5,6 +5,6 @@ title: covert-cursing
 ---
 You may also like:
 
-[Realignment](http://scp-wiki.net/realignment)
+[1st - 12th December 2008](http://scp-wiki.net/1st-12th-december-2008)
 
-[The Templar Incident](http://scp-wiki.net/the-templar-incident)
+[Land of Plenty](http://scp-wiki.net/land-of-plenty)

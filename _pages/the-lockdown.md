@@ -5,6 +5,6 @@ title: the-lockdown
 ---
 You may also like:
 
-[Those You Leave Behind](http://scp-wiki.net/those-you-leave-behind)
+[SCP-2832: Hubris](http://scp-wiki.net/scp-2832)
 
-[The 784 Incident: Part 1: Contact](http://scp-wiki.net/784incident1)
+[SCP-2231: A Shared Identity](http://scp-wiki.net/scp-2231)

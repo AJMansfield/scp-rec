@@ -5,6 +5,6 @@ title: conspiracy-part-ii
 ---
 You may also like:
 
-[Conspiracy, Part I](http://scp-wiki.net/conspiracy-part-i)
+[SCP-1449: Dreamtime Whale Shark](http://scp-wiki.net/scp-1449)
 
-[Operation AZURE PEREGRINE](http://scp-wiki.net/operation-azure-peregrine)
+[20 GOTO 10](http://scp-wiki.net/20-goto-10)

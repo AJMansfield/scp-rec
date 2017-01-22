@@ -7,4 +7,4 @@ You may also like:
 
 [Property Values](http://scp-wiki.net/property-values)
 
-[Grasp On Reality](http://scp-wiki.net/grasp-on-reality)
+[SCP-485: Death Pen](http://scp-wiki.net/scp-485)

@@ -5,6 +5,6 @@ title: the-high-court-with-the-magic-army
 ---
 You may also like:
 
-[Experiment Log 080-2](http://scp-wiki.net/experiment-log-080-2)
+[SCP-2207: Dimensional Razor](http://scp-wiki.net/scp-2207)
 
-[Six Letters Addressed to the SCP Foundation (and One Letter Home)](http://scp-wiki.net/six-letters-addressed)
+[SCP-1322: Glory Hole](http://scp-wiki.net/scp-1322)

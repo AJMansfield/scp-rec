@@ -5,6 +5,6 @@ title: october-15th-2012
 ---
 You may also like:
 
-[SCP-006-J](http://scp-wiki.net/scp-006-j)
+[SCP-1577: A Flare Gun](http://scp-wiki.net/scp-1577)
 
-[Seasick Sharks](http://scp-wiki.net/seasick-sharks)
+[SCP-2662: cthulhu f'UCK OFF!](http://scp-wiki.net/scp-2662)

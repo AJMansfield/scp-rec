@@ -5,6 +5,6 @@ title: researcher-slaw-s-personnel-file
 ---
 You may also like:
 
-[Hello World (Part IV)](http://scp-wiki.net/hello-world-part-iv)
+[The Journal Of J S Junior Technician](http://scp-wiki.net/the-journal-of-j-s-junior-technician)
 
-[SCP-1851-EX](http://scp-wiki.net/scp-1851-ex)
+[In other news,](http://scp-wiki.net/in-other-news)

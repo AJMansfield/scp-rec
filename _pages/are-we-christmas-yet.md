@@ -5,6 +5,6 @@ title: are-we-christmas-yet
 ---
 You may also like:
 
-[Monophobia](http://scp-wiki.net/monophobia)
+[One Last Ride](http://scp-wiki.net/one-last-ride)
 
-[SCP-2987](http://scp-wiki.net/scp-2987)
+[SCP-2203: Find the One for You!](http://scp-wiki.net/scp-2203)

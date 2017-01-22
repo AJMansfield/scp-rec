@@ -5,6 +5,6 @@ title: irrational
 ---
 You may also like:
 
-[GFC](http://scp-wiki.net/gfc)
+[SCP-7143-J [NSFW]: An Attractive Piece of Hardware](http://scp-wiki.net/scp-7143-j)
 
-[SCP-129](http://scp-wiki.net/scp-129)
+[We're Off To Be The Lizard](http://scp-wiki.net/we-re-off-to-be-the-lizard)

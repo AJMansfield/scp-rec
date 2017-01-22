@@ -5,6 +5,6 @@ title: the-flame-faced-man
 ---
 You may also like:
 
-[SCP-639](http://scp-wiki.net/scp-639)
+[SCP-515-ARC: Butterfly Camera](http://scp-wiki.net/scp-515-arc)
 
-[Basic Observations](http://scp-wiki.net/basic-observations)
+[Mr. "Wilt" van Antwerp's Personnel File](http://scp-wiki.net/mr-wilts-file)

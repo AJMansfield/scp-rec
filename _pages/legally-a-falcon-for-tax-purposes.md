@@ -5,6 +5,6 @@ title: legally-a-falcon-for-tax-purposes
 ---
 You may also like:
 
-[Cover Letter for After-Action Report: Operation Free Market](http://scp-wiki.net/after-action-report-cover-letter)
+[SCP-2499: Harmony of the Spheres](http://scp-wiki.net/scp-2499)
 
-[There's Magic in the Air](http://scp-wiki.net/there-s-magic-in-the-air)
+[SCP-1778: Valor](http://scp-wiki.net/scp-1778)

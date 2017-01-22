@@ -5,6 +5,6 @@ title: in-his-own-image-part-6
 ---
 You may also like:
 
-[Encounter](http://scp-wiki.net/encounter)
+[SCP-568: Dismemberment Strap](http://scp-wiki.net/scp-568)
 
-[In His Own Image: Interlude 5](http://scp-wiki.net/in-his-own-image-interlude-5)
+[Interview 616 Am](http://scp-wiki.net/interview-616-am)

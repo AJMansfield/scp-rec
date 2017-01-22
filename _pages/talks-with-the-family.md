@@ -5,6 +5,6 @@ title: talks-with-the-family
 ---
 You may also like:
 
-[Col. Hornby's Audio Guide](http://scp-wiki.net/col-hornby-s-audio-guide)
+[A Fancy Dinosaur](http://scp-wiki.net/a-fancy-dinosaur)
 
-[Syringes](http://scp-wiki.net/syringes)
+[Rebranding](http://scp-wiki.net/rebranding)

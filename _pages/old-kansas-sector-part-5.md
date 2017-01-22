@@ -5,6 +5,6 @@ title: old-kansas-sector-part-5
 ---
 You may also like:
 
-[SCP-1588](http://scp-wiki.net/scp-1588)
+[Groups Of Interest](http://scp-wiki.net/groups-of-interest)
 
-[Renegade, Retrograde](http://scp-wiki.net/renegade-retrograde)
+[SCP-1104: Nose Crab](http://scp-wiki.net/scp-1104)

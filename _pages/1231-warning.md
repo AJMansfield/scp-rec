@@ -5,6 +5,6 @@ title: 1231-warning
 ---
 You may also like:
 
-[SCP-1177](http://scp-wiki.net/scp-1177)
+[djkaktus' Workbench](http://scp-wiki.net/djkaktus-workbench)
 
-[No One Should Be Alone](http://scp-wiki.net/no-one-should-be-alone)
+[An Excerpt from Goodbye Ghost](http://scp-wiki.net/an-excerpt-from-goodbye-ghost)

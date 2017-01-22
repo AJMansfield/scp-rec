@@ -5,6 +5,6 @@ title: additional-scp-1420-test-logs-can-be-found-here
 ---
 You may also like:
 
-[SCP-048-ARC](http://scp-wiki.net/scp-048-arc)
+[Interview SCP-418/3](http://scp-wiki.net/interview-scp-418-3)
 
-[Regret](http://scp-wiki.net/regret)
+[Capone](http://scp-wiki.net/capone)

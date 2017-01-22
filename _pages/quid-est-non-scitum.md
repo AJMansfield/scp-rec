@@ -5,6 +5,6 @@ title: quid-est-non-scitum
 ---
 You may also like:
 
-[How To Debate An Armchair](http://scp-wiki.net/how-to-debate-an-armchair)
+[Let Me Guess, Applesauce?](http://scp-wiki.net/let-me-guess-applesauce)
 
-[Catalysis](http://scp-wiki.net/catalysis)
+[Decommissioned](http://scp-wiki.net/decommissioned)

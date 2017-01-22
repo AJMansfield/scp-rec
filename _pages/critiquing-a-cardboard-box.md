@@ -5,6 +5,6 @@ title: critiquing-a-cardboard-box
 ---
 You may also like:
 
-[SCP-2354](http://scp-wiki.net/scp-2354)
+[The Lingering Lark of Leviathan Square](http://scp-wiki.net/the-lingering-lark-of-leviathan-square)
 
-[SCP-257](http://scp-wiki.net/scp-257)
+[SCP-712: The Impossible Colors](http://scp-wiki.net/scp-712)

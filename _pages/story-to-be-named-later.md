@@ -5,6 +5,6 @@ title: story-to-be-named-later
 ---
 You may also like:
 
-["Come into my Parlor"](http://scp-wiki.net/goc-tale-comeintomyparlor)
+[SCP-1234-J: An SCP](http://scp-wiki.net/scp-1234-j)
 
-[Climber](http://scp-wiki.net/climber)
+[SCP-1201-J: That One Movie](http://scp-wiki.net/scp-1201-j)

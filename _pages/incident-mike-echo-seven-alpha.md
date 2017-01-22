@@ -5,6 +5,6 @@ title: incident-mike-echo-seven-alpha
 ---
 You may also like:
 
-[Perfect Mind](http://scp-wiki.net/thunder-perfect-mind)
+[SCP-111-J: An Innocent Suburban Household](http://scp-wiki.net/scp-111-j)
 
-[Into That Good Night](http://scp-wiki.net/into-that-good-night)
+[SCP-432 Expedition 1](http://scp-wiki.net/scp-432-expedition-1)

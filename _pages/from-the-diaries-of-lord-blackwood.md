@@ -5,6 +5,6 @@ title: from-the-diaries-of-lord-blackwood
 ---
 You may also like:
 
-[Dr. Edison's Bargain Bin of Direct-to-Forum Sequels](http://scp-wiki.net/bargain-bin-of-direct-to-forum-sequels)
+[SCP-2630: Stock Of A Sort](http://scp-wiki.net/scp-2630)
 
-[Old Kansas Sector ~ 4: Grammie Knows](http://scp-wiki.net/old-kansas-sector-part-4)
+[AbsentmindedNihilist's Personnel File](http://scp-wiki.net/absentmindednihilist-s-personnel-file)

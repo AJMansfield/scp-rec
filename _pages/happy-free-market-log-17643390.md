@@ -5,6 +5,6 @@ title: happy-free-market-log-17643390
 ---
 You may also like:
 
-[The Worm](http://scp-wiki.net/the-worm)
+[SCP-2214: Economy of Scale](http://scp-wiki.net/scp-2214)
 
-[SCP-1730](http://scp-wiki.net/scp-1730)
+[The Stranger and the Secretary](http://scp-wiki.net/the-stranger-and-the-secretary)

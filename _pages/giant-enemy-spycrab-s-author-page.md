@@ -5,6 +5,6 @@ title: giant-enemy-spycrab-s-author-page
 ---
 You may also like:
 
-[Personnel File: Zolgamax Jones](http://scp-wiki.net/zolgamax)
+[Empedocles](http://scp-wiki.net/empedocles)
 
-[Dr. Flower who is also a giraffe](http://scp-wiki.net/uglyflower-author-page)
+[The White Horse (The Conqueror With The Golden Crown)](http://scp-wiki.net/the-white-horse)

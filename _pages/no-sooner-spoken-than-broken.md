@@ -5,6 +5,6 @@ title: no-sooner-spoken-than-broken
 ---
 You may also like:
 
-[SCP-1378](http://scp-wiki.net/scp-1378)
+[SCP-2293: An Inside Joke](http://scp-wiki.net/scp-2293)
 
-[Concerto in D-Major, Orchestrated for Paintbrush and Fedora](http://scp-wiki.net/concerto-in-d-major)
+[SCP-712: The Impossible Colors](http://scp-wiki.net/scp-712)

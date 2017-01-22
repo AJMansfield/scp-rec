@@ -5,6 +5,6 @@ title: may-13th
 ---
 You may also like:
 
-[A Great Idea, Probably...](http://scp-wiki.net/scp-cliche-generator)
+[SCP-629: Mr. Brass](http://scp-wiki.net/scp-629)
 
-[Letters from Benares](http://scp-wiki.net/letters-from-benares)
+[SCP-191: Cyborg Child](http://scp-wiki.net/scp-191)

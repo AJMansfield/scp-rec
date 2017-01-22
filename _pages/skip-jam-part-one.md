@@ -5,6 +5,6 @@ title: skip-jam-part-one
 ---
 You may also like:
 
-[The Tailor](http://scp-wiki.net/the-tailor)
+[SCP-2041: Merry-Go-View](http://scp-wiki.net/scp-2041)
 
-[Have A Heart](http://scp-wiki.net/have-a-heart)
+[Promotion](http://scp-wiki.net/promotion)

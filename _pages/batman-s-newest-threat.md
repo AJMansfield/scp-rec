@@ -5,6 +5,6 @@ title: batman-s-newest-threat
 ---
 You may also like:
 
-[Along Came A Spider](http://scp-wiki.net/along-came-a-spider)
+[SCP-1893: The Minotaur's Tale](http://scp-wiki.net/scp-1893)
 
-[SCP-1809](http://scp-wiki.net/scp-1809)
+[Assistant Researcher Devereaux's Personnel File](http://scp-wiki.net/devereaux)

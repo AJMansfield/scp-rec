@@ -5,6 +5,6 @@ title: the-art-of-coping-with-anomalies-in-the-gulf-region
 ---
 You may also like:
 
-[SCP-1921](http://scp-wiki.net/scp-1921)
+[SCP-1188: Matter-Displacing Flashlight](http://scp-wiki.net/scp-1188)
 
-[The Place Where Two Rivers Meet](http://scp-wiki.net/the-place-where-two-rivers-meet)
+[Rigged from the Start](http://scp-wiki.net/rigged-from-the-start)

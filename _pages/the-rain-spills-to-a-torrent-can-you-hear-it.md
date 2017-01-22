@@ -5,6 +5,6 @@ title: the-rain-spills-to-a-torrent-can-you-hear-it
 ---
 You may also like:
 
-[Track 4: You and Me](http://scp-wiki.net/you-and-me)
+[Stealing Solidarity: Phase 3](http://scp-wiki.net/stealingsolidarityphase3)
 
-[Queen To Pawn](http://scp-wiki.net/queen-to-pawn)
+[When We Came Home](http://scp-wiki.net/when-we-came-home)

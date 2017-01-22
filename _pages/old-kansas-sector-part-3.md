@@ -5,6 +5,6 @@ title: old-kansas-sector-part-3
 ---
 You may also like:
 
-[Old Kansas Sector 1: Farmhouse](http://scp-wiki.net/old-kansas-sector)
+[SCP-554: The Perfect Murder](http://scp-wiki.net/scp-554)
 
-[Old Kansas Sector ~ 6: The SCP Foundation](http://scp-wiki.net/old-kansas-sector-part-6)
+[SCP-1613: The Spoken Fool](http://scp-wiki.net/scp-1613)

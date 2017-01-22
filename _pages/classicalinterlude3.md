@@ -5,6 +5,6 @@ title: classicalinterlude3
 ---
 You may also like:
 
-[Bigger Than Jesus](http://scp-wiki.net/bigger-than-jesus)
+[The Giant at the End of Days](http://scp-wiki.net/the-giant-at-the-end-of-days)
 
-[I Thought You Died Alone](http://scp-wiki.net/i-thought-you-died-alone)
+[Learning Shit](http://scp-wiki.net/learning-shit)

@@ -5,6 +5,6 @@ title: the-white-horse
 ---
 You may also like:
 
-[Father Iron](http://scp-wiki.net/father-iron)
+[SCP-1815: A Mercurial Doppelganger](http://scp-wiki.net/scp-1815)
 
-[SCP-1552](http://scp-wiki.net/scp-1552)
+[Additional Resources](http://scp-wiki.net/additional-resources)

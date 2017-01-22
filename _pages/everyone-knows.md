@@ -5,6 +5,6 @@ title: everyone-knows
 ---
 You may also like:
 
-[Puzzle](http://scp-wiki.net/puzzle)
+[SCP-2320: A Trolley](http://scp-wiki.net/scp-2320)
 
-[SCP-362](http://scp-wiki.net/scp-362)
+[Conspiracy](http://scp-wiki.net/conspiracy)

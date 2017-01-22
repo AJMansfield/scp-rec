@@ -5,6 +5,6 @@ title: last-man-standing
 ---
 You may also like:
 
-[Eulogies](http://scp-wiki.net/eulogies)
+[SCP-1022: Suspiciously Clean Coat](http://scp-wiki.net/scp-1022)
 
-[Empty Spaces](http://scp-wiki.net/empty-spaces)
+[953 Interview A](http://scp-wiki.net/953-interview-a)

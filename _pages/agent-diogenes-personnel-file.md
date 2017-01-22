@@ -5,6 +5,6 @@ title: agent-diogenes-personnel-file
 ---
 You may also like:
 
-[Sunday Funnies](http://scp-wiki.net/sunday-funnies)
+[SCP-5280-J: Antiquated Measurement System](http://scp-wiki.net/scp-5280-j)
 
-[SCP-634](http://scp-wiki.net/scp-634)
+[SCP-821: Dixie Funland](http://scp-wiki.net/scp-821)

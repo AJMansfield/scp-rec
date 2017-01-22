@@ -5,6 +5,6 @@ title: project-proposal-2014-733
 ---
 You may also like:
 
-[SCP-1687](http://scp-wiki.net/scp-1687)
+[SCP-2507: A Web Of Cliques](http://scp-wiki.net/scp-2507)
 
-[An FAQ; Or, What The Hell Is A Hume?](http://scp-wiki.net/and-this-one-explains-humes)
+[TF Alpha-440](http://scp-wiki.net/tf-alpha-440)

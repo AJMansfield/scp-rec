@@ -5,6 +5,6 @@ title: transcript-of-telephone-conversation-august-9-1991
 ---
 You may also like:
 
-[SCP-2735](http://scp-wiki.net/scp-2735)
+[Funerals Are Fun](http://scp-wiki.net/funerals-are-fun)
 
-[Out of Your Element](http://scp-wiki.net/out-of-your-element)
+[Dr. Miles Bigby](http://scp-wiki.net/milesbigby)

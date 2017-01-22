@@ -5,6 +5,6 @@ title: breaking-it-all-down-on-me
 ---
 You may also like:
 
-[The Hammer Falls](http://scp-wiki.net/the-hammer-falls)
+[Incident Report I741-A](http://scp-wiki.net/incident-report-i741-a)
 
-[Breaking It Down For Me](http://scp-wiki.net/breaking-it-down-to-me)
+[SCP-805: Poison Wood Foal](http://scp-wiki.net/scp-805)

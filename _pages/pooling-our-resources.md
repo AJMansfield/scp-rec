@@ -5,6 +5,6 @@ title: pooling-our-resources
 ---
 You may also like:
 
-[Wills And Ways](http://scp-wiki.net/wills-and-ways-hub)
+[SCP-2647: Premium](http://scp-wiki.net/scp-2647)
 
-[SCP-1573](http://scp-wiki.net/scp-1573)
+[UIU File: 1998-017](http://scp-wiki.net/uiu-file-1998-017)

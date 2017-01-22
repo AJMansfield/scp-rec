@@ -5,6 +5,6 @@ title: rota
 ---
 You may also like:
 
-[A Love Letter to a Lady Mantis](http://scp-wiki.net/a-love-letter-to-a-lady-mantis)
+[SCP-2811: Kali Yuga](http://scp-wiki.net/scp-2811)
 
-[SCP-:3-J](http://scp-wiki.net/scp-003-j)
+[A Long Time Past](http://scp-wiki.net/a-long-time-past)

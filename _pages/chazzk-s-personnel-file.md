@@ -5,6 +5,6 @@ title: chazzk-s-personnel-file
 ---
 You may also like:
 
-[Dr Major's Personnel File](http://scp-wiki.net/dr-major-personnel-file)
+[SCP-1770: The Maker of Chains](http://scp-wiki.net/scp-1770)
 
-[Once But Not Now](http://scp-wiki.net/once-but-not-now)
+[Conspiracy, Part IV](http://scp-wiki.net/conspiracy-part-iv)

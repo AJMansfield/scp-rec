@@ -5,6 +5,6 @@ title: scp-game-project
 ---
 You may also like:
 
-[SCP-1023](http://scp-wiki.net/scp-1023)
+[Project Proposal 1964-238: "The Eater of Worlds"](http://scp-wiki.net/project-proposal-1964-238)
 
-[Experiment Log 780 A](http://scp-wiki.net/experiment-log-780-a)
+[SCP-428: The Crowd](http://scp-wiki.net/scp-428)

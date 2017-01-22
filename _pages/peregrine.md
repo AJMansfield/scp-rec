@@ -5,6 +5,6 @@ title: peregrine
 ---
 You may also like:
 
-[SCP-2981](http://scp-wiki.net/scp-2981)
+[SCP-508: Random-dot Stereogram](http://scp-wiki.net/scp-508)
 
-[The Lost Shepherd](http://scp-wiki.net/the-lost-shepherd)
+[SCP-963: Immortality](http://scp-wiki.net/scp-963)

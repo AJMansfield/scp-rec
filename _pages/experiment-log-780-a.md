@@ -5,6 +5,6 @@ title: experiment-log-780-a
 ---
 You may also like:
 
-[SCP-724-J](http://scp-wiki.net/scp-724-j)
+[SCP-713: Click Anywhere Computer](http://scp-wiki.net/scp-713)
 
-[SCP-2167](http://scp-wiki.net/scp-2167)
+[SCP-991: A Syringe](http://scp-wiki.net/scp-991)

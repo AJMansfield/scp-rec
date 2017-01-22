@@ -5,6 +5,6 @@ title: the-word-and-the-wolf
 ---
 You may also like:
 
-[Aleph-Null Hub](http://scp-wiki.net/aleph-null-hub)
+[SCP-1867: A Gentleman](http://scp-wiki.net/scp-1867)
 
-[SCP-2816](http://scp-wiki.net/scp-2816)
+[SCP-2378: Tissue Dome](http://scp-wiki.net/scp-2378)

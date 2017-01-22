@@ -5,6 +5,6 @@ title: interlude-new-toys
 ---
 You may also like:
 
-[SCP-7000-J](http://scp-wiki.net/scp-7000-j)
+[AJMansfield's Author Page](http://scp-wiki.net/ajmansfield)
 
-[In the End: Rawhide](http://scp-wiki.net/intheendrawhide)
+[Understanding Memetics](http://scp-wiki.net/understanding-memetics)

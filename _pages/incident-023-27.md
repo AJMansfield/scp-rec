@@ -5,6 +5,6 @@ title: incident-023-27
 ---
 You may also like:
 
-[SCP-2901](http://scp-wiki.net/scp-2901)
+[Pain](http://scp-wiki.net/the-rotting-man-of-stalingrad)
 
-[Fault](http://scp-wiki.net/fault)
+[SCP-2370: Undo It, Retry It](http://scp-wiki.net/scp-2370)

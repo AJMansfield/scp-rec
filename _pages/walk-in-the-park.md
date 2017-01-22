@@ -5,6 +5,6 @@ title: walk-in-the-park
 ---
 You may also like:
 
-[Lord Blackwood's Revenge](http://scp-wiki.net/lord-blackwood-s-revenge)
+[SCP-2105: Programmable Occult](http://scp-wiki.net/scp-2105)
 
-[Set Up Thine Altar Here](http://scp-wiki.net/set-up-thine-altar-here)
+[Licensing Guide](http://scp-wiki.net/licensing-guide)

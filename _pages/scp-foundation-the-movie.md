@@ -5,6 +5,6 @@ title: scp-foundation-the-movie
 ---
 You may also like:
 
-[SCP-718](http://scp-wiki.net/scp-718)
+[Contact](http://scp-wiki.net/contact)
 
-[The Swift Rise And Fall Of Technical Researcher David Rosen](http://scp-wiki.net/the-swift-rise-and-fall-of-technical-researcher-david-rosen)
+[Interview Log 026-01](http://scp-wiki.net/interview-log-026-01)

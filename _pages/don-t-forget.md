@@ -5,6 +5,6 @@ title: don-t-forget
 ---
 You may also like:
 
-[SCP-1819](http://scp-wiki.net/scp-1819)
+[SCP-554: The Perfect Murder](http://scp-wiki.net/scp-554)
 
-[SCP-1932](http://scp-wiki.net/scp-1932)
+[Into That Good Night](http://scp-wiki.net/into-that-good-night)

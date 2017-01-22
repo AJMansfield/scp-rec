@@ -5,6 +5,6 @@ title: post-finem
 ---
 You may also like:
 
-[SCP-2093](http://scp-wiki.net/scp-2093)
+[Conclusions RE: D-173-2263 Incident](http://scp-wiki.net/conclusions-red-173-2263-incident)
 
-[The Worm](http://scp-wiki.net/the-worm)
+[SCP-1999: "Loewes"](http://scp-wiki.net/scp-1999)

@@ -5,6 +5,6 @@ title: the-watchtower
 ---
 You may also like:
 
-[Recollections of a Gentleman's Gentleman](http://scp-wiki.net/recollections-of-a-gentleman-s-gentleman)
+[Endless Hunt Part Four: Living Through Shattered Glass](http://scp-wiki.net/ofanendlesshunt-partfour-livingthroughshatteredglass)
 
-[SCP-2004](http://scp-wiki.net/scp-2004)
+[How 173 Got to Site-19](http://scp-wiki.net/how-173-got-to-site-19)

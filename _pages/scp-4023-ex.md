@@ -5,6 +5,6 @@ title: scp-4023-ex
 ---
 You may also like:
 
-[SCP-2199](http://scp-wiki.net/scp-2199)
+[Agent Carriontrooper's Profile](http://scp-wiki.net/agent-carriontrooper-s-profile)
 
-[Fifthist Hub](http://scp-wiki.net/fifthist-hub)
+[SCP-2967: Australian Selkie](http://scp-wiki.net/scp-2967)

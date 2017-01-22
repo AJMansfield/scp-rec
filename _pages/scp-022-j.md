@@ -5,6 +5,6 @@ title: scp-022-j
 ---
 You may also like:
 
-[SCP-846](http://scp-wiki.net/scp-846)
+[Recollections of a Gentleman's Gentleman](http://scp-wiki.net/recollections-of-a-gentleman-s-gentleman)
 
-[Conversation 3: Decommissioning](http://scp-wiki.net/conversation-3-decommissioning)
+[Bigfoot's Eulogy](http://scp-wiki.net/bigfoot-s-eulogy)

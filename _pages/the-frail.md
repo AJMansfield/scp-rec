@@ -5,6 +5,6 @@ title: the-frail
 ---
 You may also like:
 
-[An Excerpt from Goodbye Ghost](http://scp-wiki.net/an-excerpt-from-goodbye-ghost)
+[Lord Blackwood and the Great Tarasque Hunt of '83](http://scp-wiki.net/lord-blackwood-and-the-great-tarasque-hunt-of-83)
 
-[Operation LLEWYN DARK](http://scp-wiki.net/operation-llewyn-dark)
+[The Written God](http://scp-wiki.net/the-written-god)

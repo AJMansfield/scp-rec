@@ -5,6 +5,6 @@ title: webs
 ---
 You may also like:
 
-[Retrocausality Torus Interview A](http://scp-wiki.net/retrocausality-torus-interview-a)
+[Interrogation W 2105 001](http://scp-wiki.net/interrogation-w-2105-001)
 
-[SCP-932](http://scp-wiki.net/scp-932)
+[SCP-2008: Ramjet Cows](http://scp-wiki.net/scp-2008)

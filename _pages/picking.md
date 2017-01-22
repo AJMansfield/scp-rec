@@ -5,6 +5,6 @@ title: picking
 ---
 You may also like:
 
-[Unfinished Business: Part II](http://scp-wiki.net/unfinished-business-ii)
+[SCP-1306: Potion of Summon Bird](http://scp-wiki.net/scp-1306)
 
-[Recovered Documents From Cell 3](http://scp-wiki.net/recovered-documents-from-cell-3)
+[SCP-1187: Stationary ATV](http://scp-wiki.net/scp-1187)

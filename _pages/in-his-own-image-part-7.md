@@ -5,6 +5,6 @@ title: in-his-own-image-part-7
 ---
 You may also like:
 
-[Endless Hunt Part One: All the World Will be Your Enemy...](http://scp-wiki.net/ofanendlesshunt-partone-alltheworldwillbeyourenemy)
+[SCP-1440: The Old Man from Nowhere](http://scp-wiki.net/scp-1440)
 
-[In His Own Image: Interlude 3](http://scp-wiki.net/in-his-own-image-interlude-3)
+[History Contest!](http://scp-wiki.net/history-contest)

@@ -5,6 +5,6 @@ title: part-1-a-well-practiced-introduction
 ---
 You may also like:
 
-[SCP-597](http://scp-wiki.net/scp-597)
+[Incident Report Yersinia 047-01 (2010)](http://scp-wiki.net/incident-report-yersinia-047-01-2010)
 
-[Dark Arts and Crafts](http://scp-wiki.net/dark-arts-and-crafts)
+[Correspondence](http://scp-wiki.net/correspondence)

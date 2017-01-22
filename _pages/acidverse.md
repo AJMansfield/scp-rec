@@ -5,6 +5,6 @@ title: acidverse
 ---
 You may also like:
 
-[April Fools 2014](http://scp-wiki.net/april-fools-2014)
+[SCP-2099: Brain in a Jar](http://scp-wiki.net/scp-2099)
 
-[Randomini Continues Talking Despite The Best Efforts Of Almost Everyone He Knows: Advent Calendar Edition v2015](http://scp-wiki.net/advent-calendar-2015)
+[New Technical Issues](http://scp-wiki.net/new-technical-issues)

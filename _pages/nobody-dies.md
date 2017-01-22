@@ -5,6 +5,6 @@ title: nobody-dies
 ---
 You may also like:
 
-[Birth of the Cool](http://scp-wiki.net/birth-of-the-cool)
+[The Toyman And The Doctor](http://scp-wiki.net/the-toyman-and-the-doctor)
 
-[Preparation](http://scp-wiki.net/preparation)
+[In all Honesty,](http://scp-wiki.net/in-all-honesty)

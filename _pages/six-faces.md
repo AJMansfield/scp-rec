@@ -5,6 +5,6 @@ title: six-faces
 ---
 You may also like:
 
-[SCP-1758](http://scp-wiki.net/scp-1758)
+[SCP-5972-J: Kirby Company Vacuum Cleaner](http://scp-wiki.net/scp-5972-j)
 
-[SCP-1506](http://scp-wiki.net/scp-1506)
+[SCP-1169: Lamarck's Giraffe](http://scp-wiki.net/scp-1169)

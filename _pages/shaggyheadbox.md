@@ -5,6 +5,6 @@ title: shaggyheadbox
 ---
 You may also like:
 
-[SCP-2053](http://scp-wiki.net/scp-2053)
+[Dr. Light's Personnel File](http://scp-wiki.net/dr-light-s-personnel-file)
 
-[SCP-1644](http://scp-wiki.net/scp-1644)
+[Whatever hysteria exists is inflamed by mystery](http://scp-wiki.net/hysteria)

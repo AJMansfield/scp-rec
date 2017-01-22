@@ -5,6 +5,6 @@ title: the-journal-of-j-s-junior-technician
 ---
 You may also like:
 
-[Legerdemain](http://scp-wiki.net/hand-to-hand-combat)
+[SCP-1663: Containment Site 1663-0](http://scp-wiki.net/scp-1663)
 
-[SCP-2397](http://scp-wiki.net/scp-2397)
+[Researcher Slaw's Personnel File](http://scp-wiki.net/researcher-slaw-s-personnel-file)

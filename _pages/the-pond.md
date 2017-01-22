@@ -5,6 +5,6 @@ title: the-pond
 ---
 You may also like:
 
-[Contain Yourself](http://scp-wiki.net/containing-yourself)
+[SCP-1542: Subject: A-35](http://scp-wiki.net/scp-1542)
 
-[Feverish](http://scp-wiki.net/feverish)
+[SCP-1565: Martian Turtles](http://scp-wiki.net/scp-1565)

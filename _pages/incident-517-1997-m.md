@@ -5,6 +5,6 @@ title: incident-517-1997-m
 ---
 You may also like:
 
-[Termination Log SCP-1016](http://scp-wiki.net/termination-log-scp-1016)
+[Figure and Ground](http://scp-wiki.net/figure-and-ground)
 
-[SCP-1048](http://scp-wiki.net/scp-1048)
+[SCP-321: Child of Man](http://scp-wiki.net/scp-321)

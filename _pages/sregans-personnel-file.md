@@ -5,6 +5,6 @@ title: sregans-personnel-file
 ---
 You may also like:
 
-[SCP-701](http://scp-wiki.net/scp-701)
+[SCP-297: "Steely Dan"](http://scp-wiki.net/scp-297)
 
-[SCP-735](http://scp-wiki.net/scp-735)
+[SCP-386: Eternal Fungus](http://scp-wiki.net/scp-386)

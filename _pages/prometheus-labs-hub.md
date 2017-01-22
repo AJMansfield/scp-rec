@@ -5,6 +5,6 @@ title: prometheus-labs-hub
 ---
 You may also like:
 
-[SCP-2034](http://scp-wiki.net/scp-2034)
+[SCP-1156: Wellington the Wonder Horse](http://scp-wiki.net/scp-1156)
 
-[SCP-1799](http://scp-wiki.net/scp-1799)
+[SCP-1978: Imperfect Redemption](http://scp-wiki.net/scp-1978)

@@ -5,6 +5,6 @@ title: f-o-u-r-t-e-e-n-thirteen
 ---
 You may also like:
 
-[Dreaming](http://scp-wiki.net/dreaming)
+[SCP+MLP=DNC](http://scp-wiki.net/scp-mlp-dnc)
 
-[SCP-1471-J](http://scp-wiki.net/scp-1471-j)
+[SCP-1214: Anomalous Random Number Generator](http://scp-wiki.net/scp-1214)

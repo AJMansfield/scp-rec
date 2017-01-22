@@ -5,6 +5,6 @@ title: loop
 ---
 You may also like:
 
-[Waking](http://scp-wiki.net/waking)
+[SCP-2351: A Wild Goose Chase](http://scp-wiki.net/scp-2351)
 
-[SCP-857-D](http://scp-wiki.net/scp-857-d)
+[SCP-236: Mimic "Crabs"](http://scp-wiki.net/scp-236)

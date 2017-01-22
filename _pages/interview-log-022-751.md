@@ -5,6 +5,6 @@ title: interview-log-022-751
 ---
 You may also like:
 
-[Nucleation](http://scp-wiki.net/cav-002)
+[SCP-1462: Renewable Energy Source](http://scp-wiki.net/scp-1462)
 
-[Interview Log 2422-2](http://scp-wiki.net/interview-log-2422-2)
+[SCP-1992-J: Hype Train](http://scp-wiki.net/scp-1992-j)

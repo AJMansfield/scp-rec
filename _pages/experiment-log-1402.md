@@ -5,6 +5,6 @@ title: experiment-log-1402
 ---
 You may also like:
 
-[SCP-1549](http://scp-wiki.net/scp-1549)
+[Experiment Log 731](http://scp-wiki.net/experiment-log-731)
 
-[Agent Imants Plumbing Pool Repair And Pizza Delivery Service](http://scp-wiki.net/agent-imants-plumbing-pool-repair-and-pizza-delivery-service)
+[SCPoems](http://scp-wiki.net/scpoems)

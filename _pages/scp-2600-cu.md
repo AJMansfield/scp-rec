@@ -5,6 +5,6 @@ title: scp-2600-cu
 ---
 You may also like:
 
-[SCP-1163](http://scp-wiki.net/scp-1163)
+[Clock Multiplier](http://scp-wiki.net/clock-multiplier)
 
-[Memory](http://scp-wiki.net/memory)
+[Nor Shall My Sword Sleep](http://scp-wiki.net/nor-shall-my-sword-sleep)

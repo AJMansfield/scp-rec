@@ -5,6 +5,6 @@ title: scp-one-million
 ---
 You may also like:
 
-[The Seeker](http://scp-wiki.net/wonder)
+[SCP-2709: Can Anyone Hear You Scream?](http://scp-wiki.net/scp-2709)
 
-[The List Of Wonders](http://scp-wiki.net/the-list-of-wonders)
+[Every Other Day](http://scp-wiki.net/every-other-day)

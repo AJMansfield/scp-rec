@@ -5,6 +5,6 @@ title: recorded
 ---
 You may also like:
 
-[Histories](http://scp-wiki.net/histories)
+[Good Morning, Sunshine](http://scp-wiki.net/wayward-intermission)
 
-[Da Capo al Fine](http://scp-wiki.net/da-capo-al-fine)
+[Commencement](http://scp-wiki.net/wayward-commencement)

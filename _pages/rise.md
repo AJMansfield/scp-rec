@@ -5,6 +5,6 @@ title: rise
 ---
 You may also like:
 
-[SCP-1357](http://scp-wiki.net/scp-1357)
+[Visions of a Better World](http://scp-wiki.net/visionsofabetterworld)
 
-[The Price We Pay](http://scp-wiki.net/the-price-we-pay)
+[SCP-1160: Effective Containment](http://scp-wiki.net/scp-1160)

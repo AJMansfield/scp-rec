@@ -5,6 +5,6 @@ title: experiment-log-1128
 ---
 You may also like:
 
-[Exit Strategy](http://scp-wiki.net/exit-strategy)
+[Hats](http://scp-wiki.net/hats)
 
-[SCP-2412](http://scp-wiki.net/scp-2412)
+[UIU File: 1952-003](http://scp-wiki.net/uiu-file-1952-003)

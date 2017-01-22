@@ -5,6 +5,6 @@ title: pretty-magic-gaiden-mecha-tokyo-mon-demon-ninja-sailor-clef
 ---
 You may also like:
 
-[SCP-1266](http://scp-wiki.net/scp-1266)
+[SCP Series 2](http://scp-wiki.net/scp-series-2)
 
-[Not a contest entry, but a crackfic about gods anyways](http://scp-wiki.net/party-of-gods)
+[Groups of Interest Contest!](http://scp-wiki.net/goi-contest-2014)

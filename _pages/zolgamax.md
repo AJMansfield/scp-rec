@@ -5,6 +5,6 @@ title: zolgamax
 ---
 You may also like:
 
-[giant enemy spycrab's author page](http://scp-wiki.net/giant-enemy-spycrab-s-author-page)
+[SCP-001: Awaiting De-classification [Blocked]](http://scp-wiki.net/scp-001)
 
-[Collected Information Concerning OverThinking](http://scp-wiki.net/collected-information-concerning-mr-welsch)
+[Decency](http://scp-wiki.net/decency)

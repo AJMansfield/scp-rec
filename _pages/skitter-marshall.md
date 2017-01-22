@@ -5,6 +5,6 @@ title: skitter-marshall
 ---
 You may also like:
 
-[Hellbent](http://scp-wiki.net/hellbent)
+[SCP-1998: Concentration Enhancer, Standard](http://scp-wiki.net/scp-1998)
 
-[SCP-753](http://scp-wiki.net/scp-753)
+[SCP-2090: Potentially XK Tim Duncan](http://scp-wiki.net/scp-2090)

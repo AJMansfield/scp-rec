@@ -5,6 +5,6 @@ title: dr-berggren-s-personnel-file
 ---
 You may also like:
 
-[The Ballad of Region 352](http://scp-wiki.net/the-ballad-of-region-352)
+[SCP-1816: With Skill and Care](http://scp-wiki.net/scp-1816)
 
-[SCP-1731](http://scp-wiki.net/scp-1731)
+[SCP-1204: Clingy Transient](http://scp-wiki.net/scp-1204)

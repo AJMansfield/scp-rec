@@ -5,6 +5,6 @@ title: upswing-of-disorder
 ---
 You may also like:
 
-[Leisure Time](http://scp-wiki.net/leisure-time)
+[SCP-1348-ICL-8](http://scp-wiki.net/scp-1348-icl-8)
 
-[Faith](http://scp-wiki.net/faith)
+[An Impenitent Thief](http://scp-wiki.net/an-impenitent-thief)

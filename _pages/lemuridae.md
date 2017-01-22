@@ -5,6 +5,6 @@ title: lemuridae
 ---
 You may also like:
 
-[SCP-1658](http://scp-wiki.net/scp-1658)
+[No One Else Will Protect Us](http://scp-wiki.net/no-one-else-will-protect-us)
 
-[SCP-1405](http://scp-wiki.net/scp-1405)
+[SCP-2241: Cameron The Crusader](http://scp-wiki.net/scp-2241)

@@ -5,6 +5,6 @@ title: mackenzie-pitfalls
 ---
 You may also like:
 
-[Herman Fuller Hub](http://scp-wiki.net/herman-fuller-hub)
+[Essays On Style](http://scp-wiki.net/essays-on-style)
 
-[Snuggle, Cuddle, and Protect: The Mean Dragon](http://scp-wiki.net/snuggle-cuddle-and-protect-the-mean-dragon)
+[Log of Extranormal Events: For when things happen which are unexplained, but occurred too briefly or quickly for the Foundation to contain them. Feel free to add to it, but be aware that it is regularly pruned.](http://scp-wiki.net/log-of-extranormal-events)

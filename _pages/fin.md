@@ -5,6 +5,6 @@ title: fin
 ---
 You may also like:
 
-[A Broken Machine](http://scp-wiki.net/a-broken-machine)
+[SCP-1143: Suricate Altar](http://scp-wiki.net/scp-1143)
 
-[But We Do Not Talk About That](http://scp-wiki.net/but-we-do-not-talk-about-that)
+[SCP-2460: Dark Satellite](http://scp-wiki.net/scp-2460)

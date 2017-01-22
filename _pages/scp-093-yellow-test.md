@@ -5,6 +5,6 @@ title: scp-093-yellow-test
 ---
 You may also like:
 
-[SCP-432 Expedition 2](http://scp-wiki.net/scp-432-expedition-2)
+[Herman Fuller Hub](http://scp-wiki.net/herman-fuller-hub)
 
-[SCP-432 Expedition 5](http://scp-wiki.net/scp-432-expedition-5)
+[SCP-750: A Different Outlook on Life](http://scp-wiki.net/scp-750)

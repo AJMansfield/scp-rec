@@ -5,6 +5,6 @@ title: alto-clef-jr-fins-of-the-father
 ---
 You may also like:
 
-[SCP-2748](http://scp-wiki.net/scp-2748)
+[Not a contest entry, but a crackfic about gods anyways](http://scp-wiki.net/party-of-gods)
 
-[Love and Relative Dimensions in Fate: Dr. Clef/Doctor Who](http://scp-wiki.net/breach-my-containment-baby)
+[Peregrine](http://scp-wiki.net/peregrine)

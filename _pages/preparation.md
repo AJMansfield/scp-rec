@@ -5,6 +5,6 @@ title: preparation
 ---
 You may also like:
 
-[Birth of the Cool](http://scp-wiki.net/birth-of-the-cool)
+[Holder Of The Foundation](http://scp-wiki.net/holder-of-the-foundation)
 
-[A Long Time Past](http://scp-wiki.net/a-long-time-past)
+[News for July/August 2016](http://scp-wiki.net/news-07-08-2016)

@@ -5,6 +5,6 @@ title: beasts-of-the-old-letters
 ---
 You may also like:
 
-[The Templar Incident](http://scp-wiki.net/the-templar-incident)
+[SCP-948: Hope](http://scp-wiki.net/scp-948)
 
-[SCP-2418](http://scp-wiki.net/scp-2418)
+[Property Values](http://scp-wiki.net/property-values)

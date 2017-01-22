@@ -5,6 +5,6 @@ title: links
 ---
 You may also like:
 
-[Document #017-1](http://scp-wiki.net/document-017-1)
+[Quota](http://scp-wiki.net/quota)
 
-[SCP-2856](http://scp-wiki.net/scp-2856)
+[Reimagining Contest](http://scp-wiki.net/reimagining-contest)

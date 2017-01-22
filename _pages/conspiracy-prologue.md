@@ -5,6 +5,6 @@ title: conspiracy-prologue
 ---
 You may also like:
 
-[Conspiracy, Part X](http://scp-wiki.net/conspiracy-part-x)
+[SCP-2505: Entry Creation Wizard](http://scp-wiki.net/scp-2505)
 
-[Why Change?](http://scp-wiki.net/why-change)
+[SCP-2615: If You Believe](http://scp-wiki.net/scp-2615)

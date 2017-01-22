@@ -5,6 +5,6 @@ title: spikebrennan-s-personnel-file
 ---
 You may also like:
 
-[giant enemy spycrab's author page](http://scp-wiki.net/giant-enemy-spycrab-s-author-page)
+[Dr. Bridge Personnel File](http://scp-wiki.net/dr-django-bridge-personnel-file)
 
-[Arcibi's File](http://scp-wiki.net/arcibi-s-file)
+[SCP-160: Predator Drone](http://scp-wiki.net/scp-160)

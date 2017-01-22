@@ -5,6 +5,6 @@ title: pseudohistorical-mischief
 ---
 You may also like:
 
-[Remembrance Of Walking](http://scp-wiki.net/remembrance-of-walking)
+[I Double E](http://scp-wiki.net/i-double-e)
 
-[SCP-1853](http://scp-wiki.net/scp-1853)
+[Work manifest for Dr.Gears](http://scp-wiki.net/work-manifest-for-dr-gears)

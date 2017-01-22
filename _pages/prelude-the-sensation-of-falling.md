@@ -5,6 +5,6 @@ title: prelude-the-sensation-of-falling
 ---
 You may also like:
 
-[SCP-1460](http://scp-wiki.net/scp-1460)
+[SCP-1099: Spawn-Water](http://scp-wiki.net/scp-1099)
 
-[The King Is Dead](http://scp-wiki.net/the-king-is-dead)
+[There Between the Trees](http://scp-wiki.net/what-xenophon-saw-in-the-jungle)

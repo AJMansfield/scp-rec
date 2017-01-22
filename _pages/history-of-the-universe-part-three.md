@@ -7,4 +7,4 @@ You may also like:
 
 [History Of The Universe: Part Two](http://scp-wiki.net/history-of-the-universe-part-two)
 
-[History Of The Universe: Part Four](http://scp-wiki.net/history-of-the-universe-part-four)
+[SCP-1986: Imaginary Library](http://scp-wiki.net/scp-1986)

@@ -5,6 +5,6 @@ title: name-rank-serial-number
 ---
 You may also like:
 
-[An Average Life](http://scp-wiki.net/an-average-life)
+[SCP-918: Baby Mill](http://scp-wiki.net/scp-918)
 
-[SCP-2884](http://scp-wiki.net/scp-2884)
+[SCP-2714: Billions of Blue Blistering](http://scp-wiki.net/scp-2714)

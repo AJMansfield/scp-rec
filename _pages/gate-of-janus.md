@@ -5,6 +5,6 @@ title: gate-of-janus
 ---
 You may also like:
 
-[The Avian and The Amphibian](http://scp-wiki.net/the-avian-and-the-amphibian)
+[SPC-140](http://scp-wiki.net/spc-140)
 
-[Bluesoul's Author Page](http://scp-wiki.net/bluesoul-s-author-page)
+[Deliverance](http://scp-wiki.net/deliverance)

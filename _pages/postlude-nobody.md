@@ -5,6 +5,6 @@ title: postlude-nobody
 ---
 You may also like:
 
-[The Diary of An Author](http://scp-wiki.net/the-diary-of-an-author)
+[SCP-2416: The Day the Clown Died](http://scp-wiki.net/scp-2416)
 
-[SCP-2921](http://scp-wiki.net/scp-2921)
+[SCP-2201: Cross-Dimensional Barbershop](http://scp-wiki.net/scp-2201)

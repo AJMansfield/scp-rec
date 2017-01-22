@@ -5,6 +5,6 @@ title: origination
 ---
 You may also like:
 
-[SCP-161](http://scp-wiki.net/scp-161)
+[The Stars Do Not Wait For You](http://scp-wiki.net/the-stars-do-not-wait-for-you)
 
-[New Year's (Part 2)](http://scp-wiki.net/new-year-s-part-2)
+[SCP-1240: The Mixed-up Pet Shop](http://scp-wiki.net/scp-1240)

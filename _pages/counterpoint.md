@@ -5,6 +5,6 @@ title: counterpoint
 ---
 You may also like:
 
-[Metacritique 2: Anomalous Art](http://scp-wiki.net/metacritique-two)
+[Peace. I would settle for that.](http://scp-wiki.net/peace-i-would-settle-for-that)
 
-[Pattern Breaker](http://scp-wiki.net/pattern-breaker)
+[2015 Community Survey Results](http://scp-wiki.net/2015-survey-results)

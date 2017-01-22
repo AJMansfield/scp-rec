@@ -5,6 +5,6 @@ title: a-canticle-for-bright
 ---
 You may also like:
 
-[Dragon's Teeth](http://scp-wiki.net/dragon-s-teeth)
+[Able Baker Charlie](http://scp-wiki.net/able-baker-charlie)
 
-[Cold](http://scp-wiki.net/cold)
+[SCP-2024: Mixing Rod](http://scp-wiki.net/scp-2024)

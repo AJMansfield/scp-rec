@@ -5,6 +5,6 @@ title: manna
 ---
 You may also like:
 
-[Have A Heart](http://scp-wiki.net/have-a-heart)
+[Enkidu](http://scp-wiki.net/enkidu)
 
-[SCP-2526](http://scp-wiki.net/scp-2526)
+[The Wolves at the Door](http://scp-wiki.net/the-wolves-at-the-door)

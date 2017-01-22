@@ -5,6 +5,6 @@ title: dr-rights-personnel-file
 ---
 You may also like:
 
-[Incident I.J77.82](http://scp-wiki.net/incident-i-j77-82)
+[SCP-857: Human-Based Ecosystem](http://scp-wiki.net/scp-857)
 
-[SCP-089](http://scp-wiki.net/scp-089)
+[SCP-773: Voodoo Dartboard](http://scp-wiki.net/scp-773)

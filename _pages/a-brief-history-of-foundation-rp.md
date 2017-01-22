@@ -5,6 +5,6 @@ title: a-brief-history-of-foundation-rp
 ---
 You may also like:
 
-[SCP-1885](http://scp-wiki.net/scp-1885)
+[Aftermath](http://scp-wiki.net/aftermath)
 
-[Operation Galahad](http://scp-wiki.net/operation-galahad)
+[SCP-1495: Karmic Musth](http://scp-wiki.net/scp-1495)

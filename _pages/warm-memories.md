@@ -5,6 +5,6 @@ title: warm-memories
 ---
 You may also like:
 
-[SCP-2790](http://scp-wiki.net/scp-2790)
+[SCP-1789: Irate Finger](http://scp-wiki.net/scp-1789)
 
-[Audio/Telemetry Log Epsilon-12-1555](http://scp-wiki.net/transcript-epsilon-12-1555)
+[SCP-2575: Dreaming of Outer Space](http://scp-wiki.net/scp-2575)

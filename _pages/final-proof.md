@@ -5,6 +5,6 @@ title: final-proof
 ---
 You may also like:
 
-[The Queen of Site-18](http://scp-wiki.net/the-queen-of-site-18)
+[SCP-1449: Dreamtime Whale Shark](http://scp-wiki.net/scp-1449)
 
-[SCP-096](http://scp-wiki.net/scp-096)
+[SCP-2919: Protect Kalmaris!](http://scp-wiki.net/scp-2919)

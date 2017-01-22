@@ -5,6 +5,6 @@ title: memories-from-a-past-life
 ---
 You may also like:
 
-[Birthday Every Day](http://scp-wiki.net/birthday-every-day)
+[The Foundation never changes](http://scp-wiki.net/the-foundation-never-changes)
 
-[SCP-097](http://scp-wiki.net/scp-097)
+[Prelude: A Terminus](http://scp-wiki.net/prelude-nobody)

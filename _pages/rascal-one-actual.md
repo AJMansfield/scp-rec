@@ -5,6 +5,6 @@ title: rascal-one-actual
 ---
 You may also like:
 
-[Third Vesta Donation](http://scp-wiki.net/3rd-vesta-donation)
+[The One Who Devours Souls](http://scp-wiki.net/the-one-who-devours-souls)
 
-[Old Roots](http://scp-wiki.net/old-roots)
+[SCP-1767: An Urban Slump](http://scp-wiki.net/scp-1767)

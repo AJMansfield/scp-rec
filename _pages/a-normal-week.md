@@ -5,6 +5,6 @@ title: a-normal-week
 ---
 You may also like:
 
-[Game Day Part 1: Preliminaries](http://scp-wiki.net/preliminaries)
+[A Day at the Call Center](http://scp-wiki.net/a-day-at-the-call-center)
 
-[SCP-624](http://scp-wiki.net/scp-624)
+[Strangers of Site-17: 343](http://scp-wiki.net/strangers-of-site-17-part-two)

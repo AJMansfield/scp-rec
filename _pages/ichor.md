@@ -5,6 +5,6 @@ title: ichor
 ---
 You may also like:
 
-[Envying the Dead](http://scp-wiki.net/envying-the-dead)
+[Audio Log 185-53](http://scp-wiki.net/audio-log-185-53)
 
-[Ennui](http://scp-wiki.net/ennui)
+[Police Seeking Clues After Four Injured in Congressional Intrusion](http://scp-wiki.net/police-seeking-clues-after-four-injured-in-congressional-int)

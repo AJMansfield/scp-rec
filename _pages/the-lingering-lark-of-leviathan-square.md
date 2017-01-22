@@ -5,6 +5,6 @@ title: the-lingering-lark-of-leviathan-square
 ---
 You may also like:
 
-[SCP-2765](http://scp-wiki.net/scp-2765)
+[A day at the (un)stables](http://scp-wiki.net/a-day-at-the-un-stables)
 
-[SCP-2516](http://scp-wiki.net/scp-2516)
+[Critiquing A Cardboard Box](http://scp-wiki.net/critiquing-a-cardboard-box)

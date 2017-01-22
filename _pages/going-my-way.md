@@ -5,6 +5,6 @@ title: going-my-way
 ---
 You may also like:
 
-[Urban Legends](http://scp-wiki.net/urban-legends)
+[Oneiroi Group of Interest Hub](http://scp-wiki.net/oneiroi)
 
-[Property Values](http://scp-wiki.net/property-values)
+[Dr Jon Drake's Personnel File](http://scp-wiki.net/dr-jon-drake-s-personnel-file)

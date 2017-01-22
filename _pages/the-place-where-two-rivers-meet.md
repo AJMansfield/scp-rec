@@ -5,6 +5,6 @@ title: the-place-where-two-rivers-meet
 ---
 You may also like:
 
-[The Art of Coping with Anomalies in the Gulf Region](http://scp-wiki.net/the-art-of-coping-with-anomalies-in-the-gulf-region)
+[SCP-1155: Predatory Street Art](http://scp-wiki.net/scp-1155)
 
-[April Fools 2014](http://scp-wiki.net/april-fools-2014)
+[SCP-____-J: Procrastinati](http://scp-wiki.net/scp-j)

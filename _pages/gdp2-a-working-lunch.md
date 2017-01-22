@@ -5,6 +5,6 @@ title: gdp2-a-working-lunch
 ---
 You may also like:
 
-[Game Day Part 1: Preliminaries](http://scp-wiki.net/preliminaries)
+[Old Roots](http://scp-wiki.net/old-roots)
 
-[Children Of Doubt](http://scp-wiki.net/children-of-doubt)
+[Dr Gibbons Personnel File](http://scp-wiki.net/dr-gibbons-personnel-file)

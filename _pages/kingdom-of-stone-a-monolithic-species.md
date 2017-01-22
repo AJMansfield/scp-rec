@@ -5,6 +5,6 @@ title: kingdom-of-stone-a-monolithic-species
 ---
 You may also like:
 
-[SCP-348](http://scp-wiki.net/scp-348)
+[Portrait of Two Choreographers](http://scp-wiki.net/portrait-of-two-choreographers)
 
-[SCP-748](http://scp-wiki.net/scp-748)
+[Adventures in Capitalism Hub](http://scp-wiki.net/adventures-in-capitalism-hub)

@@ -5,6 +5,6 @@ title: on-the-efficiency-of-various-postal-services
 ---
 You may also like:
 
-[Faith](http://scp-wiki.net/faith)
+[SCP-1413: SPORTSBALL](http://scp-wiki.net/scp-1413)
 
-[Prelude: Primae Formae](http://scp-wiki.net/primae-formae)
+[Exploration Log 1689-I](http://scp-wiki.net/exploration-log-1689-i)

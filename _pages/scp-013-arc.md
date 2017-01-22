@@ -5,6 +5,6 @@ title: scp-013-arc
 ---
 You may also like:
 
-[SCP-1234](http://scp-wiki.net/scp-1234)
+[The 784 Incident: Part 4: Breach](http://scp-wiki.net/784incident4)
 
-[The Guide to the Shit You Likely Missed](http://scp-wiki.net/fucktheurl)
+[Incident Report Yersinia 047-01 (2010)](http://scp-wiki.net/incident-report-yersinia-047-01-2010)

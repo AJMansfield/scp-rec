@@ -5,6 +5,6 @@ title: incident-370-a
 ---
 You may also like:
 
-[All Work and No Play](http://scp-wiki.net/all-work-and-no-play)
+[Audio/Telemetry Log Epsilon-12-1555](http://scp-wiki.net/transcript-epsilon-12-1555)
 
-[The Gate Opens](http://scp-wiki.net/the-gate-opens)
+[All Along](http://scp-wiki.net/all-along)

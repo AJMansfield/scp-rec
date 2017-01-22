@@ -5,6 +5,6 @@ title: scp-978-extended-test-logs
 ---
 You may also like:
 
-[SCP-1352](http://scp-wiki.net/scp-1352)
+[Between Shelves](http://scp-wiki.net/between-shelves)
 
-[Document 451-A](http://scp-wiki.net/document-451-a)
+[...: The Chibinator](http://scp-wiki.net/scp-5555-j)

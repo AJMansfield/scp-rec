@@ -5,6 +5,6 @@ title: alone
 ---
 You may also like:
 
-[Interview C](http://scp-wiki.net/interview-c)
+[SCP-SPOOKY-J: A Veteran Of The Skeleton War](http://scp-wiki.net/scp-spooky-j)
 
-[Memory Of Days Long Past](http://scp-wiki.net/memory-of-days-long-past)
+[SCP-970: The Recursive Room](http://scp-wiki.net/scp-970)

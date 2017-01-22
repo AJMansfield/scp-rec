@@ -5,6 +5,6 @@ title: final-regrets
 ---
 You may also like:
 
-[Endless Hunt Part Two: Rites of Passage](http://scp-wiki.net/ofanendlesshunt-parttwo-rites-of-passage)
+[SCP-2414: UnSCiPpable](http://scp-wiki.net/scp-2414)
 
-[Scripture](http://scp-wiki.net/scripture)
+[The Man Who Wasn't There Hub](http://scp-wiki.net/the-man-who-wasnt-there-hub)

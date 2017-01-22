@@ -5,6 +5,6 @@ title: experiment-log-295-a
 ---
 You may also like:
 
-[SCP-1419](http://scp-wiki.net/scp-1419)
+[SCP-901: The Building on the Square](http://scp-wiki.net/scp-901)
 
-[Experiment Log 295-1-b](http://scp-wiki.net/experiment-log-295-b)
+[SCP-420: Aggressive Skin Condition](http://scp-wiki.net/scp-420)

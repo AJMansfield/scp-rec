@@ -5,6 +5,6 @@ title: scp-516-testing-log
 ---
 You may also like:
 
-[SCP-807](http://scp-wiki.net/scp-807)
+[Dear Cavalier](http://scp-wiki.net/dear-cavalier)
 
-[SCP-2503](http://scp-wiki.net/scp-2503)
+[SCP-561: A Passive Rip in Time](http://scp-wiki.net/scp-561)

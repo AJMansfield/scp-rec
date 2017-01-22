@@ -5,6 +5,6 @@ title: thekit-s-personnel-file
 ---
 You may also like:
 
-[SCP-2784](http://scp-wiki.net/scp-2784)
+[SCP-1669: Self-Terminating Loop](http://scp-wiki.net/scp-1669)
 
-[SCP-576](http://scp-wiki.net/scp-576)
+[SCP-1099: Spawn-Water](http://scp-wiki.net/scp-1099)

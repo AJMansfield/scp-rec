@@ -5,6 +5,6 @@ title: termination-order
 ---
 You may also like:
 
-[SCP-111-J](http://scp-wiki.net/scp-111-j)
+[Right?](http://scp-wiki.net/right)
 
-[Dial S For SCP](http://scp-wiki.net/dial-s-for-scp)
+[Two Transcribed Conversations In Very Different Tones](http://scp-wiki.net/two-transcribed-conversations-in-very-different-tones)

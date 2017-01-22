@@ -5,6 +5,6 @@ title: transcript-epsilon-12-1555
 ---
 You may also like:
 
-[SCP-432 Expedition 5](http://scp-wiki.net/scp-432-expedition-5)
+[Kate McTiriss's Personnel File](http://scp-wiki.net/kate-mctiriss-s-personnel-file)
 
-[We're Sorry](http://scp-wiki.net/we-re-sorry)
+[INCIDENT-370-A](http://scp-wiki.net/incident-370-a)

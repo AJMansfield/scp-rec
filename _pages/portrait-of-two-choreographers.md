@@ -5,6 +5,6 @@ title: portrait-of-two-choreographers
 ---
 You may also like:
 
-[Warm Milk and Ramen](http://scp-wiki.net/warm-milk-and-ramen)
+[Kingdom Of Stone: A Monolithic Species](http://scp-wiki.net/kingdom-of-stone-a-monolithic-species)
 
-[Dr. Roget's Personnel File](http://scp-wiki.net/dr-rogets-file)
+[Cactus Insurgent](http://scp-wiki.net/cactus-insurgent)

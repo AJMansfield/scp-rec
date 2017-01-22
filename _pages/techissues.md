@@ -5,6 +5,6 @@ title: techissues
 ---
 You may also like:
 
-[Sentimentality](http://scp-wiki.net/sentimentality)
+[SCP-1023: The Glass Seismograph](http://scp-wiki.net/scp-1023)
 
-[Agricola In Insula Est Poeta](http://scp-wiki.net/agricola-in-insula-est-poeta)
+[SCP-1643: The City and the Tower](http://scp-wiki.net/scp-1643)

@@ -5,6 +5,6 @@ title: scp-222-j
 ---
 You may also like:
 
-[Girls' Night Out: Raising Hell](http://scp-wiki.net/raising-hell)
+[Rumetzen's Author Page](http://scp-wiki.net/rumetzen-author-page)
 
-[Skipping Time](http://scp-wiki.net/skipping-time)
+[Incident 682-1548](http://scp-wiki.net/incident-682-1548)

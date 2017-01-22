@@ -5,6 +5,6 @@ title: secret-of-the-goldfish
 ---
 You may also like:
 
-[Artificial Dragons Gate](http://scp-wiki.net/artificial-dragons-gate)
+[SCP-231-J: 0.453592 Kilograms of Flesh](http://scp-wiki.net/scp-231-j)
 
-[Charon (Part 2: Katabasis)](http://scp-wiki.net/charon-part-2-katabasis)
+[SCP-184: The Architect](http://scp-wiki.net/scp-184)

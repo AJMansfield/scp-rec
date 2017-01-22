@@ -5,6 +5,6 @@ title: inside-outside
 ---
 You may also like:
 
-[Humans And Houses](http://scp-wiki.net/humans-and-houses)
+[Agent Logan Armstrong's Personnel File](http://scp-wiki.net/agent-logan-armstrong-s-personnel-file)
 
-[Matryoshka](http://scp-wiki.net/matryoshka)
+[We Who Poke With Sticks](http://scp-wiki.net/when-in-doubt-poke-it-with-a-stick)

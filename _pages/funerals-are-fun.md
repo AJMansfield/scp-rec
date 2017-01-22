@@ -5,6 +5,6 @@ title: funerals-are-fun
 ---
 You may also like:
 
-[SCP-321](http://scp-wiki.net/scp-321)
+[Transcript of telephone conversation, August 9, 1991](http://scp-wiki.net/transcript-of-telephone-conversation-august-9-1991)
 
-[SCP-052](http://scp-wiki.net/scp-052)
+[SCP-1664: Living Ink](http://scp-wiki.net/scp-1664)

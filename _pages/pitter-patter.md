@@ -5,6 +5,6 @@ title: pitter-patter
 ---
 You may also like:
 
-[Budget Cuts](http://scp-wiki.net/budget-cuts)
+[SCP-430: A Peasant's Punishment](http://scp-wiki.net/scp-430)
 
-[One Last Punch For The Road](http://scp-wiki.net/one-last-punch-for-the-road)
+[UIU File: 1948-019](http://scp-wiki.net/uiu-file-1948-019)

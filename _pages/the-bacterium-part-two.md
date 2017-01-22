@@ -5,6 +5,6 @@ title: the-bacterium-part-two
 ---
 You may also like:
 
-[SCP-638](http://scp-wiki.net/scp-638)
+[Kill 682](http://scp-wiki.net/kill-682)
 
-[Summer's Exile](http://scp-wiki.net/summer-s-exile)
+[Field Man](http://scp-wiki.net/field-man)

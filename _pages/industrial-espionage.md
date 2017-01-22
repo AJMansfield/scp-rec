@@ -5,6 +5,6 @@ title: industrial-espionage
 ---
 You may also like:
 
-[SCP-2625](http://scp-wiki.net/scp-2625)
+[SCP-2257: House God](http://scp-wiki.net/scp-2257)
 
-[maybe god will forgive you if we both beg](http://scp-wiki.net/i-thought-you-would-come-back-if-i-made-it-well)
+[SCP-2227: If You See Something, Say Something](http://scp-wiki.net/scp-2227)

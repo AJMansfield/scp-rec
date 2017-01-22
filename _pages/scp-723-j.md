@@ -5,6 +5,6 @@ title: scp-723-j
 ---
 You may also like:
 
-[SCP-2646](http://scp-wiki.net/scp-2646)
+[SCP-2950-J: THE POSTCARD](http://scp-wiki.net/scp-2950-j)
 
-[SCP-2735](http://scp-wiki.net/scp-2735)
+[SCP-206: The Voyager](http://scp-wiki.net/scp-206)

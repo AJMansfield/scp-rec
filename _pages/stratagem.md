@@ -5,6 +5,6 @@ title: stratagem
 ---
 You may also like:
 
-[RUN AWAY FOREVURRR](http://scp-wiki.net/run-away-forevurrr)
+[Document C 88 Il](http://scp-wiki.net/document-c-88-il)
 
-[SCP-1647](http://scp-wiki.net/scp-1647)
+[SCP-1605: Appeler Une Croix](http://scp-wiki.net/scp-1605)

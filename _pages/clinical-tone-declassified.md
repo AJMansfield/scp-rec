@@ -5,6 +5,6 @@ title: clinical-tone-declassified
 ---
 You may also like:
 
-[Metacritique 2: Anomalous Art](http://scp-wiki.net/metacritique-two)
+[The HAMI-BOMBARD Blues, Part I](http://scp-wiki.net/hamibombard1)
 
-[Prelude: Primae Formae](http://scp-wiki.net/primae-formae)
+[SCP-1316: Lucy the Kitten Feline Espionage Device](http://scp-wiki.net/scp-1316)

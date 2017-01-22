@@ -5,6 +5,6 @@ title: wanderer-symbols
 ---
 You may also like:
 
-[The Smell of Her Hair](http://scp-wiki.net/stop)
+[Dr Cuddles Author Page](http://scp-wiki.net/dr-cuddles-author-page)
 
-[Autocorrect](http://scp-wiki.net/autocorrect)
+[Researcher James "Paladin" Foster's Personnel File](http://scp-wiki.net/researcher-james-paladin-foster-s-personnel-file)

@@ -5,6 +5,6 @@ title: all-they-want-is-the-blood
 ---
 You may also like:
 
-[Triumph](http://scp-wiki.net/triumph)
+[SCP-1859: Life Over Geological Time](http://scp-wiki.net/scp-1859)
 
-[Incident Mike Echo Seven Alpha](http://scp-wiki.net/incident-mike-echo-seven-alpha)
+[Of Blackmail and Bribery](http://scp-wiki.net/of-blackmail-and-bribery)

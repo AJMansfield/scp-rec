@@ -5,6 +5,6 @@ title: personnel-file-t-lees
 ---
 You may also like:
 
-[SCP-1180](http://scp-wiki.net/scp-1180)
+[The Self Insert](http://scp-wiki.net/theselfinsert)
 
-[A Waking Nightmare](http://scp-wiki.net/a-waking-nightmare)
+[SCP-001: Awaiting De-classification [Blocked]](http://scp-wiki.net/scp-001)

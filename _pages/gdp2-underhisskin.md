@@ -5,6 +5,6 @@ title: gdp2-underhisskin
 ---
 You may also like:
 
-[The Light At The End Of The Tunnel](http://scp-wiki.net/gdp2-the-light-at-the-end-of-the-tunnel)
+[SCP-354: The Red Pool](http://scp-wiki.net/scp-354)
 
-[SCP-2953](http://scp-wiki.net/scp-2953)
+[SCP-669: A Didactic Perspective](http://scp-wiki.net/scp-669)

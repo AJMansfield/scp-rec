@@ -5,6 +5,6 @@ title: the-giant-at-the-end-of-days
 ---
 You may also like:
 
-[The Seeker](http://scp-wiki.net/wonder)
+[SUBVERSION](http://scp-wiki.net/subversion-hub)
 
-[Da Capo al Fine](http://scp-wiki.net/da-capo-al-fine)
+[Agricola In Insula Est Poeta](http://scp-wiki.net/agricola-in-insula-est-poeta)

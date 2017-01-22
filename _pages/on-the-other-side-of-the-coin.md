@@ -5,6 +5,6 @@ title: on-the-other-side-of-the-coin
 ---
 You may also like:
 
-[ChazzK'S Personnel File](http://scp-wiki.net/chazzk-s-personnel-file)
+[Dr Jon Drake's Personnel File](http://scp-wiki.net/dr-jon-drake-s-personnel-file)
 
-[spikebrennan's Personnel File](http://scp-wiki.net/spikebrennan-s-personnel-file)
+[SCP-2999: The Black Cat and the White Rabbit](http://scp-wiki.net/scp-2999)

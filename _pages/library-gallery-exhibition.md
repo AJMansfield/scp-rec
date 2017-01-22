@@ -5,6 +5,6 @@ title: library-gallery-exhibition
 ---
 You may also like:
 
-[When Moses Goes Wrong](http://scp-wiki.net/when-moses-goes-wrong)
+[The Circle Opens](http://scp-wiki.net/the-circle-opens)
 
-[SCP-2797](http://scp-wiki.net/scp-2797)
+[A Word From The Administrator](http://scp-wiki.net/a-word-from-the-administrator)

@@ -5,6 +5,6 @@ title: insufficient-clearance
 ---
 You may also like:
 
-[Warning Call](http://scp-wiki.net/warning-call)
+[SCP-1700: Debtshop](http://scp-wiki.net/scp-1700)
 
-[SCP-1965](http://scp-wiki.net/scp-1965)
+[Interrogation W 2105 001](http://scp-wiki.net/interrogation-w-2105-001)

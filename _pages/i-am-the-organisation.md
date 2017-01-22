@@ -5,6 +5,6 @@ title: i-am-the-organisation
 ---
 You may also like:
 
-[SCP-518](http://scp-wiki.net/scp-518)
+[Iteration 0](http://scp-wiki.net/iteration-0)
 
-[SCP-825](http://scp-wiki.net/scp-825)
+[SCP-2031: Ant farm](http://scp-wiki.net/scp-2031)

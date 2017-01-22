@@ -5,6 +5,6 @@ title: surprise-happy-birthday-4
 ---
 You may also like:
 
-[Surprise! Happy Birthday!](http://scp-wiki.net/surprise-happy-birthday)
+[Change the World](http://scp-wiki.net/change-the-world)
 
-[SCP-2084](http://scp-wiki.net/scp-2084)
+[SCP-581: The Equestrian's Soul](http://scp-wiki.net/scp-581)

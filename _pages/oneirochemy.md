@@ -5,6 +5,6 @@ title: oneirochemy
 ---
 You may also like:
 
-[Surprise! Happy Birthday! Now, see here...](http://scp-wiki.net/surprise-happy-birthday-5)
+[SCP-1600: Philosopher's Cheese](http://scp-wiki.net/scp-1600)
 
-[Enjoy the Silence](http://scp-wiki.net/enjoy-the-silence)
+[SCP-2281: Backseat Driver](http://scp-wiki.net/scp-2281)

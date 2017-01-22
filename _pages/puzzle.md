@@ -5,6 +5,6 @@ title: puzzle
 ---
 You may also like:
 
-[Fik'ra](http://scp-wiki.net/fik-ra)
+[Are We Cool Yet? Hub](http://scp-wiki.net/are-we-cool-yet-hub)
 
-[Djoric-Dmatix Proposal](http://scp-wiki.net/djoric-dmatix-proposal)
+[Experiment Log 1301](http://scp-wiki.net/experiment-log-1301)

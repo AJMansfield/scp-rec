@@ -7,4 +7,4 @@ You may also like:
 
 [Snip Snip Snip](http://scp-wiki.net/snip-snip-snip)
 
-[A Cooler Manifesto](http://scp-wiki.net/a-cooler-manifesto)
+[Disposal And Discourse](http://scp-wiki.net/disposal-and-discourse)

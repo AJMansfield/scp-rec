@@ -5,6 +5,6 @@ title: scp-2696-attached-documentation
 ---
 You may also like:
 
-[SCP-1186](http://scp-wiki.net/scp-1186)
+[SCP-2404: Enki & Enki](http://scp-wiki.net/scp-2404)
 
-[SCP-706](http://scp-wiki.net/scp-706)
+[Recovered Documents (Translated into English from Russian)](http://scp-wiki.net/doc-491)

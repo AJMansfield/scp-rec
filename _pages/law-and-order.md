@@ -5,6 +5,6 @@ title: law-and-order
 ---
 You may also like:
 
-[SCP-1615](http://scp-wiki.net/scp-1615)
+[Sentimentality](http://scp-wiki.net/sentimentality)
 
-[Handout](http://scp-wiki.net/handout)
+[...Keter: Cleanup Duty](http://scp-wiki.net/keter-cleanup-duty)

@@ -5,6 +5,6 @@ title: capone
 ---
 You may also like:
 
-[Folly](http://scp-wiki.net/folly)
+[Fault](http://scp-wiki.net/fault)
 
-[The 784  Incident: Part 2: Negotiation](http://scp-wiki.net/784incident2)
+[Agent Andrew C. "Circeus" Hunter's Personnel File](http://scp-wiki.net/circeus-personnel-file)

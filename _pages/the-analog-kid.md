@@ -5,6 +5,6 @@ title: the-analog-kid
 ---
 You may also like:
 
-[The Wolves at the Door](http://scp-wiki.net/the-wolves-at-the-door)
+[First Locke Donation](http://scp-wiki.net/first-locke-donation)
 
-[SCP-424](http://scp-wiki.net/scp-424)
+[The Tinkerer](http://scp-wiki.net/the-tinkerer)

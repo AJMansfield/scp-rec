@@ -5,6 +5,6 @@ title: doing-the-safety-dance
 ---
 You may also like:
 
-[Game Day Part 1: Attack of the Replicas](http://scp-wiki.net/game-day-1-johannes-sorts)
+[SCP-2343: How I Got To Memphis](http://scp-wiki.net/scp-2343)
 
-[Story To Be Named Later](http://scp-wiki.net/story-to-be-named-later)
+[SCP-1185: Self-Supplying Gasoline Pump](http://scp-wiki.net/scp-1185)

@@ -5,6 +5,6 @@ title: scp-231-j
 ---
 You may also like:
 
-[Twisted Together](http://scp-wiki.net/twisted-together)
+[SCP-1965: A Voice Amidst the Silence](http://scp-wiki.net/scp-1965)
 
-[Empty Unmarked Grave](http://scp-wiki.net/empty-unmarked-grave)
+[Secret Of The Goldfish](http://scp-wiki.net/secret-of-the-goldfish)

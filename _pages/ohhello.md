@@ -5,6 +5,6 @@ title: ohhello
 ---
 You may also like:
 
-[6. Mr. Stripes](http://scp-wiki.net/6-mr-stripes)
+[Tag Guide](http://scp-wiki.net/tag-guide)
 
-[3. Mr. Money](http://scp-wiki.net/3-mr-money)
+["UHEC"](http://scp-wiki.net/goc-tale-sequence-uhec)

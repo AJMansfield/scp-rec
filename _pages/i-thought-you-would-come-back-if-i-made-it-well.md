@@ -5,6 +5,6 @@ title: i-thought-you-would-come-back-if-i-made-it-well
 ---
 You may also like:
 
-[Folly](http://scp-wiki.net/folly)
+[SCP-2331: SCRAVECROW](http://scp-wiki.net/scp-2331)
 
-[Opening Night](http://scp-wiki.net/opening-night)
+[SCP-1926-R](http://scp-wiki.net/scp-1926-r)

@@ -5,6 +5,6 @@ title: internal-memo-regarding-a-theft
 ---
 You may also like:
 
-[Conspiracy, Epilogue](http://scp-wiki.net/conspiracy-epilogue)
+[New Age - Book III: "Gunning for the Buddha"](http://scp-wiki.net/new-age-3)
 
-[How To Debate An Armchair](http://scp-wiki.net/how-to-debate-an-armchair)
+[Researcher Mulciber's Personnel File](http://scp-wiki.net/agent-mulciber-s-personnel-file)

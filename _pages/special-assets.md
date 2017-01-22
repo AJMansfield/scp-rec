@@ -5,6 +5,6 @@ title: special-assets
 ---
 You may also like:
 
-[Enkidu](http://scp-wiki.net/enkidu)
+[SCP-426: I am a Toaster](http://scp-wiki.net/scp-426)
 
-[Storm Front](http://scp-wiki.net/stormfront)
+[Hello World (Part IV)](http://scp-wiki.net/hello-world-part-iv)

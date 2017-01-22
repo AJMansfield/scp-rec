@@ -5,6 +5,6 @@ title: the-faraday-girls
 ---
 You may also like:
 
-[SCP-224](http://scp-wiki.net/scp-224)
+[SCP-1542: Subject: A-35](http://scp-wiki.net/scp-1542)
 
-[SCP-1396](http://scp-wiki.net/scp-1396)
+[SCP-1028: Mindwarp Murmuration](http://scp-wiki.net/scp-1028)

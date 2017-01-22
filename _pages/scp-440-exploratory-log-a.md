@@ -5,6 +5,6 @@ title: scp-440-exploratory-log-a
 ---
 You may also like:
 
-[SCP-440 Exploratory Log B](http://scp-wiki.net/scp-440-exploratory-log-b)
+[Experiment Log 261 Ad De](http://scp-wiki.net/experiment-log-261-ad-de)
 
-[SCP-343](http://scp-wiki.net/scp-343)
+[SCP-1597: A Security Blanket](http://scp-wiki.net/scp-1597)

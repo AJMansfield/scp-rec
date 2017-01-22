@@ -5,6 +5,6 @@ title: 5700-years-later
 ---
 You may also like:
 
-[Resale Value](http://scp-wiki.net/resale-value)
+[SCP-099: The Portrait](http://scp-wiki.net/scp-099)
 
-[Dossier - FSF Delivery](http://scp-wiki.net/dossier-fsf-delivery)
+[The Glorious Revolution](http://scp-wiki.net/the-glorious-revolution)

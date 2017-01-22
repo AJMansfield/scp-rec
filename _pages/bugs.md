@@ -5,6 +5,6 @@ title: bugs
 ---
 You may also like:
 
-[Conspiracy, Part VII](http://scp-wiki.net/conspiracy-part-vii)
+[SCP-2495: Noir Dire](http://scp-wiki.net/scp-2495)
 
-[Conspiracy, Part VIII](http://scp-wiki.net/conspiracy-part-viii)
+[News Update 01](http://scp-wiki.net/news-update-01)

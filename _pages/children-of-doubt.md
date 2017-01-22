@@ -5,6 +5,6 @@ title: children-of-doubt
 ---
 You may also like:
 
-[The Special Bond Between Child and Mother](http://scp-wiki.net/the-special-bond-between-child-and-mother)
+[Eden](http://scp-wiki.net/eden)
 
 [The Exalted](http://scp-wiki.net/the-exalted)

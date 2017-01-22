@@ -7,4 +7,4 @@ You may also like:
 
 [Quintessence Of Dust](http://scp-wiki.net/quintessence-of-dust)
 
-[The Cool War](http://scp-wiki.net/the-cool-war-hub)
+[Final Attack Orders](http://scp-wiki.net/final-attack-orders)

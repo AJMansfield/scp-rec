@@ -5,6 +5,6 @@ title: freudian
 ---
 You may also like:
 
-[Agent Logan Armstrong's Personnel File](http://scp-wiki.net/agent-logan-armstrong-s-personnel-file)
+[Anaxagoras's Author Page](http://scp-wiki.net/anaxagoras-s-author-page)
 
-[Dr. Frederick Heiden](http://scp-wiki.net/dr-frederick-heiden)
+[Shark Tale](http://scp-wiki.net/shark-tale)

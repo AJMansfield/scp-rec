@@ -5,6 +5,6 @@ title: rights-birthday-party
 ---
 You may also like:
 
-[SCP-1220](http://scp-wiki.net/scp-1220)
+[Adventures in Capitalism Hub](http://scp-wiki.net/adventures-in-capitalism-hub)
 
-[Bigger Than Jesus](http://scp-wiki.net/bigger-than-jesus)
+[First Ones In](http://scp-wiki.net/first-ones-in)

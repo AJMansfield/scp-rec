@@ -5,6 +5,6 @@ title: marshall-carter-and-dark-hub
 ---
 You may also like:
 
-["Nobody" HUB](http://scp-wiki.net/nobody-hub)
+[SCP-2255: The Most Interesting Rainstorm in the World](http://scp-wiki.net/scp-2255)
 
-[Where's The Shadow Government When You Need Them?](http://scp-wiki.net/it-s-a-bad-bad-world)
+[SCP-2464: Suspension](http://scp-wiki.net/scp-2464)

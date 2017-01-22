@@ -5,6 +5,6 @@ title: rules-of-thumb
 ---
 You may also like:
 
-[Conspiracy, Part VII](http://scp-wiki.net/conspiracy-part-vii)
+[Decency](http://scp-wiki.net/decency)
 
-[Interview Log 1372-1](http://scp-wiki.net/interview-log-1372-1)
+[Agent Logan Armstrong's Personnel File](http://scp-wiki.net/agent-logan-armstrong-s-personnel-file)

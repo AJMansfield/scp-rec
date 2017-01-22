@@ -5,6 +5,6 @@ title: star-bound
 ---
 You may also like:
 
-[Endless Hunt Part Five: The Prisoner](http://scp-wiki.net/ofanendlesshunt-partfive-theprisoner)
+[SCP-682-J James' Coloring Book](http://scp-wiki.net/scp-682-j-james-coloring-book)
 
-[Of Meetings and Meals](http://scp-wiki.net/of-meetings-and-meals)
+[SCP-2548: The Friendly Vacuum](http://scp-wiki.net/scp-2548)

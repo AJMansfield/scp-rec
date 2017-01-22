@@ -5,6 +5,6 @@ title: rising
 ---
 You may also like:
 
-[SCP-5308-J](http://scp-wiki.net/scp-5308-j)
+[SCP-974: Treehouse Predator](http://scp-wiki.net/scp-974)
 
-[Matryoshka: Prologue](http://scp-wiki.net/matryoshka-prologue)
+[SCP-2489: A Political Machine](http://scp-wiki.net/scp-2489)

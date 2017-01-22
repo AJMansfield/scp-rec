@@ -5,6 +5,6 @@ title: goc-tale-sequence-awtok
 ---
 You may also like:
 
-[Authenticity Trip](http://scp-wiki.net/authenticity-trip)
+[SCP-307: Carnivorous Ivy](http://scp-wiki.net/scp-307)
 
-[Like We Were Ever Kindergarten Teachers to Start With](http://scp-wiki.net/maria-jones-this-is-your-life)
+[Experiment Log SCP 482](http://scp-wiki.net/experiment-log-scp-482)

@@ -5,6 +5,6 @@ title: theysayshelooksjustlikeo5-8
 ---
 You may also like:
 
-[The Hydra's Spine](http://scp-wiki.net/the-hydra-s-spine)
+[Smooth as Silk](http://scp-wiki.net/smooth-as-silk)
 
-[UIU Files Chapter 1](http://scp-wiki.net/uiu-files-chapter-1)
+[SCP-424: Nanomimes](http://scp-wiki.net/scp-424)

@@ -5,6 +5,6 @@ title: criticism-policy
 ---
 You may also like:
 
-[SCP-2807](http://scp-wiki.net/scp-2807)
+[The Word](http://scp-wiki.net/the-word)
 
-[SCP-2417](http://scp-wiki.net/scp-2417)
+[Agent Klein's Personnel File](http://scp-wiki.net/agent-klein-s-personnel-file)

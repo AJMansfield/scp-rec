@@ -5,6 +5,6 @@ title: dr-cog-and-the-plastic-fantastic
 ---
 You may also like:
 
-[SCP-740](http://scp-wiki.net/scp-740)
+[SCP-2560: Polar Opposites](http://scp-wiki.net/scp-2560)
 
-[SCP-1009](http://scp-wiki.net/scp-1009)
+[SCP-534: Misplaced Blood](http://scp-wiki.net/scp-534)

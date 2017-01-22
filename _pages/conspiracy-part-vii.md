@@ -5,6 +5,6 @@ title: conspiracy-part-vii
 ---
 You may also like:
 
-[Conspiracy, Part V](http://scp-wiki.net/conspiracy-part-v)
+[Realignment](http://scp-wiki.net/realignment)
 
-[Conspiracy, Part VIII](http://scp-wiki.net/conspiracy-part-viii)
+[Too Drunk To Be Merry](http://scp-wiki.net/too-drunk-to-be-merry)

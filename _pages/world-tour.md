@@ -5,6 +5,6 @@ title: world-tour
 ---
 You may also like:
 
-[SCP-1428](http://scp-wiki.net/scp-1428)
+[A Day at the Call Center](http://scp-wiki.net/a-day-at-the-call-center)
 
-[SCP-1087](http://scp-wiki.net/scp-1087)
+[May 13th](http://scp-wiki.net/may-13th)

@@ -5,6 +5,6 @@ title: thunder-perfect-mind
 ---
 You may also like:
 
-[Incident Mike Echo Seven Alpha](http://scp-wiki.net/incident-mike-echo-seven-alpha)
+[SCP-2063: A Past Vision of the Future](http://scp-wiki.net/scp-2063)
 
-[LTE-2712-Bosch](http://scp-wiki.net/lte-2712-bosch)
+[The Exalted](http://scp-wiki.net/the-exalted)

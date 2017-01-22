@@ -5,6 +5,6 @@ title: contain
 ---
 You may also like:
 
-[SECURE](http://scp-wiki.net/secure)
+[Seasons Pass](http://scp-wiki.net/seasons-pass)
 
-[PROTECT](http://scp-wiki.net/protect2)
+[Retired, Extremely Dangerous](http://scp-wiki.net/retired-extremely-dangerous)

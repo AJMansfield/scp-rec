@@ -5,6 +5,6 @@ title: mackenzie-tips
 ---
 You may also like:
 
-[SCP-945](http://scp-wiki.net/scp-945)
+[SCP-1956: The Gnomes](http://scp-wiki.net/scp-1956)
 
-[SCP-1858](http://scp-wiki.net/scp-1858)
+[Dr Dillinger's Personnel File](http://scp-wiki.net/dr-dillinger-s-personnel-file)

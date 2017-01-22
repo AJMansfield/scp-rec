@@ -5,6 +5,6 @@ title: how-173-got-to-site-19
 ---
 You may also like:
 
-[Now... This](http://scp-wiki.net/now-this)
+[The Watchtower](http://scp-wiki.net/the-watchtower)
 
-[Figure and Ground](http://scp-wiki.net/figure-and-ground)
+[Endless Hunt Part Four: Living Through Shattered Glass](http://scp-wiki.net/ofanendlesshunt-partfour-livingthroughshatteredglass)

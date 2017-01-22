@@ -5,6 +5,6 @@ title: all-the-king-s-men
 ---
 You may also like:
 
-[Slipped Under the Door from Cell 142](http://scp-wiki.net/slipped-under-the-door-from-cell-142)
+[The Dedekind-Infinite Demographic](http://scp-wiki.net/the-dedekind-infinite-demographic)
 
-[If It Looks Like a Duck, Swims Like a Duck, and Quacks Like a Duck, It's Probably a Shapeshifting Living Nightmare](http://scp-wiki.net/duck-rule)
+[SCP-1883: Gamification](http://scp-wiki.net/scp-1883)

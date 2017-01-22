@@ -5,6 +5,6 @@ title: under-the-sea
 ---
 You may also like:
 
-[Gingercake's Art Gallery!](http://scp-wiki.net/gingercake-s-art-gallery)
+[Incident 0401-42-III - 'Chornobylska Katastrofa'](http://scp-wiki.net/incident-0401-42-iii-chornobylska-katastrofa)
 
-[SunnyClockwork's Artwork - Joke SCPs](http://scp-wiki.net/sunny-art-joke-scps)
+[ADANA Protocol](http://scp-wiki.net/adana-protocol)

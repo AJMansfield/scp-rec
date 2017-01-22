@@ -5,6 +5,6 @@ title: the-doc-block
 ---
 You may also like:
 
-[SCP-1164](http://scp-wiki.net/scp-1164)
+[Iris Dark](http://scp-wiki.net/iris-dark)
 
-[SCP-1386](http://scp-wiki.net/scp-1386)
+[Keeping With The Times](http://scp-wiki.net/keeping-with-the-times)

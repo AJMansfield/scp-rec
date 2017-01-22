@@ -5,6 +5,6 @@ title: a-burial-in-the-woods
 ---
 You may also like:
 
-[The Word and The Cool Kids](http://scp-wiki.net/what-happened-at-greenwich)
+[SCP-995: Under The Couch](http://scp-wiki.net/scp-995)
 
-[I Forget Myself in This Wondrous Night](http://scp-wiki.net/i-forget-myself-in-this-wondrous-night)
+[The Last Good Man in the Foundation](http://scp-wiki.net/the-last-good-man-in-the-foundation)

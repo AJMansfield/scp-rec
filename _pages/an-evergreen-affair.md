@@ -5,6 +5,6 @@ title: an-evergreen-affair
 ---
 You may also like:
 
-[SCP-972](http://scp-wiki.net/scp-972)
+[SCP-072: The Foot of the Bed](http://scp-wiki.net/scp-072)
 
-[The Person in Rags](http://scp-wiki.net/the-person-in-rags)
+[SCP-898: Memetic Counter-Agent](http://scp-wiki.net/scp-898)

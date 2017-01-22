@@ -5,6 +5,6 @@ title: black-white-black-white-black-white-black-white-black-white
 ---
 You may also like:
 
-[SCP-2552](http://scp-wiki.net/scp-2552)
+[What's In A Name?](http://scp-wiki.net/what-s-in-a-name)
 
-[SCP-1844](http://scp-wiki.net/scp-1844)
+[173](http://scp-wiki.net/173)

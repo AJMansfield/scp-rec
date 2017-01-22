@@ -5,6 +5,6 @@ title: the-one-thousand-deaths-of-pastor-lewis-robinson-the-ethics
 ---
 You may also like:
 
-[Can Haz Memes](http://scp-wiki.net/can-haz-memes)
+[Untitled](http://scp-wiki.net/untitled)
 
-[SCP-2257](http://scp-wiki.net/scp-2257)
+[Happy Howlidays](http://scp-wiki.net/happy-howlidays)

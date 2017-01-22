@@ -5,6 +5,6 @@ title: 784incident6
 ---
 You may also like:
 
-[SCP-583](http://scp-wiki.net/scp-583)
+[SCP-759: Sourdough Starter](http://scp-wiki.net/scp-759)
 
-[In His Own Image: Epilogue](http://scp-wiki.net/in-his-own-image-epilogue)
+[SCP-758: Spell Check - "Vasili"](http://scp-wiki.net/scp-758)

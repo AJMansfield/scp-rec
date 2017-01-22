@@ -5,6 +5,6 @@ title: rogue-ai-nveo4-yvn3e-pn6ug
 ---
 You may also like:
 
-[SCP-173-J](http://scp-wiki.net/scp-173-j)
+[Lumancer](http://scp-wiki.net/lumancer)
 
-[SCP-2811](http://scp-wiki.net/scp-2811)
+[SCP-1862: The Fluoridated Man](http://scp-wiki.net/scp-1862)

@@ -5,6 +5,6 @@ title: placere-non-trinus
 ---
 You may also like:
 
-[SCPokemon](http://scp-wiki.net/i-wanna-be-the-very-best)
+[A Billion Brilliant Colors and a Spirit Less Than Human](http://scp-wiki.net/the-fine-print-ii)
 
-[Moonrakers](http://scp-wiki.net/moonrakers)
+[SCP-2064: Mayhem Dressed in a Suit](http://scp-wiki.net/scp-2064)

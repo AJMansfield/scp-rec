@@ -5,6 +5,6 @@ title: scp-003-j
 ---
 You may also like:
 
-[SCP-2480](http://scp-wiki.net/scp-2480)
+[SCP-1150-J: Budget Hole](http://scp-wiki.net/scp-1150-j)
 
-[Rota](http://scp-wiki.net/rota)
+[A Fan's Fans](http://scp-wiki.net/a-fan-s-fans)

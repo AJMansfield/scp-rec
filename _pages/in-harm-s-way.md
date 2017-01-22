@@ -5,6 +5,6 @@ title: in-harm-s-way
 ---
 You may also like:
 
-[Bugbears](http://scp-wiki.net/bugbears)
+[SCP-2918: A Post-Traumatic Predator](http://scp-wiki.net/scp-2918)
 
-[Endless Hunt Part Three: Riddles From the Dark](http://scp-wiki.net/ofanendlesshunt-partthree-riddlesfromthedark)
+[End of the Month](http://scp-wiki.net/end-of-the-month)

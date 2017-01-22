@@ -5,6 +5,6 @@ title: of-blackmail-and-bribery
 ---
 You may also like:
 
-[SCP-2385](http://scp-wiki.net/scp-2385)
+[Dust in the Wind](http://scp-wiki.net/dust-in-the-wind)
 
-[SCP-261](http://scp-wiki.net/scp-261)
+[All They Want is the Blood](http://scp-wiki.net/all-they-want-is-the-blood)

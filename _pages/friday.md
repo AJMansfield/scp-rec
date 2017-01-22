@@ -5,6 +5,6 @@ title: friday
 ---
 You may also like:
 
-[SCP-1551](http://scp-wiki.net/scp-1551)
+[SCP-465: Party in a Box](http://scp-wiki.net/scp-465)
 
-[Experiment Log SCP-1247](http://scp-wiki.net/experiment-log-scp-1247)
+[Across the Hills so Quiet](http://scp-wiki.net/across-the-hills-so-quiet)

@@ -5,6 +5,6 @@ title: pooryorics-personnel-page
 ---
 You may also like:
 
-[SCP-036](http://scp-wiki.net/scp-036)
+[SCP-907: An Exploratory Vehicle](http://scp-wiki.net/scp-907)
 
-[Mothers' Love](http://scp-wiki.net/mothers-love)
+[SCP-546: A Notebook](http://scp-wiki.net/scp-546)

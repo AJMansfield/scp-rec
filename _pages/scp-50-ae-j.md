@@ -5,6 +5,6 @@ title: scp-50-ae-j
 ---
 You may also like:
 
-[Progress](http://scp-wiki.net/progress)
+[Rusted Nightmares](http://scp-wiki.net/rusted-nightmares)
 
-[Dr. Mackenzie's Glossary of Terms](http://scp-wiki.net/mackenzie-glossary)
+[Long Live The King](http://scp-wiki.net/long-live-the-king)

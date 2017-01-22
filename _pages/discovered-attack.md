@@ -5,6 +5,6 @@ title: discovered-attack
 ---
 You may also like:
 
-[The Light At The End Of The Tunnel](http://scp-wiki.net/gdp2-the-light-at-the-end-of-the-tunnel)
+[SCP-2931: Twin Bed](http://scp-wiki.net/scp-2931)
 
-[SCP-2505](http://scp-wiki.net/scp-2505)
+[8. Mr. Moon](http://scp-wiki.net/8-mr-moon)

@@ -5,6 +5,6 @@ title: document-1326
 ---
 You may also like:
 
-[SCP-2296](http://scp-wiki.net/scp-2296)
+[Sounds of Anger](http://scp-wiki.net/sounds-of-anger)
 
-[Lux](http://scp-wiki.net/lux)
+[Intermission: Audience of Crowns](http://scp-wiki.net/audience-of-crowns)

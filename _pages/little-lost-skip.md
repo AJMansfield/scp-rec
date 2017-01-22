@@ -5,6 +5,6 @@ title: little-lost-skip
 ---
 You may also like:
 
-[SCP-2627](http://scp-wiki.net/scp-2627)
+[SCP-942: Blood Candy](http://scp-wiki.net/scp-942)
 
-[SCP-001-EX-J](http://scp-wiki.net/scp-001-ex-j)
+[Along Came A Spider](http://scp-wiki.net/along-came-a-spider)

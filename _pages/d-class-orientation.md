@@ -5,6 +5,6 @@ title: d-class-orientation
 ---
 You may also like:
 
-[Boron Blisters](http://scp-wiki.net/boron-blisters)
+[SCP-1219: Whistler](http://scp-wiki.net/scp-1219)
 
-[Lux](http://scp-wiki.net/lux)
+[SCP-2690: Angel's Tongue](http://scp-wiki.net/scp-2690)

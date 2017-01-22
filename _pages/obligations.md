@@ -5,6 +5,6 @@ title: obligations
 ---
 You may also like:
 
-[SCP-669](http://scp-wiki.net/scp-669)
+[SCP-358: A "Deserted" Hospital](http://scp-wiki.net/scp-358)
 
-[SCP-1625](http://scp-wiki.net/scp-1625)
+[SCP-2204: Triple Threat: Intracommunal Men of Obscurity](http://scp-wiki.net/scp-2204)

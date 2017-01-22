@@ -5,6 +5,6 @@ title: reconciliation
 ---
 You may also like:
 
-[SCP-1271](http://scp-wiki.net/scp-1271)
+[SCP-1681: American Idols](http://scp-wiki.net/scp-1681)
 
-[SCP-2798](http://scp-wiki.net/scp-2798)
+[On The Seventh Day Of Christmas](http://scp-wiki.net/on-the-seventh-day-of-christmas)

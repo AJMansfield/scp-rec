@@ -5,6 +5,6 @@ title: mice
 ---
 You may also like:
 
-[A Swingset's Song](http://scp-wiki.net/a-swingsets-song)
+[SCP-802: Musical Tank](http://scp-wiki.net/scp-802)
 
-[Folly](http://scp-wiki.net/folly)
+[SCP-161: Pinwheel of Doom!](http://scp-wiki.net/scp-161)

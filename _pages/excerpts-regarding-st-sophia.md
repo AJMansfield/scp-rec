@@ -5,6 +5,6 @@ title: excerpts-regarding-st-sophia
 ---
 You may also like:
 
-[SCP-031-J](http://scp-wiki.net/scp-031-j)
+[Rammer Jammer Yellow Hammer Hub](http://scp-wiki.net/rammer-jammer-yellow-hammer-hub)
 
-[SCP-1107](http://scp-wiki.net/scp-1107)
+[The Urge that Betrays](http://scp-wiki.net/the-urge-that-betrays)

@@ -5,6 +5,6 @@ title: salman-corbette-personnel-file
 ---
 You may also like:
 
-[psul's Author Page](http://scp-wiki.net/psuls-author-page)
+[The Great Short Story Contest](http://scp-wiki.net/the-great-short-story-contest)
 
-[Dr. Flower who is also a giraffe](http://scp-wiki.net/uglyflower-author-page)
+[SCP-118-J: The Saltiest Doctor Alive](http://scp-wiki.net/scp-118-j)

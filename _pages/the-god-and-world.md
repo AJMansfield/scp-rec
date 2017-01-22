@@ -5,6 +5,6 @@ title: the-god-and-world
 ---
 You may also like:
 
-[SCP-2710](http://scp-wiki.net/scp-2710)
+[SCP-566 Contents Database](http://scp-wiki.net/scp-566-contents-database)
 
-[SCP-123-J](http://scp-wiki.net/scp-123-j)
+[Quiet Days](http://scp-wiki.net/quiet-days)

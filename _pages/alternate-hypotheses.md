@@ -5,6 +5,6 @@ title: alternate-hypotheses
 ---
 You may also like:
 
-[Anime Is Art Too, Guys](http://scp-wiki.net/anime-is-art-too-guys)
+[SCP-1377: Automaton Parliament](http://scp-wiki.net/scp-1377)
 
-[SCP-836](http://scp-wiki.net/scp-836)
+[SCP-1062: NS Magazine - Time](http://scp-wiki.net/scp-1062)

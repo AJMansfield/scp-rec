@@ -5,6 +5,6 @@ title: places-where-the-birds-don-t-cry
 ---
 You may also like:
 
-[2525 North Waterworks St.](http://scp-wiki.net/north-waterworks)
+[Westbound and Down](http://scp-wiki.net/westbound-and-down)
 
-[Prelude: Primae Formae](http://scp-wiki.net/primae-formae)
+[The Man with Oscilloscope Eyes](http://scp-wiki.net/first-interlude)

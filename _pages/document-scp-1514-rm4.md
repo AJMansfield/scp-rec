@@ -5,6 +5,6 @@ title: document-scp-1514-rm4
 ---
 You may also like:
 
-[SCP-047](http://scp-wiki.net/scp-047)
+[Eulogies](http://scp-wiki.net/eulogies)
 
-[SCP-257](http://scp-wiki.net/scp-257)
+[A Dysfunctional Heist](http://scp-wiki.net/a-dysfunctional-heist)

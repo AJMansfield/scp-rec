@@ -5,6 +5,6 @@ title: 13-mr-purple
 ---
 You may also like:
 
-[SCP-1203](http://scp-wiki.net/scp-1203)
+[SCP-045: Atmospheric Converter](http://scp-wiki.net/scp-045)
 
-[Attack of the Keter Skeeters!](http://scp-wiki.net/attack-of-the-keter-skeeters)
+[SCP-763: Human Beowulf Cluster](http://scp-wiki.net/scp-763)

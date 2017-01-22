@@ -5,6 +5,6 @@ title: tinker-tailor-soldier-huntsman
 ---
 You may also like:
 
-[Secure Facility Dossier: Containment Site-88](http://scp-wiki.net/secure-facility-dossier-site-88)
+[Light-Dependent Reactions](http://scp-wiki.net/light-dependent-reactions)
 
-[SCP-048-J](http://scp-wiki.net/scp-048-j)
+[SCP-2555: Growing Up](http://scp-wiki.net/scp-2555)

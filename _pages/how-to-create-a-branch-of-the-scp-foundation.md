@@ -5,6 +5,6 @@ title: how-to-create-a-branch-of-the-scp-foundation
 ---
 You may also like:
 
-[Extra-Community SCP Sites Guide](http://scp-wiki.net/extra-community-scp-sites-guide)
+[Forgiveness](http://scp-wiki.net/forgiveness)
 
-[SCP-2436](http://scp-wiki.net/scp-2436)
+[Scroll fragment 13Q29](http://scp-wiki.net/scroll-fragment-13q29)

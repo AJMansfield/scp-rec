@@ -5,6 +5,6 @@ title: experiment-log-980-06
 ---
 You may also like:
 
-[SCP-481](http://scp-wiki.net/scp-481)
+[SCP-913: Mr. Hungry](http://scp-wiki.net/scp-913)
 
-[SCP-2473](http://scp-wiki.net/scp-2473)
+[SCP-773: Voodoo Dartboard](http://scp-wiki.net/scp-773)

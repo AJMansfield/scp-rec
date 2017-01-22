@@ -5,6 +5,6 @@ title: chilly-the-space-trucker
 ---
 You may also like:
 
-[Application to Form MTF Mu-3](http://scp-wiki.net/application-to-form-mtf-mu3-cover-letter)
+[Kunststoff Strand](http://scp-wiki.net/kunststoff-strand)
 
-[Reach's Blueprint Folder](http://scp-wiki.net/reach-s-blueprint-folder)
+[SCP-2961: Los Ocultos](http://scp-wiki.net/scp-2961)

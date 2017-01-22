@@ -5,6 +5,6 @@ title: memetics-and-infohazards-division-orientation
 ---
 You may also like:
 
-[SCP-2097](http://scp-wiki.net/scp-2097)
+[Incident 2770-C](http://scp-wiki.net/incidentreportnullpleaseseeasupervisor)
 
-[SCP-1420](http://scp-wiki.net/scp-1420)
+[David Eskobar's Personnel File (DECEASED)](http://scp-wiki.net/mr-eskobar)

@@ -5,6 +5,6 @@ title: adana-protocol
 ---
 You may also like:
 
-[Thrice](http://scp-wiki.net/thrice)
+[Under the Sea](http://scp-wiki.net/under-the-sea)
 
-[In Dread Forever Fled](http://scp-wiki.net/but-when-they-opened-it-they-turned-and-swift)
+[SCP-1853: Performance Enhancer](http://scp-wiki.net/scp-1853)

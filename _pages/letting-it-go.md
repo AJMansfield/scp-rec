@@ -5,6 +5,6 @@ title: letting-it-go
 ---
 You may also like:
 
-[SCP-1156](http://scp-wiki.net/scp-1156)
+[SCP-566: Word a Day](http://scp-wiki.net/scp-566)
 
-[SCP-993](http://scp-wiki.net/scp-993)
+[Waxx's entry](http://scp-wiki.net/waxxentry)

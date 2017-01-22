@@ -5,6 +5,6 @@ title: askinate-herr-spankoflex
 ---
 You may also like:
 
-[Cosmology through Itself](http://scp-wiki.net/cosmology-through-itself)
+[Exploration Log 2474.1](http://scp-wiki.net/exploration-log-2474-1)
 
-[SCP-2901](http://scp-wiki.net/scp-2901)
+[SCP-1888: Terraforming Temple](http://scp-wiki.net/scp-1888)

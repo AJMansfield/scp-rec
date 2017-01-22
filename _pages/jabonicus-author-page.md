@@ -5,6 +5,6 @@ title: jabonicus-author-page
 ---
 You may also like:
 
-[SCP-356](http://scp-wiki.net/scp-356)
+[Don't Worry About It](http://scp-wiki.net/don-tworryaboutit)
 
-[SCP-1345](http://scp-wiki.net/scp-1345)
+[SCP-982: Chicago Loop](http://scp-wiki.net/scp-982)

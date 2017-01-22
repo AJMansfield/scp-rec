@@ -5,6 +5,6 @@ title: the-red-place
 ---
 You may also like:
 
-[SCP-1871](http://scp-wiki.net/scp-1871)
+[For Old Time's Sake](http://scp-wiki.net/for-old-time-s-sake)
 
-[SCP-923](http://scp-wiki.net/scp-923)
+[A Very Bailey Christmas](http://scp-wiki.net/a-very-bailey-christmas)

@@ -5,6 +5,6 @@ title: scp-729-j
 ---
 You may also like:
 
-[The Self Insert](http://scp-wiki.net/theselfinsert)
+[SCP-2476](http://scp-wiki.net/scp-2476)
 
-[SCP-963](http://scp-wiki.net/scp-963)
+[Incident Report I741-A](http://scp-wiki.net/incident-report-i741-a)

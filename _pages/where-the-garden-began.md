@@ -5,6 +5,6 @@ title: where-the-garden-began
 ---
 You may also like:
 
-[Three Short Scenes About Death](http://scp-wiki.net/three-short-scenes-about-death)
+[Dragon's Teeth](http://scp-wiki.net/dragon-s-teeth)
 
-[SCP-362](http://scp-wiki.net/scp-362)
+[SCP-2955: Every Wandering Golden City of the Caesars](http://scp-wiki.net/scp-2955)

@@ -5,6 +5,6 @@ title: swing-shift
 ---
 You may also like:
 
-[Last One to Die](http://scp-wiki.net/last-one-to-die)
+[Surprise! Happy Birthday!](http://scp-wiki.net/surprise-happy-birthday)
 
-[Nothing and Five and Five](http://scp-wiki.net/nothing-and-five-and-five)
+[SCP-2538: The Perfect Escape](http://scp-wiki.net/scp-2538)

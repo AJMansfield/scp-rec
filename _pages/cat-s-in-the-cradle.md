@@ -5,6 +5,6 @@ title: cat-s-in-the-cradle
 ---
 You may also like:
 
-[Prisoners](http://scp-wiki.net/prisoners)
+[The Gulf Canon Hub](http://scp-wiki.net/the-gulf)
 
-[Humans And Houses](http://scp-wiki.net/humans-and-houses)
+[I Slip, I'm Still An Animal](http://scp-wiki.net/i-slip-i-m-still-an-animal)

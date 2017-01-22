@@ -5,6 +5,6 @@ title: into-that-good-night
 ---
 You may also like:
 
-[SCP-2963](http://scp-wiki.net/scp-2963)
+[The Red Woodsman](http://scp-wiki.net/the-red-woodsman)
 
-[Incident Mike Echo Seven Alpha](http://scp-wiki.net/incident-mike-echo-seven-alpha)
+[If It Looks Like a Duck, Swims Like a Duck, and Quacks Like a Duck, It's Probably a Shapeshifting Living Nightmare](http://scp-wiki.net/duck-rule)

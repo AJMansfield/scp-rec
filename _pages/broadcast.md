@@ -5,6 +5,6 @@ title: broadcast
 ---
 You may also like:
 
-[Bridges Burnt](http://scp-wiki.net/bridges-burnt)
+[Tax Man](http://scp-wiki.net/tax-man)
 
-[SCP-2740](http://scp-wiki.net/scp-2740)
+[Dr. Frederick Heiden](http://scp-wiki.net/dr-frederick-heiden)

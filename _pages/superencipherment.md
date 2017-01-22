@@ -5,6 +5,6 @@ title: superencipherment
 ---
 You may also like:
 
-[Null-terminating String](http://scp-wiki.net/null-terminating-string)
+[SCP-DEALS-J: ANOMALOUSLY LOW PRICES ON USED AUTOMOBILES](http://scp-wiki.net/scp-deals-j)
 
-[SCP-2553](http://scp-wiki.net/scp-2553)
+[SCP-1655: Sorrow Tick](http://scp-wiki.net/scp-1655)

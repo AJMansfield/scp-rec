@@ -5,6 +5,6 @@ title: wednesday-2
 ---
 You may also like:
 
-[Daveyoufool's SCP Art Hub](http://scp-wiki.net/daveyoufools-art)
+[SCP-881: Little People](http://scp-wiki.net/scp-881)
 
-[SCP-1152](http://scp-wiki.net/scp-1152)
+[SCP-270: Secluded Telephone](http://scp-wiki.net/scp-270)

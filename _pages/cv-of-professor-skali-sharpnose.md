@@ -5,6 +5,6 @@ title: cv-of-professor-skali-sharpnose
 ---
 You may also like:
 
-[SCP-1591](http://scp-wiki.net/scp-1591)
+[SCP-654: Thunderhorn](http://scp-wiki.net/scp-654)
 
-[SCP-1425](http://scp-wiki.net/scp-1425)
+[Cyantreuse's Pit of Despair and SCPhotoshop](http://scp-wiki.net/sexycontainmentprocedures)

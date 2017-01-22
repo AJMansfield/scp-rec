@@ -5,6 +5,6 @@ title: meteor
 ---
 You may also like:
 
-[SCP-686](http://scp-wiki.net/scp-686)
+[SCP-2928: The 21st Discipline](http://scp-wiki.net/scp-2928)
 
-[SCP-1079](http://scp-wiki.net/scp-1079)
+[SCP-1913: The Furies](http://scp-wiki.net/scp-1913)

@@ -5,6 +5,6 @@ title: the-ant
 ---
 You may also like:
 
-[SCP-230](http://scp-wiki.net/scp-230)
+[SCP-1875: Antique Chess Computer](http://scp-wiki.net/scp-1875)
 
-[SCP-2938](http://scp-wiki.net/scp-2938)
+[SCP-1755: Cotton Blight](http://scp-wiki.net/scp-1755)

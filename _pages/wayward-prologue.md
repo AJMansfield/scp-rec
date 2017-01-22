@@ -5,6 +5,6 @@ title: wayward-prologue
 ---
 You may also like:
 
-[Basic Observations](http://scp-wiki.net/basic-observations)
+[Variations on a Schema](http://scp-wiki.net/variations-on-a-schema)
 
-[Acquisitions - a Marshall, Carter & Dark Tale](http://scp-wiki.net/acquisitions-hub)
+[SCP-2438: There Is No Hunger in the Lee of the Stone](http://scp-wiki.net/scp-2438)

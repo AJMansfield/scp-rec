@@ -5,6 +5,6 @@ title: entropy
 ---
 You may also like:
 
-[Eulogies](http://scp-wiki.net/eulogies)
+[Ad Majorem Bonum](http://scp-wiki.net/ad-majorem-bonum)
 
-[SCP-1807](http://scp-wiki.net/scp-1807)
+[SCP-2361: Recurring Board Position](http://scp-wiki.net/scp-2361)

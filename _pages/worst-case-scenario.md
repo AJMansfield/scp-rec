@@ -5,6 +5,6 @@ title: worst-case-scenario
 ---
 You may also like:
 
-[Ask Lord Blackwood](http://scp-wiki.net/ask-lord-blackwood)
+[GRANT REQUEST FOR THE DEVELOPMENT OF TOOLS FOR MAPPING LOCALES WITH INCONSISTENT SPACETIME](http://scp-wiki.net/grant-request-for-the-development-of-tools-for-mapping-local)
 
-[Anachronisms](http://scp-wiki.net/anachronisms)
+[SCP-2660: An object that removes darkness](http://scp-wiki.net/scp-2660)

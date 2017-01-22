@@ -5,6 +5,6 @@ title: museum-of-idiots
 ---
 You may also like:
 
-[Light-Dependent Reactions](http://scp-wiki.net/light-dependent-reactions)
+[SCP-449: Gut Dust](http://scp-wiki.net/scp-449)
 
-[SCP-2611](http://scp-wiki.net/scp-2611)
+[End of the Month](http://scp-wiki.net/end-of-the-month)

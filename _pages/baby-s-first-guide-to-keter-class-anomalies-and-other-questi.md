@@ -5,6 +5,6 @@ title: baby-s-first-guide-to-keter-class-anomalies-and-other-questi
 ---
 You may also like:
 
-[Being Cactusman](http://scp-wiki.net/being-cactusman)
+[SCP-2175: Are You Going](http://scp-wiki.net/scp-2175)
 
-[SCP-2036](http://scp-wiki.net/scp-2036)
+[SCP-784: Christmas Cheer](http://scp-wiki.net/scp-784)

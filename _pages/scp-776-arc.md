@@ -5,6 +5,6 @@ title: scp-776-arc
 ---
 You may also like:
 
-[The Foundation never changes](http://scp-wiki.net/the-foundation-never-changes)
+[Task Forces](http://scp-wiki.net/task-forces-arc)
 
-[SCP Foundation: The Movie](http://scp-wiki.net/scp-foundation-the-movie)
+[SCP-008-J: Geoff](http://scp-wiki.net/scp-008-j)

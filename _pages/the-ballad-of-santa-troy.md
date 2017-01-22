@@ -5,6 +5,6 @@ title: the-ballad-of-santa-troy
 ---
 You may also like:
 
-[SCP-2547](http://scp-wiki.net/scp-2547)
+[SCP-1604: The Ball and Chain](http://scp-wiki.net/scp-1604)
 
-[SCP-1923](http://scp-wiki.net/scp-1923)
+[SCP-803: Predatory Parasols](http://scp-wiki.net/scp-803)

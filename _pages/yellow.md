@@ -5,6 +5,6 @@ title: yellow
 ---
 You may also like:
 
-[SCP-365](http://scp-wiki.net/scp-365)
+[Planetfall: 8](http://scp-wiki.net/planetfall-8)
 
-[The Escape From Site-132](http://scp-wiki.net/the-escape-from-site-132)
+[SCP-2832: Hubris](http://scp-wiki.net/scp-2832)

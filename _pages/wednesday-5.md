@@ -5,6 +5,6 @@ title: wednesday-5
 ---
 You may also like:
 
-[SCP-2343](http://scp-wiki.net/scp-2343)
+[Where Your Eyes Don't Go](http://scp-wiki.net/where-your-eyes-don-t-go)
 
-[Wheels within Wheels](http://scp-wiki.net/wheels-within-wheels)
+[SCP-1991: Cybernetically Enhanced Mammalian](http://scp-wiki.net/scp-1991)

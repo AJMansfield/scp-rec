@@ -5,6 +5,6 @@ title: 2212-archival-image
 ---
 You may also like:
 
-[Interlude 1: Patches](http://scp-wiki.net/classicalinterlude)
+[2212 Archival Containment Procedures](http://scp-wiki.net/2212-archival-containment-procedures)
 
-[SCP-1111-J](http://scp-wiki.net/scp-1111-j)
+[Care for You](http://scp-wiki.net/care-for-you)

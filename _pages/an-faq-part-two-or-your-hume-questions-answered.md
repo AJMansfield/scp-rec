@@ -5,6 +5,6 @@ title: an-faq-part-two-or-your-hume-questions-answered
 ---
 You may also like:
 
-[Busy Office Bees](http://scp-wiki.net/busy-office-bees)
+[SCP-441: Jacob Ram](http://scp-wiki.net/scp-441)
 
-[Faceless](http://scp-wiki.net/faceless)
+[SCP-2143: Singin' in the Rain](http://scp-wiki.net/scp-2143)

@@ -5,6 +5,6 @@ title: scp-2084-email-correspondence
 ---
 You may also like:
 
-[SCP-337](http://scp-wiki.net/scp-337)
+[Family](http://scp-wiki.net/family)
 
-[Interview 616 Am](http://scp-wiki.net/interview-616-am)
+[Planetfall: 7](http://scp-wiki.net/planetfall-7)

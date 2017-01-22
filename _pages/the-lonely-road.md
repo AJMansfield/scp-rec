@@ -5,6 +5,6 @@ title: the-lonely-road
 ---
 You may also like:
 
-[yes](http://scp-wiki.net/no)
+[SCP-2007: Science Fiction](http://scp-wiki.net/scp-2007)
 
-[Third Death](http://scp-wiki.net/third-death)
+[SCP-2907: Won't Get Fooled Again](http://scp-wiki.net/scp-2907)

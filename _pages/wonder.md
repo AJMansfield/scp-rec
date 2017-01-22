@@ -5,6 +5,6 @@ title: wonder
 ---
 You may also like:
 
-[The List Of Wonders](http://scp-wiki.net/the-list-of-wonders)
+[Down by the River](http://scp-wiki.net/down-by-the-river)
 
-[SCP-One Million](http://scp-wiki.net/scp-one-million)
+[History Of The Universe Hub](http://scp-wiki.net/history-of-the-universe-hub)

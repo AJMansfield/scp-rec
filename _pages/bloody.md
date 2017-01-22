@@ -5,6 +5,6 @@ title: bloody
 ---
 You may also like:
 
-[SCP-1063](http://scp-wiki.net/scp-1063)
+[SCP-1079: Dr Wondertainment's Bubblebath Bonbons](http://scp-wiki.net/scp-1079)
 
-[. . . the best and the wisest man whom I have ever known.](http://scp-wiki.net/the-best-and-the-wisest)
+[GOI-001: Chicago Spirit](http://scp-wiki.net/chicago-spirit)

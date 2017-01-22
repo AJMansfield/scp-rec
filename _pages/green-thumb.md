@@ -5,6 +5,6 @@ title: green-thumb
 ---
 You may also like:
 
-[Going Straight To Hell In A Lincoln Continental](http://scp-wiki.net/going-straight-to-hell-in-a-lincoln-continental)
+[SCP-2404: Enki & Enki](http://scp-wiki.net/scp-2404)
 
-[Exit History](http://scp-wiki.net/exit-history)
+[Conspiracy, Part XII](http://scp-wiki.net/conspiracy-part-xii)

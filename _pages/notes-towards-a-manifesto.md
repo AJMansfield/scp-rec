@@ -5,6 +5,6 @@ title: notes-towards-a-manifesto
 ---
 You may also like:
 
-[SCP-1870](http://scp-wiki.net/scp-1870)
+[SCP-381: The Pyrotechnic Polyphony](http://scp-wiki.net/scp-381)
 
-[In the Shadow of a High Wall](http://scp-wiki.net/in-the-shadow-of-a-high-wall)
+[Metacritique 2: Anomalous Art](http://scp-wiki.net/metacritique-two)

@@ -5,6 +5,6 @@ title: where-theres-a-will
 ---
 You may also like:
 
-[Wayfarers Hub](http://scp-wiki.net/wayfarers-hub)
+[Home is A Place with Mushrooms](http://scp-wiki.net/home-is-a-place-with-mushrooms)
 
-[And Then There Were None](http://scp-wiki.net/and-then-there-were-none)
+[Footsteps](http://scp-wiki.net/footsteps)

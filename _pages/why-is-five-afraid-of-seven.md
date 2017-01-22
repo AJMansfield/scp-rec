@@ -5,6 +5,6 @@ title: why-is-five-afraid-of-seven
 ---
 You may also like:
 
-[Matryoshka](http://scp-wiki.net/matryoshka)
+[A Tale of Five Offerings](http://scp-wiki.net/hint-the-thing-is-173)
 
-[SCP-610-L4](http://scp-wiki.net/scp-610-l4)
+[SCP-1629: Ready or Not](http://scp-wiki.net/scp-1629)

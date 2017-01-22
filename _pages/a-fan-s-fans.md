@@ -5,6 +5,6 @@ title: a-fan-s-fans
 ---
 You may also like:
 
-[SCP-834](http://scp-wiki.net/scp-834)
+[SCP-1563: Property Markers](http://scp-wiki.net/scp-1563)
 
-[SCP-1469](http://scp-wiki.net/scp-1469)
+[The Avian and The Amphibian](http://scp-wiki.net/the-avian-and-the-amphibian)

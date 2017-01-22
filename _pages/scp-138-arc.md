@@ -5,6 +5,6 @@ title: scp-138-arc
 ---
 You may also like:
 
-[All Hallows'](http://scp-wiki.net/all-hallows)
+[SCP-1884: Madame Rezarta and Her Amazing Palm Reader](http://scp-wiki.net/scp-1884)
 
-[SCP-853](http://scp-wiki.net/scp-853)
+[603-FT-2012](http://scp-wiki.net/603-ft-2012)

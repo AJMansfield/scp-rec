@@ -5,6 +5,6 @@ title: old-kansas-sector-part-2
 ---
 You may also like:
 
-[SCP-601](http://scp-wiki.net/scp-601)
+[SCP-517-ARC: A Demon Born From War](http://scp-wiki.net/scp-517-arc)
 
-[SCP-658](http://scp-wiki.net/scp-658)
+[Dr Mann's Personnel File](http://scp-wiki.net/dr-manns-personnel-file)

@@ -5,6 +5,6 @@ title: scp-cliche-generator
 ---
 You may also like:
 
-[May 13th](http://scp-wiki.net/may-13th)
+[The Avian and The Amphibian](http://scp-wiki.net/the-avian-and-the-amphibian)
 
-[SCP-2710](http://scp-wiki.net/scp-2710)
+[Greenery](http://scp-wiki.net/greenery)

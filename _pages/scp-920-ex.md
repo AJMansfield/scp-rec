@@ -5,6 +5,6 @@ title: scp-920-ex
 ---
 You may also like:
 
-[SCP-682](http://scp-wiki.net/scp-682)
+[SCP-2808: Doomsday](http://scp-wiki.net/scp-2808)
 
-[SCP-570](http://scp-wiki.net/scp-570)
+[In His Own Image: Part 3](http://scp-wiki.net/in-his-own-image-part-3)

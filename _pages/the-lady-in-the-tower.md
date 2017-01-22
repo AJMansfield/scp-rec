@@ -5,6 +5,6 @@ title: the-lady-in-the-tower
 ---
 You may also like:
 
-[SCP-076](http://scp-wiki.net/scp-076)
+[Showtime](http://scp-wiki.net/showtime)
 
-[SCP-2351](http://scp-wiki.net/scp-2351)
+[SCP-177: Checkmate](http://scp-wiki.net/scp-177)

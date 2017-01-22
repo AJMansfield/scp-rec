@@ -5,6 +5,6 @@ title: taproots
 ---
 You may also like:
 
-[A Few Examples Of Things Not To Do In An SCP And What To Do Instead](http://scp-wiki.net/what-not-to-do)
+[SCP-1705: A Collection of Bones](http://scp-wiki.net/scp-1705)
 
-[SCP-1645](http://scp-wiki.net/scp-1645)
+[Running](http://scp-wiki.net/running)

@@ -5,6 +5,6 @@ title: experiment-log-318
 ---
 You may also like:
 
-[SCP-318](http://scp-wiki.net/scp-318)
+[SCP-904: A Short Poem](http://scp-wiki.net/scp-904)
 
-[SCP-2212](http://scp-wiki.net/scp-2212)
+[SCP-802: Musical Tank](http://scp-wiki.net/scp-802)

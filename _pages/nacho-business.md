@@ -5,6 +5,6 @@ title: nacho-business
 ---
 You may also like:
 
-[SCP-1727](http://scp-wiki.net/scp-1727)
+[Document 12-H-1943687](http://scp-wiki.net/document-12-h-1943687)
 
-[SCP-1476](http://scp-wiki.net/scp-1476)
+[SCP-1487: Beautiful Bones](http://scp-wiki.net/scp-1487)

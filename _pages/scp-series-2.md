@@ -5,6 +5,6 @@ title: scp-series-2
 ---
 You may also like:
 
-[Meat](http://scp-wiki.net/meat)
+[Pretty Magic Gaiden Mecha Tokyo-Mon Demon Ninja Sailor Clef](http://scp-wiki.net/pretty-magic-gaiden-mecha-tokyo-mon-demon-ninja-sailor-clef)
 
-[SCP-2438](http://scp-wiki.net/scp-2438)
+[Interview 507-G](http://scp-wiki.net/interview-507-g)

@@ -5,6 +5,6 @@ title: routine
 ---
 You may also like:
 
-[Green Pawn](http://scp-wiki.net/green-pawn)
+[SCP-2827: Probably a Lobster](http://scp-wiki.net/scp-2827)
 
-[Boxes](http://scp-wiki.net/boxes)
+[SCP-2427: A Thing Full of Stuff](http://scp-wiki.net/scp-2427)

@@ -5,6 +5,6 @@ title: untitled
 ---
 You may also like:
 
-[Prelude: Primae Formae](http://scp-wiki.net/primae-formae)
+[Audio Transcript, 2400-2700 Anborough-Xyank](http://scp-wiki.net/audio-transcript-2400-2700-anborough-xyank)
 
-[SCP-1314](http://scp-wiki.net/scp-1314)
+[The One Thousand Deaths of Pastor Lewis Robinson: The Ethics of Repeatedly Drowning Baptists](http://scp-wiki.net/the-one-thousand-deaths-of-pastor-lewis-robinson-the-ethics)

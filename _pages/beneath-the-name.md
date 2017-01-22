@@ -5,6 +5,6 @@ title: beneath-the-name
 ---
 You may also like:
 
-[SunnyClockwork's Artwork - Groups of Interest](http://scp-wiki.net/sunny-art-goi)
+[Scripture](http://scp-wiki.net/scripture)
 
-[Empty Nights](http://scp-wiki.net/empty-nights)
+[Project Heimdall](http://scp-wiki.net/project-heimdall)

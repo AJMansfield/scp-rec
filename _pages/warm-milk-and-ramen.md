@@ -5,6 +5,6 @@ title: warm-milk-and-ramen
 ---
 You may also like:
 
-[Portrait of Two Choreographers](http://scp-wiki.net/portrait-of-two-choreographers)
+[A Great Idea, Probably...](http://scp-wiki.net/scp-cliche-generator)
 
-[SCP-031-J](http://scp-wiki.net/scp-031-j)
+[SCP-2990: Silently Soaring](http://scp-wiki.net/scp-2990)

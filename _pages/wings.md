@@ -5,6 +5,6 @@ title: wings
 ---
 You may also like:
 
-[SCP-1841](http://scp-wiki.net/scp-1841)
+[SCP-703: Into The Closet](http://scp-wiki.net/scp-703)
 
-[Faith](http://scp-wiki.net/faith)
+[SCP-040: Evolution's Child](http://scp-wiki.net/scp-040)

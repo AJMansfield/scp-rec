@@ -5,6 +5,6 @@ title: this-place-seems-so-familiar
 ---
 You may also like:
 
-[SCP-874](http://scp-wiki.net/scp-874)
+[SCP-309: Plush Toy](http://scp-wiki.net/scp-309)
 
-[Chapter Two: The Island Murder Mystery Show](http://scp-wiki.net/the-island-murder-mystery-show)
+[Decomm Anon](http://scp-wiki.net/decomm-anon)

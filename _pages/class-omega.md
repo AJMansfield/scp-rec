@@ -5,6 +5,6 @@ title: class-omega
 ---
 You may also like:
 
-[SCP-581](http://scp-wiki.net/scp-581)
+[Document 315-a](http://scp-wiki.net/scp-315-a)
 
-[Log 084 A4](http://scp-wiki.net/log-084-a4)
+[It Might Have Been](http://scp-wiki.net/it-might-have-been)

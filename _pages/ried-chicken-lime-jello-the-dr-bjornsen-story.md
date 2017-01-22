@@ -5,6 +5,6 @@ title: ried-chicken-lime-jello-the-dr-bjornsen-story
 ---
 You may also like:
 
-[SCP-060](http://scp-wiki.net/scp-060)
+[SCP-1256: Bees Are Smarter Than You Think](http://scp-wiki.net/scp-1256)
 
-[SCP-634](http://scp-wiki.net/scp-634)
+[Discussion](http://scp-wiki.net/discussion)

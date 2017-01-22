@@ -5,6 +5,6 @@ title: i-autarch
 ---
 You may also like:
 
-[1914](http://scp-wiki.net/1914)
+[Storm Front](http://scp-wiki.net/stormfront)
 
-[SCP-1619](http://scp-wiki.net/scp-1619)
+[SCP-770: Nuclear Slime](http://scp-wiki.net/scp-770)

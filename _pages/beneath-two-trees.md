@@ -5,6 +5,6 @@ title: beneath-two-trees
 ---
 You may also like:
 
-[The Melody Of Autumn, Passing Into Winter](http://scp-wiki.net/the-melody-of-autumn-passing-into-winter)
+[Goodbye](http://scp-wiki.net/goodbye)
 
-[SCP-1638-J](http://scp-wiki.net/scp-1638-j)
+[The Thing That Hates](http://scp-wiki.net/the-thing-that-hates)

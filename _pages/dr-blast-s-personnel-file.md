@@ -5,6 +5,6 @@ title: dr-blast-s-personnel-file
 ---
 You may also like:
 
-[psul's Author Page](http://scp-wiki.net/psuls-author-page)
+[SCP-2538: The Perfect Escape](http://scp-wiki.net/scp-2538)
 
-[Dr. Solo's Personnel File](http://scp-wiki.net/dr-solo-s-personnel-file)
+[SCP-610-L2](http://scp-wiki.net/scp-610-l2)

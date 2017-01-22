@@ -5,6 +5,6 @@ title: skin-deep
 ---
 You may also like:
 
-[Along Came A Spider](http://scp-wiki.net/along-came-a-spider)
+[SCP-333-J: Skippy's Corner Pub](http://scp-wiki.net/scp-333-j)
 
-[SCP-106](http://scp-wiki.net/scp-106)
+[When We Reach The Crescendo](http://scp-wiki.net/when-we-reach-the-crescendo)

@@ -5,6 +5,6 @@ title: awakenings-part-two
 ---
 You may also like:
 
-[DOCUMENT: 2424-009-G](http://scp-wiki.net/blast-processing)
+[Hello World](http://scp-wiki.net/hello-world)
 
-[SCP-1862](http://scp-wiki.net/scp-1862)
+[GFC](http://scp-wiki.net/gfc)

@@ -5,6 +5,6 @@ title: experiment-log-137
 ---
 You may also like:
 
-[It's All True](http://scp-wiki.net/this-is-the-real-life)
+[SCP-369: Living Migratory Roadwork](http://scp-wiki.net/scp-369)
 
-[Flexibility](http://scp-wiki.net/flexibility)
+[Feverish](http://scp-wiki.net/feverish)

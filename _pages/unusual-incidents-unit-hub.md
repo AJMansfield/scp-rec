@@ -5,6 +5,6 @@ title: unusual-incidents-unit-hub
 ---
 You may also like:
 
-[Automata Et Cetera](http://scp-wiki.net/automata-et-cetera)
+[Game Day Phase 2: ". . . And Then I Saw The Light"](http://scp-wiki.net/gdp2-and-then-i-saw-the-light)
 
-[SCP-442](http://scp-wiki.net/scp-442)
+[An Audience](http://scp-wiki.net/an-audience)

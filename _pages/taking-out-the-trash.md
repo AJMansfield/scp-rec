@@ -5,6 +5,6 @@ title: taking-out-the-trash
 ---
 You may also like:
 
-[SCP-044](http://scp-wiki.net/scp-044)
+[Pan-Wotcher](http://scp-wiki.net/pan-wotcher)
 
-[SCP-006](http://scp-wiki.net/scp-006)
+[SCP-136: Naked Doll](http://scp-wiki.net/scp-136)

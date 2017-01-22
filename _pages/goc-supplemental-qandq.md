@@ -5,6 +5,6 @@ title: goc-supplemental-qandq
 ---
 You may also like:
 
-[SCP-2321](http://scp-wiki.net/scp-2321)
+[Them](http://scp-wiki.net/them)
 
-[SCP-2055](http://scp-wiki.net/scp-2055)
+[The Great Short Story Contest Archives](http://scp-wiki.net/the-great-short-story-contest-archives)

@@ -5,6 +5,6 @@ title: surprise-happy-birthday
 ---
 You may also like:
 
-[Surprise! Happy Birthday! Once more...](http://scp-wiki.net/surprise-happy-birthday-4)
+[Swing Shift](http://scp-wiki.net/swing-shift)
 
-[Doctors of the Church Hub](http://scp-wiki.net/doctors-of-the-church-hub)
+[SCP-2538: The Perfect Escape](http://scp-wiki.net/scp-2538)

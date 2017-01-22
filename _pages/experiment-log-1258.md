@@ -5,6 +5,6 @@ title: experiment-log-1258
 ---
 You may also like:
 
-[Tracing](http://scp-wiki.net/tracing)
+[SCP-559: Birthday Time!](http://scp-wiki.net/scp-559)
 
-[Recording Hippodrome-045](http://scp-wiki.net/recording-hippodrome-045)
+[SCP-2593: Disease Button](http://scp-wiki.net/scp-2593)

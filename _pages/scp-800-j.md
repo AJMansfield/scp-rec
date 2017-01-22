@@ -5,6 +5,6 @@ title: scp-800-j
 ---
 You may also like:
 
-[Olympia Integration Experiment GAMMA](http://scp-wiki.net/olympia-integration-experiment-gamma)
+[SCP-2298: Life in a Plastic Box](http://scp-wiki.net/scp-2298)
 
-[SCP-2686](http://scp-wiki.net/scp-2686)
+[SCP-2632: No Fury](http://scp-wiki.net/scp-2632)

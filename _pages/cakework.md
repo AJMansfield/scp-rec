@@ -5,6 +5,6 @@ title: cakework
 ---
 You may also like:
 
-[SCP-640](http://scp-wiki.net/scp-640)
+[Your First Support Assignment](http://scp-wiki.net/rho9-support-assignment)
 
-[SunnyClockwork's Artwork - Personnel](http://scp-wiki.net/sunny-art-personnel)
+[SCP-2339: Bumblebee Philharmonic Orchestra](http://scp-wiki.net/scp-2339)

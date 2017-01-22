@@ -5,6 +5,6 @@ title: scp-186-arc
 ---
 You may also like:
 
-[SCP-1651](http://scp-wiki.net/scp-1651)
+[SCP-1725: Servant Enhancements](http://scp-wiki.net/scp-1725)
 
-[SCP-1474](http://scp-wiki.net/scp-1474)
+[SCP-2719: Inside](http://scp-wiki.net/scp-2719)

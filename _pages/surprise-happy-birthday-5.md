@@ -5,6 +5,6 @@ title: surprise-happy-birthday-5
 ---
 You may also like:
 
-[Surprise! Happy Birthday! Still?](http://scp-wiki.net/surprise-happy-birthday-3)
+[SCP-2409: Lost Precinct](http://scp-wiki.net/scp-2409)
 
-[Surprise! Happy Birthday! Once more...](http://scp-wiki.net/surprise-happy-birthday-4)
+[Scrapbooking](http://scp-wiki.net/scrapbooking)

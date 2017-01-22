@@ -5,6 +5,6 @@ title: interlude-scenes-from-the-fall
 ---
 You may also like:
 
-[Incident I.J77.82](http://scp-wiki.net/incident-i-j77-82)
+[SCP-1014: Jonah Crusoe](http://scp-wiki.net/scp-1014)
 
-[SCP-089](http://scp-wiki.net/scp-089)
+[GRU-P casefile "FLY AGARIC"](http://scp-wiki.net/fly-agaric)

@@ -5,6 +5,6 @@ title: someone-steals-aldons-penis
 ---
 You may also like:
 
-[SCP-773](http://scp-wiki.net/scp-773)
+[HexaDon's: Arthur Page](http://scp-wiki.net/hexadon-s-arthur-page)
 
-[SCP-856](http://scp-wiki.net/scp-856)
+[SCP-1709: Human Fetus Composite](http://scp-wiki.net/scp-1709)

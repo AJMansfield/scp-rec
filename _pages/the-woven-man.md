@@ -5,6 +5,6 @@ title: the-woven-man
 ---
 You may also like:
 
-[SunnyClockwork's Artwork - Joke SCPs](http://scp-wiki.net/sunny-art-joke-scps)
+[Father Of Lies](http://scp-wiki.net/father-of-lies)
 
-[SunnyClockwork's Artwork - Series III](http://scp-wiki.net/sunny-art-series-3)
+[Home](http://scp-wiki.net/home)

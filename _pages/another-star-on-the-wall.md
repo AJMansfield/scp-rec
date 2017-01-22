@@ -5,6 +5,6 @@ title: another-star-on-the-wall
 ---
 You may also like:
 
-[Talks With the Family](http://scp-wiki.net/talks-with-the-family)
+[SCP-938-J: Hell's Bells](http://scp-wiki.net/scp-938-j)
 
-[SCP-2530](http://scp-wiki.net/scp-2530)
+[I Am the Very Model](http://scp-wiki.net/i-am-the-very-model)

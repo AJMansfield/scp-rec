@@ -5,6 +5,6 @@ title: tax-man
 ---
 You may also like:
 
-[Old Faithful](http://scp-wiki.net/old-faithful)
+[Broadcast](http://scp-wiki.net/broadcast)
 
-[SCP-1323](http://scp-wiki.net/scp-1323)
+[SCP-1196: Chairopractors](http://scp-wiki.net/scp-1196)

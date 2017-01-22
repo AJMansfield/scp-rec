@@ -5,6 +5,6 @@ title: short-works-contest
 ---
 You may also like:
 
-[Mann with the Plann, or the Dog Gone Days of Summer](http://scp-wiki.net/mann-with-the-plann-or-the-dog-gone-days-of-summer)
+[If at First You Don't Succeed...](http://scp-wiki.net/if-at-first-you-don-t-succeed)
 
-[Ye Olde Foundation](http://scp-wiki.net/ye-olde-foundation)
+[The Elusive Anderson](http://scp-wiki.net/the-elusive-anderson)

@@ -5,6 +5,6 @@ title: able-baker-charlie
 ---
 You may also like:
 
-[SCP-000](http://scp-wiki.net/scp-000)
+[SCP-2169: Conversational Surgery](http://scp-wiki.net/scp-2169)
 
-[SCP-1083](http://scp-wiki.net/scp-1083)
+[SCP-2105: Programmable Occult](http://scp-wiki.net/scp-2105)

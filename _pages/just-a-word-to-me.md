@@ -5,6 +5,6 @@ title: just-a-word-to-me
 ---
 You may also like:
 
-[The Settling Ash](http://scp-wiki.net/the-settling-ash)
+[SCP-1485: Normality](http://scp-wiki.net/scp-1485)
 
-[Going Out](http://scp-wiki.net/going-out)
+[SCP-728-ARC: Flying Deer](http://scp-wiki.net/scp-728-arc)

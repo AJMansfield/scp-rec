@@ -5,6 +5,6 @@ title: snipped-from-the-same-cloth
 ---
 You may also like:
 
-[It Just Shattered](http://scp-wiki.net/it-just-shattered)
+[Caveat Emptor](http://scp-wiki.net/caveat-emptor)
 
-[Incident 2770-C](http://scp-wiki.net/incidentreportnullpleaseseeasupervisor)
+[Interrogation W 2105 001](http://scp-wiki.net/interrogation-w-2105-001)

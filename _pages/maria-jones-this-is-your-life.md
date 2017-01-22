@@ -5,6 +5,6 @@ title: maria-jones-this-is-your-life
 ---
 You may also like:
 
-[Pythia's Wing](http://scp-wiki.net/pythia-s-wing)
+[14. Mr. Brass](http://scp-wiki.net/14-mr-brass)
 
-[Authenticity Trip](http://scp-wiki.net/authenticity-trip)
+[SCP-282: Ritual Devil Sticks](http://scp-wiki.net/scp-282)

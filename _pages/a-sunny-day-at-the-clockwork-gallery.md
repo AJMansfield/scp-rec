@@ -5,6 +5,6 @@ title: a-sunny-day-at-the-clockwork-gallery
 ---
 You may also like:
 
-[Leeway](http://scp-wiki.net/leeway)
+[Anart Antics](http://scp-wiki.net/anart-antics)
 
-[SCP-1369](http://scp-wiki.net/scp-1369)
+[SCP-2030: LA U GH IS F UN](http://scp-wiki.net/scp-2030)

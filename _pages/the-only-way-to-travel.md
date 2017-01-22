@@ -5,6 +5,6 @@ title: the-only-way-to-travel
 ---
 You may also like:
 
-[Dust and Blood](http://scp-wiki.net/dust-and-blood)
+[SCP-2656: The Idiot Box](http://scp-wiki.net/scp-2656)
 
-[SCP-1000-J](http://scp-wiki.net/scp-1000-j)
+[SCP-2520: Winters Past](http://scp-wiki.net/scp-2520)

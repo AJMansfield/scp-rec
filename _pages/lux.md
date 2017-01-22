@@ -5,6 +5,6 @@ title: lux
 ---
 You may also like:
 
-[Repel](http://scp-wiki.net/wayward-repel)
+[In the End: Monkey Business](http://scp-wiki.net/intheendmonkeybusiness)
 
-[Document 1326-82](http://scp-wiki.net/document-1326)
+[SCP-025: A Well-Worn Wardrobe](http://scp-wiki.net/scp-025)

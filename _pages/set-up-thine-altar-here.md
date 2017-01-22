@@ -5,6 +5,6 @@ title: set-up-thine-altar-here
 ---
 You may also like:
 
-[Matryoshka: Part Eight](http://scp-wiki.net/matryoshka-eight)
+[Allison Eckhart: Allison Eckhart](http://scp-wiki.net/scp-2565)
 
-[Walk in the Park](http://scp-wiki.net/walk-in-the-park)
+[SCP-881: Little People](http://scp-wiki.net/scp-881)

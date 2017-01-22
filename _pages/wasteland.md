@@ -5,6 +5,6 @@ title: wasteland
 ---
 You may also like:
 
-[Green-Gray](http://scp-wiki.net/green-gray)
+[I hope you get back to me soon](http://scp-wiki.net/i-hope-you-get-back-to-me-soon)
 
-[Snail Tale](http://scp-wiki.net/snail-tale)
+[SCP-2741: A Sinister Device](http://scp-wiki.net/scp-2741)

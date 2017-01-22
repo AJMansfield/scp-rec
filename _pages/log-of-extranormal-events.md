@@ -5,6 +5,6 @@ title: log-of-extranormal-events
 ---
 You may also like:
 
-[SCP-2425](http://scp-wiki.net/scp-2425)
+[Dr. Mackenzie's Common SCP Pitfalls](http://scp-wiki.net/mackenzie-pitfalls)
 
-[Experiment Log 624](http://scp-wiki.net/experiment-log-624)
+[Ground Control](http://scp-wiki.net/ground-control)

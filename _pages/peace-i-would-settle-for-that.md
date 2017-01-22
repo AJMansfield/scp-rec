@@ -5,6 +5,6 @@ title: peace-i-would-settle-for-that
 ---
 You may also like:
 
-[Arcibi's File](http://scp-wiki.net/arcibi-s-file)
+[13th-23rd December 2008](http://scp-wiki.net/13th-23rd-december-2008)
 
-[SCP-2050](http://scp-wiki.net/scp-2050)
+[SCP-1949: Jonathan Harris](http://scp-wiki.net/scp-1949)

@@ -5,6 +5,6 @@ title: the-man-from-maple-street
 ---
 You may also like:
 
-[SCP-395](http://scp-wiki.net/scp-395)
+[The Long Con](http://scp-wiki.net/the-long-con)
 
-[Cloudy With A Chance Of Showers](http://scp-wiki.net/cloudy-with-a-chance-of-showers)
+[SCP-708: The Big Orange Forklift](http://scp-wiki.net/scp-708)

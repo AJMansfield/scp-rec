@@ -5,6 +5,6 @@ title: we-ve-got-a-runner
 ---
 You may also like:
 
-[Asymptomatic Carrier](http://scp-wiki.net/asymptomatic-carrier)
+[Feverish](http://scp-wiki.net/feverish)
 
-[SCP-1471-J](http://scp-wiki.net/scp-1471-j)
+[Snail Tale](http://scp-wiki.net/snail-tale)

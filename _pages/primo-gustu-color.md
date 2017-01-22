@@ -5,6 +5,6 @@ title: primo-gustu-color
 ---
 You may also like:
 
-[The Diary of An Author](http://scp-wiki.net/the-diary-of-an-author)
+[SCP-2076: "Shooting Yourself Can Increase Your Bullet Resistance"](http://scp-wiki.net/scp-2076)
 
-[Units](http://scp-wiki.net/units)
+[SCP-2039: Pikes 'n' Wagners](http://scp-wiki.net/scp-2039)

@@ -5,6 +5,6 @@ title: seasick-sharks
 ---
 You may also like:
 
-[October 15th, 2012](http://scp-wiki.net/october-15th-2012)
+[SCP-2852: Cousin Johnny](http://scp-wiki.net/scp-2852)
 
-[Those Who Lived On](http://scp-wiki.net/those-who-lived-on-hub)
+[Little Hurley Lost in Meatspace](http://scp-wiki.net/little-hurley-lost-in-meatspace)

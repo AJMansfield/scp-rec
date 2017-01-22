@@ -5,6 +5,6 @@ title: the-cool-kids
 ---
 You may also like:
 
-[And Then What Happened?](http://scp-wiki.net/and-then-what-happened)
+[The Toyman And The Doctor](http://scp-wiki.net/the-toyman-and-the-doctor)
 
-[Cat In A Box](http://scp-wiki.net/cat-in-a-box)
+[SCP-143 Testing Log](http://scp-wiki.net/scp-143-testing-log)

@@ -5,6 +5,6 @@ title: security-clearance-levels-arc
 ---
 You may also like:
 
-[SCP-281](http://scp-wiki.net/scp-281)
+[The Tailor](http://scp-wiki.net/the-tailor)
 
-[SCP-945](http://scp-wiki.net/scp-945)
+[Mad Love](http://scp-wiki.net/mad-love)

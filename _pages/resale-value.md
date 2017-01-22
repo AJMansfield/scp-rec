@@ -5,6 +5,6 @@ title: resale-value
 ---
 You may also like:
 
-[Your First Support Assignment](http://scp-wiki.net/rho9-support-assignment)
+[SCP-2400: Temporal Dilation Facility](http://scp-wiki.net/scp-2400)
 
-[SCP-1548-CU](http://scp-wiki.net/scp-1548-cu)
+[Stealing Solidarity: Phase 2](http://scp-wiki.net/stealingsolidarityphase2)

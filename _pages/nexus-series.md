@@ -5,6 +5,6 @@ title: nexus-series
 ---
 You may also like:
 
-[SCP-1389](http://scp-wiki.net/scp-1389)
+[Herman Fuller Presents: The Fishman Of Manasquan](http://scp-wiki.net/the-fishman-of-manasquan)
 
-[SCP-1601](http://scp-wiki.net/scp-1601)
+[The Coward](http://scp-wiki.net/the-coward)

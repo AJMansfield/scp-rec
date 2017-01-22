@@ -5,6 +5,6 @@ title: ethical
 ---
 You may also like:
 
-[Parting](http://scp-wiki.net/parting)
+[Interview Log 2274-1](http://scp-wiki.net/2274-interview-1)
 
-[SCP-748](http://scp-wiki.net/scp-748)
+[SCP-1117: Feasting Table](http://scp-wiki.net/scp-1117)

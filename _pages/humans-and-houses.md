@@ -5,6 +5,6 @@ title: humans-and-houses
 ---
 You may also like:
 
-[Cat's in the Cradle](http://scp-wiki.net/cat-s-in-the-cradle)
+[SCP-886: Nanny](http://scp-wiki.net/scp-886)
 
-[In His Own Image: Interlude 4](http://scp-wiki.net/in-his-own-image-interlude-4)
+[SCP-492: Animated Cloth Dummy](http://scp-wiki.net/scp-492)

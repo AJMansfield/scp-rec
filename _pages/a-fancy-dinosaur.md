@@ -5,6 +5,6 @@ title: a-fancy-dinosaur
 ---
 You may also like:
 
-[SCP-1543-J](http://scp-wiki.net/scp-1543-j)
+[Broken Light Hub](http://scp-wiki.net/broken-light-hub)
 
-[SCP-1466](http://scp-wiki.net/scp-1466)
+[Talks With the Family](http://scp-wiki.net/talks-with-the-family)

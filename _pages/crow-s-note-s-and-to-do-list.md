@@ -5,6 +5,6 @@ title: crow-s-note-s-and-to-do-list
 ---
 You may also like:
 
-[Continued Deliberations](http://scp-wiki.net/continued-deliberations)
+[Matryoshka: Part Nine](http://scp-wiki.net/matryoshka-nine)
 
-[SCP-239](http://scp-wiki.net/scp-239)
+[SCP-673: Tissues](http://scp-wiki.net/scp-673)

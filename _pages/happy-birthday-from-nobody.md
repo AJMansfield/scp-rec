@@ -5,6 +5,6 @@ title: happy-birthday-from-nobody
 ---
 You may also like:
 
-[Inside-Out](http://scp-wiki.net/inside-out)
+[SCP-2307: The Pen Is Mightier](http://scp-wiki.net/scp-2307)
 
-[The Lockdown - Introduction](http://scp-wiki.net/the-lockdown)
+[Essays On Style](http://scp-wiki.net/essays-on-style)

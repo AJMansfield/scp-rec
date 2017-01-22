@@ -5,6 +5,6 @@ title: individuality
 ---
 You may also like:
 
-[SCP-2936](http://scp-wiki.net/scp-2936)
+[MC&D Agent Orientation](http://scp-wiki.net/mc-d-agent-orientation)
 
-[There Was One, There Was Not One](http://scp-wiki.net/there-was-one-there-was-not-one)
+[SCP-2483: Sad Swingset](http://scp-wiki.net/scp-2483)

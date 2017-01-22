@@ -5,6 +5,6 @@ title: a-cooler-manifesto
 ---
 You may also like:
 
-[Shady Meetings](http://scp-wiki.net/shady-meetings)
+[SCP-1778: Valor](http://scp-wiki.net/scp-1778)
 
-[SCP-2614](http://scp-wiki.net/scp-2614)
+[And Then What Happened?](http://scp-wiki.net/and-then-what-happened)

@@ -5,6 +5,6 @@ title: a-multi-universal-affair
 ---
 You may also like:
 
-[The Shark, Pt.1](http://scp-wiki.net/the-shark-pt-1)
+[Realtime Chat](http://scp-wiki.net/realtime-chat)
 
-[That Goddamn Thing](http://scp-wiki.net/that-goddamn-thing)
+[SCP-1258: The Way of the Masters](http://scp-wiki.net/scp-1258)

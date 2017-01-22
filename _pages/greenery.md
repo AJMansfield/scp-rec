@@ -5,6 +5,6 @@ title: greenery
 ---
 You may also like:
 
-[SCP-2303](http://scp-wiki.net/scp-2303)
+[The Avian and The Amphibian](http://scp-wiki.net/the-avian-and-the-amphibian)
 
-[SCP-420-J](http://scp-wiki.net/scp-420-j)
+[A Great Idea, Probably...](http://scp-wiki.net/scp-cliche-generator)

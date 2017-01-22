@@ -5,6 +5,6 @@ title: a-merry-fellow
 ---
 You may also like:
 
-[SunnyClockwork's Artwork - CotBG and Sarkicism](http://scp-wiki.net/sunny-art-cotbg-sarkicism)
+[SCP-432 Expedition 2](http://scp-wiki.net/scp-432-expedition-2)
 
-[Life Saver](http://scp-wiki.net/life-saver)
+[Turn a New Page](http://scp-wiki.net/turn-a-new-page)

@@ -5,6 +5,6 @@ title: scp-pdf-project
 ---
 You may also like:
 
-[SCP-1891](http://scp-wiki.net/scp-1891)
+[Great Short Story Concepts](http://scp-wiki.net/great-short-story-concepts)
 
-[SCP-1443](http://scp-wiki.net/scp-1443)
+[Electronic Shadows Project](http://scp-wiki.net/electronic-shadows-project)

@@ -5,6 +5,6 @@ title: what-you-are-in-the-dark
 ---
 You may also like:
 
-[Experiments of Paper, Part 1](http://scp-wiki.net/experiments-of-paper-part-1)
+[Doctors of the Church Hub](http://scp-wiki.net/doctors-of-the-church-hub)
 
-[SCP-2755](http://scp-wiki.net/scp-2755)
+[SCP-2876: Dream A Little Dream](http://scp-wiki.net/scp-2876)

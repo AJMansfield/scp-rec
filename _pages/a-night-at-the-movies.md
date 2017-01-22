@@ -5,6 +5,6 @@ title: a-night-at-the-movies
 ---
 You may also like:
 
-[Continued Deliberations](http://scp-wiki.net/continued-deliberations)
+[SCP-2764: The Eldritch Antarctic](http://scp-wiki.net/scp-2764)
 
-[SCP-1208](http://scp-wiki.net/scp-1208)
+[The Dedekind-Infinite Demographic](http://scp-wiki.net/the-dedekind-infinite-demographic)

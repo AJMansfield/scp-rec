@@ -5,6 +5,6 @@ title: across-the-hills-so-quiet
 ---
 You may also like:
 
-[Home Again](http://scp-wiki.net/home-again)
+[Friday](http://scp-wiki.net/friday)
 
-[Beneath the Name](http://scp-wiki.net/beneath-the-name)
+[Trip Hammer](http://scp-wiki.net/trip-hammer)

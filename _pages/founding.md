@@ -5,6 +5,6 @@ title: founding
 ---
 You may also like:
 
-[Bal-chatri](http://scp-wiki.net/bal-chatri)
+[Hello World (Part III)](http://scp-wiki.net/hello-world-part-iii)
 
-[SCP-1192](http://scp-wiki.net/scp-1192)
+[Body Bags](http://scp-wiki.net/body-bags)

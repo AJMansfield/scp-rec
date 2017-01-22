@@ -5,6 +5,6 @@ title: incident-log-555-1
 ---
 You may also like:
 
-[SCP-289](http://scp-wiki.net/scp-289)
+[SCP-555: Corpse Magnet](http://scp-wiki.net/scp-555)
 
-[Incident 668 A](http://scp-wiki.net/incident-668-a)
+["Farpoint"](http://scp-wiki.net/goc-tale-sequence-farpoint)

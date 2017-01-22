@@ -5,6 +5,6 @@ title: scp-900-j
 ---
 You may also like:
 
-[The Book](http://scp-wiki.net/thebook)
+[SCP-100000-J: Procedure 110-Overkill](http://scp-wiki.net/scp-100000-j)
 
-[Showtime](http://scp-wiki.net/showtime)
+[Spark of Wonder](http://scp-wiki.net/spark-of-wonder)

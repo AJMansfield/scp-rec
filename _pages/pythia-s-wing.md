@@ -5,6 +5,6 @@ title: pythia-s-wing
 ---
 You may also like:
 
-[Operation "Camp Granada"](http://scp-wiki.net/hellomuddah)
+[. . . the best and the wisest man whom I have ever known.](http://scp-wiki.net/the-best-and-the-wisest)
 
-[We Got A Good Thing Here](http://scp-wiki.net/we-got-a-good-thing-here)
+[Pattern Breaker](http://scp-wiki.net/pattern-breaker)

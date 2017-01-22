@@ -5,6 +5,6 @@ title: busy-office-bees
 ---
 You may also like:
 
-[An Faq Part Two; Or, Your Hume Questions Answered](http://scp-wiki.net/an-faq-part-two-or-your-hume-questions-answered)
+[SCP-2110: Safe Haven](http://scp-wiki.net/scp-2110)
 
-[Charon (Part 1: Nekyia)](http://scp-wiki.net/charon-part-1-nekyia)
+[Dr Rights' Draft Box](http://scp-wiki.net/dr-rights-draft-box)

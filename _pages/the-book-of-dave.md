@@ -5,6 +5,6 @@ title: the-book-of-dave
 ---
 You may also like:
 
-[Payday](http://scp-wiki.net/payday)
+[SCP-61231: An Honest Buck](http://scp-wiki.net/scp-2769)
 
-[Work Journal 2 Cont](http://scp-wiki.net/work-journal-2-cont)
+[Unfinished Business III](http://scp-wiki.net/unfinished-business-iii)

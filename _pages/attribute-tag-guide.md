@@ -5,6 +5,6 @@ title: attribute-tag-guide
 ---
 You may also like:
 
-[Betrayal Will Not Save You](http://scp-wiki.net/betrayal-will-not-save-you)
+[SPC-1764: DARD Information Restrictions Apply](http://scp-wiki.net/scp-1764)
 
-[Communication Log Magenta](http://scp-wiki.net/communication-log-magenta)
+[SCP-682-J: SUPER BESTEST LIZERD EVER](http://scp-wiki.net/scp-682-j)

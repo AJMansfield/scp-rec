@@ -5,6 +5,6 @@ title: ohnoihavetocomeupwithatitleiambadatthiswhatdoieven
 ---
 You may also like:
 
-[Happy Free Market Log 17643390](http://scp-wiki.net/happy-free-market-log-17643390)
+[Inside-Out](http://scp-wiki.net/inside-out)
 
-[Clean Sweep](http://scp-wiki.net/clean-sweep)
+[Boss of Me](http://scp-wiki.net/boss-of-me)

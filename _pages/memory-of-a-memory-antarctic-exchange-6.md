@@ -5,6 +5,6 @@ title: memory-of-a-memory-antarctic-exchange-6
 ---
 You may also like:
 
-[Turn a New Page](http://scp-wiki.net/turn-a-new-page)
+[Casefile for Simferopol](http://scp-wiki.net/casefileforsimferopol)
 
-[A Most Unfortunate Reunion](http://scp-wiki.net/a-most-unfortunate-reunion)
+[SCP-451: Mister Lonely](http://scp-wiki.net/scp-451)

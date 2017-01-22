@@ -5,6 +5,6 @@ title: history-of-the-universe-part-five
 ---
 You may also like:
 
-[How to Become a Better Critic](http://scp-wiki.net/how-to-become-a-better-critic)
+[SCP-1251: The Accident Blackspot](http://scp-wiki.net/scp-1251)
 
-[History Of The Universe: Part Three](http://scp-wiki.net/history-of-the-universe-part-three)
+[Date Night](http://scp-wiki.net/date-night)

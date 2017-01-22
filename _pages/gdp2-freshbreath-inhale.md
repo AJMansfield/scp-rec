@@ -5,6 +5,6 @@ title: gdp2-freshbreath-inhale
 ---
 You may also like:
 
-[SCP-2127](http://scp-wiki.net/scp-2127)
+[SCP-1052: Ana](http://scp-wiki.net/scp-1052)
 
-[Nondescript Nose](http://scp-wiki.net/nondescript-nose)
+[Dr. Mackenzie's Documentation Tips](http://scp-wiki.net/mackenzie-tips)

@@ -5,6 +5,6 @@ title: reboot-or-how-i-learned-to-stop-worrying-and-love-the-apocal
 ---
 You may also like:
 
-[Interview Log 2274-1](http://scp-wiki.net/2274-interview-1)
+[SCP-1224: Li'l Chemist Kit](http://scp-wiki.net/scp-1224)
 
-[Despair Rage Envy Aye Mak Sicur](http://scp-wiki.net/dreams)
+[April Fools 2014: Super Cute Pets Foundation](http://scp-wiki.net/april-fools-2014)

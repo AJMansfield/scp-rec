@@ -5,6 +5,6 @@ title: a-brief-history-of-scp-ko
 ---
 You may also like:
 
-[A Brief History Of SCP-RU](http://scp-wiki.net/a-brief-history-of-scp-ru)
+[Dr. Mackenzie's Containment Protocols](http://scp-wiki.net/mackenzie-containment)
 
-[A Few Examples Of Things Not To Do In An SCP And What To Do Instead](http://scp-wiki.net/what-not-to-do)
+[SCP-2029-J: Artificial Unintelligence](http://scp-wiki.net/scp-2029-j)

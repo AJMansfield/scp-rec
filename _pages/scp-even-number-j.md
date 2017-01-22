@@ -5,6 +5,6 @@ title: scp-even-number-j
 ---
 You may also like:
 
-[SCP-1823](http://scp-wiki.net/scp-1823)
+[SCP-1411: Mirror, Mirror](http://scp-wiki.net/scp-1411)
 
-[SCP-231](http://scp-wiki.net/scp-231)
+[The 784 Incident: Part 1: Contact](http://scp-wiki.net/784incident1)

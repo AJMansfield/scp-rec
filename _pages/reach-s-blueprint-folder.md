@@ -5,6 +5,6 @@ title: reach-s-blueprint-folder
 ---
 You may also like:
 
-[SCP-796](http://scp-wiki.net/scp-796)
+[SCP-2290: It's fine.](http://scp-wiki.net/scp-2290)
 
-[Kens' Artistic Side](http://scp-wiki.net/kens-artistic-side)
+[SCP-2959: What We Did, What We Were](http://scp-wiki.net/scp-2959)

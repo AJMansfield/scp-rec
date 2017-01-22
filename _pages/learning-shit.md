@@ -5,6 +5,6 @@ title: learning-shit
 ---
 You may also like:
 
-[As Time Draws Near](http://scp-wiki.net/as-time-draws-near)
+[5th Global Occult Coalition Donation](http://scp-wiki.net/5th-global-occult-coalition-donation)
 
-[SCP-2866](http://scp-wiki.net/scp-2866)
+[Welcome Aboard](http://scp-wiki.net/welcome-aboard)

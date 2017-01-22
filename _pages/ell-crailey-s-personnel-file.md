@@ -5,6 +5,6 @@ title: ell-crailey-s-personnel-file
 ---
 You may also like:
 
-[Researcher Robert Sandler](http://scp-wiki.net/personnel-file-of-robert-sandler)
+[SCP-1814: Fossilized Flame](http://scp-wiki.net/scp-1814)
 
-[psul's Author Page](http://scp-wiki.net/psuls-author-page)
+[SCP-051: Japanese Obstetrical Model](http://scp-wiki.net/scp-051)

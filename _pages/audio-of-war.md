@@ -5,6 +5,6 @@ title: audio-of-war
 ---
 You may also like:
 
-[Special Assets](http://scp-wiki.net/special-assets)
+[Interview Log 026-01](http://scp-wiki.net/interview-log-026-01)
 
-[SCP-017](http://scp-wiki.net/scp-017)
+[Thy Will Be Done](http://scp-wiki.net/thy-will-be-done)

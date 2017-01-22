@@ -5,6 +5,6 @@ title: iquit
 ---
 You may also like:
 
-[SCP-118-J](http://scp-wiki.net/scp-118-j)
+[SCP-358: A "Deserted" Hospital](http://scp-wiki.net/scp-358)
 
-[SCP-1725](http://scp-wiki.net/scp-1725)
+[The Young Man](http://scp-wiki.net/the-young-man)

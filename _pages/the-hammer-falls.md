@@ -5,6 +5,6 @@ title: the-hammer-falls
 ---
 You may also like:
 
-[Breaking It Down For Me](http://scp-wiki.net/breaking-it-down-to-me)
+[SCP-668: 13" Chef's Knife](http://scp-wiki.net/scp-668)
 
-[Burden of Humanity](http://scp-wiki.net/burden-of-humanity)
+[SCP-105: "Iris"](http://scp-wiki.net/scp-105)

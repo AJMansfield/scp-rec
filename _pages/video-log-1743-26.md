@@ -5,6 +5,6 @@ title: video-log-1743-26
 ---
 You may also like:
 
-[SCP-542](http://scp-wiki.net/scp-542)
+[Project Proposal 1964-238: "The Eater of Worlds"](http://scp-wiki.net/project-proposal-1964-238)
 
-[Deeper](http://scp-wiki.net/deeper)
+[SCPokemon](http://scp-wiki.net/i-wanna-be-the-very-best)

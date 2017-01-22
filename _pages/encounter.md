@@ -5,6 +5,6 @@ title: encounter
 ---
 You may also like:
 
-[In His Own Image: Part 6](http://scp-wiki.net/in-his-own-image-part-6)
+[The Coward](http://scp-wiki.net/the-coward)
 
-[Wednesday - 3](http://scp-wiki.net/wednesday-3)
+[Seasick Sharks](http://scp-wiki.net/seasick-sharks)

@@ -5,6 +5,6 @@ title: brainstorm
 ---
 You may also like:
 
-[Matryoshka: Part Eight](http://scp-wiki.net/matryoshka-eight)
+[SCP-2500: A Higher Purpose](http://scp-wiki.net/scp-2500)
 
-[Sweet Memories](http://scp-wiki.net/sweet-memories)
+[SCP-1678: UnLondon](http://scp-wiki.net/scp-1678)

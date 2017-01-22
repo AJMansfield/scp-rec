@@ -5,6 +5,6 @@ title: incident-report-023-26
 ---
 You may also like:
 
-[Experiment Log 914 Theta](http://scp-wiki.net/experiment-log-914-theta)
+[Island Story](http://scp-wiki.net/island-story)
 
-[The Man with Oscilloscope Eyes](http://scp-wiki.net/first-interlude)
+[Incident Report WP-1](http://scp-wiki.net/incident-report-wp-1)

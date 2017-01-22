@@ -5,6 +5,6 @@ title: wayward-denouement
 ---
 You may also like:
 
-[Antarctic Exchange Hub](http://scp-wiki.net/antarctic-exchange-hub)
+[Don't Worry About It](http://scp-wiki.net/don-tworryaboutit)
 
-[SCP-2577](http://scp-wiki.net/scp-2577)
+[Jabonicus' Author Page](http://scp-wiki.net/jabonicus-author-page)

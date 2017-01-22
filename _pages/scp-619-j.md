@@ -5,6 +5,6 @@ title: scp-619-j
 ---
 You may also like:
 
-[SCP-2166](http://scp-wiki.net/scp-2166)
+[SCP-1672: Thinking Inside the Box](http://scp-wiki.net/scp-1672)
 
-[SCP-1119](http://scp-wiki.net/scp-1119)
+[SCP-1863: Lime Liftoff and Sarsaparilla Cream](http://scp-wiki.net/scp-1863)

@@ -5,6 +5,6 @@ title: blast-processing
 ---
 You may also like:
 
-[Awakenings, Part Two](http://scp-wiki.net/awakenings-part-two)
+[SCP-2806: We Have the Technology](http://scp-wiki.net/scp-2806)
 
-[Cygnus](http://scp-wiki.net/cygnus)
+[Termination Log SCP-1016](http://scp-wiki.net/termination-log-scp-1016)

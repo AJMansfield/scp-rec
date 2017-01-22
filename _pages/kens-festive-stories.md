@@ -5,6 +5,6 @@ title: kens-festive-stories
 ---
 You may also like:
 
-[SCP-1897](http://scp-wiki.net/scp-1897)
+[SCP-631: Nyctophobic Nocturnal Predator](http://scp-wiki.net/scp-631)
 
-[Cavalcade (Hub)](http://scp-wiki.net/cavalcade-hub)
+[Dr. Bonjour's Office](http://scp-wiki.net/ahbonjour-s-office)

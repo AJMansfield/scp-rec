@@ -5,6 +5,6 @@ title: stealingsolidarityphase4
 ---
 You may also like:
 
-[SCP-1945](http://scp-wiki.net/scp-1945)
+[SunnyClockwork's Artwork - Pitch Haven Series](http://scp-wiki.net/sunny-art-pitch-haven)
 
-[SCP-2247](http://scp-wiki.net/scp-2247)
+[Archived News](http://scp-wiki.net/archived-news)

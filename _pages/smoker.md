@@ -5,6 +5,6 @@ title: smoker
 ---
 You may also like:
 
-[SCP-1828](http://scp-wiki.net/scp-1828)
+[SCP-591: Dr. Wondertainment Pretendo](http://scp-wiki.net/scp-591)
 
-[Broken Masquerade HUB](http://scp-wiki.net/broken-masquerade-hub)
+[SCP-196: Time Paradox](http://scp-wiki.net/scp-196)

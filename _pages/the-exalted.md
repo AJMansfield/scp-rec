@@ -5,6 +5,6 @@ title: the-exalted
 ---
 You may also like:
 
-[The Cool Kids](http://scp-wiki.net/the-cool-kids)
+[SCP-2063: A Past Vision of the Future](http://scp-wiki.net/scp-2063)
 
 [Children Of Doubt](http://scp-wiki.net/children-of-doubt)

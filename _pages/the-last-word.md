@@ -5,6 +5,6 @@ title: the-last-word
 ---
 You may also like:
 
-[The Gulf Canon Hub](http://scp-wiki.net/the-gulf)
+[SCP-1053: Overpopulation](http://scp-wiki.net/scp-1053)
 
-[SCP-1571](http://scp-wiki.net/scp-1571)
+[Shortage](http://scp-wiki.net/shortage)

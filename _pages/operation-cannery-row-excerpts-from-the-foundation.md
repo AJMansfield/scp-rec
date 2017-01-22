@@ -5,6 +5,6 @@ title: operation-cannery-row-excerpts-from-the-foundation
 ---
 You may also like:
 
-[SCP-1298](http://scp-wiki.net/scp-1298)
+[Interlude - Excerpt From An Auction Catalog - Marshall Carter And Dark, 2012](http://scp-wiki.net/interlude-excerpt-from-an-auction-catalog-marshall-carter-an)
 
-[SCP-1252](http://scp-wiki.net/scp-1252)
+[SPC-169-J: The Big One](http://scp-wiki.net/spc-169-j)

@@ -5,6 +5,6 @@ title: the-long-con
 ---
 You may also like:
 
-[SCP-051](http://scp-wiki.net/scp-051)
+[The Man from Maple Street](http://scp-wiki.net/the-man-from-maple-street)
 
-[SCP-613](http://scp-wiki.net/scp-613)
+[SCP-906: Scouring Hive](http://scp-wiki.net/scp-906)

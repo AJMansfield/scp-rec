@@ -5,6 +5,6 @@ title: a-reason-to-die
 ---
 You may also like:
 
-[SCP-2642](http://scp-wiki.net/scp-2642)
+[SCP-1235: Atlas Microcosm](http://scp-wiki.net/scp-1235)
 
-[SCP-2632](http://scp-wiki.net/scp-2632)
+[Prometheans](http://scp-wiki.net/prometheans)

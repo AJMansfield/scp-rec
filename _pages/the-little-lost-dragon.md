@@ -5,6 +5,6 @@ title: the-little-lost-dragon
 ---
 You may also like:
 
-[SCP-117](http://scp-wiki.net/scp-117)
+[SCP-227: Complete Antikythera Mechanism](http://scp-wiki.net/scp-227)
 
-[SCP-573](http://scp-wiki.net/scp-573)
+[SCP-1410: Sweating Stone](http://scp-wiki.net/scp-1410)

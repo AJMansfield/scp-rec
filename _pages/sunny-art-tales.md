@@ -5,6 +5,6 @@ title: sunny-art-tales
 ---
 You may also like:
 
-[SunnyClockwork's Artwork - Personnel](http://scp-wiki.net/sunny-art-personnel)
+[SCP-2618: This Is How Confidentiality Works, Right?](http://scp-wiki.net/scp-2618)
 
-[SunnyClockwork's Artwork - Series II](http://scp-wiki.net/sunny-art-series-2)
+[SCP-2716: ASTRONAUT SMITH'S SPACE-TACULAR TREASURE HUNT!](http://scp-wiki.net/scp-2716)

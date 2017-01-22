@@ -5,6 +5,6 @@ title: application-to-form-mtf-mu3-cover-letter
 ---
 You may also like:
 
-[Opportunity Knocks](http://scp-wiki.net/opportunity-knocks)
+[SCP-605: Living Storm Cloud](http://scp-wiki.net/scp-605)
 
-[Secure Facility Dossier: Containment Site-88](http://scp-wiki.net/secure-facility-dossier-site-88)
+[A Billion Brilliant Colors and a Spirit Less Than Human](http://scp-wiki.net/the-fine-print-ii)

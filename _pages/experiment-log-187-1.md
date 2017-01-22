@@ -5,6 +5,6 @@ title: experiment-log-187-1
 ---
 You may also like:
 
-[SCP-2279](http://scp-wiki.net/scp-2279)
+[SCP-2302: Funtime Happy Game Plan](http://scp-wiki.net/scp-2302)
 
-[Zmax's Author Page](http://scp-wiki.net/zmax-s-author-page)
+[Skara Brae](http://scp-wiki.net/skara-brae)

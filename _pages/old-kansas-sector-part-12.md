@@ -5,6 +5,6 @@ title: old-kansas-sector-part-12
 ---
 You may also like:
 
-[Old Kansas Sector 1: Farmhouse](http://scp-wiki.net/old-kansas-sector)
+[SCP-1633: The Most Dangerous Video Game](http://scp-wiki.net/scp-1633)
 
-[Bees](http://scp-wiki.net/bees)
+[SCP-1573: Kids These Days](http://scp-wiki.net/scp-1573)

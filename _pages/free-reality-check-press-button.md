@@ -5,6 +5,6 @@ title: free-reality-check-press-button
 ---
 You may also like:
 
-[SCP-980](http://scp-wiki.net/scp-980)
+[Miss Lohner's Sandbox](http://scp-wiki.net/miss-lohner-s-sandbox)
 
-[Samsara](http://scp-wiki.net/samsara)
+[SCP-357: Hungry Clay](http://scp-wiki.net/scp-357)

@@ -5,6 +5,6 @@ title: col-hornby-s-audio-guide
 ---
 You may also like:
 
-[Nightmare](http://scp-wiki.net/nightmare)
+[What Ever Happened?](http://scp-wiki.net/what-ever-happened)
 
-[Talks With the Family](http://scp-wiki.net/talks-with-the-family)
+[SCP-1475: 100% Brainpower](http://scp-wiki.net/scp-1475)

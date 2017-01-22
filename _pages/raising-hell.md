@@ -5,6 +5,6 @@ title: raising-hell
 ---
 You may also like:
 
-[Light-Dependent Reactions](http://scp-wiki.net/light-dependent-reactions)
+[SCP-1433: The Sound of Silence](http://scp-wiki.net/scp-1433)
 
-[Deals with the Devil](http://scp-wiki.net/deals-with-the-devil)
+[SCP-2275: Where Muses Go](http://scp-wiki.net/scp-2275)

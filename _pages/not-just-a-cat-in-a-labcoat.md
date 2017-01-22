@@ -5,6 +5,6 @@ title: not-just-a-cat-in-a-labcoat
 ---
 You may also like:
 
-[SCP-342](http://scp-wiki.net/scp-342)
+[Dr Weppler's Personnel File: Dr Weppler's Personnel File](http://scp-wiki.net/scp-2839)
 
-[SCP-160](http://scp-wiki.net/scp-160)
+[SCP-2967: Australian Selkie](http://scp-wiki.net/scp-2967)

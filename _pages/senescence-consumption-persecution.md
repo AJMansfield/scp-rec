@@ -5,6 +5,6 @@ title: senescence-consumption-persecution
 ---
 You may also like:
 
-[12 Tales About A Factory](http://scp-wiki.net/12talesaboutafactory)
+[SCP-1987-J: Bitchin' Solo](http://scp-wiki.net/scp-1987-j)
 
-[Old Kansas Sector ~ 3: Walking Sticks](http://scp-wiki.net/old-kansas-sector-part-3)
+[SCP-1726: The Library and the Pillar](http://scp-wiki.net/scp-1726)

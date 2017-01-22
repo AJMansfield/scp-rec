@@ -5,6 +5,6 @@ title: the-lost-shepherd
 ---
 You may also like:
 
-[Peregrine](http://scp-wiki.net/peregrine)
+[Incident 096-1-A](http://scp-wiki.net/incident-096-1-a)
 
-[The Harold Maine Fan Club](http://scp-wiki.net/the-harold-maine-fan-club)
+[Person of Interest - Mr. Dark](http://scp-wiki.net/poi-dark)

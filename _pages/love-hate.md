@@ -5,6 +5,6 @@ title: love-hate
 ---
 You may also like:
 
-[Acquisitions - a Marshall, Carter & Dark Tale Act I](http://scp-wiki.net/acquisitions1)
+[SCP-1500: Zachary Callahan](http://scp-wiki.net/scp-1500)
 
-[SCP-1741](http://scp-wiki.net/scp-1741)
+[SCP-2844: Gary of the Paperclips](http://scp-wiki.net/scp-2844)

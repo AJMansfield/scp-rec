@@ -5,6 +5,6 @@ title: observations
 ---
 You may also like:
 
-[SCP-1586](http://scp-wiki.net/scp-1586)
+[Life and Death](http://scp-wiki.net/life-and-death)
 
-[SCP-1544](http://scp-wiki.net/scp-1544)
+[SCP-987-ARC: A Window](http://scp-wiki.net/scp-987-arc)

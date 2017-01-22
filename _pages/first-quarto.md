@@ -5,6 +5,6 @@ title: first-quarto
 ---
 You may also like:
 
-[SCP-2772](http://scp-wiki.net/scp-2772)
+[SCP-1056: Re-size It!](http://scp-wiki.net/scp-1056)
 
-[SCP-421](http://scp-wiki.net/scp-421)
+[SCP-800: An Eastern History](http://scp-wiki.net/scp-800)

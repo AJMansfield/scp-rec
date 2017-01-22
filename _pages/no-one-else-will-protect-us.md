@@ -5,6 +5,6 @@ title: no-one-else-will-protect-us
 ---
 You may also like:
 
-[How to Become a Better Critic](http://scp-wiki.net/how-to-become-a-better-critic)
+[Lemuridae](http://scp-wiki.net/lemuridae)
 
-[Through the Out-Land, and What David and Tim Found There](http://scp-wiki.net/through-the-out-land-and-what-david-and-tim-found-there)
+[Top Rated Pages By Month 2012](http://scp-wiki.net/top-rated-pages-by-month-2012)

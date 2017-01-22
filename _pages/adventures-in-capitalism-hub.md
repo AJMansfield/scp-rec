@@ -5,6 +5,6 @@ title: adventures-in-capitalism-hub
 ---
 You may also like:
 
-[Surprise! Happy Birthday! Again.](http://scp-wiki.net/surprise-happy-birthday-2)
+[Portrait of Two Choreographers](http://scp-wiki.net/portrait-of-two-choreographers)
 
-[Agent Logan Armstrong's Personnel File](http://scp-wiki.net/agent-logan-armstrong-s-personnel-file)
+[Kingdom Of Stone: A Monolithic Species](http://scp-wiki.net/kingdom-of-stone-a-monolithic-species)

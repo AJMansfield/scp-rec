@@ -5,6 +5,6 @@ title: an-impenitent-thief
 ---
 You may also like:
 
-[keine Kosten zu hoch](http://scp-wiki.net/keine-kosten-zu-hoch)
+[Upswing of Disorder](http://scp-wiki.net/upswing-of-disorder)
 
-[SCP-522](http://scp-wiki.net/scp-522)
+[The Designer](http://scp-wiki.net/the-designer)

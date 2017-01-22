@@ -5,6 +5,6 @@ title: gears-is-totally-not-a-robot-guys
 ---
 You may also like:
 
-[SCP-2197](http://scp-wiki.net/scp-2197)
+[Can Haz Memes](http://scp-wiki.net/can-haz-memes)
 
-[What's In A Name?](http://scp-wiki.net/what-s-in-a-name)
+[A Cooler Manifesto](http://scp-wiki.net/a-cooler-manifesto)

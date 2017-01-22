@@ -5,6 +5,6 @@ title: correspondence
 ---
 You may also like:
 
-[SunnyClockwork's Artwork - CotBG and Sarkicism](http://scp-wiki.net/sunny-art-cotbg-sarkicism)
+[Stage Fright](http://scp-wiki.net/stage-fright)
 
-[The Man from Maple Street](http://scp-wiki.net/the-man-from-maple-street)
+[A Well Practiced Introduction](http://scp-wiki.net/part-1-a-well-practiced-introduction)

@@ -5,6 +5,6 @@ title: indigo-eyes
 ---
 You may also like:
 
-[The Urge that Betrays](http://scp-wiki.net/the-urge-that-betrays)
+[SCP-2006: Too Spooky](http://scp-wiki.net/scp-2006)
 
-[Briefing on SLATE THUNDER (Chaos Insurgency Orientation)](http://scp-wiki.net/slate-thunder)
+[SCP-2115: Meet Other People](http://scp-wiki.net/scp-2115)

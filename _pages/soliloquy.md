@@ -5,6 +5,6 @@ title: soliloquy
 ---
 You may also like:
 
-[Patterns](http://scp-wiki.net/patterns)
+[SCP-1749: Trans-American Murder Messengers](http://scp-wiki.net/scp-1749)
 
-[Happy Howlidays](http://scp-wiki.net/happy-howlidays)
+[Love In Leetspeak](http://scp-wiki.net/love-in-leetspeak)

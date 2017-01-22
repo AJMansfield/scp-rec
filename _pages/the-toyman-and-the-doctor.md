@@ -5,6 +5,6 @@ title: the-toyman-and-the-doctor
 ---
 You may also like:
 
-[SCP-1497](http://scp-wiki.net/scp-1497)
+[The Cool Kids](http://scp-wiki.net/the-cool-kids)
 
-[SCP-1938](http://scp-wiki.net/scp-1938)
+[The Friday Exhibition](http://scp-wiki.net/the-friday-exhibition)

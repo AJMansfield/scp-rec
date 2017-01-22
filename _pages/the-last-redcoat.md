@@ -5,6 +5,6 @@ title: the-last-redcoat
 ---
 You may also like:
 
-[SCP-1274](http://scp-wiki.net/scp-1274)
+[SCP-2334: Every Possible Photograph](http://scp-wiki.net/scp-2334)
 
-[Ghost](http://scp-wiki.net/ghost)
+[Enjoy the Silence](http://scp-wiki.net/enjoy-the-silence)

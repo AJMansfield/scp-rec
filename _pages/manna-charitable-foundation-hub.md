@@ -5,6 +5,6 @@ title: manna-charitable-foundation-hub
 ---
 You may also like:
 
-[A Few Examples Of Things Not To Do In An SCP And What To Do Instead](http://scp-wiki.net/what-not-to-do)
+[After The End](http://scp-wiki.net/after-the-end)
 
-[SCP-1777](http://scp-wiki.net/scp-1777)
+[Lord Blackwood's Revenge](http://scp-wiki.net/lord-blackwood-s-revenge)

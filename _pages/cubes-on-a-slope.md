@@ -5,6 +5,6 @@ title: cubes-on-a-slope
 ---
 You may also like:
 
-[He Was Blind and Deaf on a Sunny Day](http://scp-wiki.net/he-was-blind-and-deaf-on-a-sunny-day)
+[SCP-2652: That Deaf, Dumb and Blind Kid](http://scp-wiki.net/scp-2652)
 
-[Breaking It Down For Me](http://scp-wiki.net/breaking-it-down-to-me)
+[Empire Of Dirt (Part 3)](http://scp-wiki.net/empire-of-dirt-part-3)

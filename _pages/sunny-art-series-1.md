@@ -5,6 +5,6 @@ title: sunny-art-series-1
 ---
 You may also like:
 
-[SunnyClockwork's Artwork - Personnel](http://scp-wiki.net/sunny-art-personnel)
+[SCP-662: Butler's Hand Bell](http://scp-wiki.net/scp-662)
 
-[SunnyClockwork's Artwork - Pitch Haven Series](http://scp-wiki.net/sunny-art-pitch-haven)
+[SCP-1779: Dime Consumers](http://scp-wiki.net/scp-1779)

@@ -5,6 +5,6 @@ title: scripture
 ---
 You may also like:
 
-[Final Regrets](http://scp-wiki.net/final-regrets)
+[SCP-1540: Metamorphic Identity](http://scp-wiki.net/scp-1540)
 
-[Discovered Attack](http://scp-wiki.net/discovered-attack)
+[Beneath the Name](http://scp-wiki.net/beneath-the-name)

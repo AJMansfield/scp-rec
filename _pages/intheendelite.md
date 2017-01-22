@@ -5,6 +5,6 @@ title: intheendelite
 ---
 You may also like:
 
-[Kens' Artistic Side](http://scp-wiki.net/kens-artistic-side)
+[SCP-1817: It is a Mist Eerie](http://scp-wiki.net/scp-1817)
 
-[Anachronisms](http://scp-wiki.net/anachronisms)
+[Spark of Creation](http://scp-wiki.net/spark-of-creation)

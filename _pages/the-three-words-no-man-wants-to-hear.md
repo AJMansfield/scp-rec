@@ -5,6 +5,6 @@ title: the-three-words-no-man-wants-to-hear
 ---
 You may also like:
 
-[SCP-280](http://scp-wiki.net/scp-280)
+[The Works Of Doc Burns](http://scp-wiki.net/the-works-of-doc-burns)
 
-[Items from a Global Occult Coalition Document Bag](http://scp-wiki.net/taken-from-a-global-occult-coalition-casefile)
+[SCP-102: Property of Marshall, Carter, and Dark Ltd.](http://scp-wiki.net/scp-102)

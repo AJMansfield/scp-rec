@@ -5,6 +5,6 @@ title: breakroom-routing
 ---
 You may also like:
 
-[SCP-1638](http://scp-wiki.net/scp-1638)
+[SCP-659: Communal Avian Intelligence](http://scp-wiki.net/scp-659)
 
-[The Man in Orange](http://scp-wiki.net/the-man-in-orange)
+[SCP-1109: The Painkiller](http://scp-wiki.net/scp-1109)

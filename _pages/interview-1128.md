@@ -5,6 +5,6 @@ title: interview-1128
 ---
 You may also like:
 
-[A Brief History Of SCP-RU](http://scp-wiki.net/a-brief-history-of-scp-ru)
+[Lowest Rated SCPs](http://scp-wiki.net/lowest-rated-scps)
 
-[All The King's Men](http://scp-wiki.net/all-the-king-s-men)
+[SCP-1379: Stab Your Inner Child](http://scp-wiki.net/scp-1379)

@@ -5,6 +5,6 @@ title: imposters
 ---
 You may also like:
 
-[SCP-588](http://scp-wiki.net/scp-588)
+[SCP-1369: Feelers](http://scp-wiki.net/scp-1369)
 
-[SCP-084](http://scp-wiki.net/scp-084)
+[Those Thin, Penultimate Hours](http://scp-wiki.net/those-thin-penultimate-hours)

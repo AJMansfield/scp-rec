@@ -5,6 +5,6 @@ title: the-foundation-never-changes
 ---
 You may also like:
 
-[SCP-776-ARC](http://scp-wiki.net/scp-776-arc)
+[SCP-372: Peripheral Jumper](http://scp-wiki.net/scp-372)
 
-[SCP-041](http://scp-wiki.net/scp-041)
+[Canola Oil Panic](http://scp-wiki.net/canola-oil-panic)

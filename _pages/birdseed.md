@@ -5,6 +5,6 @@ title: birdseed
 ---
 You may also like:
 
-[SCP-1143](http://scp-wiki.net/scp-1143)
+[Flexibility](http://scp-wiki.net/flexibility)
 
-[SCP-1841](http://scp-wiki.net/scp-1841)
+[The Friday Exhibition](http://scp-wiki.net/the-friday-exhibition)

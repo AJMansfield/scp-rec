@@ -5,6 +5,6 @@ title: experiment-log-876
 ---
 You may also like:
 
-[SCP-SCP-J](http://scp-wiki.net/scp-scp-j)
+[SCP-1450: Iridescence](http://scp-wiki.net/scp-1450)
 
-[SCP-1676](http://scp-wiki.net/scp-1676)
+[SCP-754: Illustrated Climbing Vine](http://scp-wiki.net/scp-754)

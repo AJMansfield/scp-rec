@@ -5,6 +5,6 @@ title: scp-005-j-ex
 ---
 You may also like:
 
-[Delia](http://scp-wiki.net/delia)
+[SCP-879: Colonial Cetacean](http://scp-wiki.net/scp-879)
 
-[Patronage](http://scp-wiki.net/patronage)
+[In other news,](http://scp-wiki.net/in-other-news)

@@ -5,6 +5,6 @@ title: a-fitting-end
 ---
 You may also like:
 
-[Blue Team](http://scp-wiki.net/blue-team)
+[SCP-001-J: The Big Red Button](http://scp-wiki.net/scp-001-j)
 
-[SCP-2903](http://scp-wiki.net/scp-2903)
+[Dr. Bridge Over Troubled Water](http://scp-wiki.net/dr-bridge-over-troubled-water)

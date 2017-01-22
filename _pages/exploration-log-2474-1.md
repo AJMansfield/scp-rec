@@ -5,6 +5,6 @@ title: exploration-log-2474-1
 ---
 You may also like:
 
-[SCP-1654](http://scp-wiki.net/scp-1654)
+[Ask Dr. Spanko](http://scp-wiki.net/askinate-herr-spankoflex)
 
-[SCP-1475](http://scp-wiki.net/scp-1475)
+[Dr. Mackenzie's Documentation Tips](http://scp-wiki.net/mackenzie-tips)

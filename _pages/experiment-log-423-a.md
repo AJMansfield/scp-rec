@@ -5,6 +5,6 @@ title: experiment-log-423-a
 ---
 You may also like:
 
-[Kiryu Labs Hub](http://scp-wiki.net/kiryu-labs-hub)
+[Uncle Jeff](http://scp-wiki.net/uncle-jeff)
 
-[Pain](http://scp-wiki.net/the-rotting-man-of-stalingrad)
+[Dr Gibbons Personnel File](http://scp-wiki.net/dr-gibbons-personnel-file)

@@ -5,6 +5,6 @@ title: when-we-reach-the-crescendo
 ---
 You may also like:
 
-[The Smell of Her Hair](http://scp-wiki.net/stop)
+[SCP-2909: The Kind Of Neverland One Never Wishes For](http://scp-wiki.net/scp-2909)
 
-[SCP-1608](http://scp-wiki.net/scp-1608)
+[Experiment Log 784-BETA](http://scp-wiki.net/experiment-log-784-beta)

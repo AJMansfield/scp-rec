@@ -5,6 +5,6 @@ title: wayfarers-hub
 ---
 You may also like:
 
-[A Greater Darkness](http://scp-wiki.net/a-greater-darkness)
+[SCP-234: Extradimensional Fish](http://scp-wiki.net/scp-234)
 
-[Razumite Games](http://scp-wiki.net/razumite-games)
+[SCP-620: Time Keeps on Slipping](http://scp-wiki.net/scp-620)

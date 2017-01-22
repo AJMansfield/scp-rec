@@ -5,6 +5,6 @@ title: the-halloween-breach
 ---
 You may also like:
 
-[Oricha's Folly](http://scp-wiki.net/oricha-s-folly)
+[SCP-1761: The Republic of Arnold Fitzwilliams](http://scp-wiki.net/scp-1761)
 
-[A Shift at The Factory](http://scp-wiki.net/a-shift-at-the-factory)
+[SCP-1992-J: Hype Train](http://scp-wiki.net/scp-1992-j)

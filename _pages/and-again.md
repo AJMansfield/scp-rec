@@ -5,6 +5,6 @@ title: and-again
 ---
 You may also like:
 
-[Monday, 6am, Escherville Facility Two](http://scp-wiki.net/monday-6am-escherville-facility-two)
+[SCP-2575: Dreaming of Outer Space](http://scp-wiki.net/scp-2575)
 
-[SCP-885-J](http://scp-wiki.net/scp-885-j)
+['Rogue AI' (NVEO4/YVN3E/PN6UG)](http://scp-wiki.net/rogue-ai-nveo4-yvn3e-pn6ug)

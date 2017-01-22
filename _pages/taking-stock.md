@@ -5,6 +5,6 @@ title: taking-stock
 ---
 You may also like:
 
-[Third Death](http://scp-wiki.net/third-death)
+[SCP-164-J: Ear Magic](http://scp-wiki.net/scp-164-j)
 
-[Splinters](http://scp-wiki.net/splinters)
+[SCP-2458: Music Hath Charms](http://scp-wiki.net/scp-2458)

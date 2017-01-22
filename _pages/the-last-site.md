@@ -5,6 +5,6 @@ title: the-last-site
 ---
 You may also like:
 
-[The Avian and The Amphibian](http://scp-wiki.net/the-avian-and-the-amphibian)
+[I hope you get back to me soon](http://scp-wiki.net/i-hope-you-get-back-to-me-soon)
 
-[SCP-2677](http://scp-wiki.net/scp-2677)
+[The Cage](http://scp-wiki.net/the-cage)

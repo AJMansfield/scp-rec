@@ -5,6 +5,6 @@ title: members-pages
 ---
 You may also like:
 
-[SCP-1706](http://scp-wiki.net/scp-1706)
+[SCP-2285: Cloud-Eating Birds](http://scp-wiki.net/scp-2285)
 
-[SCP-206](http://scp-wiki.net/scp-206)
+[SCP-656: Home Edition](http://scp-wiki.net/scp-656)

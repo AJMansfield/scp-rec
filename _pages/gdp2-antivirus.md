@@ -5,6 +5,6 @@ title: gdp2-antivirus
 ---
 You may also like:
 
-[Reentry](http://scp-wiki.net/reentry)
+[SCP-2572: Broken Dreams on Dekalb Avenue](http://scp-wiki.net/scp-2572)
 
-[SCP-2213](http://scp-wiki.net/scp-2213)
+[Experiment Log 783](http://scp-wiki.net/experiment-log-783)

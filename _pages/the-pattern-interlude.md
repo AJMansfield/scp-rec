@@ -5,6 +5,6 @@ title: the-pattern-interlude
 ---
 You may also like:
 
-[SCP-2585](http://scp-wiki.net/scp-2585)
+[Wednesday - 3](http://scp-wiki.net/wednesday-3)
 
-[Poor Bastard](http://scp-wiki.net/poor-bastard)
+[Interlude - Drift](http://scp-wiki.net/interlude-drift)

@@ -5,6 +5,6 @@ title: doctors-of-the-church-hub
 ---
 You may also like:
 
-[Surprise! Happy Birthday!](http://scp-wiki.net/surprise-happy-birthday)
+[What You Are In the Dark](http://scp-wiki.net/what-you-are-in-the-dark)
 
-[Acidverse](http://scp-wiki.net/acidverse)
+[SCP-2876: Dream A Little Dream](http://scp-wiki.net/scp-2876)

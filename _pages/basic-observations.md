@@ -5,6 +5,6 @@ title: basic-observations
 ---
 You may also like:
 
-[Dramatis Personae](http://scp-wiki.net/wayward-prologue)
+[SCP-2765: Caveat Dei](http://scp-wiki.net/scp-2765)
 
-[The Audience](http://scp-wiki.net/the-audience)
+[SCP-2405: 2017_acf_nats_fianls.mp4](http://scp-wiki.net/scp-2405)

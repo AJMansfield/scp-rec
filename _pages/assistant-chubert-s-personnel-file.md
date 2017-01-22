@@ -5,6 +5,6 @@ title: assistant-chubert-s-personnel-file
 ---
 You may also like:
 
-[SCP-1512](http://scp-wiki.net/scp-1512)
+[This Is Now A Redirect Page Too](http://scp-wiki.net/document-09-e-3417845-addendum)
 
-[SCP-1801](http://scp-wiki.net/scp-1801)
+[SCP-1291: Football Gods](http://scp-wiki.net/scp-1291)

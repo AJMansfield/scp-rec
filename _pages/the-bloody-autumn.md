@@ -5,6 +5,6 @@ title: the-bloody-autumn
 ---
 You may also like:
 
-[SCP-1132](http://scp-wiki.net/scp-1132)
+[Rebranding](http://scp-wiki.net/rebranding)
 
-[Awakenings](http://scp-wiki.net/awakenings)
+[Broken Light Hub](http://scp-wiki.net/broken-light-hub)

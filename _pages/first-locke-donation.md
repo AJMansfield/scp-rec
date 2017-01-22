@@ -5,6 +5,6 @@ title: first-locke-donation
 ---
 You may also like:
 
-[First CETRes Donation](http://scp-wiki.net/1st-cetres-donation)
+[The Analog Kid](http://scp-wiki.net/the-analog-kid)
 
-[Third Vesta Donation](http://scp-wiki.net/3rd-vesta-donation)
+[The Tinkerer](http://scp-wiki.net/the-tinkerer)

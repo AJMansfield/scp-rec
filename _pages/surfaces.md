@@ -5,6 +5,6 @@ title: surfaces
 ---
 You may also like:
 
-[The Truth Is Out There](http://scp-wiki.net/the-truth-is-out-there)
+[Nucleation](http://scp-wiki.net/cav-002)
 
-[SCP-1719](http://scp-wiki.net/scp-1719)
+[SCP-1994: Rot](http://scp-wiki.net/scp-1994)

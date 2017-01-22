@@ -5,6 +5,6 @@ title: birth-by-guitar
 ---
 You may also like:
 
-[SCP Foundation The Movie 2: Electric Boogaloo](http://scp-wiki.net/scp-foundation-the-movie-2)
+[SCP-2876: Dream A Little Dream](http://scp-wiki.net/scp-2876)
 
-[SCP-361-ARC](http://scp-wiki.net/scp-361-arc)
+[SCP-1031: Red Light Enforcement Module](http://scp-wiki.net/scp-1031)

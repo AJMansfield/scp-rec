@@ -5,6 +5,6 @@ title: old-faithful
 ---
 You may also like:
 
-[Setting the Stage](http://scp-wiki.net/setting-the-stage)
+[Eldritch Application](http://scp-wiki.net/eldritch-application)
 
-[Experiment Log 783](http://scp-wiki.net/experiment-log-783)
+[SCP-329-J: The Ghoooost Siiiign](http://scp-wiki.net/scp-329-j)

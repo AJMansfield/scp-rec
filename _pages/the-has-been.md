@@ -5,6 +5,6 @@ title: the-has-been
 ---
 You may also like:
 
-[Dog Eat Dog, Part 1](http://scp-wiki.net/dog-eat-dog-part-1)
+[SCP-1763: Found Space Theatre](http://scp-wiki.net/scp-1763)
 
-[Life in the Multiverse](http://scp-wiki.net/life-in-the-multiverse)
+[SCP-1995: Infinite Devil Machine](http://scp-wiki.net/scp-1995)

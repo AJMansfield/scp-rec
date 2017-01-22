@@ -5,6 +5,6 @@ title: scp-711-ex
 ---
 You may also like:
 
-[Excerpts from PHYSICS Division Field Manual 2: Equipment and Gear](http://scp-wiki.net/goc-supplemental-equipment)
+[Experiment Log 914 Theta](http://scp-wiki.net/experiment-log-914-theta)
 
-[Astronomical](http://scp-wiki.net/astronomical)
+[Cool War 2: Ruiz From Your Grave](http://scp-wiki.net/cool-war-2-hub)

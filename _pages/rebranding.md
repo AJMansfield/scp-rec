@@ -5,6 +5,6 @@ title: rebranding
 ---
 You may also like:
 
-[A Fancy Dinosaur](http://scp-wiki.net/a-fancy-dinosaur)
+[The Bloody Autumn](http://scp-wiki.net/the-bloody-autumn)
 
-[SCP-5972-J](http://scp-wiki.net/scp-5972-j)
+[Broken Light Hub](http://scp-wiki.net/broken-light-hub)

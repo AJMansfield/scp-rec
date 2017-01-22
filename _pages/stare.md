@@ -5,6 +5,6 @@ title: stare
 ---
 You may also like:
 
-[SCP-261](http://scp-wiki.net/scp-261)
+[Fourth and Long](http://scp-wiki.net/fourth-and-long)
 
-[Repel](http://scp-wiki.net/wayward-repel)
+[SCP-646: Birth Worm](http://scp-wiki.net/scp-646)

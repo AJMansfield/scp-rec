@@ -5,6 +5,6 @@ title: ch00bakka-personnel-file
 ---
 You may also like:
 
-[History Of The Universe: Part Five](http://scp-wiki.net/history-of-the-universe-part-five)
+[SCP-2008: Ramjet Cows](http://scp-wiki.net/scp-2008)
 
-[yes](http://scp-wiki.net/no)
+[Progress](http://scp-wiki.net/progress)

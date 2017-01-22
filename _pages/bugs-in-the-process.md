@@ -5,6 +5,6 @@ title: bugs-in-the-process
 ---
 You may also like:
 
-[SCP-1551](http://scp-wiki.net/scp-1551)
+[SCP-275: Ironskin](http://scp-wiki.net/scp-275)
 
-[Four Seconds, Low Pitched](http://scp-wiki.net/four-seconds-low-pitched)
+[Number 27, Oneiroi Station](http://scp-wiki.net/number-27-oneiroi-station)

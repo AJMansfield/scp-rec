@@ -5,6 +5,6 @@ title: the-night-before-redacted
 ---
 You may also like:
 
-[Personal Log of Agent AA](http://scp-wiki.net/log-of-agent-aa)
+[Issue 100](http://scp-wiki.net/issue-100)
 
-[Lord Blackwood, Astro-Naut](http://scp-wiki.net/lord-blackwood-astro-naut)
+[Where There's A Will...](http://scp-wiki.net/where-theres-a-will)

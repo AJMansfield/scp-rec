@@ -5,6 +5,6 @@ title: the-seed-of-an-idea
 ---
 You may also like:
 
-[SCP-812](http://scp-wiki.net/scp-812)
+['Imperfectly Fossilized Eggs' (M4RHO/EDOPE/FO5LE)](http://scp-wiki.net/imperfectly-fossilized-eggs-m4rho-edope-fo5le)
 
-[SCP-251](http://scp-wiki.net/scp-251)
+[SCP-1898: Non-Euclidian Playsets](http://scp-wiki.net/scp-1898)

@@ -5,6 +5,6 @@ title: going-straight-to-hell-in-a-lincoln-continental
 ---
 You may also like:
 
-[Shellfish For Breakfast](http://scp-wiki.net/shellfish-for-breakfast)
+[Narcissus](http://scp-wiki.net/narcissus)
 
-[Fault Lines](http://scp-wiki.net/fault-lines)
+[SCP-1823: Rock in a Hard Place](http://scp-wiki.net/scp-1823)

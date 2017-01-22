@@ -5,6 +5,6 @@ title: conspiracy
 ---
 You may also like:
 
-[Endless Hunt Part Three: Riddles From the Dark](http://scp-wiki.net/ofanendlesshunt-partthree-riddlesfromthedark)
+[My Hell](http://scp-wiki.net/my-hell)
 
-[The Stuff Industry Hub](http://scp-wiki.net/the-stuff-industry-hub)
+[Everyone Knows](http://scp-wiki.net/everyone-knows)

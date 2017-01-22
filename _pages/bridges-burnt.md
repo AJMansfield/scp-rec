@@ -5,6 +5,6 @@ title: bridges-burnt
 ---
 You may also like:
 
-[Broadcast](http://scp-wiki.net/broadcast)
+[Allison Eckhart: Allison Eckhart](http://scp-wiki.net/scp-2565)
 
-[SCP-2578](http://scp-wiki.net/scp-2578)
+[The Stuff Industry Hub](http://scp-wiki.net/the-stuff-industry-hub)

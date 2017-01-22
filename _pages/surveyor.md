@@ -5,6 +5,6 @@ title: surveyor
 ---
 You may also like:
 
-[SCP-1603](http://scp-wiki.net/scp-1603)
+[SCP-1895: A Rigged Game](http://scp-wiki.net/scp-1895)
 
-[Where They All Go](http://scp-wiki.net/where-they-all-go)
+[SCP-4590-J: Japucha](http://scp-wiki.net/scp-4590-j)

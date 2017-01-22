@@ -5,6 +5,6 @@ title: clouds
 ---
 You may also like:
 
-[Dr Jung's Terminal](http://scp-wiki.net/freudian)
+[SCP-409: Contagious Crystal](http://scp-wiki.net/scp-409)
 
-[Surprise! Happy Birthday! Again.](http://scp-wiki.net/surprise-happy-birthday-2)
+[SCP-437: Woodcutter's Ax](http://scp-wiki.net/scp-437)

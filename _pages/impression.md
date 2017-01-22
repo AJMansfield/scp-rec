@@ -5,6 +5,6 @@ title: impression
 ---
 You may also like:
 
-[Dr. Solo's Personnel File](http://scp-wiki.net/dr-solo-s-personnel-file)
+[Golan](http://scp-wiki.net/golan)
 
-[SCP-1389](http://scp-wiki.net/scp-1389)
+[SCP-494-ARC: Communication Torus](http://scp-wiki.net/scp-494-arc)

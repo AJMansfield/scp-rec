@@ -5,6 +5,6 @@ title: first-interlude
 ---
 You may also like:
 
-[The Recording](http://scp-wiki.net/the-recording)
+[Event Log SCP-097](http://scp-wiki.net/event-log-scp-097)
 
-[SCP-2245](http://scp-wiki.net/scp-2245)
+[Places Where the Birds Don't Cry](http://scp-wiki.net/places-where-the-birds-don-t-cry)

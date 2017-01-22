@@ -5,6 +5,6 @@ title: doctor-s-s-personnel-file
 ---
 You may also like:
 
-[Strangers of Site-17: Hayakawa](http://scp-wiki.net/strangers-of-site-17-part-three)
+[Archived News](http://scp-wiki.net/archived-news)
 
-[Beneath Two Trees](http://scp-wiki.net/beneath-two-trees)
+[SCP-1541: The Drunken God](http://scp-wiki.net/scp-1541)

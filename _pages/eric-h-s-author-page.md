@@ -5,6 +5,6 @@ title: eric-h-s-author-page
 ---
 You may also like:
 
-[SCP-717](http://scp-wiki.net/scp-717)
+[SCP-711: Paradoxical Insurance Policy](http://scp-wiki.net/scp-711)
 
-[SCP-1975](http://scp-wiki.net/scp-1975)
+[Dragonnyxx's Personnel File](http://scp-wiki.net/dragonnyxx-s-personnel-file)

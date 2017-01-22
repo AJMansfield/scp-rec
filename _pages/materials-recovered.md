@@ -5,6 +5,6 @@ title: materials-recovered
 ---
 You may also like:
 
-[Recording Stuff Or Whatever](http://scp-wiki.net/recording-stuff-or-whatever)
+[Thank You For Your Time](http://scp-wiki.net/thank-you-for-your-time)
 
-[SCP-2044](http://scp-wiki.net/scp-2044)
+[SCP-2114: Technological Rodents](http://scp-wiki.net/scp-2114)

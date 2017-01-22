@@ -5,6 +5,6 @@ title: the-spider-and-the-flower-natasha-romanoff-pepper-potts-scp
 ---
 You may also like:
 
-[Leisure Time](http://scp-wiki.net/leisure-time)
+[Groups Of Interest](http://scp-wiki.net/groups-of-interest-archived)
 
-[Stealing Solidarity: Phase 4](http://scp-wiki.net/stealingsolidarityphase4)
+[First Interlude: Old School](http://scp-wiki.net/lonwood)

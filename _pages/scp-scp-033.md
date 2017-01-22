@@ -5,6 +5,6 @@ title: scp-scp-033
 ---
 You may also like:
 
-[Conspiracy, Part III](http://scp-wiki.net/conspiracy-part-iii)
+[SCP-1820: The Lost Cabin](http://scp-wiki.net/scp-1820)
 
-[Soliloquy](http://scp-wiki.net/soliloquy)
+[SCP-2516: The Man from Taured](http://scp-wiki.net/scp-2516)

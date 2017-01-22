@@ -5,6 +5,6 @@ title: after-the-end
 ---
 You may also like:
 
-[Breath, Pulse, Blood, Spine](http://scp-wiki.net/breath-pulse-blood-spine)
+[Tabled Theories](http://scp-wiki.net/tabled-theories)
 
-[The Lost Shepherd](http://scp-wiki.net/the-lost-shepherd)
+[Time Crime in Greater Wisconsin - A Primer](http://scp-wiki.net/time-crime-in-greater-wisconsin-a-primer)

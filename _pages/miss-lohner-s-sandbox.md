@@ -5,6 +5,6 @@ title: miss-lohner-s-sandbox
 ---
 You may also like:
 
-[Samsara](http://scp-wiki.net/samsara)
+[Free Reality Check!: Press Button](http://scp-wiki.net/free-reality-check-press-button)
 
-[A Slumber Did My Spirit Seal](http://scp-wiki.net/a-slumber-did-my-spirit-seal)
+[Encounter](http://scp-wiki.net/encounter)

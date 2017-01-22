@@ -5,6 +5,6 @@ title: evaluation-log-781
 ---
 You may also like:
 
-[SCP-083](http://scp-wiki.net/scp-083)
+[SCP-543-J: Tweetle Beetles](http://scp-wiki.net/scp-543-j)
 
-[In His Own Image: Interlude 5](http://scp-wiki.net/in-his-own-image-interlude-5)
+[SCP-589: The Price of Obsession](http://scp-wiki.net/scp-589)

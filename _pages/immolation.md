@@ -5,6 +5,6 @@ title: immolation
 ---
 You may also like:
 
-[SPC-140](http://scp-wiki.net/spc-140)
+[SCP-1416: Transmigratory Teapot](http://scp-wiki.net/scp-1416)
 
-[SCP-1120](http://scp-wiki.net/scp-1120)
+[The Summer King](http://scp-wiki.net/the-summer-king)

@@ -5,6 +5,6 @@ title: sisters
 ---
 You may also like:
 
-[Research Notes Of RJ Tellar](http://scp-wiki.net/research-notes-of-rj-tellar)
+[Sixteenth Wondertainment Donation](http://scp-wiki.net/16th-wondertainment-donation)
 
-[SCP-629](http://scp-wiki.net/scp-629)
+[SCP-2658](http://scp-wiki.net/scp-2658)

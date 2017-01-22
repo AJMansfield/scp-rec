@@ -5,6 +5,6 @@ title: heritage-collection
 ---
 You may also like:
 
-[SCP-291](http://scp-wiki.net/scp-291)
+[SCP-702: The Trader's Residence](http://scp-wiki.net/scp-702)
 
-[SCP-149](http://scp-wiki.net/scp-149)
+[SCP-467: Confessional Phone Booth](http://scp-wiki.net/scp-467)

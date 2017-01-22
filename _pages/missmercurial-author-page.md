@@ -5,6 +5,6 @@ title: missmercurial-author-page
 ---
 You may also like:
 
-[A Long Time Past](http://scp-wiki.net/a-long-time-past)
+[It's All Behind Us Now](http://scp-wiki.net/its-all-behind-us-now)
 
-[SCP-2905](http://scp-wiki.net/scp-2905)
+[SCP-152: Book of Endings](http://scp-wiki.net/scp-152)

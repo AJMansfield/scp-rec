@@ -5,6 +5,6 @@ title: sentimentality
 ---
 You may also like:
 
-[Technical Issues](http://scp-wiki.net/techissues)
+[Law And Order](http://scp-wiki.net/law-and-order)
 
-[SCP-419](http://scp-wiki.net/scp-419)
+[SCP-1565: Martian Turtles](http://scp-wiki.net/scp-1565)

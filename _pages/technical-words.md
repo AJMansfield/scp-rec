@@ -5,6 +5,6 @@ title: technical-words
 ---
 You may also like:
 
-[SCP-297](http://scp-wiki.net/scp-297)
+[SCP-1139: The Broken Tongue](http://scp-wiki.net/scp-1139)
 
-[SCP-986](http://scp-wiki.net/scp-986)
+[SCP-2943: In Case Of Emergency, Break Glass](http://scp-wiki.net/scp-2943)

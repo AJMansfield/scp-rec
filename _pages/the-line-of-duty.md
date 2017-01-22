@@ -5,6 +5,6 @@ title: the-line-of-duty
 ---
 You may also like:
 
-[A Cackmas Carol](http://scp-wiki.net/a-cackmas-carol)
+[Strangers of Site-17: 343](http://scp-wiki.net/strangers-of-site-17-part-two)
 
-[An Excerpt from Goodbye Ghost](http://scp-wiki.net/an-excerpt-from-goodbye-ghost)
+[SCP-2406: The Colossus](http://scp-wiki.net/scp-2406)

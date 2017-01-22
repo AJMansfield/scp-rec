@@ -5,6 +5,6 @@ title: scp-420-j
 ---
 You may also like:
 
-[The 784 Incident: Part 3: Escalation](http://scp-wiki.net/784incident3)
+[SCP-1437: A Hole to Another Place](http://scp-wiki.net/scp-1437)
 
-[Greenery](http://scp-wiki.net/greenery)
+[SCP-1470: Telepathic Spider](http://scp-wiki.net/scp-1470)

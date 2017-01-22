@@ -5,6 +5,6 @@ title: the-young-man
 ---
 You may also like:
 
-[Jot It Down](http://scp-wiki.net/jot-it-down)
+[Moonlighting](http://scp-wiki.net/moonlighting)
 
-[SCP-340](http://scp-wiki.net/scp-340)
+["I Quit."](http://scp-wiki.net/iquit)

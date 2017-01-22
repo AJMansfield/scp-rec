@@ -5,6 +5,6 @@ title: from-the-mists-of-time
 ---
 You may also like:
 
-[Relics](http://scp-wiki.net/relics)
+[Last Days at Camp](http://scp-wiki.net/last-days-at-camp)
 
-[SCP-1079](http://scp-wiki.net/scp-1079)
+[Video Log 1743-26](http://scp-wiki.net/video-log-1743-26)

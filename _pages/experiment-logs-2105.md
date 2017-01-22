@@ -5,6 +5,6 @@ title: experiment-logs-2105
 ---
 You may also like:
 
-[Experiment Log 191](http://scp-wiki.net/experiment-log-191)
+[The Grand Theological Game](http://scp-wiki.net/the-grand-theological-game)
 
-[SCP-2312](http://scp-wiki.net/scp-2312)
+[Corvus](http://scp-wiki.net/corvus)

@@ -5,6 +5,6 @@ title: lowest-rated-pages
 ---
 You may also like:
 
-[SCP-1229](http://scp-wiki.net/scp-1229)
+[I Forget Myself in This Wondrous Night](http://scp-wiki.net/i-forget-myself-in-this-wondrous-night)
 
-[SCP-092 test log](http://scp-wiki.net/experiment-log-092)
+[The Happy Ending](http://scp-wiki.net/the-happy-ending)

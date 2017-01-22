@@ -5,6 +5,6 @@ title: scp-spooky-j
 ---
 You may also like:
 
-[SCP-1652](http://scp-wiki.net/scp-1652)
+[Alone](http://scp-wiki.net/alone)
 
-[SCP-1842](http://scp-wiki.net/scp-1842)
+[SCP-739: A Mirrored Booth](http://scp-wiki.net/scp-739)

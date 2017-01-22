@@ -5,6 +5,6 @@ title: new-technical-issues
 ---
 You may also like:
 
-[keine Kosten zu hoch](http://scp-wiki.net/keine-kosten-zu-hoch)
+[Acidverse](http://scp-wiki.net/acidverse)
 
-[Bedtime S(CP)tory](http://scp-wiki.net/bedtime-s-cp-tory)
+[SCP-2014: Zsar Magoth](http://scp-wiki.net/scp-2014)

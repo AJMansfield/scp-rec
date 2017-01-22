@@ -5,6 +5,6 @@ title: in-god-s-name
 ---
 You may also like:
 
-[SCP-884](http://scp-wiki.net/scp-884)
+[Some Rational Inheritance](http://scp-wiki.net/some-rational-inheritance)
 
-[Surprise! Happy Birthday!](http://scp-wiki.net/surprise-happy-birthday)
+[Foundation Burger](http://scp-wiki.net/foundation-burger)

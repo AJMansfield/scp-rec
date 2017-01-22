@@ -5,6 +5,6 @@ title: medical-seminar
 ---
 You may also like:
 
-[Hallow Inside](http://scp-wiki.net/hallowinside)
+[Sycamore Center Preparatory](http://scp-wiki.net/sycamore-center-preparatory)
 
-[SCP-054](http://scp-wiki.net/scp-054)
+[SCP-349: The Philosopher's Stone and the Graveyard of the Immortals](http://scp-wiki.net/scp-349)

@@ -5,6 +5,6 @@ title: clock-multiplier
 ---
 You may also like:
 
-[SCP-2818](http://scp-wiki.net/scp-2818)
+[SCP-2600-CU: The Cutest Little Thing](http://scp-wiki.net/scp-2600-cu)
 
-[Volume 21.01.A-01: Of the Five Pillars of the Standardization of Thought](http://scp-wiki.net/v2101a01)
+[SCP-2192: "Milaya," the Atomic Child](http://scp-wiki.net/scp-2192)

@@ -5,6 +5,6 @@ title: project-proposal-2014-2112
 ---
 You may also like:
 
-[SCP-1830](http://scp-wiki.net/scp-1830)
+[SCP-1248: Personality Recorder](http://scp-wiki.net/scp-1248)
 
-[On Mount Golgotha - Hub](http://scp-wiki.net/on-mount-golgotha-hub)
+[SCP-128: Kinetic Energy Entity](http://scp-wiki.net/scp-128)

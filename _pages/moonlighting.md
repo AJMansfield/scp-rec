@@ -5,6 +5,6 @@ title: moonlighting
 ---
 You may also like:
 
-[SCP-2630](http://scp-wiki.net/scp-2630)
+[The Young Man](http://scp-wiki.net/the-young-man)
 
-[Old Kansas Sector ~ 5: Sinopec Dark](http://scp-wiki.net/old-kansas-sector-part-5)
+[SCP-209: The Sadist's Tumbler](http://scp-wiki.net/scp-209)

@@ -5,6 +5,6 @@ title: rammer-jammer-yellow-hammer-hub
 ---
 You may also like:
 
-[SCP-2613](http://scp-wiki.net/scp-2613)
+[Excerpts Regarding St. Sophia](http://scp-wiki.net/excerpts-regarding-st-sophia)
 
-[SCP-1170](http://scp-wiki.net/scp-1170)
+[SCP-2814: Heretic of the Torch](http://scp-wiki.net/scp-2814)

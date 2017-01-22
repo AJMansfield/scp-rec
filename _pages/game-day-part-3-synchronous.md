@@ -5,6 +5,6 @@ title: game-day-part-3-synchronous
 ---
 You may also like:
 
-[SCP-2927](http://scp-wiki.net/scp-2927)
+[SCP-1419: Religious Broadcasting](http://scp-wiki.net/scp-1419)
 
-[Interlude - Drift](http://scp-wiki.net/interlude-drift)
+[SCP-1391: Field of Stone](http://scp-wiki.net/scp-1391)

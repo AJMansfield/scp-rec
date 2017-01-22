@@ -5,6 +5,6 @@ title: meeting-over-coffee
 ---
 You may also like:
 
-[SCP-147](http://scp-wiki.net/scp-147)
+[Dragon's Teeth](http://scp-wiki.net/dragon-s-teeth)
 
-[J. T. H.](http://scp-wiki.net/jth)
+[SCP-2430: Immortal Hitler Clone](http://scp-wiki.net/scp-2430)

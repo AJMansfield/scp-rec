@@ -5,6 +5,6 @@ title: green-gray
 ---
 You may also like:
 
-[SCP-1761](http://scp-wiki.net/scp-1761)
+[Cogwork](http://scp-wiki.net/cogwork)
 
-[Matryoshka: Prologue](http://scp-wiki.net/matryoshka-prologue)
+[Classical Revival Index Page](http://scp-wiki.net/classicalrevivalindex)

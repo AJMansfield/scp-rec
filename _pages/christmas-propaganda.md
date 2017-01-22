@@ -5,6 +5,6 @@ title: christmas-propaganda
 ---
 You may also like:
 
-[Feverish](http://scp-wiki.net/feverish)
+[SCP-2235: Mud Man](http://scp-wiki.net/scp-2235)
 
-[Family Planning](http://scp-wiki.net/family-planning)
+[SCP-2324: Her Majesty's Navy](http://scp-wiki.net/scp-2324)

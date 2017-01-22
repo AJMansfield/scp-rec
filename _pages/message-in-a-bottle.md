@@ -5,6 +5,6 @@ title: message-in-a-bottle
 ---
 You may also like:
 
-[Experiment Log 778](http://scp-wiki.net/experiment-log-778)
+[SCP-1596: House Fire](http://scp-wiki.net/scp-1596)
 
-[The test log you have dialed cannot be reached at this time...](http://scp-wiki.net/test-log-scp-926-1)
+[To Catch A Witch](http://scp-wiki.net/to-catch-a-witch)

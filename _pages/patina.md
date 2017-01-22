@@ -5,6 +5,6 @@ title: patina
 ---
 You may also like:
 
-[Devotion](http://scp-wiki.net/devotion)
+[Planetfall: 2](http://scp-wiki.net/planetfall-2)
 
-[SCP-1824](http://scp-wiki.net/scp-1824)
+[SCP-1183: Piles of Everything](http://scp-wiki.net/scp-1183)

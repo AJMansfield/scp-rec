@@ -5,6 +5,6 @@ title: i-double-e
 ---
 You may also like:
 
-[Going Straight To Hell In A Lincoln Continental](http://scp-wiki.net/going-straight-to-hell-in-a-lincoln-continental)
+[Pseudohistorical Mischief](http://scp-wiki.net/pseudohistorical-mischief)
 
-[Game Day, Phase 3: Protect](http://scp-wiki.net/gamedaypart3index)
+[FortuneFavorsBold's Author Page](http://scp-wiki.net/fortunefavorsbolds-author-page)

@@ -5,6 +5,6 @@ title: awakenings
 ---
 You may also like:
 
-[We Interrupt this Program](http://scp-wiki.net/we-interrupt-this-program)
+[SCP-1680: Tyler](http://scp-wiki.net/scp-1680)
 
-[The Bloody Autumn](http://scp-wiki.net/the-bloody-autumn)
+[Tales From The Bright Side 1](http://scp-wiki.net/tales-from-the-bright-side-chapter-one)

@@ -5,6 +5,6 @@ title: charon-part-1-nekyia
 ---
 You may also like:
 
-[Busy Office Bees](http://scp-wiki.net/busy-office-bees)
+[SCP-1941: Lunar Von Neumann Catastrophe](http://scp-wiki.net/scp-1941)
 
-[SCP-2749](http://scp-wiki.net/scp-2749)
+[SCP-2431: 1000 Prion Cranes](http://scp-wiki.net/scp-2431)

@@ -5,6 +5,6 @@ title: that-goddamn-thing
 ---
 You may also like:
 
-[SCP-1576](http://scp-wiki.net/scp-1576)
+[SCP-1176: Mellified Man](http://scp-wiki.net/scp-1176)
 
-[A Multi-Universal Affair](http://scp-wiki.net/a-multi-universal-affair)
+[Shocking Ignorance Regarding Anything Resembling a Structured Set of Rules to be Applied Fairly](http://scp-wiki.net/shocking-ignorance-regarding-anything-resembling-a-structure)

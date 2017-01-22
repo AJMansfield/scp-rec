@@ -5,6 +5,6 @@ title: the-fishman-of-manasquan
 ---
 You may also like:
 
-[SCP-307](http://scp-wiki.net/scp-307)
+[Nexus Series](http://scp-wiki.net/nexus-series)
 
-[SCP-2709](http://scp-wiki.net/scp-2709)
+[SCP-1081: University Speakers](http://scp-wiki.net/scp-1081)

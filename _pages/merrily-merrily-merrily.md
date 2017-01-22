@@ -5,6 +5,6 @@ title: merrily-merrily-merrily
 ---
 You may also like:
 
-[Some Rational Inheritance](http://scp-wiki.net/some-rational-inheritance)
+[The Tall Grass and the Bell, Part One](http://scp-wiki.net/the-tall-grass-and-the-bell-1)
 
-[Pawn To E4](http://scp-wiki.net/pawn-to-e4)
+[SCP-1110: Videos of a Robbery](http://scp-wiki.net/scp-1110)

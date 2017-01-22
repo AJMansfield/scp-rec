@@ -5,6 +5,6 @@ title: incident-report-086-0
 ---
 You may also like:
 
-[SCP-648](http://scp-wiki.net/scp-648)
+[Attack of the Keter Skeeters!](http://scp-wiki.net/attack-of-the-keter-skeeters)
 
-[SCP-2848](http://scp-wiki.net/scp-2848)
+[Page 285 of the Guild Ledger](http://scp-wiki.net/page-285-of-the-guild-ledger)

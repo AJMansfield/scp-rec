@@ -5,6 +5,6 @@ title: a-discussion-with-l-e-t
 ---
 You may also like:
 
-[A Calculated Risk](http://scp-wiki.net/a-calculated-risk)
+[Fire on the Horizon](http://scp-wiki.net/fire-on-the-horizon)
 
-[Randomini Continues Talking Despite The Best Efforts Of Almost Everyone He Knows: Advent Calendar Edition v2015](http://scp-wiki.net/advent-calendar-2015)
+[SCP-2806: We Have the Technology](http://scp-wiki.net/scp-2806)

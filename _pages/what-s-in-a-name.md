@@ -5,6 +5,6 @@ title: what-s-in-a-name
 ---
 You may also like:
 
-[Gears Is Totally Not A Robot Guys](http://scp-wiki.net/gears-is-totally-not-a-robot-guys)
+[black white black white black white black white black white gray](http://scp-wiki.net/black-white-black-white-black-white-black-white-black-white)
 
-[SCP-2197](http://scp-wiki.net/scp-2197)
+[173](http://scp-wiki.net/173)

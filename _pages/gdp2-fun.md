@@ -5,6 +5,6 @@ title: gdp2-fun
 ---
 You may also like:
 
-[SCP-920](http://scp-wiki.net/scp-920)
+[SCP-1186: Cochlear Cicadas](http://scp-wiki.net/scp-1186)
 
-[SCP-1787](http://scp-wiki.net/scp-1787)
+[SCP-2740: It Wasn't There](http://scp-wiki.net/scp-2740)

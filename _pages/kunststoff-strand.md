@@ -5,6 +5,6 @@ title: kunststoff-strand
 ---
 You may also like:
 
-[The Playful Beast](http://scp-wiki.net/the-playful-beast)
+[Track 1: Old Chilly The Space Trucker](http://scp-wiki.net/chilly-the-space-trucker)
 
-[If It Were The 80s](http://scp-wiki.net/if-it-were-the-80s)
+[SCP-342: A Ticket to Ride](http://scp-wiki.net/scp-342)

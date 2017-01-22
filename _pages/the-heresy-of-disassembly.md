@@ -5,6 +5,6 @@ title: the-heresy-of-disassembly
 ---
 You may also like:
 
-[A Long Time Past](http://scp-wiki.net/a-long-time-past)
+[No One Should Be Alone](http://scp-wiki.net/no-one-should-be-alone)
 
-[Cassandra](http://scp-wiki.net/cassandra)
+[SCP-1732: Septimius Leo](http://scp-wiki.net/scp-1732)

@@ -5,6 +5,6 @@ title: experiment-log-239-c
 ---
 You may also like:
 
-[SCP-1161](http://scp-wiki.net/scp-1161)
+[SCP-1871: Vorpal Sword](http://scp-wiki.net/scp-1871)
 
-[SCP-365](http://scp-wiki.net/scp-365)
+[SCP-1D6-J: Gygax's Folly](http://scp-wiki.net/scp-1d6-j)

@@ -5,6 +5,6 @@ title: friday-2200-paul-dimaccios-personal-quarters
 ---
 You may also like:
 
-[Endless Hunt Part Five: The Prisoner](http://scp-wiki.net/ofanendlesshunt-partfive-theprisoner)
+[Little Ones](http://scp-wiki.net/little-ones)
 
-[SCP-865](http://scp-wiki.net/scp-865)
+[SCP Calendar](http://scp-wiki.net/scp-calendar)

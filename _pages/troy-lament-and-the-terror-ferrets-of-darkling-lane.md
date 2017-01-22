@@ -5,6 +5,6 @@ title: troy-lament-and-the-terror-ferrets-of-darkling-lane
 ---
 You may also like:
 
-[SCP-2818](http://scp-wiki.net/scp-2818)
+[Image Use Policy](http://scp-wiki.net/image-use-policy)
 
-[And What Was a Soul to That Blank White World](http://scp-wiki.net/the-fine-print)
+[SCP-744-ARC: Rust Monster](http://scp-wiki.net/scp-744-arc)

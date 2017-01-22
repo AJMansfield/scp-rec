@@ -5,6 +5,6 @@ title: this-is-only-a-test
 ---
 You may also like:
 
-[Interrogation W 2105 001](http://scp-wiki.net/interrogation-w-2105-001)
+[SCP-1666: The Devil's Music](http://scp-wiki.net/scp-1666)
 
-[SCP-1420](http://scp-wiki.net/scp-1420)
+[SCP-606: "The Teacher"](http://scp-wiki.net/scp-606)

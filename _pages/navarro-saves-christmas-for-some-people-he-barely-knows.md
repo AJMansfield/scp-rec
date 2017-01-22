@@ -5,6 +5,6 @@ title: navarro-saves-christmas-for-some-people-he-barely-knows
 ---
 You may also like:
 
-[SCP-040](http://scp-wiki.net/scp-040)
+[Project Heimdall](http://scp-wiki.net/project-heimdall)
 
-[SCP-1804](http://scp-wiki.net/scp-1804)
+[Rex Sponge's Revealing Revelations](http://scp-wiki.net/rex-sponge-s-revealing-revelations)

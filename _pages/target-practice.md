@@ -5,6 +5,6 @@ title: target-practice
 ---
 You may also like:
 
-[Asymptomatic Carrier](http://scp-wiki.net/asymptomatic-carrier)
+[SCP-2339: Bumblebee Philharmonic Orchestra](http://scp-wiki.net/scp-2339)
 
-[SCP-2508](http://scp-wiki.net/scp-2508)
+[SCP-026-J: A Cold Post](http://scp-wiki.net/scp-026-j)

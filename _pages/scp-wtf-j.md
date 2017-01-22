@@ -5,6 +5,6 @@ title: scp-wtf-j
 ---
 You may also like:
 
-[The Interview](http://scp-wiki.net/the-interview)
+[SCP-932: Night Feeder](http://scp-wiki.net/scp-932)
 
-[SCP-1623](http://scp-wiki.net/scp-1623)
+[Bigger Than Jesus](http://scp-wiki.net/bigger-than-jesus)

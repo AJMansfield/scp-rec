@@ -5,6 +5,6 @@ title: scp-338-arc
 ---
 You may also like:
 
-[SCP-2430](http://scp-wiki.net/scp-2430)
+[Experiments of Paper, Part 1](http://scp-wiki.net/experiments-of-paper-part-1)
 
-[Novel Cultivars](http://scp-wiki.net/novel-cultivars)
+[SCP-1660: Unearthly Forest](http://scp-wiki.net/scp-1660)

@@ -5,6 +5,6 @@ title: and-then-there-were-none
 ---
 You may also like:
 
-[Where There's A Will...](http://scp-wiki.net/where-theres-a-will)
+[Top Rated Pages This Month](http://scp-wiki.net/top-rated-pages-this-month)
 
-[The Bard of Ambrose](http://scp-wiki.net/the-bard-of-ambrose)
+[SCP-1812: Extralunar Meme](http://scp-wiki.net/scp-1812)

@@ -5,6 +5,6 @@ title: document-860-i-and-ii
 ---
 You may also like:
 
-[The Serpent Gambit](http://scp-wiki.net/the-serpent-gambit)
+[Recollections of a Gentleman's Gentleman](http://scp-wiki.net/recollections-of-a-gentleman-s-gentleman)
 
-[SCP-2977](http://scp-wiki.net/scp-2977)
+[SCP-2166: The Reformation](http://scp-wiki.net/scp-2166)

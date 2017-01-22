@@ -5,6 +5,6 @@ title: dr-vang-s-personnel-file
 ---
 You may also like:
 
-[SCP-1417-J](http://scp-wiki.net/scp-1417-j)
+[SCP-662: Butler's Hand Bell](http://scp-wiki.net/scp-662)
 
-[Headhunted](http://scp-wiki.net/headhunted)
+[SCP-062: "Quantum" Computer](http://scp-wiki.net/scp-062)

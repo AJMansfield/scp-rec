@@ -5,6 +5,6 @@ title: the-appalachian-scar
 ---
 You may also like:
 
-[The Face of God](http://scp-wiki.net/the-face-of-god)
+[SCP-1661: Gremlins](http://scp-wiki.net/scp-1661)
 
-[Fifthist Hub](http://scp-wiki.net/fifthist-hub)
+[SCP-944: Mirror Maze](http://scp-wiki.net/scp-944)

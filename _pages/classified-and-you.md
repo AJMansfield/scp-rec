@@ -5,6 +5,6 @@ title: classified-and-you
 ---
 You may also like:
 
-[Understanding Memetics](http://scp-wiki.net/understanding-memetics)
+[SCP-1221: Unidentified Bus](http://scp-wiki.net/scp-1221)
 
-[Conservation Of WTF, or Why Does the Rabbit Need Two Brains?](http://scp-wiki.net/conservation-of-wtf)
+[SCP-984: A Public Restroom](http://scp-wiki.net/scp-984)

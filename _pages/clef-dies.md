@@ -5,6 +5,6 @@ title: clef-dies
 ---
 You may also like:
 
-[I hope you get back to me soon](http://scp-wiki.net/i-hope-you-get-back-to-me-soon)
+[SCP-735: Insult Box](http://scp-wiki.net/scp-735)
 
-[To The Dreams He Is No Nobody](http://scp-wiki.net/they-call-him-he-who-cannot-see-his-reflection)
+[SCP-572: Katana of Apparent Invincibility](http://scp-wiki.net/scp-572)

@@ -5,6 +5,6 @@ title: interviews-log-405
 ---
 You may also like:
 
-[SCP-2685](http://scp-wiki.net/scp-2685)
+[Guiser's Night](http://scp-wiki.net/guiser-s-night)
 
-[SCP-2389](http://scp-wiki.net/scp-2389)
+[Dr Clef's Personnel File](http://scp-wiki.net/drclef-member-page)

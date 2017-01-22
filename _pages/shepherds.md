@@ -5,6 +5,6 @@ title: shepherds
 ---
 You may also like:
 
-[SCP-1154](http://scp-wiki.net/scp-1154)
+[SCP-330: Take Only Two](http://scp-wiki.net/scp-330)
 
-[SCP-3467-J](http://scp-wiki.net/scp-3467-j)
+[SCP-1266: Permian Ark](http://scp-wiki.net/scp-1266)

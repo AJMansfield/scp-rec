@@ -5,6 +5,6 @@ title: mimi-member-page
 ---
 You may also like:
 
-[SCP-2814](http://scp-wiki.net/scp-2814)
+[Three Sleepless Nights](http://scp-wiki.net/three-sleepless-nights)
 
-[SCP-1432](http://scp-wiki.net/scp-1432)
+[SCP-2177: Yellow Journal Infection](http://scp-wiki.net/scp-2177)

@@ -5,6 +5,6 @@ title: birthday-every-day
 ---
 You may also like:
 
-[SCP-001-J](http://scp-wiki.net/scp-001-j)
+[SCP-1497: Visual Perfection](http://scp-wiki.net/scp-1497)
 
-[I Thought You Died Alone](http://scp-wiki.net/i-thought-you-died-alone)
+[SCP-1165: Minus Level](http://scp-wiki.net/scp-1165)

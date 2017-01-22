@@ -5,6 +5,6 @@ title: uiu-files-chapter-1
 ---
 You may also like:
 
-[In Case You've Ever Wondered...](http://scp-wiki.net/theysayshelooksjustlikeo5-8)
+[Third Vesta Donation](http://scp-wiki.net/3rd-vesta-donation)
 
-[SCP-2787](http://scp-wiki.net/scp-2787)
+[SCP-202: The Rewind Man](http://scp-wiki.net/scp-202)

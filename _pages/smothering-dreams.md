@@ -5,6 +5,6 @@ title: smothering-dreams
 ---
 You may also like:
 
-[Unforgettable, That's What You Are](http://scp-wiki.net/unforgettable-that-s-what-you-are)
+[SCP-118: Nuclear Protists](http://scp-wiki.net/scp-118)
 
-[The Word and The Cool Kids](http://scp-wiki.net/what-happened-at-greenwich)
+[Featured SCP Archive](http://scp-wiki.net/featured-scp-archive)

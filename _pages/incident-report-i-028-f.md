@@ -5,6 +5,6 @@ title: incident-report-i-028-f
 ---
 You may also like:
 
-[Father Of Lies](http://scp-wiki.net/father-of-lies)
+[Jaywalk](http://scp-wiki.net/jaywalk)
 
-[SCP-1314](http://scp-wiki.net/scp-1314)
+[SCP-397: A Hominidae](http://scp-wiki.net/scp-397)

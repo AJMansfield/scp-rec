@@ -5,6 +5,6 @@ title: strange-things-happen-at-sea
 ---
 You may also like:
 
-[SCP-483](http://scp-wiki.net/scp-483)
+[Project Proposal 1964-238: "The Eater of Worlds"](http://scp-wiki.net/project-proposal-1964-238)
 
-[Greenery](http://scp-wiki.net/greenery)
+[Jonathan Ball's Proposal: Sheaf of Papers](http://scp-wiki.net/jonathan-ball-s-proposal)

@@ -5,6 +5,6 @@ title: the-things-dr-bright-is-not-allowed-to-do-at-the-foundation
 ---
 You may also like:
 
-[Mobile Task Force Omega 7 Incident Log](http://scp-wiki.net/scp-076-2)
+[A Question of Commerce](http://scp-wiki.net/a-question-of-commerce)
 
-[SCP-239's Spell Book](http://scp-wiki.net/scp-239-s-spell-book)
+[SCP-393: The Memory Planner](http://scp-wiki.net/scp-393)

@@ -5,6 +5,6 @@ title: scpoems
 ---
 You may also like:
 
-[SCP-2721](http://scp-wiki.net/scp-2721)
+[Experiment Log 1402](http://scp-wiki.net/experiment-log-1402)
 
-[Incident Report Yersinia 047-01 (2010)](http://scp-wiki.net/incident-report-yersinia-047-01-2010)
+[Postgame](http://scp-wiki.net/postgame)

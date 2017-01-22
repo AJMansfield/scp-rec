@@ -5,6 +5,6 @@ title: concerto-in-d-major
 ---
 You may also like:
 
-[SCP-2211](http://scp-wiki.net/scp-2211)
+[SCP-1885: Fissile Molar](http://scp-wiki.net/scp-1885)
 
-[The Truth Is Out There](http://scp-wiki.net/the-truth-is-out-there)
+[Greenery](http://scp-wiki.net/greenery)

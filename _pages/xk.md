@@ -5,6 +5,6 @@ title: xk
 ---
 You may also like:
 
-[The Appalachian Scar](http://scp-wiki.net/the-appalachian-scar)
+[SCP-1716: Imperfect Life Extender](http://scp-wiki.net/scp-1716)
 
-[Sophia Light At The End Of The Tunnel](http://scp-wiki.net/sophia-light-at-the-end-of-the-tunnel)
+[SCP-1471-J: Sensual Containment Procedures](http://scp-wiki.net/scp-1471-j)

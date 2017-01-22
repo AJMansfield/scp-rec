@@ -5,6 +5,6 @@ title: matryoshka-eight
 ---
 You may also like:
 
-[Matryoshka: Part Four](http://scp-wiki.net/matryoshka-four)
+[Matryoshka: Part Three](http://scp-wiki.net/matryoshka-three)
 
-[Brainstorm](http://scp-wiki.net/brainstorm)
+[SCP-169: The Leviathan](http://scp-wiki.net/scp-169)

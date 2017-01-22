@@ -5,6 +5,6 @@ title: in-his-own-image-part-4
 ---
 You may also like:
 
-[Climber](http://scp-wiki.net/climber)
+[When Moses Goes Wrong](http://scp-wiki.net/when-moses-goes-wrong)
 
-[Epitaph](http://scp-wiki.net/epitaph)
+[SCP-1870: Record Skip](http://scp-wiki.net/scp-1870)

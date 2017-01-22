@@ -5,6 +5,6 @@ title: skippy
 ---
 You may also like:
 
-[Lambda-Killer](http://scp-wiki.net/lambda-killer)
+[Experiment Log 191](http://scp-wiki.net/experiment-log-191)
 
-[Cassandra](http://scp-wiki.net/cassandra)
+[SCP-1659: Directorate K](http://scp-wiki.net/scp-1659)

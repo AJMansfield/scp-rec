@@ -5,6 +5,6 @@ title: integrity-project
 ---
 You may also like:
 
-[Manna](http://scp-wiki.net/manna)
+[Endings](http://scp-wiki.net/endings)
 
-[Incident Zero - Part 1](http://scp-wiki.net/incident-zero-part-1)
+[SCP-2333: One Week To Live](http://scp-wiki.net/scp-2333)

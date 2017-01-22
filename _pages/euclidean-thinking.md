@@ -5,6 +5,6 @@ title: euclidean-thinking
 ---
 You may also like:
 
-[A Visitation](http://scp-wiki.net/a-visitation)
+[Game Day Part 1: Mastication, Deglutition, Emesis](http://scp-wiki.net/game-day-1-dr-mause)
 
-[Ecce Perago](http://scp-wiki.net/ecceperago)
+[SCP-601: Sophocles' Chorus](http://scp-wiki.net/scp-601)

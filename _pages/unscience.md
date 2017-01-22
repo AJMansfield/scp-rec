@@ -5,6 +5,6 @@ title: unscience
 ---
 You may also like:
 
-[SCP-1800](http://scp-wiki.net/scp-1800)
+[SCP-1577: A Flare Gun](http://scp-wiki.net/scp-1577)
 
-[Walter G](http://scp-wiki.net/walterg)
+[SCP-1616: Nibbles](http://scp-wiki.net/scp-1616)

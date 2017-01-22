@@ -5,6 +5,6 @@ title: goodbye
 ---
 You may also like:
 
-[Tracing](http://scp-wiki.net/tracing)
+[Beneath Two Trees](http://scp-wiki.net/beneath-two-trees)
 
-[Prometheans](http://scp-wiki.net/prometheans)
+[SCP-2877: it h8s it here](http://scp-wiki.net/scp-2877)

@@ -5,6 +5,6 @@ title: surgery
 ---
 You may also like:
 
-[Not To Disappear - 1](http://scp-wiki.net/not-to-disappear-1)
+[Pilot](http://scp-wiki.net/pilot)
 
-[SCP-1573](http://scp-wiki.net/scp-1573)
+[SCP-1411: Mirror, Mirror](http://scp-wiki.net/scp-1411)

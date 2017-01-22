@@ -5,6 +5,6 @@ title: mint-condition
 ---
 You may also like:
 
-[SCP-453](http://scp-wiki.net/scp-453)
+[The Serpent Gambit](http://scp-wiki.net/the-serpent-gambit)
 
-[J. T. H.](http://scp-wiki.net/jth)
+[An Interview With Francis Lepage](http://scp-wiki.net/an-interview-with-francis-lepage)

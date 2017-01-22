@@ -5,6 +5,6 @@ title: scp-014-j
 ---
 You may also like:
 
-[In the End: Europe](http://scp-wiki.net/intheendfinally)
+[SCP-890: The Rocket Surgeon](http://scp-wiki.net/scp-890)
 
-[SCP-572](http://scp-wiki.net/scp-572)
+[SCP-CCG](http://scp-wiki.net/scp-ccg)

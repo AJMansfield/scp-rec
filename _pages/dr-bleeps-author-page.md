@@ -5,6 +5,6 @@ title: dr-bleeps-author-page
 ---
 You may also like:
 
-[Knee-Deep In The Keter](http://scp-wiki.net/knee-deep-in-the-keter)
+[Research Assistant Arnold Goldsheiner's Personnel File](http://scp-wiki.net/reject)
 
-[Endless Hunt Part Five: The Prisoner](http://scp-wiki.net/ofanendlesshunt-partfive-theprisoner)
+[SCP-1619: Site-45-C: Floor 24](http://scp-wiki.net/scp-1619)

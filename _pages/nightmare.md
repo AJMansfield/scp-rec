@@ -5,6 +5,6 @@ title: nightmare
 ---
 You may also like:
 
-[Col. Hornby's Audio Guide](http://scp-wiki.net/col-hornby-s-audio-guide)
+[Turn a New Page](http://scp-wiki.net/turn-a-new-page)
 
-[Prelude: Primae Formae](http://scp-wiki.net/primae-formae)
+[SCP-776: The Youth Cult](http://scp-wiki.net/scp-776)

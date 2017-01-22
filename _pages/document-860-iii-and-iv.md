@@ -5,6 +5,6 @@ title: document-860-iii-and-iv
 ---
 You may also like:
 
-[SCP-860](http://scp-wiki.net/scp-860)
+[SCP-1244: Universal Stopwatch](http://scp-wiki.net/scp-1244)
 
-[Discussion](http://scp-wiki.net/discussion)
+[SCP-2615-J: Clap Your Hands](http://scp-wiki.net/scp-2615-j)

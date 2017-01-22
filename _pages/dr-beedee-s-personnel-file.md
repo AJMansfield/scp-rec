@@ -5,6 +5,6 @@ title: dr-beedee-s-personnel-file
 ---
 You may also like:
 
-[Research Assistant Corbette's Personnel File](http://scp-wiki.net/salman-corbette-personnel-file)
+[SCP-709: Eye of the Forest](http://scp-wiki.net/scp-709)
 
-[Researcher Robert Sandler](http://scp-wiki.net/personnel-file-of-robert-sandler)
+[SCP-859: Arachnophobic Orb](http://scp-wiki.net/scp-859)

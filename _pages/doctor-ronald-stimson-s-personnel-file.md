@@ -5,6 +5,6 @@ title: doctor-ronald-stimson-s-personnel-file
 ---
 You may also like:
 
-[SCP-2950-J](http://scp-wiki.net/scp-2950-j)
+[Experiment Log 318](http://scp-wiki.net/experiment-log-318)
 
-[SCP-1492](http://scp-wiki.net/scp-1492)
+[Posology](http://scp-wiki.net/posology)

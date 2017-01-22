@@ -5,6 +5,6 @@ title: scp-333-j
 ---
 You may also like:
 
-[Vision At Betar](http://scp-wiki.net/vision-at-betar)
+[SCP-1936: Daleport](http://scp-wiki.net/scp-1936)
 
-[SCP-2486](http://scp-wiki.net/scp-2486)
+[Skin Deep](http://scp-wiki.net/skin-deep)

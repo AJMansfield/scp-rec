@@ -5,6 +5,6 @@ title: wills-and-ways-hub
 ---
 You may also like:
 
-[Family](http://scp-wiki.net/family)
+[SCP-738: The Devil's Deal](http://scp-wiki.net/scp-738)
 
-[Pooling Our Resources](http://scp-wiki.net/pooling-our-resources)
+[Death and the Doctors Hub](http://scp-wiki.net/death-and-the-doctors-hub)

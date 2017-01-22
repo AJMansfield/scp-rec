@@ -5,6 +5,6 @@ title: bbaztek-s-personnel-file
 ---
 You may also like:
 
-[Madame Lucia](http://scp-wiki.net/madame-lucia)
+[What Ever Happened?](http://scp-wiki.net/what-ever-happened)
 
-[Changes at Site-18](http://scp-wiki.net/changes-at-site-18)
+[anqxyr](http://scp-wiki.net/anqxyr)

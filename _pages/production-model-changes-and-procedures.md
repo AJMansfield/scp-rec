@@ -5,6 +5,6 @@ title: production-model-changes-and-procedures
 ---
 You may also like:
 
-[Experiment Log 914 Theta](http://scp-wiki.net/experiment-log-914-theta)
+[SCP-925: The Mushroom Cultist](http://scp-wiki.net/scp-925)
 
-[SCP-1797](http://scp-wiki.net/scp-1797)
+[SCP-948: Hope](http://scp-wiki.net/scp-948)

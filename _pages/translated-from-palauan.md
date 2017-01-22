@@ -5,6 +5,6 @@ title: translated-from-palauan
 ---
 You may also like:
 
-[A Convincing Lyre](http://scp-wiki.net/a-convincing-lyre)
+[SCP-1869: The Silence of the Forest](http://scp-wiki.net/scp-1869)
 
-[SCP-2412](http://scp-wiki.net/scp-2412)
+[Musuko's Personnel File](http://scp-wiki.net/musuko-s-personnel-file)

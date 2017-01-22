@@ -5,6 +5,6 @@ title: break-on-through
 ---
 You may also like:
 
-[Handout](http://scp-wiki.net/handout)
+[SCP-832: Accountant's Coin](http://scp-wiki.net/scp-832)
 
-[Swing Shift](http://scp-wiki.net/swing-shift)
+[SCP-1193: Buried Giant](http://scp-wiki.net/scp-1193)

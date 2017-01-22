@@ -5,6 +5,6 @@ title: game-manual
 ---
 You may also like:
 
-[SCP-1950-J](http://scp-wiki.net/scp-1950-j)
+[We Interrupt this Program](http://scp-wiki.net/we-interrupt-this-program)
 
-[SCP-2776](http://scp-wiki.net/scp-2776)
+[Tasers & Thermite](http://scp-wiki.net/tasers-thermite)

@@ -5,6 +5,6 @@ title: to-be-noir-not-to-be
 ---
 You may also like:
 
-[The Lord Of Endowments](http://scp-wiki.net/the-lord-of-endowments)
+[SCP-2360: Cog of Duty](http://scp-wiki.net/scp-2360)
 
-[SCP-1272](http://scp-wiki.net/scp-1272)
+[After Action Report 2272'](http://scp-wiki.net/after-action-2272)

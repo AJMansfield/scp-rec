@@ -5,6 +5,6 @@ title: conversation-2-numberless
 ---
 You may also like:
 
-[Your Last First Day](http://scp-wiki.net/your-last-first-day)
+[SCP-2346: Die Bescheidene](http://scp-wiki.net/scp-2346)
 
-[SCP-2846](http://scp-wiki.net/scp-2846)
+[SCP-9005-2](http://scp-wiki.net/scp-9005-2)

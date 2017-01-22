@@ -7,4 +7,4 @@ You may also like:
 
 [Meeting Anderson](http://scp-wiki.net/meeting-anderson)
 
-[Ties That Bind](http://scp-wiki.net/ties-that-bind)
+[SCP-1870: Record Skip](http://scp-wiki.net/scp-1870)

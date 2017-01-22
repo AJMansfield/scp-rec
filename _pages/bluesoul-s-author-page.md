@@ -5,6 +5,6 @@ title: bluesoul-s-author-page
 ---
 You may also like:
 
-[Personnel File: Zolgamax Jones](http://scp-wiki.net/zolgamax)
+[SCP-1498: Dial-A-Dream](http://scp-wiki.net/scp-1498)
 
-[giant enemy spycrab's author page](http://scp-wiki.net/giant-enemy-spycrab-s-author-page)
+[Green](http://scp-wiki.net/green)

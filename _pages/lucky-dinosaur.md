@@ -5,6 +5,6 @@ title: lucky-dinosaur
 ---
 You may also like:
 
-[A Wandsman in the Court of the Hanged King](http://scp-wiki.net/a-wandsman-in-the-court-of-the-hanged-king)
+[SCP-1924: Broken Man](http://scp-wiki.net/scp-1924)
 
-[Summer's Exile](http://scp-wiki.net/summer-s-exile)
+[Person of Interest - Mr. Dark](http://scp-wiki.net/poi-dark)

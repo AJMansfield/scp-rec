@@ -5,6 +5,6 @@ title: year-of-the-many
 ---
 You may also like:
 
-[Paris Massacre](http://scp-wiki.net/paris-massacre)
+[Event Log SCP-097](http://scp-wiki.net/event-log-scp-097)
 
-[Decommissioned](http://scp-wiki.net/decommissioned)
+[The Man with Oscilloscope Eyes](http://scp-wiki.net/first-interlude)

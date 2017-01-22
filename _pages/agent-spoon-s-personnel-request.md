@@ -5,6 +5,6 @@ title: agent-spoon-s-personnel-request
 ---
 You may also like:
 
-[SCP-1212](http://scp-wiki.net/scp-1212)
+[SCP-422: Patchwork Beast](http://scp-wiki.net/scp-422)
 
-[SCP-1404](http://scp-wiki.net/scp-1404)
+[SCP-597: The Mother of Them All](http://scp-wiki.net/scp-597)

@@ -5,6 +5,6 @@ title: fear-not
 ---
 You may also like:
 
-[Interlude 1: Patches](http://scp-wiki.net/classicalinterlude)
+[Trick or Treat](http://scp-wiki.net/trick-or-treat)
 
-[Ripped From the Headlines](http://scp-wiki.net/ripped-from-the-headlines)
+[Agent Imants Plumbing Pool Repair And Pizza Delivery Service](http://scp-wiki.net/agent-imants-plumbing-pool-repair-and-pizza-delivery-service)

@@ -5,6 +5,6 @@ title: scp-103-j
 ---
 You may also like:
 
-[Boss of Me](http://scp-wiki.net/boss-of-me)
+[SCP-2259: Survival of the Foetest](http://scp-wiki.net/scp-2259)
 
-[SCP-1697](http://scp-wiki.net/scp-1697)
+[Patterns](http://scp-wiki.net/patterns)

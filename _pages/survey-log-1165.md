@@ -5,6 +5,6 @@ title: survey-log-1165
 ---
 You may also like:
 
-[SCP-2312](http://scp-wiki.net/scp-2312)
+[Putting a Ghost in the Machine](http://scp-wiki.net/putting-a-ghost-in-the-machine)
 
-[Incident 2770-C](http://scp-wiki.net/incidentreportnullpleaseseeasupervisor)
+[SCP-2605: Caretaker](http://scp-wiki.net/scp-2605)

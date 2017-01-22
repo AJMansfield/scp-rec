@@ -5,6 +5,6 @@ title: document-scp-1734-e9
 ---
 You may also like:
 
-[Experiment Log 444-7](http://scp-wiki.net/experiment-log-444-7)
+[Herman Fuller Presents: The Fishman Of Manasquan](http://scp-wiki.net/the-fishman-of-manasquan)
 
-[Empty Nights](http://scp-wiki.net/empty-nights)
+[SCP-1081: University Speakers](http://scp-wiki.net/scp-1081)

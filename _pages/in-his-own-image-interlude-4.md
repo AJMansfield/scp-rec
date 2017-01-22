@@ -5,6 +5,6 @@ title: in-his-own-image-interlude-4
 ---
 You may also like:
 
-[In His Own Image: Interlude 1](http://scp-wiki.net/in-his-own-image-interlude-1)
+[In His Own Image: Part 2](http://scp-wiki.net/in-his-own-image-part-2)
 
-[King Greenshield: A Fairy Tale](http://scp-wiki.net/king-greenshield-a-fairy-tale)
+[SCP-743: A Chocolate Fountain](http://scp-wiki.net/scp-743)

@@ -5,6 +5,6 @@ title: welcome-to-the-machine
 ---
 You may also like:
 
-[Tales of the Foundation Force Five](http://scp-wiki.net/tales-of-the-foundation-force-five)
+[SCP-331: "Tumbles"](http://scp-wiki.net/scp-331)
 
-[SCP-1730](http://scp-wiki.net/scp-1730)
+[SCP-235: Phonographic Records](http://scp-wiki.net/scp-235)

@@ -5,6 +5,6 @@ title: researcher-james-paladin-foster-s-personnel-file
 ---
 You may also like:
 
-[Prologue: Water Coalesces And Descends As Rain](http://scp-wiki.net/prologue-water-coalesces-and-descends-as-rain)
+[SCP-2261: Community Policing](http://scp-wiki.net/scp-2261)
 
-[Recovered Materials 2187-A](http://scp-wiki.net/recoveredmaterials2187-a)
+[Dr Cuddles Author Page](http://scp-wiki.net/dr-cuddles-author-page)

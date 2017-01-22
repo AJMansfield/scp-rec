@@ -5,6 +5,6 @@ title: agent-carriontrooper-s-personnel-file
 ---
 You may also like:
 
-[SCP-2522](http://scp-wiki.net/scp-2522)
+[SC-13/234-14/362](http://scp-wiki.net/sc-13-234-14-362)
 
-[Unusual Incidents Unit Hub](http://scp-wiki.net/unusual-incidents-unit-hub)
+[The Long Con](http://scp-wiki.net/the-long-con)

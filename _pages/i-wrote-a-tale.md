@@ -5,6 +5,6 @@ title: i-wrote-a-tale
 ---
 You may also like:
 
-[I have something to share.](http://scp-wiki.net/i-have-something-to-share)
+[From On High (Antarctic Exchange #4)](http://scp-wiki.net/from-on-high)
 
-[SCP-2323](http://scp-wiki.net/scp-2323)
+[SCP-2984: Girl on Fire](http://scp-wiki.net/scp-2984)

@@ -5,6 +5,6 @@ title: recuerdos
 ---
 You may also like:
 
-[Rapture](http://scp-wiki.net/rapture)
+[In the End: Rawhide](http://scp-wiki.net/intheendrawhide)
 
-[SCP-426](http://scp-wiki.net/scp-426)
+[SCP-1634: Dental Crown Cinema](http://scp-wiki.net/scp-1634)

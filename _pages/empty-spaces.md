@@ -5,6 +5,6 @@ title: empty-spaces
 ---
 You may also like:
 
-[Clavis](http://scp-wiki.net/clavis)
+[SCP-808: The Mechanical Choir](http://scp-wiki.net/scp-808)
 
-[Audio Logs: Last Man Standing](http://scp-wiki.net/last-man-standing)
+[SCP-1274: Dance Craze](http://scp-wiki.net/scp-1274)

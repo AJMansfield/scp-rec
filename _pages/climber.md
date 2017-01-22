@@ -5,6 +5,6 @@ title: climber
 ---
 You may also like:
 
-[Sa Jin Photo](http://scp-wiki.net/sa-jin-photo)
+[Enasni Si Gnihtyreve](http://scp-wiki.net/enansi-si-gnihtyreve)
 
-[In His Own Image: Part 4](http://scp-wiki.net/in-his-own-image-part-4)
+[Those Thin, Penultimate Hours](http://scp-wiki.net/those-thin-penultimate-hours)

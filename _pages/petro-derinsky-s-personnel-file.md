@@ -5,6 +5,6 @@ title: petro-derinsky-s-personnel-file
 ---
 You may also like:
 
-[Zmax's Author Page](http://scp-wiki.net/zmax-s-author-page)
+[Researcher Wei Zhong's Personnel File](http://scp-wiki.net/weizhong)
 
-[WrongJohnSilver's Author Page](http://scp-wiki.net/wrongjohnsilver-s-author-page)
+[Birth of the Cool](http://scp-wiki.net/birth-of-the-cool)

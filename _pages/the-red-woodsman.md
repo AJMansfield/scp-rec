@@ -5,6 +5,6 @@ title: the-red-woodsman
 ---
 You may also like:
 
-[SCP-1942](http://scp-wiki.net/scp-1942)
+[Into That Good Night](http://scp-wiki.net/into-that-good-night)
 
-[SCP-656](http://scp-wiki.net/scp-656)
+[From On High (Antarctic Exchange #4)](http://scp-wiki.net/from-on-high)

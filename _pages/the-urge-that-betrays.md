@@ -5,6 +5,6 @@ title: the-urge-that-betrays
 ---
 You may also like:
 
-[SCP-2112](http://scp-wiki.net/scp-2112)
+[Rammer Jammer Yellow Hammer Hub](http://scp-wiki.net/rammer-jammer-yellow-hammer-hub)
 
-[SCP-2797](http://scp-wiki.net/scp-2797)
+[SCP-2814: Heretic of the Torch](http://scp-wiki.net/scp-2814)

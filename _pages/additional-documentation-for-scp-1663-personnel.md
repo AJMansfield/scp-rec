@@ -5,6 +5,6 @@ title: additional-documentation-for-scp-1663-personnel
 ---
 You may also like:
 
-[SCP-2100-J](http://scp-wiki.net/scp-2100-j)
+[The Melody Of Autumn, Passing Into Winter](http://scp-wiki.net/the-melody-of-autumn-passing-into-winter)
 
-[SCP-834](http://scp-wiki.net/scp-834)
+[SCP-1999: "Loewes"](http://scp-wiki.net/scp-1999)

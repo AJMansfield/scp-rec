@@ -5,6 +5,6 @@ title: neutralized-arc
 ---
 You may also like:
 
-[SCP-1129](http://scp-wiki.net/scp-1129)
+[News for September/October 2016](http://scp-wiki.net/news-09-10-2016)
 
-[SCP-1181](http://scp-wiki.net/scp-1181)
+["DStecks"'s Personnel File](http://scp-wiki.net/dstecks-personnel-file)

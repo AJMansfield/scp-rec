@@ -5,6 +5,6 @@ title: cliches-and-you-an-educational-film
 ---
 You may also like:
 
-[SCP-2310](http://scp-wiki.net/scp-2310)
+[SCP-684: The Caretaken](http://scp-wiki.net/scp-684)
 
-[A Long Ways from Home](http://scp-wiki.net/a-long-ways-from-home)
+[Rot](http://scp-wiki.net/rot)

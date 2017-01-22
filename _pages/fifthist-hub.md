@@ -5,6 +5,6 @@ title: fifthist-hub
 ---
 You may also like:
 
-[The Surfside Beat](http://scp-wiki.net/the-surfside-beat)
+[SCP-1063: Freiherr von Schwarzwald](http://scp-wiki.net/scp-1063)
 
-[The Appalachian Scar](http://scp-wiki.net/the-appalachian-scar)
+[SCP-2776: Mr. President](http://scp-wiki.net/scp-2776)

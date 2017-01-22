@@ -5,6 +5,6 @@ title: taleof13
 ---
 You may also like:
 
-[SCP-575](http://scp-wiki.net/scp-575)
+[SCP-1935: An Empty Chamber](http://scp-wiki.net/scp-1935)
 
-[SCP-1106](http://scp-wiki.net/scp-1106)
+[SCP-1208: WaffleMaster 3000](http://scp-wiki.net/scp-1208)

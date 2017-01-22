@@ -5,6 +5,6 @@ title: sunset
 ---
 You may also like:
 
-[SCP-1876](http://scp-wiki.net/scp-1876)
+[SCP-394: Ear Candles](http://scp-wiki.net/scp-394)
 
-[Who Are You?](http://scp-wiki.net/who-are-you)
+[One Must Imagine Him Happy](http://scp-wiki.net/one-must-imagine-him-happy)

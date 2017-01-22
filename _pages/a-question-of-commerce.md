@@ -5,6 +5,6 @@ title: a-question-of-commerce
 ---
 You may also like:
 
-[Vision At Betar](http://scp-wiki.net/vision-at-betar)
+[The Things Dr Bright Is Not Allowed To Do At The Foundation](http://scp-wiki.net/the-things-dr-bright-is-not-allowed-to-do-at-the-foundation)
 
-[Love In Leetspeak](http://scp-wiki.net/love-in-leetspeak)
+[SCP-123-J: Amazing Butter-like Substance!](http://scp-wiki.net/scp-123-j)

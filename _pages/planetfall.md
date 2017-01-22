@@ -5,6 +5,6 @@ title: planetfall
 ---
 You may also like:
 
-[Stick the Landing](http://scp-wiki.net/stick-the-landing)
+[SCP-2098: Saint Simon's Day](http://scp-wiki.net/scp-2098)
 
-[Funerals Are Fun](http://scp-wiki.net/funerals-are-fun)
+[Strangers of Site-17: Hayakawa](http://scp-wiki.net/strangers-of-site-17-part-three)

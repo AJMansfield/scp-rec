@@ -5,6 +5,6 @@ title: home-again
 ---
 You may also like:
 
-[Across the Hills so Quiet](http://scp-wiki.net/across-the-hills-so-quiet)
+[SCP-2880: The Empire of Savaki](http://scp-wiki.net/scp-2880)
 
-[Exit Interview](http://scp-wiki.net/exit-interview)
+[SCP-706: Perfect Porcelain Doll](http://scp-wiki.net/scp-706)

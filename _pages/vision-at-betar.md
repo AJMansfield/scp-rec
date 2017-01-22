@@ -5,6 +5,6 @@ title: vision-at-betar
 ---
 You may also like:
 
-[A Question of Commerce](http://scp-wiki.net/a-question-of-commerce)
+[Jam Jars](http://scp-wiki.net/jam-jars)
 
-[SCP-333-J](http://scp-wiki.net/scp-333-j)
+[Gargus' Author Page](http://scp-wiki.net/gargus-author-page)

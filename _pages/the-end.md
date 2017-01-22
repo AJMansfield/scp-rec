@@ -5,6 +5,6 @@ title: the-end
 ---
 You may also like:
 
-[There Was One, There Was Not One](http://scp-wiki.net/there-was-one-there-was-not-one)
+[SCP-872: The Tattered Farmer](http://scp-wiki.net/scp-872)
 
-[Ganymede](http://scp-wiki.net/ganymede)
+[SCP-1993: Your Leg](http://scp-wiki.net/scp-1993)

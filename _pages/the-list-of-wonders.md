@@ -5,6 +5,6 @@ title: the-list-of-wonders
 ---
 You may also like:
 
-[The Seeker](http://scp-wiki.net/wonder)
+[SCP-030: The Homunculus](http://scp-wiki.net/scp-030)
 
-[SCP-One Million](http://scp-wiki.net/scp-one-million)
+[SCP-1600: Philosopher's Cheese](http://scp-wiki.net/scp-1600)

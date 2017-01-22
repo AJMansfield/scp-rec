@@ -5,6 +5,6 @@ title: orgy-5-counsel-9
 ---
 You may also like:
 
-[Happy Howlidays](http://scp-wiki.net/happy-howlidays)
+[The Decoy](http://scp-wiki.net/the-decoy)
 
-[SCP-1817](http://scp-wiki.net/scp-1817)
+[SCP-2369: Suburban Dollhouse](http://scp-wiki.net/scp-2369)

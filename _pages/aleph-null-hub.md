@@ -5,6 +5,6 @@ title: aleph-null-hub
 ---
 You may also like:
 
-[Learning The Alphabet Hub](http://scp-wiki.net/learning-the-alphabet-hub)
+[SCP-1059: Infectious Censorship](http://scp-wiki.net/scp-1059)
 
-[The Word and the Wolf](http://scp-wiki.net/the-word-and-the-wolf)
+[SCP-885-J: Researcher Jacobs' Inability To Clean Up After Himself](http://scp-wiki.net/scp-885-j)

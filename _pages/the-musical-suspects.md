@@ -5,6 +5,6 @@ title: the-musical-suspects
 ---
 You may also like:
 
-[SCP-2247](http://scp-wiki.net/scp-2247)
+[Footsteps](http://scp-wiki.net/footsteps)
 
-[Guard Duty](http://scp-wiki.net/guard-duty)
+[My Loever, the Dog: The Incredibly True Story of Kain Pathos Crow](http://scp-wiki.net/my-loever-the-dog)

@@ -5,6 +5,6 @@ title: cassandra
 ---
 You may also like:
 
-[Splinters](http://scp-wiki.net/splinters)
+[SCP-1188: Matter-Displacing Flashlight](http://scp-wiki.net/scp-1188)
 
-[Going Out Of Book](http://scp-wiki.net/going-out-of-book)
+[SCP-1126: Agent Palmer](http://scp-wiki.net/scp-1126)

@@ -5,6 +5,6 @@ title: back-into-hell
 ---
 You may also like:
 
-[Green Pawn](http://scp-wiki.net/green-pawn)
+[The Old Ice](http://scp-wiki.net/the-old-ice)
 
-[Of Portals,  Plasma Cannons And Other Boring Things](http://scp-wiki.net/of-portals-plasma-cannons-and-other-boring-things)
+[SCP-1738: Phobia Sampler](http://scp-wiki.net/scp-1738)

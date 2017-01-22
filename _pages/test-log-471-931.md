@@ -5,6 +5,6 @@ title: test-log-471-931
 ---
 You may also like:
 
-[SCP-270](http://scp-wiki.net/scp-270)
+[Search Results for "Jack Ike's Author Page"](http://scp-wiki.net/john-cena)
 
-[SCP-2644](http://scp-wiki.net/scp-2644)
+[SCP-1702: The French Hive](http://scp-wiki.net/scp-1702)

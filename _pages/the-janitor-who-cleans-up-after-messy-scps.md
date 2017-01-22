@@ -5,6 +5,6 @@ title: the-janitor-who-cleans-up-after-messy-scps
 ---
 You may also like:
 
-[SCP-2144](http://scp-wiki.net/scp-2144)
+[SCP-2440: The Sealed King](http://scp-wiki.net/scp-2440)
 
-[Artificial Dragons Gate](http://scp-wiki.net/artificial-dragons-gate)
+[SCP-1043: Instant Structures](http://scp-wiki.net/scp-1043)

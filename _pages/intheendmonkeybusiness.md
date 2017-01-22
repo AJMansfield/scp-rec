@@ -5,6 +5,6 @@ title: intheendmonkeybusiness
 ---
 You may also like:
 
-[Ganymede](http://scp-wiki.net/ganymede)
+[Lux](http://scp-wiki.net/lux)
 
-[Last Words From Svalbard](http://scp-wiki.net/last-words-from-svalbard)
+[Planetfall: 6](http://scp-wiki.net/planetfall-6)

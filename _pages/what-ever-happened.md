@@ -5,6 +5,6 @@ title: what-ever-happened
 ---
 You may also like:
 
-[SCP-1113](http://scp-wiki.net/scp-1113)
+[Seven Vignettes From The Life Of Mackenzie Lee-Crook](http://scp-wiki.net/seven-vignettes-from-the-life-of-mackenzie-lee-crook)
 
-[You're Always on My Mind](http://scp-wiki.net/you-re-always-on-my-mind)
+[Free Freaks](http://scp-wiki.net/free-freaks)

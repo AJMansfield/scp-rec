@@ -5,6 +5,6 @@ title: still-in-business
 ---
 You may also like:
 
-[SCP-343](http://scp-wiki.net/scp-343)
+[SCP-1054: The 'Garden' Gnome](http://scp-wiki.net/scp-1054)
 
-[SCP-375](http://scp-wiki.net/scp-375)
+[SC-13/234-14/362](http://scp-wiki.net/sc-13-234-14-362)

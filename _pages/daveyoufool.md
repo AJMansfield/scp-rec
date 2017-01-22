@@ -5,6 +5,6 @@ title: daveyoufool
 ---
 You may also like:
 
-[Crunch](http://scp-wiki.net/crunch)
+[10. Mr. Mission](http://scp-wiki.net/10-mr-mission)
 
-[SCP-1522](http://scp-wiki.net/scp-1522)
+[djkaktus](http://scp-wiki.net/djkaktus)

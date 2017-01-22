@@ -5,6 +5,6 @@ title: old-kansas-sector-part-11
 ---
 You may also like:
 
-[SCP-2863](http://scp-wiki.net/scp-2863)
+[Play](http://scp-wiki.net/play)
 
-[SCP-399](http://scp-wiki.net/scp-399)
+[2016 Community Survey Results](http://scp-wiki.net/2016-survey-results)

@@ -5,6 +5,6 @@ title: no-more-dull-days
 ---
 You may also like:
 
-[Rabbit Hole In Time Lapse](http://scp-wiki.net/rabbit-hole-in-time-lapse)
+[SCP-1429: Organoid Organisms](http://scp-wiki.net/scp-1429)
 
-[SCP-2046](http://scp-wiki.net/scp-2046)
+[Tabled Theories](http://scp-wiki.net/tabled-theories)

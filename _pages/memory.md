@@ -5,6 +5,6 @@ title: memory
 ---
 You may also like:
 
-[Life in the Multiverse](http://scp-wiki.net/life-in-the-multiverse)
+[SCP-800: An Eastern History](http://scp-wiki.net/scp-800)
 
-[SCP-997](http://scp-wiki.net/scp-997)
+[SCP-1107: A Signal](http://scp-wiki.net/scp-1107)

@@ -5,6 +5,6 @@ title: a-calculated-risk
 ---
 You may also like:
 
-[Three Sleepless Nights](http://scp-wiki.net/three-sleepless-nights)
+[SCP-1132: Snake Tongue](http://scp-wiki.net/scp-1132)
 
-[A Discussion with L. E. T.](http://scp-wiki.net/a-discussion-with-l-e-t)
+[SCP-078-J: Cooties](http://scp-wiki.net/scp-078-j)

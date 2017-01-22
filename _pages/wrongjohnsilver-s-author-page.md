@@ -5,6 +5,6 @@ title: wrongjohnsilver-s-author-page
 ---
 You may also like:
 
-[Univine's Author Page](http://scp-wiki.net/univine-s-author-page)
+[Who You Gonna Call?](http://scp-wiki.net/who-you-gonna-call)
 
-["Petro" Derinsky's Personnel File](http://scp-wiki.net/petro-derinsky-s-personnel-file)
+[728](http://scp-wiki.net/728)

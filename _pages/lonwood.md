@@ -5,6 +5,6 @@ title: lonwood
 ---
 You may also like:
 
-[SCP-1383](http://scp-wiki.net/scp-1383)
+[Spirit Dust](http://scp-wiki.net/spirit-dust)
 
-[Prelude: First Bell](http://scp-wiki.net/days-gone-by)
+[The Spider and the Flower: Natasha Romanoff/Pepper Potts/SCP-105/Andrea S. Adams](http://scp-wiki.net/the-spider-and-the-flower-natasha-romanoff-pepper-potts-scp)

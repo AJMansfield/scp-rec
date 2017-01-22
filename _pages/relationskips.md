@@ -5,6 +5,6 @@ title: relationskips
 ---
 You may also like:
 
-[Trick or Treat](http://scp-wiki.net/trick-or-treat)
+[Resurrection](http://scp-wiki.net/resurrection)
 
-[Property Values](http://scp-wiki.net/property-values)
+[SCP-2967: Australian Selkie](http://scp-wiki.net/scp-2967)

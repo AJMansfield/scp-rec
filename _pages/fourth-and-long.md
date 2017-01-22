@@ -5,6 +5,6 @@ title: fourth-and-long
 ---
 You may also like:
 
-[How To Debate An Armchair](http://scp-wiki.net/how-to-debate-an-armchair)
+[Stare](http://scp-wiki.net/stare)
 
-[A Darke Tale - New Age](http://scp-wiki.net/a-darke-tale-new-age)
+[Planetfall: 6](http://scp-wiki.net/planetfall-6)

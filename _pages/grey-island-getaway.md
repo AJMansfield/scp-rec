@@ -5,6 +5,6 @@ title: grey-island-getaway
 ---
 You may also like:
 
-[SCP-2784](http://scp-wiki.net/scp-2784)
+[Chapter Three: Corn Starch](http://scp-wiki.net/corn-starch)
 
-[Where the Garden Began](http://scp-wiki.net/where-the-garden-began)
+[SCP-1385: The Mistake Ring](http://scp-wiki.net/scp-1385)

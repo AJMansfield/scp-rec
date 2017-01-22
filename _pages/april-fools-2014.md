@@ -5,6 +5,6 @@ title: april-fools-2014
 ---
 You may also like:
 
-[Acidverse](http://scp-wiki.net/acidverse)
+[SCP-2057: You Are What You Eat](http://scp-wiki.net/scp-2057)
 
-[Kens' Festive Stories](http://scp-wiki.net/kens-festive-stories)
+[Charon (Part 2: Katabasis)](http://scp-wiki.net/charon-part-2-katabasis)

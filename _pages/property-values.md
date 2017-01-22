@@ -5,6 +5,6 @@ title: property-values
 ---
 You may also like:
 
-[Grasp On Reality](http://scp-wiki.net/grasp-on-reality)
+[The Lombardi Tales](http://scp-wiki.net/the-lombardi-tales)
 
-[Urban Legends](http://scp-wiki.net/urban-legends)
+[SCP-076: "Able"](http://scp-wiki.net/scp-076)

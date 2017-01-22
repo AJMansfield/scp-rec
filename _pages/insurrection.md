@@ -5,6 +5,6 @@ title: insurrection
 ---
 You may also like:
 
-[SCP-196](http://scp-wiki.net/scp-196)
+[Interval 1](http://scp-wiki.net/interval-1)
 
-[And so the Crows Laughed](http://scp-wiki.net/and-so-the-crows-laughed)
+[Competitive Eschatology Hub](http://scp-wiki.net/competitive-eschatology-hub)

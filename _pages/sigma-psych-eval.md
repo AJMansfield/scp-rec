@@ -5,6 +5,6 @@ title: sigma-psych-eval
 ---
 You may also like:
 
-[Operation Hippodrome](http://scp-wiki.net/operation-hippodrome)
+[SCP-2045: Ambulatory Molasses Generator](http://scp-wiki.net/scp-2045)
 
-[SCP-2862](http://scp-wiki.net/scp-2862)
+[SCP-305: The Whisperer](http://scp-wiki.net/scp-305)

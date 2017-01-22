@@ -5,6 +5,6 @@ title: where-your-eyes-don-t-go
 ---
 You may also like:
 
-[SCP-2340](http://scp-wiki.net/scp-2340)
+[Wednesday - 5](http://scp-wiki.net/wednesday-5)
 
-[SCP-069](http://scp-wiki.net/scp-069)
+[SCP-1991: Cybernetically Enhanced Mammalian](http://scp-wiki.net/scp-1991)

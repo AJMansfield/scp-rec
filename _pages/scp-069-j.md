@@ -5,6 +5,6 @@ title: scp-069-j
 ---
 You may also like:
 
-[SCP-1945](http://scp-wiki.net/scp-1945)
+[Tempting Fate](http://scp-wiki.net/tempting-fate)
 
-[An Interview With "The Administrator"](http://scp-wiki.net/an-interview-with-the-administrator)
+[Games Reality Benders Play](http://scp-wiki.net/games-reality-benders-play)

@@ -5,6 +5,6 @@ title: incident-239-abridged
 ---
 You may also like:
 
-[SCP-094](http://scp-wiki.net/scp-094)
+[SCP-1162 Extended Testing Log](http://scp-wiki.net/scp-1162-log)
 
-[SCP-473](http://scp-wiki.net/scp-473)
+[Several Creative Promotions](http://scp-wiki.net/several-clever-promotions)

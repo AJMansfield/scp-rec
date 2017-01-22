@@ -5,6 +5,6 @@ title: mackenzie-containment
 ---
 You may also like:
 
-[Person of Interest File #2273/01](http://scp-wiki.net/scp-2273-f)
+[SCP-2352: A Sorta-Dead Vlogger and Their Clingy Extradimensional Fan](http://scp-wiki.net/scp-2352)
 
-[SCP-2905](http://scp-wiki.net/scp-2905)
+[A Brief History Of SCP-KO](http://scp-wiki.net/a-brief-history-of-scp-ko)

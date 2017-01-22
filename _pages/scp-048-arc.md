@@ -5,6 +5,6 @@ title: scp-048-arc
 ---
 You may also like:
 
-[Additional SCP-1420 Test Logs](http://scp-wiki.net/additional-scp-1420-test-logs-can-be-found-here)
+[SCP-899: Lost Children](http://scp-wiki.net/scp-899)
 
-[SCP-1550-J](http://scp-wiki.net/scp-1550-j)
+[SCP-1829: Carnivorous Waterslide](http://scp-wiki.net/scp-1829)

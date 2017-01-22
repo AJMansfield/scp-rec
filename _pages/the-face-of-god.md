@@ -5,6 +5,6 @@ title: the-face-of-god
 ---
 You may also like:
 
-[The Appalachian Scar](http://scp-wiki.net/the-appalachian-scar)
+[Stealing Solidarity: Phase 2](http://scp-wiki.net/stealingsolidarityphase2)
 
-[Stirrings](http://scp-wiki.net/stirrings)
+[Stealing Solidarity: Phase 3](http://scp-wiki.net/stealingsolidarityphase3)

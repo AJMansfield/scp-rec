@@ -5,6 +5,6 @@ title: dust-in-the-wind
 ---
 You may also like:
 
-[SCP-1086](http://scp-wiki.net/scp-1086)
+[SCP-2277: Andronika Optima Maxima](http://scp-wiki.net/scp-2277)
 
-[Epitaph](http://scp-wiki.net/epitaph)
+[Of Blackmail and Bribery](http://scp-wiki.net/of-blackmail-and-bribery)

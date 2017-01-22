@@ -5,6 +5,6 @@ title: decomm-anon
 ---
 You may also like:
 
-[SCP-2906](http://scp-wiki.net/scp-2906)
+[Origin of Clef](http://scp-wiki.net/originofclef)
 
-[SCP-706](http://scp-wiki.net/scp-706)
+[Chapter Five: This Place Seems So Familiar](http://scp-wiki.net/this-place-seems-so-familiar)

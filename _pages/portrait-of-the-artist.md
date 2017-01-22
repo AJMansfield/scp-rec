@@ -5,6 +5,6 @@ title: portrait-of-the-artist
 ---
 You may also like:
 
-[The Decoy](http://scp-wiki.net/the-decoy)
+[SEARCH "LURKD"](http://scp-wiki.net/lurk-d-s-personnel-file)
 
-[The Meaning of Fear](http://scp-wiki.net/the-meaning-of-fear)
+[Tuesday, 11am, Conference Room Three](http://scp-wiki.net/tuesday-11am-conference-room-three)

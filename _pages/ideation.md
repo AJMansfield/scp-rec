@@ -5,6 +5,6 @@ title: ideation
 ---
 You may also like:
 
-[Going Straight To Hell In A Lincoln Continental](http://scp-wiki.net/going-straight-to-hell-in-a-lincoln-continental)
+[SCP-2058: Smith Jim](http://scp-wiki.net/scp-2058)
 
-[Termination Log SCP-1016](http://scp-wiki.net/termination-log-scp-1016)
+[Anime Is Art Too, Guys](http://scp-wiki.net/anime-is-art-too-guys)

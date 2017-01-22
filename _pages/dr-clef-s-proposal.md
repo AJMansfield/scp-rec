@@ -5,6 +5,6 @@ title: dr-clef-s-proposal
 ---
 You may also like:
 
-[SCP-322](http://scp-wiki.net/scp-322)
+[Matryoshka: Part Six](http://scp-wiki.net/matryoshka-six)
 
-[Unusual](http://scp-wiki.net/unusual)
+[SCP-180: Identity Thieving Hat](http://scp-wiki.net/scp-180)

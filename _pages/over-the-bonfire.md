@@ -5,6 +5,6 @@ title: over-the-bonfire
 ---
 You may also like:
 
-[The Killer](http://scp-wiki.net/the-killer)
+[Flamingos](http://scp-wiki.net/flamingos)
 
-[SCP-1613](http://scp-wiki.net/scp-1613)
+[SCP-347: The Invisible Woman](http://scp-wiki.net/scp-347)

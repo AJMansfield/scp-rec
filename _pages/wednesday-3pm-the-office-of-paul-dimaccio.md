@@ -5,6 +5,6 @@ title: wednesday-3pm-the-office-of-paul-dimaccio
 ---
 You may also like:
 
-[SCP-2628](http://scp-wiki.net/scp-2628)
+[SCP-2430: Immortal Hitler Clone](http://scp-wiki.net/scp-2430)
 
-[Compromised](http://scp-wiki.net/compromised)
+[SCP-2585 Exploration Log B](http://scp-wiki.net/scp-2585-exploration-log-b)

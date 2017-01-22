@@ -5,6 +5,6 @@ title: competitive-eschatology-hub
 ---
 You may also like:
 
-[SCP-1391](http://scp-wiki.net/scp-1391)
+[SCP-1408: Victorian-Era Memory Rewriter](http://scp-wiki.net/scp-1408)
 
-[13th-23rd December 2008](http://scp-wiki.net/13th-23rd-december-2008)
+[Insurrection](http://scp-wiki.net/insurrection)
