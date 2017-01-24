@@ -3,6 +3,7 @@
     a.onclick = function(){
       ga('send', 'event', 'outbound', 'click', a.href, {'transport': 'beacon'});
       window.iFrameResizer.sendMessage(a.href);
+      window.location.href = a.href;
     };
   }
 </script>
