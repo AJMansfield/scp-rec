@@ -1,6 +1,8 @@
-<script>
+<script>  
   for (a in jQuery('a')){
     a.onclick = function(){
+      ga('send', 'event', 'outbound', 'click', a.href, {
+        'transport': 'beacon'});
       window.iFrameResizer.sendMessage(a.href);
     };
   }
